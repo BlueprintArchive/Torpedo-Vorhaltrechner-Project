@@ -1,0 +1,644 @@
+<!doctype html>
+<html class="no-js" lang="en" data-content_root="./">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="index" title="Index" href="genindex.html" /><link rel="search" title="Search" href="search.html" />
+
+    <!-- Generated with Sphinx 7.3.7 and Furo 2024.05.06 -->
+        <title>BBV für die Frisch und Waschwasseranlage auf U_Booten Bauart XIV - Torpedo Vorhaltrechner Project 1.0 documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=a746c00c" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo.css?v=387cc868" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo-extensions.css?v=36a5483c" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-with-moon" viewBox="0 0 24 24">
+    <title>Auto light/dark, in light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path style="opacity: 50%" d="M 5.411 14.504 C 5.471 14.504 5.532 14.504 5.591 14.504 C 3.639 16.319 4.383 19.569 6.931 20.352 C 7.693 20.586 8.512 20.551 9.25 20.252 C 8.023 23.207 4.056 23.725 2.11 21.184 C 0.166 18.642 1.702 14.949 4.874 14.536 C 5.051 14.512 5.231 14.5 5.411 14.5 L 5.411 14.504 Z"/>
+      <line x1="14.5" y1="3.25" x2="14.5" y2="1.25"/>
+      <line x1="14.5" y1="15.85" x2="14.5" y2="17.85"/>
+      <line x1="10.044" y1="5.094" x2="8.63" y2="3.68"/>
+      <line x1="19" y1="14.05" x2="20.414" y2="15.464"/>
+      <line x1="8.2" y1="9.55" x2="6.2" y2="9.55"/>
+      <line x1="20.8" y1="9.55" x2="22.8" y2="9.55"/>
+      <line x1="10.044" y1="14.006" x2="8.63" y2="15.42"/>
+      <line x1="19" y1="5.05" x2="20.414" y2="3.636"/>
+      <circle cx="14.5" cy="9.55" r="3.6"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon-with-sun" viewBox="0 0 24 24">
+    <title>Auto light/dark, in dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path d="M 8.282 7.007 C 8.385 7.007 8.494 7.007 8.595 7.007 C 5.18 10.184 6.481 15.869 10.942 17.24 C 12.275 17.648 13.706 17.589 15 17.066 C 12.851 22.236 5.91 23.143 2.505 18.696 C -0.897 14.249 1.791 7.786 7.342 7.063 C 7.652 7.021 7.965 7 8.282 7 L 8.282 7.007 Z"/>
+      <line style="opacity: 50%" x1="18" y1="3.705" x2="18" y2="2.5"/>
+      <line style="opacity: 50%" x1="18" y1="11.295" x2="18" y2="12.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="4.816" x2="14.464" y2="3.964"/>
+      <line style="opacity: 50%" x1="20.711" y1="10.212" x2="21.563" y2="11.063"/>
+      <line style="opacity: 50%" x1="14.205" y1="7.5" x2="13.001" y2="7.5"/>
+      <line style="opacity: 50%" x1="21.795" y1="7.5" x2="23" y2="7.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="10.184" x2="14.464" y2="11.036"/>
+      <line style="opacity: 50%" x1="20.711" y1="4.789" x2="21.563" y2="3.937"/>
+      <circle style="opacity: 50%" cx="18" cy="7.5" r="2.169"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-pencil" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-pencil-code">
+      <path d="M4 20h4l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4" />
+      <path d="M13.5 6.5l4 4" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" /
+    </svg>
+  </symbol>
+  <symbol id="svg-eye" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-eye-code">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+      <path
+        d="M11.11 17.958c-3.209 -.307 -5.91 -2.293 -8.11 -5.958c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6c-.21 .352 -.427 .688 -.647 1.008" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+<a class="skip-to-content muted-link" href="#furo-main-content">Skip to content</a>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="index.html"><div class="brand">Torpedo Vorhaltrechner Project 1.0 documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+          <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="index.html">
+  
+  
+  <span class="sidebar-brand-text">Torpedo Vorhaltrechner Project 1.0 documentation</span>
+  
+</a><form class="sidebar-search-container" method="get" action="search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="VII.html">List for U-boat VII c</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of List for U-boat VII c</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="BBV-Something.html">1. BBV BBV-Something</a></li>
+<li class="toctree-l2"><a class="reference internal" href="BBV-Something.html#beschreibung-und-betriebsvorschrift">2. Beschreibung und Betriebsvorschrift</a></li>
+</ul>
+</li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          <div class="view-this-page">
+  <a class="muted-link" href="_sources/BBV-FreshWater.rst.txt" title="View this page">
+    <svg><use href="#svg-eye"></use></svg>
+    <span class="visually-hidden">View this page</span>
+  </a>
+</div>
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+              <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main" id="furo-main-content">
+          <section id="bbv-fur-die-frisch-und-waschwasseranlage-auf-u-booten-bauart-xiv">
+<h1>BBV für die Frisch und Waschwasseranlage auf U_Booten Bauart XIV<a class="headerlink" href="#bbv-fur-die-frisch-und-waschwasseranlage-auf-u-booten-bauart-xiv" title="Link to this heading">¶</a></h1>
+<p>Vorschrift
+Die Ausfertigung I verbleibt beim Schiff die Ausfertigung II bei der Stationswcrft die Ausfertigung III beim O. K. M. die Ausfertigung IV bei der S.M.J.
+Während der Jndicnsthaltung nach der Entlassung des Schiffes aus dem Erprobungs- Verhältnis notwendig werdende Änderungen oder Ergänzungen der Beschreibungen und Betriebsvorschriften sind vom Schiffskommando bei der S.M.J. zu beantragen. Diese Anträge sind zur fachlichen Stellungnahme über die zuständige Kriegs¬marinewerft zu leiten. Die S.M.J. veranlaßt die Berichtigung durch die zuständige Kriegsmarinewerft.
+Bach jeder Hauptinstandsetzung in der Heimat sind von den Kriegsmarinewerften die Ausfertigungen UV. bei Zerstörern uff. die Ausfertigungen I aller Boote der Klasse zu berichtigen. Die bei anderen Dienststellen befindlichen Nebenausfertigungen werden von diesen Kommandos nach der von den Kriegsmarinewerften terminmäßig anzufordernden Ausfertigung II berichtigt. Dabei sind alle zu berichtigenden Stellen durch Ausführung der Seitenzahlen in dem Vordruck »Änderungen und Ergän¬zungen” genau zu bezeichnen.
+Werden im Ausland wichtige Änderungen an den Anlagen vorgenommen, so hat das Schiffskommando die als Ausfertigung I bezeichnete Beschreibung zu berichtigen und diese nach Rückkehr des Schiffes der zuständigen Kriegsmarinewerft zur Be¬richtigung der anderen Ausfertigungen II—IV zur Verfügung zu stellen.
+Jede Berichtigung ist in dem Vordruck „Änderungen und Ergänzungen” einzutragcn und von den verantwortlichen Vorgesetzten zu bescheinigen.
+Die Berichtigungen sind durch Zahlen fortlaufend zu kennzeichnen, um die Zugehörig¬keit zum Eintragungsdatum ersehen 311 können. Alle Änderungen und Ergänzungen dürfen nur mit roter Tinte eingetragen werden.
+Die Richtigkeit der Berichtigungen und Ergänzungen bescheinigt der verantwortliche Marinebeamte der zuständigen Kriegsmarinewerst in den Ausfertigungen I, in den übrigen Ausfertigungen ist die Bescheinigung abschriftlich zu übertragen.</p>
+<p>Hauptausfertigung III</p>
+<p>Mr die militärische Ausbildung und Betriebsführung
+zugelaffen:
+Schiffsmaschineninspektion.
+B Nr. bl 10 632 M Vila vom 28. 10. 1942
+Nur für den Dienstgebrauch!
+Beschreibung und Betriebsvorschrift
+für die
+Frisch und Waschwasseranlage
+der Firma
+Deutsche Werke Kiel Aktiengesellschaft, Kiel
+auf
+U Booten Bauart XIV
+Baujahr 1941/42</p>
+<p>Änderungen oder Ergänzungen
+Angaben der Setten, auf denen Änderungen oder Ergänzungen       Kenn¬ziffer     Die Richtigkeit der Änderung oder Ergänzung bescheinigt:
+eingetragen worden sind         Ort     Datum   Unterschrift
+1       2       3       4       5</p>
+<p>Inhaltsverzeichnis
+Frisch und Waschwasseranlage.
+fl) Bau und Betriebsangaben.
+I.      Handfrischwasserpumpe.  Sette
+a)      Bauangaben       1
+b)      Hauptabmessungen         1
+II.     Handwaschwasserpumpen,
+a)      Bauangaben       1
+b)      Hauptabmessungen         1
+III.    Frischwasserzellen. Bauangaben   1
+IV.     Waschwasserbehälter,
+a)      Bauangaben       I
+b)      Hauptabmessungen         1
+V.      Schmutzwasserzellen. Bauangaben  2
+VI.     Trinkwasserfilter,
+a)      Bauangaben        2
+b)      Hauptabmessungen         2
+c)      Betriebsangaben          2
+VII. Frischwasserleitungen,
+a)      Bauangaben       2
+b)      Hauptabmessungen         2
+c)      Betriebsangaben          2
+VIII. Brauseeinrichtung. Bauangaben      2
+B)      Beschreibung.
+l)      Allgemeine Anordnung,
+a)      Handfrischwasserpumpe    2
+b)      Handwaschwafferpumpe     2
+c)      Frischwasserzellen       2
+d)      Waschwasserbehälter      3
+e)      Schmutzwasserzellen      3
+f)      Trinkwafferfilter        3
+g)      Frischwasserleitungen    3
+h)      Brauseeinrkchtung        3</p>
+<p>II
+Inhaltsverzeichnis
+11.     Beschreibung.   ®efte
+a)      Handfrischwasserpumpe    3
+b)      Handwaschwasserpumpe     3
+c)      Frischwasserzellen       3
+d)      Waschwasserbehälter      3
+e)      Schmutzwasserzellen      3
+i)      Trinkwasserfilter        3
+g)      Frischwasserleitungen    4
+h)      Brauseeinrichtung        4
+C) Bedienungsvorschrift.
+I.      Allgemeines.
+II.     Betrieb.
+3)      Handfrischwasserpumpe    4
+1.      Inbetriebsetzen          4
+3) Frischwasserübernahme und abgabe      4
+b) Fördern       5
+2.      Abstellen        5
+‘ b)    Handwaschwasserpumpen    5
+1.      Inbetriebsetzen  5
+2.      Abstellen        5
+c)      Schmutzwasserzellen      5
+1.      Klarmachen zum Lenzen    5
+2.      Lenzen   5
+3.      Abstellen        5
+111.    Instandhaltung.
+a)      Handfrischwasserpumpe     5
+b)      Handwaschwasserpumpe     5
+c)      Frischwasserzellen       5
+d)      Waschwasserbehälter      5
+e)      Schmutzwasserzellen      5
+I)      Trinkwasserfilter        5
+IV. Maßnahmen für längere Außerbetriebsetzung.
+3)      Handfrischwasserpumpe    6
+b)      Handwaschwasserpumpe     6
+c)      Frischwasserzellen       6
+d)      Waschwasserbehälter      6
+e)      Schmutzwasserzellen      6
+I)      Trinkwasserfilter        6
+g)      Frischwasserlettungen    6</p>
+<p>III
+Inhaltsverzeichnis
+Sette
+V. Ersatzmogllchkelten   6
+D)      Betriebsstörungen        6
+E)      Verzeichnis der an Bord gegebenen Ersatzteile und       Geräte. 6
+F)      Verzeichnis der für die Schiffsmappe zu liefernden      Zeichnungen     6
+Verzeichnis der beigefügten Abbildungen. -Abb.
+Frisch, Wasch und Schmutzwasseranlage für U 459—U 464            1
+Frisch, Wasch und Schmutzwasseranlage für U 487—U 490            2
+Trinkwafserfilter        3</p>
+<p>u Boote Bauart XIV
+Beschreibung und Betriebsvorfchrift
+^) Bau und Betriebsangaben.
+I.      Handfrischwasserpumpe.
+II.     Handwaschwasserpumpen.
+III.    Trinkwasserzcllen.
+IV.     Waschwasserbehälter.
+A) Bau und Betriebsangaben.
+1.      Handfrischwasserpumpe.
+3)      Bauangaben.
+Hersteller: Klein, Schanzlin &amp; Becker AG, Frankenthal, Pfalz.
+b) Hauptabmessungen.
+Größte Höhe     224 mm
+Größte Breite   194 mm
+Größte Tiefe    200 mm
+Handhebellänge  325 mm
+Rohranschlußflanschen   I ”
+Größte Höhe     200 mm
+Größte Breite   165 mm
+Größte Tiefe    190 mm
+Handhebellänge  325 mm
+Rohranschlußflanschen   3M”
+Benennung       Hersteller      Werkstoff       Inhalt
+Frischwasserzelle 1
+Frischwasserzelle 2
+Frischwasserzelle 3     Deutsche Werke Kiel Aktien-gesellschaft, Kiel   8t 42
+8t 42
+8t 42   4.S n? 3,350m3 2,320 m3
+Benennung       Länge   Breite  Größte Höhe
+Waschwasserbchälter 1   670 mm  500 mm  350 mm
+Waschwasserbehälter 2   730 mm  600 mm  530 mm
+Waschwasserbehälter 3   720 mm  500 mm  540 mm
+Waschwasserbehälter 4   1100 mm 225 mm  600 mm
+IV. Wafchwasferbehälter.
+a) Bau angaben.
+Hersteller: Deutsche Werke Kiel Aktiengesellschaft, Kiel v) Hauptabmessungen.
+III. Frischwasferzellen.
+Bau angaben.
+II. Handwaschwasserpumpen.
+3) Bauangaben.
+Hersteller: Klein, Schanzlin &amp; Becker AG, Frankenthal, Pfalz.
+b) Hauptabmessungen.</p>
+<p>U Boole T
+Beschreil
+Betriebs
+V.      Schmuhwasserzellen.
+Bauangaben.
+Benennung       Hersteller      Werkstoff Inhalt
+Schmutzwasserzclle l Deutsche Werke Kiel Aktien- 8t 42  520 Siter
+Schmutzwasserzelle 2    gesellschast, Kiel      St 42   650 £iter
+VI.     Trinkwasserfilter.
+a)      Bauangaben.
+Hersteller: „Lurgi” Gesellschaft für Wärmetechnik m b H, Frankfurt am Main.
+b)      Hauptabmessungen. Größte Höhe    450    mm
+Durchmesser etwa         85     mm
+Rohranschlüsse   V2
+c)      Betriebsangaben. Probedruck      6      atü
+VH. Frischwasserleitungen.
+a)      Bauangaben.
+Hersteller: Deutsche Werke Kiel Aktiengesellschaft, Kiel.
+b)      Hauptabmessungen. Nennweite      25     mm
+c)      Betriebsangaben. Probedruck     4,5     atü
+VIII. Brauseeinrichtung.
+Bauangaben.
+Hersteller: Deutsche Werke Kiel Aktiengesellschaft, Kiel.
+6) Beschreibung.
+1.      Allgemeine Anordnung, Abb. 1 und 2.
+3)      Handfrischwasserpumpe. Kugelschott 200 vor D Spt 27 Stb
+b)      Handwaschwasserpumpe. Handwaschwafferpumpe im Waschraum Vorschiff Bb Seite
+c)      Frischwasserzellen.
+Frischwasserzelle 1     D Spt 25        bis     Kugelschott 200 vor     D Spt 27
+Frischwasserzelle 2     Stb Seite       300     vor D Spt 30    bis     300 vor O Spt 33
+Frischwasserzelle 3     Stb Seite       600     vor D Spt 56    bis     Kugelschott 300 vor     D Spt 59
+M Bau und Betriebsangaben.
+V       ——              —        U Boote Bauart xiV       . Schmuhwasfcrzellcn.
+V       I. Trinkwasserfilter.
+2       VII. Frischwasscrl citung en.   —
+VIII. Brauseeknrichtung.        Beschreibung und
+8) Beschreibung.        Betriebsvorschrift
+I. Allgemeine Anordnung.</p>
+<p>U Boote Bauart XIV
+Beschreibung und Betriebsvorschrift     8)      Beschreibung.
+I.      Allgemeine Anordnung.
+II.     Beschreibung.   3
+d)      Waschwasserbehälter.
+Waschwasserbehälter 1 an Kugelschott 500 mm vor D Spt 7 Stb Seite
+Waschwasserbehälter 2 an Schott 25 Stb Seite
+Waschwasserbehälter 3 an Schott 4 PA Stb Sette
+Waschwasserbehälter 4 D Spt 58 bis Kugelschott 300 vor D Spt 59 Bb Sette
+e)      Schmutzwasserzellen.
+Schmutzwasserzelle 1 Schott 25 bis Kugelschott 200 mm vor D Spt 27 Stb Seite Schmutzwasserzelle 2 an Kugelschott 400 vor D Spt 50 Stb Seite
+f)      Trinkwasserfilter (Hydraffin Filter).
+Am Kugelschott 200 vor D Spt 27 Stb Seite in Küche.
+g)      Frischwasserleitungen.
+Die Frischwasserleitungen sind an Stb Seite angeordnet.
+h)      Brauseeinrichtung.
+Die Brauseeinrichtung liegt auf Stb Seite im Hinteren Teil des Turmumbaues. Eine weitere Brause ist im WC für Offiziere eingebaut.
+II. Beschreibung.
+a)      Handfrischwasserpumpe.
+Die Handfrischwp ist eine doppelt wirkende Flügelpumpe. Da sie einen metallisch abdichtenden Flügel besitzt, saugt sie ohne vorherige Auffüllung bis zu 7 m an und erreicht eine Gesamt¬förderhöhe bis Zu 20 m.
+b)      Handwaschwasserpumpe.
+Beschreibung wie Handfrischwp.
+c)      Frischwasserzellen.
+Die Frischw 3 sind zur besseren Erhaltung des Frischwassers innen mit einem Zementschlamm¬anstrich versehen.
+d)      Waschwasserbehälter.
+Die Waschw Beh sind verzinkte aus Stahlblech zusammengeschweißte Behälter. Am Boden der Behälter ist ein Stutzen für die Entnahme, an der Seitenwand der Füllanschluß und an der Decke ein Entlüftungsrohr vorgesehen.
+e)      Schmutzwasserzellen.
+Die SchmutzwZ werden durch einen Gratvitum-Bronzelackanstrich konserviert.
+k)      Trinkwasserfiller, Abb. 3.
+Das Trinkwasserfilter besteht aus einem emaillierten Gußeisengehäuse, an dem die Be-festigungsknaggen für den unteren und oberen Deckel angegossen sind. Die Deckel werden durch Stiftschrauben festgehatten und mittels Gummiringen gegen das Gehäuse abgedkchtct. Das Gehäuse ist mit Filterkohle (Hydraffin) gefüllt. Im unteren Deckel ist eine Ent¬wässerungsschraube und im oberen Deckel eine Entlüftungsschraube vorgesehen. Der Eintritt des Frischwaffers erfolgt durch den oberen Anschluß, der Austritt des gefilterten Wassers durch den unteren Anschluß.</p>
+<p>4       8)      Beschreibung.
+II. Beschreibung.
+C) Bedienungsvorschrift.
+I.      Allgemeines.
+II.     Betrieb.
+U Boole Bauart XIV
+Beschreibung und Betriebsvorschrift
+0 Boote 2
+Beschrei
+Betriebs
+g)      Frischwasserleitungen.
+Die Füll und Entnahmeleitungen der Frisch und Waschw 3 gehen von dem „Wähler Hand- frischw p” aus. Hiervon geht eine Leitung über den „Wahlschalter Frischw Z l” zur Frischw Z 1, während die andere Leitung bis zur Frischw 3 3 hindurchgeführt wird. An diese Leitung ist weiter angeschlossen Frischw 3 2. Die Füllung der Frischw 3 erfolgt mittels eines Trichters über das „Bordv Frischw Übern”. Zur Abgabe von Frischwasser am Oberdeck ist der Füll¬trichter gegen ein gebogenes Nohr (Schwanenhals) auswechselbar. Um die Frischw Z mit der Hi Lenz und Trimm p lenzen zu können, ist ein Schlauchanschluß „Notlenzen Frischw 3” vorgesehen. Zapfstellen für Frischwaffer sind in der Küche vorgesehen und zwar ein direkter Anschluß und ein Anschluß über das Frischwasserfilter.
+Waschwasser kann aus Frischw Z 3 im vorderen Waschr mittels der Handwaschw p ent¬nommen werden. Im Waschr erfolgt die Entnahme von Waschwasser aus dem Waschw Beh über Entnahmehahn „Waschw”.
+Warmes Seew aus dem Kühlw Hochbeh kann über das „Bordv Seew warm” und die entsprechenden Zapfhähne im WC h, m und v, im Waschr, der Kmdt K und in der Küche entnommen werden.
+Ferner kann vom Frischw Erz I und 2 erzeugtes Frischw mittels der Handdest p aus dem Destillatbeh in die Frichw Z I gefördert werden. Weitere Einzelheiten siehe Abb. 1 bzw. 2.
+h)      Brauseeinrichtung.
+Die Brauseeinrichtung zweigt von dem Anschlußstutzen der Deckwaschleitung im Turmumbau ab. Durch entsprechende Stellung der Absperrungen hat man die Wahl mit kaltem oder warmem Seewasser zu baden. Das kalte Seew wird durch die Hi Lenz und Trimmp gefördert, das warme Seew mittels Mischdüse aus dem Kühlw Hochbeh entnommen.
+0. Bedienungsvorschrift.
+1.      Allgemeines.
+Die Bedienung der gesamten Anlage bietet keine besonderen Schwierigkeiten. Alle Schalt¬möglichkeiten sind aus Abb. 1 bzw 2 genau ersichtlich.
+H.      Betrieb.
+a) Handfrischwasserpumpe.
+I.      Inbetriebsetzen.
+a) Frischwasserübernahme und abgabe.
+Für die Übernahme Fülltrichter von Bordv „Frischw Nbern” anscbließen. An den Füll¬trichter Füllschlauch anschlagen. Bordv einstellen an Hand von Abb. l bzw 2. Zur Frischw llbern wird die Handfrischw p nicht benutzt. Für die Frischwasserabgabe den Füll¬trichter durch den Schwanenhals ersetzen. Saugeleitung auf die zu leerende Zelle ein¬stellen. Hähne in der Druckleitung zum Pumpen nach außenbords einstellen und pumpen mit der Handfrischw p.</p>
+<p>b)      Fördern.
+Die Handfrischw p saugt aus einer der drei FrischwZ und drückt zu den Entnahme- stellen in der Küche. Die geförderte Wassermenge kann direkt abgenommen oder über ein Filter geleitet werden. Einstellung der Hähne nach Abb. l bzw. 2.
+J.      Abstellen.
+Nach dem Betrieb sind die Hähne so zu stellen, daß mit der Handfrischw p nicht ge¬fördert werden kann.
+b)      Hand wasch wasser pumpen.
+1.      Inbetriebsetzen.
+Plombierung entfernen und Tank im vorderen Waschraum füllen.
+2.      Abstcllen.
+Nach dem Betrieb ist die Handpumpe wieder zu plombieren, damit mit der Pumpe nicht gefördert werden kann.
+c)      Schmutzw ässe r zellen.
+1.      Klarmachen zum Lenzen.
+Die Schmutzw Z können ohne weiteres mit der Hi Lenz und Trimmp gelenzt werden.
+2.      Lenzen.
+Siehe Lenz und Trimmanlage C) II. e) 1 und 2.
+3.      Abstellen.
+Siehe Lenz und Trimmanlage C) II. e) 4.
+111.    Instandhaltung.
+a)      Handfrischwasserpumpe.
+b)      Handwaschwasserpumpe.
+Verpackungen und Dichtungen in Ordnung halten.
+c)      Frischwasserzellen.
+Von Zeit zu Zeit reinigen und mit Zementschlamm streichen.
+d)      Waschwasserbehälter.
+e)      Schmutzwasserzellen.
+Von Zeit zu Zeit reinigen und konservieren.
+1)      Trinkwasserfilter.
+Das Filter zur Reinigung auseknandernehmen und alle Teile in warmem Wasser reinigen. Die Kohlefüllung durch neue ersetzen.
+U Boote Bauart XIV
+Beschreibung und Betriebsvorschrift     C) Bedienungsvorschrift.
+II.     Beschreibung.
+III.    Instandhaltung. 5</p>
+<p>IV. Maßnahmen für längere Außerbetriebsetzung.
+a)      Handfrkschwasserpumpe.
+b)      Handwaschwasserpumpc.
+Pumpen entwässern.
+c)      Frischwasserzellen.
+d)      Waschwass erbehälter.
+e)      Schmutzwasserzellen.
+Die Zellen c) e) sind vollständig zu entleeren.
+k) Trinkwasserfilter.
+Trinkwasserfilter entwässern und restlos entfernen.
+§) Fr isch w a ssc r l e it u n g e n.
+Frischwafferleitungen entwässern.
+V. Ersatzmöglichkeiten.
+Bei Ausfall der Frischwasscrzcllen kann auch am Frischwassererzeuger Frischwasser erzeugt werden.
+v) Betriebsstörungen. Keine Angaben.
+E)      Verzeichnis der an Bord gegebenen Ersatzteile und Geräte.
+2fr- Nr.Benennung Anzahl Zeichn. Nr. Gewicht
+1       Schläuche für Frischwafferübernahme     2
+2       Schlauch zum Lenzen der Frischwasserzellen      1
+3       Trichter für Frischwasserübernahme      l
+4       Schwanenhals für Frifchwasserabgabe     l
+5       Kupplungsfchlüssel      1
+F)      Verzeichnis der für die Schiffsmappe zu liefernden Zeichnungen.
+Lfd-Nr.Benennung  Zeichn. Nr.
+1       Schema der Trink- und Waschwasserleitungen      8       II      14      001
+2       WL      h       8       II      14      002
+3       WL      m       §       II      14      003
+4       WL      v       8       II      14      004</p>
+<p>a Waschw .. . z B Küche
+b Reinfrinkw
+c Seew warm .. . z B Küche
+q Bordv Seew warm … z B Küche
+C2 Seew Brause
+d Schalter Handtrischw P
+di Förderschalter Handtrischw P
+d2 Frischw Förderwahlschalter .. . z B Zentrale
+da Wahlschalter … z B Frischw Z 1
+di Dest Wahlschalter Frischw Erz 1 bzw 2
+e Wähler Handtrischw P ei Förderwähler Handtrischw P t Austr Kühlw Hochbeh
+h Anschi Frischw Z 3
+hi Warm Seew Auschl Waschbecken WC h
+i Bordv Frischw übern
+k Entleeren Dest Beh
+I       Entwässern Frischw übern
+m       Notlenzen Frischw Z</p>
+<p>Teil    Benennung       • Werkstoff     Zeichnungs-Nr.
+1       Gehäuse
+2       oberer Deckel
+3       unterer Deckel
+4       Gummidichtungsring      •
+5       Stiftschraube
+6       Filterkohle (Hydraffin)
+7       Entwässerungsschraube
+8       Entlüftungsschraube
+9       Eintr Frischwasser
+10      Austr gefiltertes Wasser</p>
+<blockquote>
+<div><p>1</p>
+</div></blockquote>
+<p>y Boote Bauart XIV
+Abb.
+Trinkwasserfilfer
+nungs-Nr,
+Beschreibung und Befriebsvorschrift
+6 —
+Si»K</p>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          
+          
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2024, Jonathan McMichael
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer no-toc">
+      
+      
+      
+    </aside>
+  </div>
+</div><script src="_static/documentation_options.js?v=f2a433a1"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/furo.js?v=4e2eecee"></script>
+    </body>
+</html>

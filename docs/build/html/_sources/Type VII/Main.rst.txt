@@ -1,0 +1,16 @@
+U-boat Type VII
+---------------
+
+
+.. toctree::
+   :numbered:
+   :maxdepth: 2
+   :caption: Contents:
+   
+   
+   A/VII A
+   B/VII B
+   C/VII C
+   D/VII C/41
+   F/
+   

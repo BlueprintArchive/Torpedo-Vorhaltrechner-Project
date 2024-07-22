@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Torpedo Vorhaltrechner Project'
+project = 'Blueprint Archive Docs'
 copyright = '2024, Jonathan McMichael'
 author = 'Jonathan McMichael'
 release = '1.0'

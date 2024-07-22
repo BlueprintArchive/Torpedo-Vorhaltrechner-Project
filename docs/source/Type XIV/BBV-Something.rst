@@ -1,4 +1,8 @@
-  
+
+Schmutzwasser- und auf
+======================
+
+
 Vorschrift! 
 Die Ausfertigung I Die Ausfertigung II Die Ausfertigung III Die Ausfertigung IV
 verbleibt beim Schiff, bei der Stationswerft, beim O.K. M.
@@ -12,8 +16,9 @@ Alle Änderungen und Ergänzungen dürfen nur mit roter Tinte eingetragen werden
 Die Nichtigkeit der Berichtigungen und Ergänzungen bescheinigt der verant¬wortliche Marinebeamte der zuständigen Kriegsmarinewerft in den Ausferti¬gungen I, in den übrigen Ausfertigungen ist die Bescheinigung abschriftlich zu übertragen. 
   
 Nur für den Dienstgebrauch
-Beschreibung und Betriebsvorschrift
 
+Beschreibung und Betriebsvorschrift
+-----------------------------------
 ^j vif
 für d^^M^
 Schmutzwasser- und
@@ -213,15 +218,24 @@ Fluten Torpedozelle 3 u. 4 im Bugtorpedoraum: 100 mm 0
 Bordventil Lenzpumpen nach See:	125 mm 0
 
 B. Beschreibung
+===============
+
 I.	Allgemeine Anordnung
 Zum Lenzen, Trimmen und Fluten dienen folgende Pumpen:
+
 1)	Hauptlenzpumpe, eine elektrisch angetriebene Kreiselpumpe, die in der Zentrale an Schott 38y2 Stb angeordnet ist.
 (Näheres siehe Seite 33.)
+
 2)	Hilfslenz-und Trimmpumpe 2, eine elektrisch angetriebene vertikale 4-fach wirkende Kolbenpumpe, die zwischen dem DSpt 39/40 Bb angeordnet ist. (Näheres siehe Seite 61.)
+
 3)	Hilfslenzpumpe 1, eine elektrisch angetriebene Kreiselpumpe, die im Heck¬torpedoraum an Schott 15^ Bb angeordnet ist.
 (Näheres siehe Seite 49.)
+
+
 4)	Hilfslenzpumpe 3, eine elektrisch angetriebene Kreiselpumpe, die im Bug¬torpedoraum an Schott 66% Bb angeordnet ist.
 (Näheres siehe Seite 49.)
+
+
 5)	Tragbare Handnotlenzpumpe, eine doppeltwirkende Handkolbenpumpe, die in folgenden Räumen aufzustellen ist: Hecktorpedoraum, E-Maschinen- raum, Dieselmotorenraum, Zentrale und Bugtorperoraum.
 a)	Hersteller:
 Klein, Schanzlin & Becker, Frankenthal/Pfalz.
@@ -237,6 +251,8 @@ Lichtweite des Sauge- und Druckstutzens 38 mm 0
 Gewicht 28,5 kg
 e)	Beschreibung:
 Der doppelte Scheibenkolben mit auswesselbaren Ledermanschetten läuft in einem Rotgußgehäuse. Die Druck- und Saugeventile dichten als Messing-Kegelventile metallisch ab und sind in einem losnehm¬baren Ventilkasten seitlich an das Gehäuse geschraubt, so daß sie leicht zu Reinigungszwecken abgenommen werden können.
+
+
 6)	Handlenzpumpe, eine doppeltwirkende Handflügelpumpe, die in der Zen¬trale am Schott 38i/2 Stb befestigt ist.
 a)	Hersteller:
 Bergbau A.G., Lothringen, Blankenburg/Harz
@@ -251,6 +267,7 @@ Lichtweite des Sauge- und Druckstutzens 13 mm 0
 Gewicht 5 kg.
 e)	Beschreibung
 Der Flügel bewegt sich in einem Rotgußgehäuse und dichtet metallisch ab. Gleichfalls bestehen die Ventilklappen aus Messing und dichten metallisch ab. Zur Reinigung der Klappen wird die Stirnseite der Pumpe abgeschraubt.
+
 II.	Beschreibung der Anlage
 1)	Hauptlenzanlage
 (Hierzu siehe Skizzenbuch Blatt 24)
@@ -318,6 +335,8 @@ Das Schmutzwasser der Waschbecken (Kommandant und Offiziere) (für W 956, 966—
 9)	Kalkmilchspülanlage
 (Hierzu siehe Skizzenbuch Blatt 28)
 In der Küche befindet sich eine Schlauchverschraubung „a“ — Kalkmilch —, in die mittels Schläuche durch das Luk in der Küche von Deck aus Kalkmilch oder Wasser zum Spülen der Akkumulatorenräume geleitet wird. Die Schlauch¬verschraubung ist durch eine Rohrleitung mit den Berieselungsrohren, die sich an den Wänden der Treibölbunker 1 bzw. 2 im Akkumulatorenraum 1 bzw. 2 befinden, verbunden.
+
+
 C. Bedienungsvorschrift
 I.	Allgemeines
 1)	Hauptlenzpumpe
@@ -568,8 +587,12 @@ C II.
 1*. Auseinandernehmen u. Zusammenbau
 3.	Abstellen der Pumpe.
 Um einen Rückschlag der Druckwassersäule als die Pum¬pe zu vermeiden, ist das Regelventil in der Druckleitung vor dem Abschalten des Motors zu schließen. Kreiselpumpen können im Gegensatz zu Kolbenpumpen gegen den geschlossenen Kegelschieber arbeiten, ohne daß eine schädliche Druckstei¬gerung stattfindet. Ein längeres Arbeiten der Pumpe gegen das geschlossene Regelventil ist allerdings unzulässig, da sich das in der Pumpe befindliche Wasser zu stark erwärmen würde.
+
+
 III.	Maßnahmen für längere Außerbetriebsetzung,
 Bei längerem Stillstand der Pumpe und bei Frostgefahr ist das Wasser aus der Pumpe abzulassen. Zu diesen Zwecke sind die Ventile in der Saug- und Druckleitung zu öffnen, die Ablaß pfropfen (Teil 127) he raus zu schrauben, der Aus- puffhahn (Teil 30-38) auf Stellung "Ansaugen’’ zu bringen und die Pumpe kurze Zeit mit geringer Drehzahl laufen zu lassen.
+
+
 IV.	Maßnahmen und Beobachtungen beim. Auseinandernehmen und Zusammenbau der Pumpe.
 a) Auseinandernehmen.
 Durch das Schlitzen der Motorlaterne ist es möglich, den Pumpenkörper samt der Kupplung und des Tragiagerge- häuses aus der Laterne seitlich herausziehen. Der Motor braucht nicht abgenommen und die Laterne nicht von der Bord¬wand entfernt zu werden. Die Handgriffe zum seitlichen Ausfanren der Pumpe verteilen sich wie folgt.

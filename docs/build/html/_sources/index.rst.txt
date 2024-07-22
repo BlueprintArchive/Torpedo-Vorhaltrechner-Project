@@ -7,11 +7,13 @@ Welcome to Torpedo Vorhaltrechner Project's documentation!
 ==========================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
-   BBV-Something
-
-
+   
+   Type VII/_index
+   Type IX/_index
+   Type XIV/_index
+   Bismarck/_index
 
 Indices and tables
 ==================

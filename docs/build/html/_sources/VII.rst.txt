@@ -1,0 +1,16 @@
+List for U-boat VII C
+---------------------
+
+
+.. toctree::
+   :numbered:
+   :maxdepth: 1
+   :caption: Contents:
+   
+   BBV-Something
+   VII A
+   VII B
+   VII C
+   VII C/41
+   VII D
+   
