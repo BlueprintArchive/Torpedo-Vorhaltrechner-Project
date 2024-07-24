@@ -14,6 +14,7 @@ Welcome to Torpedo Vorhaltrechner Project's documentation!
    Type IX/_index
    Type XIV/_index
    Bismarck/_index
+   ABV/ABV-S
 
 Indices and tables
 ==================

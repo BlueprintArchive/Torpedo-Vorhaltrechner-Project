@@ -1,4 +1,4 @@
-Type VII A Doccuments
+Type VII B
 ----------------
 
 .. toctree::
