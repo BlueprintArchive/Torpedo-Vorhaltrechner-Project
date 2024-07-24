@@ -5,8 +5,10 @@ MM
 O.K.M.«r$i»KI
 ^ 690
 Nur für den Dienstgebrauch
+
 Allgemeine Bauvorschrift für den Schiffskörper von Schiffen, Booten und Sonderschiffen der Deutschen Kriegsmarine
 =================================================================================================================
+
 Berlin 1938
 
  
