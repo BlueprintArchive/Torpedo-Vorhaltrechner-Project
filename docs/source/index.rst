@@ -15,6 +15,10 @@ Welcome to Torpedo Vorhaltrechner Project's documentation!
    Type XIV/_index
    Bismarck/_index
    ABV/ABV-S
+   ABV/ABV 31
+   _static/ABB 31
+
+Link text _static/ABB 31.html
 
 Indices and tables
 ==================
@@ -22,3 +26,9 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Link to my non-Sphinx HTML file
+===============================
+
+To get to my standalone, non-generated HTML file, 
+just `click here <../html/_static/ABB 31.htm>`_ now!
