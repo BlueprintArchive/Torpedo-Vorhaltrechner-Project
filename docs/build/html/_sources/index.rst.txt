@@ -32,3 +32,5 @@ Link to my non-Sphinx HTML file
 
 To get to my standalone, non-generated HTML file, 
 just `click here <../html/_static/ABB 31.htm>`_ now!
+
+`Something <../html/_static/ABV_S.htm>`_
