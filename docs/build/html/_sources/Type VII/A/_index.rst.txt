@@ -1,5 +1,5 @@
 Type VII A
----------------------
+==========
 
 .. toctree::
    :numbered:
@@ -7,3 +7,5 @@ Type VII A
    :caption: Contents:
 
    BBV-1
+
+   

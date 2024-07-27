@@ -308,6 +308,8 @@ III.	Instandhaltung.	5
  
 
 IV. Maßnahmen für längere Außerbetriebsetzung.
+----------------------------------------------
+
 a)	Handfrkschwasserpumpe.
 b)	Handwaschwasserpumpc.
 Pumpen entwässern.

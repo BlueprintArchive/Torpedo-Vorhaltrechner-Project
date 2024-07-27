@@ -1,5 +1,5 @@
 Type VII F
-----------------
+===========
 
 .. toctree::
    :numbered:

@@ -1,5 +1,5 @@
 Type VII C
-----------------
+===========
 
 .. toctree::
    :numbered:
