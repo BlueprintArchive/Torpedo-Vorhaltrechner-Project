@@ -1,10 +1,6 @@
- 
+A.B.V. -S-
+============
 
-MM
-4. Vorabdruck
-O.K.M.«r$i»KI
-^ 690
-Nur für den Dienstgebrauch
 
 Allgemeine Bauvorschrift für den Schiffskörper von Schiffen, Booten und Sonderschiffen der Deutschen Kriegsmarine
 =================================================================================================================
@@ -23,13 +19,13 @@ ArthNgtrt, ZtaangMtfi
 Nr AM/Ys
  
 
-4.	Vorabdruck
+4. Vorabdruck
 Nur für den Dienstgebrauch
 0.LM. Archiv LI
 ^ 690
 j Allgemeine Bauvorschrift
 für den
-1	Schiffskörper
+1 Schiffskörper
 von
 ” Schiffen, Booten und Sonderschiffen
 j der Deutschen Kriegsmarine
@@ -59,96 +55,102 @@ Dies ist ein geheimer Gegenstand im Sinne des § 88 Reichs-Straf-Gesetzbuchs (Fa
 
 Inhaltsverzeichnis
 Mit
-Vorbemerkungen	    1
-1	Zeichnungen
-2	Einteilung
-3	Verwiegung
-4	Werkstoffe
-5	Zur Verwendung gelangende Fvrmstahle, Stabstahle, Breitflachstahle
-6	Abmessungen
+Vorbemerkungen     1
+1 Zeichnungen
+2 Einteilung
+3 Verwiegung
+4 Werkstoffe
+5 Zur Verwendung gelangende Fvrmstahle, Stabstahle, Breitflachstahle
+6 Abmessungen
 a der Platten und Formstahle
 d der schweren Stahlguß- und Schmiede¬stücke
-7	Bauausführung
-a Allgemeines
-1.	Leichtbau
-2.	Marineübliche Ausführung
-3.	Normen- und Musterblätter
-4.	Leichtmetalle
-5.	Elektrisch Schweißen
-6.	Nieten
-7.	verzinken
-8.	Phosphatieren
-b Bearbeitung von Walzwerkstoff
-1.	Biegen
-2.	Bördeln
-3.	Ioggeln, Überlappen
-4.	Kröpfen
-5.	Lochen
-6.	Versenken
-7.	Streichen
-8.	Zusammenpassen
-9.	Dichten
-10.	Verstemmen o Derbandteile
-1.	Stoßanordnung
+7 Bauausführung
+
+a. Allgemeines
+1. Leichtbau
+2. Marineübliche Ausführung
+3. Normen- und Musterblätter
+4. Leichtmetalle
+5. Elektrisch Schweißen
+6. Nieten
+7. verzinken
+8. Phosphatieren
+
+b. Bearbeitung von Walzwerkstoff
+1. Biegen
+2. Bördeln
+3. Ioggeln, Überlappen
+4. Kröpfen
+5. Lochen
+6. Versenken
+7. Streichen
+8. Zusammenpassen
+9. Dichten
+10. Verstemmen o Derbandteile
+1. Stoßanordnung
 » neben Öffnungen
-2.	Stoßverbindung
-3.	Trager-Gurtplatten » -Stege
-4.	Endbefestigung
-5.	Örtliche Belastung
-6.	Kniebleche
-7.	Einfassung von Erleichterung»- und Mann-löchern
-8.	Unterbrochene Derbandteile
-9.	Ausschnitte für Längsbänder usw. in Spanten usw.
-10.	Öffnungen
-11.	Erleichterungslöcher
-12.	Kreuzende Derbandteile
-13.	Örtliche Derstärkungen
-8	Wasser» und Öldichtigkeit
-9	Prüfung der wasser» und öldichten Wan¬dungen
-10	Erhaltung der Wasser- und Öldichtigkeit und Prüfung von Lüftungskanälen, Sprachrohren usw.
-11	Schwer zugängliche Stellen
-12	Frostschutz
-13	Durchflußöffnungen
-14	Schutz gegen Splitterwirkung und Gas¬druck
-15	Anbringen von Einrichtungen am Panzer
-16	LoSnehmbare Teile
-17	Schutzanstrich
-18	Zinkschutz
-19	Frei zu haltende Decksflächen
-20	Stauplätze
-21	Bauzustand beim Gtapellauf
+2. Stoßverbindung
+3. Trager-Gurtplatten » -Stege
+4. Endbefestigung
+5. Örtliche Belastung
+6. Kniebleche
+7. Einfassung von Erleichterung»- und Mann-löchern
+8. Unterbrochene Derbandteile
+9. Ausschnitte für Längsbänder usw. in Spanten usw.
+10. Öffnungen
+11. Erleichterungslöcher
+12. Kreuzende Derbandteile
+13. Örtliche Derstärkungen
+
+8 Wasser» und Öldichtigkeit
+9 Prüfung der wasser» und öldichten Wan¬dungen
+10 Erhaltung der Wasser- und Öldichtigkeit und Prüfung von Lüftungskanälen, Sprachrohren usw.
+11 Schwer zugängliche Stellen
+12 Frostschutz
+13 Durchflußöffnungen
+14 Schutz gegen Splitterwirkung und Gas¬druck
+15 Anbringen von Einrichtungen am Panzer
+16 LoSnehmbare Teile
+17 Schutzanstrich
+18 Zinkschutz
+19 Frei zu haltende Decksflächen
+20 Stauplätze
+21 Bauzustand beim Gtapellauf
 Seift
-8 I Schiffbauwerkstatt
-Gruppe 4 Läugsverbindungen	 19
+
+S I Schiffbauwerkstatt
+----------------------
+
+Gruppe 4 Läugsverbindungen  19
 a Kiel
 b Längsspanten
 c Längsbänder an der Außenhaut
 d Dockkiele
 e Schlingerkiele
-Gruppe 5 Ouerspanten	 20
-Grupp« 6 Borsteven	  21
-Gruppe 7 Hintersteven	    21
-Gruppe 8 Ruder	  22
+Gruppe 5 Ouerspanten  20
+Grupp« 6 Borsteven   21
+Gruppe 7 Hintersteven     21
+Gruppe 8 Ruder   22
 Ruderschäfte
 Ruderblätter
 Beplattung und Aussteifung
 Aufhängung der Ruder Untere Ruderlager Obere Ruderlager
-Gruppe 9 Welleuträger 	   23
+Gruppe 9 Welleuträger     23
 a Wellenträger für die Mittelwelle
 Abschlußbock
 Schottstutzen
 d Wellenträger für die Seitenwellen Wellenböcke Abschlußstücke Schottstutzen
-Gruppe 10 Schwere Schotte 		 25
+Gruppe 10 Schwere Schotte    25
 Beplattung
 Öffnungen
 Abmessungen der Türen usw. Durchbrechungen Dersteifungen Abstand der Umschottungen von Luken und NotauSgängen im Panzerdeck
-Gruppe 11 Iuneaboden 	 27
+Gruppe 11 Iuneaboden   27
 Beplattung
 Stutzen für Bodenventile Aussteifung
-Grupp« 12 Mafchineuträger	 29
+Grupp« 12 Mafchineuträger  29
 Träger
 Halterungen für Kabel
-Allgemeines zu den Gruppen 8113 bis 18, Decks	 30
+Allgemeines zu den Gruppen 8113 bis 18, Decks  30
 Beplattungen Derstärkungen Decksöffnungen Luken, Mannlöcher Öffnungen zum Einbringen von Maschinen usw.
 Aussteifungen Querbalken LangSbalken Schlingen Unterzüge Sülle, Süllwinkel
  
@@ -159,102 +161,102 @@ Hol-
 Linoleum
 Terrazzo
 Gleitschutz
-Gruppe 13 Plattformdecks	 -	- 3b
-Gruppe 14 Zwischendeck	  35
-Gruppe 15 Panzerdeck 	  36
-Gruppe 16 Batteriedeck	     ^6
-Gruppe 17 Oberdeck 	 «	36
-Gruppe 18 Aufbaudecks 	  36
-Gruppe 19 Außenhaut		 36
+Gruppe 13 Plattformdecks  - - 3b
+Gruppe 14 Zwischendeck   35
+Gruppe 15 Panzerdeck    36
+Gruppe 16 Batteriedeck      ^6
+Gruppe 17 Oberdeck   « 36
+Gruppe 18 Aufbaudecks    36
+Gruppe 19 Außenhaut   36
 Flachkiel und Bodengänge im
 Bereich der Dockkielsohle
-Gruppe20 Leichte Schotte		  38
+Gruppe20 Leichte Schotte    38
 Sonstiges
-Gruppe 21 Masten	   39
+Gruppe 21 Masten    39
 Scheinwerferleuchtstände
-Gruppe 22 Schanzkleider			 40
+Gruppe 22 Schanzkleider    40
 Wellenbrecher
-Gruppe 23 Deckshäuser	   40
+Gruppe 23 Deckshäuser    40
 Gruppe 24 Schächte für Maschinen« und Kesselräume .... 41
 Sülle der Nauchfänge und Rauch¬fangmäntel
 Wände der Nauchfangschächte
 Sülle und Wände der Luftschächte
-Gruppe 28 Wegerungen 		   42
+Gruppe 28 Wegerungen      42
 A Isolierungen gegen Wärme« und Luft¬austausch
 a Oberschiff
 b Unterschisf
-1.	Munitionskammern und sonstige Räume
-2.	Diesel-L-Werk
-3.	Kühlraum
-4.	Akkumulatorenräume
-5.	Räume für Benzinlagerung
+1. Munitionskammern und sonstige Räume
+2. Diesel-L-Werk
+3. Kühlraum
+4. Akkumulatorenräume
+5. Räume für Benzinlagerung
 B Isolierungen gegen Schall
 n Zwischen-, Kammerwande und Decken
 b Funkräume und Fernsprechzellen
 o D.I.-Räume und -Horchstelle
 6 Sonstige Wegerungen
 - Entwürfe
-Gruppe 26 Munitionskammer« 		
+Gruppe 26 Munitionskammer«   
 Staueinrichtungen
 Artilleriemunition und Bomben für Flug-
 zeuge
 Torpedomunition
 47
-Gruppe 27 Kettenkasten 	 ^
-Gruppe 28 Lasten, Hellegats usw	 48
+Gruppe 27 Kettenkasten   ^
+Gruppe 28 Lasten, Hellegats usw  48
 Raumbezeichnungen
 Einzelheiten
-Bauart der Regale, Stehpulte, Schränke, Arbeitstische, Kiste für Twist und Putzzeug	a
+Bauart der Regale, Stehpulte, Schränke, Arbeitstische, Kiste für Twist und Putzzeug a
 Richtlinien für die Ausstattung der Lasten, Hellegats usw.
 Schwere Einrichtungen
-Grnpp«29 Deckstützen 	 56	b
+Grnpp«29 Deckstützen   56 b
 Allgemeines zu den Gruppen 8130 bis 35 (vertikal-
-Panzerungen) 	  56
-Gruppe 30 Seitenpanzer 		57	
-Gruppe 31 Zitadellpanzer 			57	Gruppe 4
-		Waffen,
-Gruppe 32 Kafemattpanzer 		57	A T
-(Wnibhr M3 flbFAnMnitt	 ...............	57	
-		
-Drehtürme")		B E
-a Barbetten ") und Turmunterbauten		C N
-der schweren Artillerie		D D
-Barbetten °) Turmunterbauten		Gruppe 5
-b Barbetten") und Turmunterbauten		
-der mittleren Artillerie		
-Barbetten") Turmunterbauten		Gruppe 5
-Gruppe 34 Kommandotürme 					59	
-förnhh* 5S ^Vtnierfiilli» 	 				Gruppe 5
-	60	
-		
-	60	
-		
+Panzerungen)    56
+Gruppe 30 Seitenpanzer   57 
+Gruppe 31 Zitadellpanzer    57 Gruppe 4
+  Waffen,
+Gruppe 32 Kafemattpanzer   57 A T
+(Wnibhr M3 flbFAnMnitt  ............... 57 
+  
+Drehtürme")  B E
+a Barbetten ") und Turmunterbauten  C N
+der schweren Artillerie  D D
+Barbetten °) Turmunterbauten  Gruppe 5
+b Barbetten") und Turmunterbauten  
+der mittleren Artillerie  
+Barbetten") Turmunterbauten  Gruppe 5
+Gruppe 34 Kommandotürme      59 
+förnhh* 5S ^Vtnierfiilli»       Gruppe 5
+ 60 
+  
+ 60 
+  
 Beplattung
 Verbindung
-Öffnungen und Durchbrechungen		Gruppe 5
+Öffnungen und Durchbrechungen  Gruppe 5
 Panzerdeckel
-Panzergrätinge		
-MR Rrnifen				62	
-	62	
-		
-Bugk lüsen Reserveklüsen Heckklüse		
-Decksklüsen	63 k	1
-		c
-» Barrings und Klampen d Träger für die Davits	64	Gruppe 51
-		
-Gruppe 48 Artillerieeinrichtungen		64	Grupp« 58
-Schwere Geschütze")		
-Munitionsförderung für schwere Artillerie Munitionsaustausch für schwere Artillerie		
-Geschützt") der mittleren und leichten Artillerie Munitionsförderung für mittlere und		Grupp« 59
-		
-leichte Artillerie		a
-Munitionsaustausch für mittlere Artillerie		b
+Panzergrätinge  
+MR Rrnifen    62 
+ 62 
+  
+Bugk lüsen Reserveklüsen Heckklüse  
+Decksklüsen 63 k 1
+  c
+» Barrings und Klampen d Träger für die Davits 64 Gruppe 51
+  
+Gruppe 48 Artillerieeinrichtungen  64 Grupp« 58
+Schwere Geschütze")  
+Munitionsförderung für schwere Artillerie Munitionsaustausch für schwere Artillerie  
+Geschützt") der mittleren und leichten Artillerie Munitionsförderung für mittlere und  Grupp« 59
+  
+leichte Artillerie  a
+Munitionsaustausch für mittlere Artillerie  b
  
 
-1 M * MUMMEL	'''
+1 M * MUMMEL '''
 — V —
-4tz ■ F	®dtt
-|	Maschinengewehre °)
+4tz ■ F ®dtt
+| Maschinengewehre °)
 Munitionsübernahme
 für schwere Artillerie
 für mittlere und leichte Artillerie
@@ -265,22 +267,22 @@ a Geschützunterbauten
 der schweren Artillerie
 der mittleren Artillerie (Drehtürme)
 der mittleren Artillerie in M. P. L.
-5g	und der leichten Artillerie
+5g und der leichten Artillerie
 b Munitionsschächte
-c	für schwere und mittlere Artillerie in
-j	Drehtürmen
+c für schwere und mittlere Artillerie in
+j Drehtürmen
 für mittlere Arttllerie in M.P.L. und für
-57 I	leichte Arttllerie
-57 s Gruppe 49 Torpedoeinrichtuugea, Einrichtungen für Sperr« $$ Waffen, Nebelanlag«, Bugschutzgerät	
+57 I leichte Arttllerie
+57 s Gruppe 49 Torpedoeinrichtuugea, Einrichtungen für Sperr« $$ Waffen, Nebelanlag«, Bugschutzgerät 
 57 r
 A Torpedoeinrichtungen
-57 '	Stände der Torpedorohre
+57 ' Stände der Torpedorohre
 8 Einrichtungen für Sperrwaffen
 0 Nebelanlage
 v Bugschutzgerät")
-Gruppe 50 Flugzeugeinrichtungen 	  69
+Gruppe 50 Flugzeugeinrichtungen    69
 Sockel für die Flugzeugschleudern
-Gruppe 60 Verschiedener Ausbau 	 87
+Gruppe 60 Verschiedener Ausbau   87
 Ahminge
 Besondere Vorrichtungen zur Befestigung von Gestängen, Rohrleitungen, Kabeln usw.
 Fahrtmeßanlage Fallreepstreppen Flurplatten und Grätinge Gefechtsfignalstellen Kompasse")
@@ -292,38 +294,38 @@ Meßlatten für die Erprobung der Leistung der Lenzpumpen und Lenzstrahler
 Meßleisten für das Ausrichten der Geschütz¬stände und der Geräte in den artille- ristischen BettiebSräumen
 Niedergangskappen
 Plattformen für Ankermanöver Plattformen für Sirene usw. Schächte für Antennen Schächte für Notausgänge Schraubenschutz für Boote Seefallreeps Splitterschutz für Kabel Staueinrichtungen für Geräte Windmeßanlage Sonstiges
-Grupp« 52 vekohlungseinrichtungen 	 70
+Grupp« 52 vekohlungseinrichtungen   70
 Nicht vorhanden 59
-Gruppe 53 Aschförderung 	 70
-Aschaufzüge (nicht vorhanden) 60 t	Forderwege für verbrauchtes Mauerwerk
+Gruppe 53 Aschförderung   70
+Aschaufzüge (nicht vorhanden) 60 t Forderwege für verbrauchtes Mauerwerk
 usw.
-Gruppe 54 Lüftungseinrichtungen 	 70
+Gruppe 54 Lüftungseinrichtungen   70
 Zweck Lustbedarf Lüftungsarten
-62 f	Lüftungsgruppen
+62 f Lüftungsgruppen
 Schiffsraumlüfter
-62	Kreiselgehäuse, Luftschächte, -kanäle und
+62 Kreiselgehäuse, Luftschächte, -kanäle und
 ' -kammern
 Lüftungseinrichtungen besonderer Räume Entwurf und Berechnung
 a Luftschächte
 b Lüfterkammern und nicht wasser-
-1	dichte Luftkanäle
+1 dichte Luftkanäle
 c Wasserdichte Luftkanäle
-Gruppe 57 MannschaftSraume 	   85
-64	Einrichtungen
-64 Grupp« 58 Kammern	 86
+Gruppe 57 MannschaftSraume     85
+64 Einrichtungen
+64 Grupp« 58 Kammern  86
 Räume für Waffenleitung
-5 k	Schlingeranlagen
+5 k Schlingeranlagen
 e
-e k Grupp« 5V Verzierungen 	 ...........	86
-9 I	a Bugverzierung
-L	b Hoheitszeichen")
+e k Grupp« 5V Verzierungen   ........... 86
+9 I a Bugverzierung
+L b Hoheitszeichen")
 8II Schlofferwerkstatt
-Grupp« 1 Kammertüren	 92
+Grupp« 1 Kammertüren  92
 a Türen für Woh^nkammern, Kajüte und Messen
 b Türen für Bäder, Aborte, Küchen, Hellegats usw.
-Gruppe 2 Rundhölzer 	 93
+Gruppe 2 Rundhölzer   93
 Backspieren, Heckspieren Flaggenstöcke und Göschstock
-Grupp« 3 Geländer 	    93
+Grupp« 3 Geländer      93
 a für Decks, Brücken, Marsen, Platt» formen
 d für Luken und Treppen
 c sonstige Geländer
@@ -331,7 +333,7 @@ Gruppe 4 Beschläge für Pauzertüren und Panzerdeck«! ... 94
 a für Panzertüren
 b für Panzerdeckel, Pfortenklappen im Seitenpanzer
 e für Grätinge
-Gruppe 5 Treppen	 97
+Gruppe 5 Treppen  97
 a für Decks und Brücken
 b für Maschinen, und Kesselräume
 e Leitern, Steigeisen, Stufen, Tritte usw.
@@ -339,13 +341,13 @@ e Leitern, Steigeisen, Stufen, Tritte usw.
 
 — VI —
 Stitt 98
-Gruppe 6 Fenster		
+Gruppe 6 Fenster  
 a Seitenfenster
 b Deckfenster
 c Decksgläser
 d Blenden für die Sehschlitze -in den Kommandotürmen, Sehschlitzfenster mit Blenden, Fenster in den splittersicheren Schutzständen für die Schiffsführung usw.
 6 Fenster für Aufbauten, Schächte usw.
-Gruppe? Speigatten	     100
+Gruppe? Speigatten      100
 Werkstoffe
 a Speigatten
 ° Rohre
@@ -364,7 +366,7 @@ Einlegedeckel, Deckel für Gasschutz und Schalldämpfung
 e Mannlochdeckel Handlochdeckel
 f Pfortenklappen in der Aussenhaut
 g Sonstige Verschlüsse
-Gruppe 9 Einrichtungen für Wasser			111
+Gruppe 9 Einrichtungen für Wasser   111
 Rohrleitungen
 Durchbrechungen von Torpedoschotten, Panzerdecks und Panzerschotten
 Gestänge
@@ -431,7 +433,7 @@ B Hinterschiff
 a b
 c d
 Heckankerspill Heckverholspill Heckankerkran Sonstige»
-Gruppe 12 Einrichtungen für Beiboote 	 a und b Bootskrane c Lademasten mit Ladebäumen d Davits
+Gruppe 12 Einrichtungen für Beiboote   a und b Bootskrane c Lademasten mit Ladebäumen d Davits
 153
 156
 157
@@ -471,7 +473,7 @@ ten
 ... 15k
 Augbolzcn und sonstige Teile des Takelage-
 zubehörs
-Gruppe 14 Artillerieeinrichtungen 				
+Gruppe 14 Artillerieeinrichtungen     
 a MunitionSaufzüge
 für die Drehtürme der schweren und mitt-
 leren Artillerie
@@ -501,7 +503,7 @@ h Einrichtungen für Entfernungsmeß-
 geräte und Zielgeräte
 ! Sonstiges
 Gruppe 15 Torpedoeinrichtungen, Einrichtungen für Sperr-
-waffen, Rebelanlage, Bugschutzgerät	   164
+waffen, Rebelanlage, Bugschutzgerät    164
 A Torpedoeinrichtungen
 a Ubernahmekrane, Davits, Spieren,
 Spieren an den Rohrsätzen
@@ -515,38 +517,38 @@ B Einrichtungen für Sperrwaffen
 6 Nebelanlage
 D Bugschutzgerät")
 159
-Gruppe 15 F Flugzeugeinrtchtungen 	 165
+Gruppe 15 F Flugzeugeinrtchtungen   165
 » Flugzeugschleudern °)
 b Zurreinrichtungen für die Flugzeuge
 e Landesegeleinrichtungen °) nebst Zu¬behör
-Grupp« 16 Befehls- und Reldeanlagen 				 166
+Grupp« 16 Befehls- und Reldeanlagen      166
 Sprachrohre und Fernsprecher
-Gruppe 17 Bekohlungseinrichtungea	 166
+Gruppe 17 Bekohlungseinrichtungea  166
 Nicht vorhanden
-Gruppe 18 Aschfördereinrichtungen	 166
+Gruppe 18 Aschfördereinrichtungen  166
 Nicht vorhanden
 Augen, Deckel usw. für Schächte zur Förderung von verbrauchtem Mauerwerk usw.
 Stitt
-Gruppe 19 Lüftungseinrichtungen	  167
+Gruppe 19 Lüftungseinrichtungen   167
 a Schachtverschlüsse b Verschlüsse für wasserdichte Kanäle c Verschlüsse für nichtwasserdichte Ka¬näle
 6 Einzelverschlüsse s Gruppenverschlüsse k Verschlüsse für besondere Zwecke 8 Druck-und Saugeköpfe
-Gruppe 20 Ladeeinrichtungen		 .......	169
+Gruppe 20 Ladeeinrichtungen   ....... 169
 a Badewannen b Brausen c Waschschüsseln mit Gestellen und Einzelwaschschüsseln -,.
 Gepreßte Waschtischplatten aus emaillier- tem Stahlblech
 Waschbecken aus Kristallporzellan
-Gruppe 21 Aborteinrtchtungen			 171
+Gruppe 21 Aborteinrtchtungen    171
 a Aborte b Pissoire
-Gruppe 22 Verschiedener Ausbau	    172
+Gruppe 22 Verschiedener Ausbau     172
 Augplatten, Bügel usw.
 Bereitschaftskästen für Peilaufsätze und Doppelgläser (D F) Halterungen, Spuren Poller und Klampen Schiffsglocke Schilder Schlösser und Zubehör Schutzeinrichtungen Strecktaubügel Tiefgangsstandrohre Sonstiges
 8 HI Tischlerwerkstatt
-Gruppe 1 Verkleidungen 			  176
+Gruppe 1 Verkleidungen      176
 a Verkleidungen b Tapeten (nicht vorhanden)
-Allgemeine» zu den Gruppen 8III2 bis 4 			 176
+Allgemeine» zu den Gruppen 8III2 bis 4     176
 Abmessungen, Bauart und Aufstellung der Möbel usw.
-Gruppe 2 Einrichtungen für den Admiral, für de» Führer der Minensuchboote (F. d. M.), der U-Boote (F. d. U.) und für den Kommandanten...	 177
+Gruppe 2 Einrichtungen für den Admiral, für de» Führer der Minensuchboote (F. d. M.), der U-Boote (F. d. U.) und für den Kommandanten...  177
 a Kajüte b ArbeitS- und Schlafräume usw. e Brückenkammern
-Gruppe 3 Einrichtungen der Messen	 a Offiziermesse b Oberfeldwebelmesse c Fähnrichmesse
+Gruppe 3 Einrichtungen der Messen  a Offiziermesse b Oberfeldwebelmesse c Fähnrichmesse
  
 
 — VIII —
@@ -559,17 +561,17 @@ c
 Offizierkammern
 Oberfeldwebel, und Feldwebelkam¬mern
 Kammern für Köche und Kellner
-Grupp« 7 Einrichtungen der Hellegat«, Vorrat-räume und Lasten	
+Grupp« 7 Einrichtungen der Hellegat«, Vorrat-räume und Lasten 
 k
 18z
-Grupp« 8 Sonstiges 	18(
+Grupp« 8 Sonstiges  18(
 Leichte Spinde und Staueinrichtun. gen in den Decks
 Gruppe 5
 a b c d
 e
 f
 8
-Einrichtungen der Mannschaftsräume 	
+Einrichtungen der Mannschaftsräume  
 Backstische und «bän ke
 Backsspinde
 Abwaschbecken für Backögeschirr
@@ -646,12 +648,12 @@ Gruppe 13 Besoudere Anstriche
 B C D E F
 G
 Anhang
-Verzeichnis	der	von der	Bauwerft dem O. K. M. zur	Genehmigung vorzulegenden Einzelzeichnungen,	Berechnungen usw.
-Verzeichnis	der	von der	Bauwerft dem O. K. M. zur	Kenntnisnahme vorzulegenden Zeichnungen usw	
-Verzeichnis	der	vom O.	K. M. der Bauwerst noch zu	liefernden Zeichnungen und Angaben	
-Verzeichnis der gegebenenfalls aus Leichtmetall anzufertigenden Gegenstände gemäß 8. B. V. — 8 — 		 Verzeichnis der zu verzinkenden Bauteile gemäß B. B. V. — 8 —			....	
-Verzeichnis der EinrichtungS- und Bauteile, für welche Holz zu verwenden ist			
-Abschriften zu beachtender Verfügungen und Vorschriften 			
+Verzeichnis der von der Bauwerft dem O. K. M. zur Genehmigung vorzulegenden Einzelzeichnungen, Berechnungen usw.
+Verzeichnis der von der Bauwerft dem O. K. M. zur Kenntnisnahme vorzulegenden Zeichnungen usw 
+Verzeichnis der vom O. K. M. der Bauwerst noch zu liefernden Zeichnungen und Angaben 
+Verzeichnis der gegebenenfalls aus Leichtmetall anzufertigenden Gegenstände gemäß 8. B. V. — 8 —    Verzeichnis der zu verzinkenden Bauteile gemäß B. B. V. — 8 —   .... 
+Verzeichnis der EinrichtungS- und Bauteile, für welche Holz zu verwenden ist   
+Abschriften zu beachtender Verfügungen und Vorschriften    
 190
 191
 192
@@ -669,200 +671,200 @@ Arme der s Armierung Arresträunu Artillerieakk Artillerieeiy Artilleriehel Arti
  
 
 *z*w« uni
-		
+  
 irichtua.
 Alphabetisches Inhaltsverzeichnis.
 Soweit in -er A. B.V. — 8 — die Gegenstände usw. in den angeführten Gruppen oder Unter-
 gruppen nicht besonders erwähnt find, find nähere Angaben in der 8 8. V. — S — enthalten.
-		
-	 188
-	 189
-	 189
-	 189
-	 189
-	 189
-	189
-	189
-	189
-	189
-	189
-	189
+  
+  188
+  189
+  189
+  189
+  189
+  189
+ 189
+ 189
+ 189
+ 189
+ 189
+ 189
 Vruppe
 . 190 tmgeu usw-
-«bfallrohre 		 n 7b JI 9d
-Abhalterollen	II11 Ad und Bd
-Abkommunitton		 I	26
-Abluftkanäle 	 154 II19
-Abluftschächte für Maschinen-	und Kesselräume	I	24
-Abmessungen der Türen	 110
-Abmessungen und Bauart der Möbel 		 DI 2—4
-Abortbecken 	 II 7b II 21a
-Aborte 	 HA—18 154 Dl H 7b II 21a HI 6b
-Aborteinrichtungen	 II 7b II 21a HI 6 b
-Abschlußbock für die Mittelwelle	 19
+«bfallrohre    n 7b JI 9d
+Abhalterollen II11 Ad und Bd
+Abkommunitton   I 26
+Abluftkanäle   154 II19
+Abluftschächte für Maschinen- und Kesselräume I 24
+Abmessungen der Türen  110
+Abmessungen und Bauart der Möbel    DI 2—4
+Abortbecken   II 7b II 21a
+Aborte   HA—18 154 Dl H 7b II 21a HI 6b
+Aborteinrichtungen  II 7b II 21a HI 6 b
+Abschlußbock für die Mittelwelle  19
 Abschlußschieber in den Munitionsschächten .... I 48 II 8g
-Abschlußstücke für Wellenhosen	 19
-Absperrorgane	 II 9
-Abstand der Umschottungen von Luken und Not- ausgängen im Panzerdeck	 110
-Abwaschbecken	 III	5, 6
-Ahminge 	 I	60
-Mumulatorenkästen	  I	64
-Akkumulatorenspinde 	  III	8
-Ankereinrichtungen	 I 45 Uli
-Ankerlagerung			 I 45
-Ankerspille   	 n	11
+Abschlußstücke für Wellenhosen  19
+Absperrorgane  II 9
+Abstand der Umschottungen von Luken und Not- ausgängen im Panzerdeck  110
+Abwaschbecken  III 5, 6
+Ahminge   I 60
+Mumulatorenkästen   I 64
+Akkumulatorenspinde    III 8
+Ankereinrichtungen  I 45 Uli
+Ankerlagerung    I 45
+Ankerspille     n 11
 Anordnung wichtiger Telle unter Panzerschutz. Vordem. 15
-Anrichten	I 54 I 58 UI 6»
-Anstrich	Vordem. 7b 7IV
-Antennenführung für	Funkeinrichtung		I	60
-Avtennenschächte	 I	60
-Anwesenheitstafel	 m 3, Anhang!'
-Apotheke 	 HI	6o
-Arbeitsraum für	den Admiral	 III	2
-*	»	> Kommandanten		ITT	2
-» für	Fähnriche 	 III4 o
-Arme der Wellenböcke	 19
-Armierung			 14g n 14
-Arresträume	 III	6h
-Artillerieakkumulatoren 	 in	8
-Artillerieeinrichtungen 	I 48 II14 in 8
-Artilleriehellegat	 1	28
-ArtillerielandungSgerät, Hellegat für	 I	28
-Artilleriemechcmikerhellegat	 I	28
-Artilleriemechanikerlast		 128
-Artilleriezielgeräte 	 II	14h
-Aschaufzüge 	 153 H 18
-Aschförderung		 1 55 n 18
-Aufbaudecks	  j	ig
-Aufbauten 	 118 119
+Anrichten I 54 I 58 UI 6»
+Anstrich Vordem. 7b 7IV
+Antennenführung für Funkeinrichtung  I 60
+Avtennenschächte  I 60
+Anwesenheitstafel  m 3, Anhang!'
+Apotheke   HI 6o
+Arbeitsraum für den Admiral  III 2
+* » > Kommandanten  ITT 2
+» für Fähnriche   III4 o
+Arme der Wellenböcke  19
+Armierung    14g n 14
+Arresträume  III 6h
+Artillerieakkumulatoren   in 8
+Artillerieeinrichtungen  I 48 II14 in 8
+Artilleriehellegat  1 28
+ArtillerielandungSgerät, Hellegat für  I 28
+Artilleriemechcmikerhellegat  I 28
+Artilleriemechanikerlast   128
+Artilleriezielgeräte   II 14h
+Aschaufzüge   153 H 18
+Aschförderung   1 55 n 18
+Aufbaudecks   j ig
+Aufbauten   118 119
 Sruppr
-Aufenthaltsräume für den Admiral und den Kommandanten 			 III 2 0
-Aufhängung der Ruder	  18
-Aufstellung der Möbel 	 m	2—4
-Austritte am Schanzkleid 	 I 22
+Aufenthaltsräume für den Admiral und den Kommandanten     III 2 0
+Aufhängung der Ruder   18
+Aufstellung der Möbel   m 2—4
+Austritte am Schanzkleid   I 22
 Aufzugsschächte für verbrauchtes Mauerwerk .. I 53, I118
-Aufzüge für Munition 		 I 48 II 14a
-» , Hilfs-, für Munition			 II	14b
-Augbolzen für Takelage 		 I113
-Auge zum Einsetzen und Herausnehmen der Ruder	 I 8 n 22
-Ausbau, Verschiedener 	  I	60
-Ausgaberaum für Wäschereianlage			III 6m
-Ausgüsse für Küchen, Schmutzwasser usw		n 7 c
-Ausrüstungszubehör für die Armierung und Munition	      I	48 II14 UI 8
-Außenhaut			 119
-Aussteifungen der	Decks 		 113—18
-Aussteifungen der	Ruder 	 18
+Aufzüge für Munition    I 48 II 14a
+» , Hilfs-, für Munition    II 14b
+Augbolzen für Takelage    I113
+Auge zum Einsetzen und Herausnehmen der Ruder  I 8 n 22
+Ausbau, Verschiedener    I 60
+Ausgaberaum für Wäschereianlage   III 6m
+Ausgüsse für Küchen, Schmutzwasser usw  n 7 c
+Ausrüstungszubehör für die Armierung und Munition       I 48 II14 UI 8
+Außenhaut    119
+Aussteifungen der Decks    113—18
+Aussteifungen der Ruder   18
 Bäckerei
 Backsbänke
 Backspieren
 113—18 in 6a
-	  I	57 in 6a
-	 I	47 H 2e U 13
-Backsspinde 	
+   I 57 in 6a
+  I 47 H 2e U 13
+Backsspinde  
 Backstische ....
 Badeeinrichtung
 157 in 6h
 I57 HI 5a 11 7b 1120 IU6b
-Badeleitung	 n	9m H 20
-Baderäume 	  n	20 UI 6b
-Badewannen	 H	7b H 20a
-Balken, Allgemeine- 	 113—18
->	der	Aufbaudecks 	 113
-»	»	Plattformdecks 			 113
-»	des	Batteriedecks 	  II®
-»	»	Oberdecks 			 11^
-»	»	Panzerdecks 			 116
-»	»	Zwischendecks			 114
-Barbetten				 188
-Barbierstube	 HI	61
-Barkunen	   II	12 d
-Barring-	 I	46a
-Bauart der Möbel	 m	2—4
-Bauausführung	 Vordem.	7
+Badeleitung  n 9m H 20
+Baderäume    n 20 UI 6b
+Badewannen  H 7b H 20a
+Balken, Allgemeine-   113—18
+> der Aufbaudecks   113
+» » Plattformdecks     113
+» des Batteriedecks    II®
+» » Oberdecks     11^
+» » Panzerdecks     116
+» » Zwischendecks    114
+Barbetten     188
+Barbierstube  HI 61
+Barkunen    II 12 d
+Barring-  I 46a
+Bauart der Möbel  m 2—4
+Bauausführung  Vordem. 7
  
 
 Smpp«
-Bauteile, im Ernstfälle zu entfernende 	 Vordem.	16
-Bauzustand beim Stapellauf			 Vordem.21
-Bearbeitung von Walzwerlstoff	 Vorbem.	7 b
-Bedienungsstellen für Absperrorgane		II 9
-Befehls- und Meldeanlagen	 1116
-Behälter für Abkommkanonen	 m 8
-»	- Geheimbacher 		 III8
-Beiboote	 I 46
-Bekleidung von Rohrleitungen	 n	7d n 9o
-Bekohlungseinrichtungen	 I	52 n 17
-Belag, Holz-			 113—18
-» , Linoleum-				 113—18
-»	, Terrazzo-			 113—18
-Belegklampen	•	 II13
-Beplattung der	Aufbaudecks 			 118
-»	»	Brücken	 138
-»	»	Decks, Allgemeines 	 113—18
-»	,	Deckshäuser		  123
-»	»	Plattformdecks 	 113
-»	»	Ruder 	 18
-»	»	Schotte.....................	110
-»	»	Wellenhosen	 119
-»	des	Batteriedecks	 116
-»	-	Bodens, äußeren		  119
-»	»	Jnnenbodens							 111
-»	» Oberdecks	 117, I 36b
-»	-	Panzerdecks	 136a
-»	-	Zwischendecks	 114
-Bereitschaftskästen für Peilaufsätze und Doppel¬gläser (DF)	   II	22
-Bereitschaftsmunition		..	n 14f
-Bereitschaftsspinde 	 U 14k
-Bereitschaftsspinde für Flottenatmer		in 8
-Bereitschaftsspinde für Sternsignalpatronen....	III 8
-Berieselungsrohre		 II 9 e
-Beschläge für	Kettenkasten		 nilAd
-»	-	Kommandoturmtüren		II4
-»	-	Panzertüren' Panzerdeckel	und
-Grättnge	 n 4
-Bestreichungswinkel der Geschütze	  I	48
-Bezeichnungsschilder	 H 22
-Biegen		 Vordem. 7b 1
-Blenden			 n 6d, e
-Blöcke	  I	47 H 13
-Böcke für Wellen	 19
-Bodenbeplattung, äußere 		 119
-»	innere	 111
-Bodengänge	 119
-Bodenventile		 111 119 II9g
-Bodenventilgehäuse				 n	9
-Bojenkette 	 II11 Ad
-Bojenstander, Bügel für	 H	22
-Bolzen 	  Vordem.	4 b
-Bomben für Flugzeuge	    i	26
-Boote	  I	46
-Bootsdavits	   U
-Bootseinrichtungen	 I	46 n 12
-Bootsklampen	   j	46
-Bootskrane	 n	12a unb b
-Bootsmannshellegat		   1	28
-Bootsmannslast	 I	28
-Borde	 in	2—4 m 6, 7
-Bordscheiben, große und kleine	 j	48
-Bordwetterwarte	   III	6
-Bördeln 					
-Brausebäder			
-Brausen			
-Brennstoff, Raum für	
-Brotlast 			
-Brücken			
-Brückenkammern		
-Bücherschrank	
-Buganker		
-Bugankerspier (nicht vorhanden)	
-Bugankerspille	
-Bügel für Bojenstander	
-Bugklampen 			
-Bugklüsen	
-Bugschutzanlage	
-Bugschutzgerät		
-Bugverholspill.		
-Bugverzierung		
+Bauteile, im Ernstfälle zu entfernende   Vordem. 16
+Bauzustand beim Stapellauf    Vordem.21
+Bearbeitung von Walzwerlstoff  Vorbem. 7 b
+Bedienungsstellen für Absperrorgane  II 9
+Befehls- und Meldeanlagen  1116
+Behälter für Abkommkanonen  m 8
+» - Geheimbacher    III8
+Beiboote  I 46
+Bekleidung von Rohrleitungen  n 7d n 9o
+Bekohlungseinrichtungen  I 52 n 17
+Belag, Holz-    113—18
+» , Linoleum-     113—18
+» , Terrazzo-    113—18
+Belegklampen •  II13
+Beplattung der Aufbaudecks     118
+» » Brücken  138
+» » Decks, Allgemeines   113—18
+» , Deckshäuser    123
+» » Plattformdecks   113
+» » Ruder   18
+» » Schotte..................... 110
+» » Wellenhosen  119
+» des Batteriedecks  116
+» - Bodens, äußeren    119
+» » Jnnenbodens        111
+» » Oberdecks  117, I 36b
+» - Panzerdecks  136a
+» - Zwischendecks  114
+Bereitschaftskästen für Peilaufsätze und Doppel¬gläser (DF)    II 22
+Bereitschaftsmunition  .. n 14f
+Bereitschaftsspinde   U 14k
+Bereitschaftsspinde für Flottenatmer  in 8
+Bereitschaftsspinde für Sternsignalpatronen.... III 8
+Berieselungsrohre   II 9 e
+Beschläge für Kettenkasten   nilAd
+» - Kommandoturmtüren  II4
+» - Panzertüren' Panzerdeckel und
+Grättnge  n 4
+Bestreichungswinkel der Geschütze   I 48
+Bezeichnungsschilder  H 22
+Biegen   Vordem. 7b 1
+Blenden    n 6d, e
+Blöcke   I 47 H 13
+Böcke für Wellen  19
+Bodenbeplattung, äußere    119
+» innere  111
+Bodengänge  119
+Bodenventile   111 119 II9g
+Bodenventilgehäuse     n 9
+Bojenkette   II11 Ad
+Bojenstander, Bügel für  H 22
+Bolzen    Vordem. 4 b
+Bomben für Flugzeuge     i 26
+Boote   I 46
+Bootsdavits    U
+Bootseinrichtungen  I 46 n 12
+Bootsklampen    j 46
+Bootskrane  n 12a unb b
+Bootsmannshellegat     1 28
+Bootsmannslast  I 28
+Borde  in 2—4 m 6, 7
+Bordscheiben, große und kleine  j 48
+Bordwetterwarte    III 6
+Bördeln      
+Brausebäder   
+Brausen   
+Brennstoff, Raum für 
+Brotlast    
+Brücken   
+Brückenkammern  
+Bücherschrank 
+Buganker  
+Bugankerspier (nicht vorhanden) 
+Bugankerspille 
+Bügel für Bojenstander 
+Bugklampen    
+Bugklüsen 
+Bugschutzanlage 
+Bugschutzgerät  
+Bugverholspill.  
+Bugverzierung  
 ’M« Vordem. 7b 2 n 20 n 20b
 128 I 28
 188
@@ -879,31 +881,31 @@ II11 Ab
 I 59
 Chromnickelstahl..
 Chronometerspind
-Dampfdichte Türen	
-Davits, Boots-		
+Dampfdichte Türen 
+Davits, Boots-  
 Davits für Proviant- und Lastenübernahme...
-Davitunterstützung		
-Deckel für Klüsen			
-»	- Munitionsschächte	
-» , Luken-		
-- , Mannloch-	
-Deckfenster	
-Deckpanzer		
-Deckstützen				
-Decks						
-Decksbalken 		
-Decksbelag 	
-Decksbeplattungen	
-Decks flächen, freizuhaltende 	
-Decksgläser	
-Deckshäuser				
-Decksklüsen			
-Decksöffnungen		
+Davitunterstützung  
+Deckel für Klüsen   
+» - Munitionsschächte 
+» , Luken-  
+- , Mannloch- 
+Deckfenster 
+Deckpanzer  
+Deckstützen    
+Decks      
+Decksbalken   
+Decksbelag  
+Decksbeplattungen 
+Decks flächen, freizuhaltende  
+Decksgläser 
+Deckshäuser    
+Decksklüsen   
+Decksöffnungen  
 Decksspuren für schwere Scheibengerüste
-Decksverband		
-Decksverkleidungen			
-Decksverstärkungen 		
-Dichten		
+Decksverband  
+Decksverkleidungen   
+Decksverstärkungen   
+Dichten  
 Vordem. 4d
 HI 8
 Dichtungen
@@ -936,7 +938,7 @@ Einschjcht.tz^
 Einteilung dx
 Einzelverschlü
 kislaß
-^i-Last	1
+^i-Last 1
 Vordem. *
 H60
 iss
@@ -948,30 +950,30 @@ n 14i
 ... Vordem.^'
  
 
-•«Hü j	Grupp«
-Dichtungen für Drehtürme	 	 	 		 II 14g
-nJ	Dichtungsmaterial	für Mannlochdeckel 	 118
-j 21	Dockkiele	 I4d,I19
-u	Doppelboden		   111
-Doppelkojen		 DI 2—4
-Doppellafetten ..	  148
-Ul 5 . Doppelschächte			 I 48b
-»' j	Dopplungen der Decks			 118—18,136
-» in den Schotten	 HO
-1 Drahtgeflecht, Schotte aus	 			 120 I 28
-" DrehdavitS			 •■ ni2d
-Drehtürme	   I	33 I 48
-Druckerei 			 III 6e
-U Druckköpfe für Lüftung	 IM	H 19g
-D H15D i Dunkelkammer ..	.....	m 6g
-0 D15D Durchbiegung (Peillinie für Schiffsdurchbiegung)	160
-D11 Ab j Durchbrechungen der Mittelkielplatte	 14
-1691	>	» Panzerung	•	• I 83 I 34
+•«Hü j Grupp«
+Dichtungen für Drehtürme         II 14g
+nJ Dichtungsmaterial für Mannlochdeckel   118
+j 21 Dockkiele  I4d,I19
+u Doppelboden     111
+Doppelkojen   DI 2—4
+Doppellafetten ..   148
+Ul 5 . Doppelschächte    I 48b
+»' j Dopplungen der Decks    118—18,136
+» in den Schotten  HO
+1 Drahtgeflecht, Schotte aus      120 I 28
+" DrehdavitS    •■ ni2d
+Drehtürme    I 33 I 48
+Druckerei     III 6e
+U Druckköpfe für Lüftung  IM H 19g
+D H15D i Dunkelkammer .. ..... m 6g
+0 D15D Durchbiegung (Peillinie für Schiffsdurchbiegung) 160
+D11 Ab j Durchbrechungen der Mittelkielplatte  14
+1691 > » Panzerung • • I 83 I 34
 Durchbrechungen von Torpedoschotten, Panzer¬
-decks und Panzerschotten 			 n 9
-Durchlüftungshähne		   H	9i
-Durchlüftungsrohre	 H	91
-Durchreichöffnungen für Munition	 H	14
+decks und Panzerschotten     n 9
+Durchlüftungshähne     H 9i
+Durchlüftungsrohre  H 91
+Durchreichöffnungen für Munition  H 14
 Zorbem. 4b
 1118
 H8dl
@@ -987,98 +989,98 @@ ii
 «<!
 i»
 ° o«K
-L-Hellegat			 128
+L-Hellegat    128
 Einbauten für Wasserfängergrätinge der Boden-
-ventile	 119
+ventile  119
 Einfassung von ErleichterungS- und Mann-
-löchem	  Vordem.	7c 7
-Einrichtungen der Munitionskammern	.	I 26
-- für Admiral	 m2
-»	- Anker 	 145 n 11
-*	- Artillerie 	 148 1114 III8
-*	- Beiboote 	 I 46 II12
-*	»	Bereitschaftsmunition		II	14f
-*	»	Entfernungsmeßgeräte 	 II	14h
-*	*	Kajüte, Messen, Kammern,
+löchem   Vordem. 7c 7
+Einrichtungen der Munitionskammern . I 26
+- für Admiral  m2
+» - Anker   145 n 11
+* - Artillerie   148 1114 III8
+* - Beiboote   I 46 II12
+* » Bereitschaftsmunition  II 14f
+* » Entfernungsmeßgeräte   II 14h
+* * Kajüte, Messen, Kammern,
 Mannschaftsräume, Helle-
 gats und Lasten I 28 157 1 58 m 2—7
-*	» Kinovorführungen	 HI 2—5
-»	> Kommandanten 	  m2
-»	» Torpedos	 I	49 A II15 A
-»	- Wasser	 n 9
-»	- Zielgeräte 	 n	14h
+* » Kinovorführungen  HI 2—5
+» > Kommandanten    m2
+» » Torpedos  I 49 A II15 A
+» - Wasser  n 9
+» - Zielgeräte   n 14h
 » zum Signalisieren .. n 2 II13 n 22 III 8
-Einschicht-Sicherheitsglas	 II6
-Einteilung der Bauvorschrift	-	 Borbem.	2
-Einzelverschlüsse für Lüftung	 II	19d
-Eislast	  I	28
-L-Last	 I	28
-Elektrikerhellegat (E. Hellegat)	 I	28
-Elektron ...V.	 Vordem.	46
-Em						 134 II14h
-Embe-Pumpen	    U	9n
-Entfernungsmeßgeräte	 II	14h
-L-Meßstände 	 134
+Einschicht-Sicherheitsglas  II6
+Einteilung der Bauvorschrift -  Borbem. 2
+Einzelverschlüsse für Lüftung  II 19d
+Eislast   I 28
+L-Last  I 28
+Elektrikerhellegat (E. Hellegat)  I 28
+Elektron ...V.  Vordem. 46
+Em       134 II14h
+Embe-Pumpen     U 9n
+Entfernungsmeßgeräte  II 14h
+L-Meßstände   134
 Entseuchungsspind......
 Entwässerungseinrichtungen
-Entwässerungslöcher	
-Erleichterungslöcher	
-Exerzierladegerät	
+Entwässerungslöcher 
+Erleichterungslöcher 
+Exerzierladegerät 
 II 9
 Borbem. 13 II9
 Borbem. 7 c 11
 148
-Fähnrichanrichte				
-Fähnrichmesse		
-Fähnrichspinde	
-Fahrtball	 				
-Fahrtmeßanlage 	
-Fallreep	
-Fallreepdavits		
-Fallreepgeländer		
-Fallreeptreppen 			
+Fähnrichanrichte    
+Fähnrichmesse  
+Fähnrichspinde 
+Fahrtball      
+Fahrtmeßanlage  
+Fallreep 
+Fallreepdavits  
+Fallreepgeländer  
+Fallreeptreppen    
 Fallrohre für Bäder, Waschräume, Aborte, Sam-
-mellasten usw					
-Feldwebellammern		
-Fenster		
-, für Aufbauten, Schächte usw	
--	» Sehschlitze		
-Fernsprecher 		
+mellasten usw     
+Feldwebellammern  
+Fenster  
+, für Aufbauten, Schächte usw 
+- » Sehschlitze  
+Fernsprecher   
 Feuergefährliche Farben, Raum für .........
-Feuerleitgeräte		
-Feuerlöscheinrichtung			
-Feuerwerkerhellegat	 I	28
-Flachkiel				
-Flaggenleisten	
-Flaggenstöcke	*			
-Fla.-Leitstände 			
-Fla.-Rechenstelle 		
-Fla.-Schaltstelle				
-Fleischbänke	
-Fleischhaken	
-Fleischkühlraum	
-Fleischlast		
-Fleischspinde 		
-Fliehkraftlüfter	
-Fliesen 	
-Flottenatmer, Spind für	
-Flucht- und Nullinien	/		
-Flugzeugeinrichtungen	
-Flurplatten 	
-Flußstahl 	
-Fluteinrichtungen	
-Fluteinrichtung, Künstliche 	
-» Natürliche	
-Flutrohre für Munitionskammern	
-Flutluftrohre	
-Formstahle	 --
-Förderbänder für Munitionsförderung	
-Fördermulden	
-Fördermulden für Torpedos	
-Förderwerke	
-Freilote 	
-Frostschutz	
-Führung-muffen für Steuereinrichtung	
+Feuerleitgeräte  
+Feuerlöscheinrichtung   
+Feuerwerkerhellegat  I 28
+Flachkiel    
+Flaggenleisten 
+Flaggenstöcke *   
+Fla.-Leitstände    
+Fla.-Rechenstelle   
+Fla.-Schaltstelle    
+Fleischbänke 
+Fleischhaken 
+Fleischkühlraum 
+Fleischlast  
+Fleischspinde   
+Fliehkraftlüfter 
+Fliesen  
+Flottenatmer, Spind für 
+Flucht- und Nullinien /  
+Flugzeugeinrichtungen 
+Flurplatten  
+Flußstahl  
+Fluteinrichtungen 
+Fluteinrichtung, Künstliche  
+» Natürliche 
+Flutrohre für Munitionskammern 
+Flutluftrohre 
+Formstahle  --
+Förderbänder für Munitionsförderung 
+Fördermulden 
+Fördermulden für Torpedos 
+Förderwerke 
+Freilote  
+Frostschutz 
+Führung-muffen für Steuereinrichtung 
 Führungsstangen der Steuereinrichtung ......
 Grupp»
 in 8
@@ -1136,9 +1138,9 @@ II 10
  
 
 
-Füllstellen für die Patronengurte Funkhellegat 	 FunkpeilkreiS	 Funkrah 	 Funkräume 			
-Fußbadewannen	 ...
-Fußlager für Spillspindeln 	 Fußleisten 	
+Füllstellen für die Patronengurte Funkhellegat   FunkpeilkreiS  Funkrah   Funkräume    
+Fußbadewannen  ...
+Fußlager für Spillspindeln   Fußleisten  
 1 13 bis
 Grupp«
 I 48
@@ -1149,33 +1151,33 @@ I 25 B b HI 6d
 II 20
 n ii
 18 160 n 5
-Handleisten 		
-Handlotmaschine	
-Handpumpen 	
--	, feste ..
-»	, tragbare
+Handleisten   
+Handlotmaschine 
+Handpumpen  
+- , feste ..
+» , tragbare
 ü ((| Kantine •
 Kantinenla
 II ft, | Karabiners
 Kartenhau
 llrr
 G
-Gasdruck, Schutz gegen				
-Gasschutzhellegat	
-Gasschutzklappen		
-Gefechtssignalstellen 		
-Gefechtsverbandplätze 	
-Geheimspind 		
-Geländer 				
+Gasdruck, Schutz gegen    
+Gasschutzhellegat 
+Gasschutzklappen  
+Gefechtssignalstellen   
+Gefechtsverbandplätze  
+Geheimspind   
+Geländer     
 > für Decks, Brücken, Marsen, Platt-
-formen 				
-Geländer für Luken und Treppen 			
-* , Fallreeps- 					
-»	, sonstige 					
-Geruchverschlüss e				
-Geschützaufstellung 	.	...		
-Geschütze 	 			 ..
-Geschützeinrich ung 			....
+formen     
+Geländer für Luken und Treppen    
+* , Fallreeps-      
+» , sonstige      
+Geruchverschlüss e    
+Geschützaufstellung  . ...  
+Geschütze       ..
+Geschützeinrich ung    ....
 Vordem. 14 I 28 n 14 I119
 I 60
 158 HI 5g
@@ -1186,7 +1188,7 @@ der schweren Artillerie.. ■
 » mittleren Artillerie ..
 » leichten Artillerie ....
 I 48 133 133
-Geschütztürme .... Geschützunterbauten Gläser, Decks- .... Gläserborde 	 Gleitschutz	 Göschstock 	 Gradeinteilung ... Granatkammer ... Granitol	 Grätinge 	
+Geschütztürme .... Geschützunterbauten Gläser, Decks- .... Gläserborde   Gleitschutz  Göschstock   Gradeinteilung ... Granatkammer ... Granitol  Grätinge  
 133
 II 3»
 II 3b 160
@@ -1202,72 +1204,72 @@ IW 136 138
 II 7 II 8 II 9g
 160
 in 7
-Groveköpfe 			
+Groveköpfe    
 Grundplatten für Maschinengewehre
-Gruppenverschlüsse	.	
-Gummimateriallasten	
-Gurtplatten			 ....
-Guß- und Schmiedestücke 			
+Gruppenverschlüsse . 
+Gummimateriallasten 
+Gurtplatten    ....
+Guß- und Schmiedestücke    
 II 2 nio
 126 III 6 II 4c in 8 ni9b II 14i
-Handräder 	
-Hängematten			
-Hängemattshaken 		
-Hängemattsräume 		
-Hartalverfahren			
-Hartgläser 				
-Hauptentwässerung		
-Hauptentwässerungsrohre 	
-Hauptflutrvhre 		
-Hauptgefechtsverbandplatz	
-Hauptlenzeinrichtungen 				
-Hauptlenzpumpen 				
-Hauptlenzstutzen 	
-Hauptquerschotte...»				
-Hauptsteuerstellen	
-Hauptwerkstatt (Maschinenwerkstatt) Havariekabel 	
-Heckanker 				
-Heckankerkran	
-Heckankerspill	
-Heckklampe	
-Heckklüse 		
-Hecklaterne, Halter für 		
-Heckspier			
-Heckverholspill 		
-Heckverzierung	
-Heizerspinde 			
-Heizölbunker .. 	
-Hellegats 				
-Hilfsahminge....			
-Hilfslenzeinrichtung 	
-Hinterer Kommandoturm	
-Hintersteven		
-Hoheitszeichen				
-Holz 	
+Handräder  
+Hängematten   
+Hängemattshaken   
+Hängemattsräume   
+Hartalverfahren   
+Hartgläser     
+Hauptentwässerung  
+Hauptentwässerungsrohre  
+Hauptflutrvhre   
+Hauptgefechtsverbandplatz 
+Hauptlenzeinrichtungen     
+Hauptlenzpumpen     
+Hauptlenzstutzen  
+Hauptquerschotte...»    
+Hauptsteuerstellen 
+Hauptwerkstatt (Maschinenwerkstatt) Havariekabel  
+Heckanker     
+Heckankerkran 
+Heckankerspill 
+Heckklampe 
+Heckklüse   
+Hecklaterne, Halter für   
+Heckspier   
+Heckverholspill   
+Heckverzierung 
+Heizerspinde    
+Heizölbunker ..  
+Hellegats     
+Hilfsahminge....   
+Hilfslenzeinrichtung  
+Hinterer Kommandoturm 
+Hintersteven  
+Hoheitszeichen    
+Holz  
 158
 II 19e 128 Vordem. 7c 3 Vordem. 4 d 66
-Jackstage				
-Jakobsleitern		
-Jnnenboden		
-Instrumenten- und Aortenkammer Jocharme			
-Joggeln			
-Isolierungen 			
-Halter für BackSspinde 		
-»	» Backstische 		
->	» Hecklaterne		
-Halterung für Doppelgläser	
-Halterungen für Kabel		
-Halterungen für Papierkörbe	
-Halterungen für Reserveschraubenflügel Handantrieb für Bugankerspill 	 Handgriffe 	..,	
+Jackstage    
+Jakobsleitern  
+Jnnenboden  
+Instrumenten- und Aortenkammer Jocharme   
+Joggeln   
+Isolierungen    
+Halter für BackSspinde   
+» » Backstische   
+> » Hecklaterne  
+Halterung für Doppelgläser 
+Halterungen für Kabel  
+Halterungen für Papierkörbe 
+Halterungen für Reserveschraubenflügel Handantrieb für Bugankerspill   Handgriffe  .., 
 157 m 5 157
 n 22 n 22
 112 m 8
 I 60 n 11 Aa n 3c n 4b. c
-Kabellagerung 	
-Kälber (bronzene) 	
-Kajüte 	
-Kammern			
-» für Köche und Kellner Kammerschotte 	 Kammertüren 	
+Kabellagerung  
+Kälber (bronzene)  
+Kajüte  
+Kammern   
+» für Köche und Kellner Kammerschotte   Kammertüren  
 Kartenkaw
 Kattenspir
 Kartentisä
@@ -1340,7 +1342,7 @@ UL
 n
 Vordem. 7b3
 128 US-
-	 125
+  125
 1 20 1 58 ID
 nn
 4 IÖ* M" I* Li
@@ -1362,7 +1364,7 @@ Kondensa Kopfferns Korkfüllui Kreiselmu Kreiseltoä Kreuzende Kreuzpoll, Kröpf
 WM ^ühlschrän Kühlwassei Künstliche Kupfer.. Kutter ..
  
 
-—	—
+— —
 ® nippt
 Ur,
 ^H
@@ -1372,26 +1374,26 @@ VmLem.it
 II9 n r» n9e ii 5g ms« n 9i ml Hz, f in n io in 6t nie i« niiBc II11 Ba n 22
 145 n 22 n2
 II 11 B b 159 157 nibd 128
-Kantine 		
-Kantinenlast		
-Karabinerschränke 	
-Kartenhaus 			
-Katterckammer	..
-Aartenspind			
-Kartentisch		
-Kartuschbüchsen	
-Kasten für Fernrohre 	
-,	». Rettungsbojenlichte 	
-,	». Seitenlichter 	
-,	- Schiffskasse 	
-,	» Verschlußsachen	
+Kantine   
+Kantinenlast  
+Karabinerschränke  
+Kartenhaus    
+Katterckammer ..
+Aartenspind   
+Kartentisch  
+Kartuschbüchsen 
+Kasten für Fernrohre  
+, ». Rettungsbojenlichte  
+, ». Seitenlichter  
+, - Schiffskasse  
+, » Verschlußsachen 
 > , wasserdichter, für Munitionswinden ...
-» zur Unterbringung von Gummi	
-Kesfelträger 	
-Kettenkasten	
-Kettenkneifer	
-Kettenschlippstopper .. 		
-Kiel	
+» zur Unterbringung von Gummi 
+Kesfelträger  
+Kettenkasten 
+Kettenkneifer 
+Kettenschlippstopper ..   
+Kiel 
 m 6a I 28 nui 1115e in 6d
 128 HI 6d in 8 ni6d ins
 I 26 HI 8
@@ -1401,18 +1403,18 @@ I 28 112
 I 4»
 Gruppe
 L
-Ladebäume 	
+Ladebäume  
 n 12
-Ladespind für Artillerie-Akkumulatoren		III 8
-Ladetische	 I	48
-LadeübungSkanone	  I	48 II14 i
-Lafettensockel, Unterlage für 	 I 33
-Lage der Schraubenwellen	 112
-Lager für Backspieren	 H 2e
-» , oberes, für Ruder	 I 8
-» unteres, »	-		 1718
-Lamellenbremse 		 n 11
-LängSbalken der Decks 	 113—18
+Ladespind für Artillerie-Akkumulatoren  III 8
+Ladetische  I 48
+LadeübungSkanone   I 48 II14 i
+Lafettensockel, Unterlage für   I 33
+Lage der Schraubenwellen  112
+Lager für Backspieren  H 2e
+» , oberes, für Ruder  I 8
+» unteres, » -   1718
+Lamellenbremse    n 11
+LängSbalken der Decks   113—18
 » 128 in 7
 I 6«
 II 9t
@@ -1430,67 +1432,67 @@ in
 Hfl
 25 M^.
 I*
-Kielplatten				 14* I19
-Klampen 	 146» U 13 1122
-Klappsitze	  m	6
-Klarsichtsenster		 H 6
-Klauenmuffen		 H 10
-Klebstoff für Granitol 		 HI 1
-Kleiderhaken 	  Hl	2—4
-Kleiderkammer 	 128
-Kleiderschränke  	  III	2—4
-Kleiderspinde für Mannschaften	 I 57 HI 5d
-Klinken	 H 8 n 22
-Klüsen 			 I 45
-Klüsenmündungen 		 145
-Klüsenrohr		 145
-Kniebleche	 Vordem. 7 c 6
-Kohlenbunkereinrichtung 	 I 52 II 17
-Kojen 	   HL	2—4
-Kolomalpumpe (Embe-Pumpe)	 n	9n
-Kommandantenküche 	 HI 6
-Kommandantenlast	 I 28
-Kommandantenräume 	 UI	2—4
-Kommandobrücke 	 I	38
-Kommandoschacht	 I	34
-Kommandostand 	   I	34
-Kommandoturm	 134 H 16 H 14h
-Kommandozentrale	 III	6 d
-Kompaßaufstellung	 I	60
-Kompaßausrüstung	 I	60
-Kondensatzellen	 I	28
-Kopffernsprecher, Hellegat für	 I	28
-Korkfüllung 	 19
-Kreiselmutterkompasse 			 ...	160
-Kreiseltochterkompasse 	  I	60
-Kreuzende Verbandteile 	 Vordem. 7o 12
-Kreuzpoller 	  n	22
-Kröpfen 	   Vordem.	7b 4
-Küchen		 113-18 m 6a
-Küchenausgüsse 	 H7c
-Kühlraum 	 I 25 Ao I 28 I 54
-Kühlschränke 	   m	6a
-Kühlwasserpumpen 	  n9
-Künstliche Fluteinrichtung			   n	9e
-Kupfer 	 Vordem.	4o
-Kutter 	  I	46
-Längsbänder	
-Längsschotte 		
-Längsspanten 				
-LängSverbindungen 		
-Landungsfunkgerät, Hellegat für	
-Lasten	
-Last für feuergefährliche Farben	
-Laternenbretter			
-Laternenträger 	
-Laufplanken			
-Laufschienen 	
-Lazarett 	  H	7b H 91 H 20
-Lazaretthellegat	
-Leckdienstkasten 			
-Leckpumpen			
-Lederjacken, Spinde für 	
-Leichte Schotte		
+Kielplatten     14* I19
+Klampen   146» U 13 1122
+Klappsitze   m 6
+Klarsichtsenster   H 6
+Klauenmuffen   H 10
+Klebstoff für Granitol    HI 1
+Kleiderhaken    Hl 2—4
+Kleiderkammer   128
+Kleiderschränke     III 2—4
+Kleiderspinde für Mannschaften  I 57 HI 5d
+Klinken  H 8 n 22
+Klüsen     I 45
+Klüsenmündungen    145
+Klüsenrohr   145
+Kniebleche  Vordem. 7 c 6
+Kohlenbunkereinrichtung   I 52 II 17
+Kojen     HL 2—4
+Kolomalpumpe (Embe-Pumpe)  n 9n
+Kommandantenküche   HI 6
+Kommandantenlast  I 28
+Kommandantenräume   UI 2—4
+Kommandobrücke   I 38
+Kommandoschacht  I 34
+Kommandostand     I 34
+Kommandoturm  134 H 16 H 14h
+Kommandozentrale  III 6 d
+Kompaßaufstellung  I 60
+Kompaßausrüstung  I 60
+Kondensatzellen  I 28
+Kopffernsprecher, Hellegat für  I 28
+Korkfüllung   19
+Kreiselmutterkompasse     ... 160
+Kreiseltochterkompasse    I 60
+Kreuzende Verbandteile   Vordem. 7o 12
+Kreuzpoller    n 22
+Kröpfen     Vordem. 7b 4
+Küchen   113-18 m 6a
+Küchenausgüsse   H7c
+Kühlraum   I 25 Ao I 28 I 54
+Kühlschränke     m 6a
+Kühlwasserpumpen    n9
+Künstliche Fluteinrichtung      n 9e
+Kupfer   Vordem. 4o
+Kutter    I 46
+Längsbänder 
+Längsschotte   
+Längsspanten     
+LängSverbindungen   
+Landungsfunkgerät, Hellegat für 
+Lasten 
+Last für feuergefährliche Farben 
+Laternenbretter   
+Laternenträger  
+Laufplanken   
+Laufschienen  
+Lazarett    H 7b H 91 H 20
+Lazaretthellegat 
+Leckdienstkasten    
+Leckpumpen   
+Lederjacken, Spinde für  
+Leichte Schotte  
 14c TU 110
 I 4b I 4
 I 28 128 in 7
@@ -1499,37 +1501,37 @@ II 22 I 26
 II 14o
 II 21 in 6c I 28 in 6c
 III 8 US nie I 20
-Leichtmetalle	 Vordem.	4d und 7a 4, Anhang D
-Leitern	  I	20 1 21 n 5o
-Lenkstangen für Steuereinrichtung 	 H 10
-Lenzbrunnen		 I11
-Lenzeinrichtungen				 II 9
-Lenzpumpen		 H 9
-Leseräume und Schreibräume	 HI 5f
-Leuchtmunition			 126
-Limonadenapparat, Raum für 	 I 28
+Leichtmetalle  Vordem. 4d und 7a 4, Anhang D
+Leitern   I 20 1 21 n 5o
+Lenkstangen für Steuereinrichtung   H 10
+Lenzbrunnen   I11
+Lenzeinrichtungen     II 9
+Lenzpumpen   H 9
+Leseräume und Schreibräume  HI 5f
+Leuchtmunition    126
+Limonadenapparat, Raum für   I 28
 Linoleum
 Vordem. 4k 113—18
-Lochen 	
-Lochgrätinge 	
-Lotmaschinen, Spuren für	
-Lotplattformen	
-Lotpodeste 	
-Luftdichte Türen	
-Lufthähne 		
-» kammern	
-> kanäle 	
-» pumpen 	.....	
-» rohre	......	 > sammler 	 > saugekammern 		
-» schachte 	
-> wechsel 			
-Lüfter	
-» , tragbare	
-Lüftung-arten	
-» bücher				
-» einrichtung	
-> Maschinen	
-Luken	-	 113—18
+Lochen  
+Lochgrätinge  
+Lotmaschinen, Spuren für 
+Lotplattformen 
+Lotpodeste  
+Luftdichte Türen 
+Lufthähne   
+» kammern 
+> kanäle  
+» pumpen  ..... 
+» rohre ......  > sammler   > saugekammern   
+» schachte  
+> wechsel    
+Lüfter 
+» , tragbare 
+Lüftung-arten 
+» bücher    
+» einrichtung 
+> Maschinen 
+Luken -  113—18
 Vordem. 7b 5 I 36
 U 22 160 160 nsb n 9i
 I 54b 154 U 19 149 150 n 9i 149 154
@@ -1546,7 +1548,7 @@ Lukendeckel...
 II 3b 1 13—18 H 8
 MunittonSstauvorrichtungen .
 - Übernahme.......
-» winden		
+» winden  
 - zurrvorrichtungen
 Musikinstrumente, Raum für
 *W|
@@ -1560,10 +1562,10 @@ K Panzer ...
 I Panzerdeck
 y
 M
-Magnewin	
-Malerhellegat 	
-Malerwerkstatt	
-Mannlochdeckel 	
+Magnewin 
+Malerhellegat  
+Malerwerkstatt 
+Mannlochdeckel  
 Mannlöcher im Jnnenboden
 Vordem. 4d
 II 4b
@@ -1574,8 +1576,8 @@ y
 y
 und leichten Artillerie
 Mannschaftsaborte ....
-in den Decks 				
-- » Schotten 				
+in den Decks     
+- » Schotten     
 » * Stützzylindern der mittleren
 113—18
 110
@@ -1593,14 +1595,14 @@ fülle
 türe
 - y y »
 kleiderspinde
-küche 	
+küche  
 räume ....
 waschraum
 I 48 II 8s II 7d 1121 157 IH bei
-Nachtschußbojen	
-Nachtvisiere 	
-Natürliche Fluteinrichtung 	
-Nautische Instrumente, Raum für Nebeleinrichtungen	 Nebengefechtsverbandplatz	 Medergangskappen	 Medergangsschächte 	 Mete, Nietschrauben	
+Nachtschußbojen 
+Nachtvisiere  
+Natürliche Fluteinrichtung  
+Nautische Instrumente, Raum für Nebeleinrichtungen  Nebengefechtsverbandplatz  Medergangskappen  Medergangsschächte   Mete, Nietschrauben 
 j Panzerung
 llI»Peillompa
 HI 8- » lenzrol
@@ -1612,18 +1614,18 @@ iw
 111
 Phosphat
 Pissoire.
-Marineleim 				
-Marken für Flucht- und Nullinien	 Marcks-Geräte, Spuren und Halterungen für Maschinengerät			
+Marineleim     
+Marken für Flucht- und Nullinien  Marcks-Geräte, Spuren und Halterungen für Maschinengerät   
 in 6a
 157 ms n 20
 Vordem. 4k 19
 y y y y y y
 gewehre ..
-Hellegat .. last	 schreibstube telegraphen träger ....
+Hellegat .. last  schreibstube telegraphen träger ....
 I 48
 160 n 22
 128 ni4 in 8
-Meten 	
+Meten  
 Normalien .
 Notausgänge Roüüstung . Nottüren .. NuNinien...
 148 II8o II 4
@@ -1636,19 +1638,19 @@ nii
 I
 Plattforn
 Plattforn
-Mast	 ...
-Materialienverwalterlast 		
-Material für Rohrleitungen	
-Mechanikerwerkstatt (L-Werkstatt) 	
-Messegerät, Raum für 	
-Messen 	 •••
-Messevorratsräume	
-Messing 					
+Mast  ...
+Materialienverwalterlast   
+Material für Rohrleitungen 
+Mechanikerwerkstatt (L-Werkstatt)  
+Messegerät, Raum für  
+Messen   •••
+Messevorratsräume 
+Messing      
 Meßlatten für die Erprobung der Leistung der
-Lenzpumpen und Ejektoren	
-Meßleisten zum Ausrichten der Geschützstände . Mineralwasserapparat, Raum für	 Mittelkielplatte 		
-Mittellängsschotte	 Möbelabmessungen	 Motorlotmaschine 	 Motorpunkter					
-Mulden für Förderung der Munition	 Munitionsauszüge	
+Lenzpumpen und Ejektoren 
+Meßleisten zum Ausrichten der Geschützstände . Mineralwasserapparat, Raum für  Mittelkielplatte   
+Mittellängsschotte  Möbelabmessungen  Motorlotmaschine   Motorpunkter     
+Mulden für Förderung der Munition  Munitionsauszüge 
 I 28 128 IH 6e
 II16 15 112 121 H5
 128 no
@@ -1673,7 +1675,7 @@ II14
 n 14e
 II 14
 148 1114
-Oberdeck	
+Oberdeck 
 Oberfeldwebelaborte
 117 131
 y
@@ -1696,10 +1698,10 @@ Prüfung
 iPult füi
 » p
 Pulverkc
-in den Kammern	
-» » Decks	
-	 110 125 126
-kammerschotte schächte	
+in den Kammern 
+» » Decks 
+  110 125 126
+kammerschotte schächte 
 154
 ni4o H14d H9e
 110 I 48b
@@ -1717,17 +1719,17 @@ Vordem. Iris Pumper
 zum Einbringen von Maschinen ...
 y
 » der Ruder
-Oldichtigkeit	
-Ölfänger			
-Oltropfrinnen 	
+Oldichtigkeit 
+Ölfänger   
+Oltropfrinnen  
 Olübernahme und Olabgabe in See, Lippen,
-Mulden usw. für	
-Offizierabort 	
+Mulden usw. für 
+Offizierabort  
 y
 y
 y
 »
-bad	
+bad 
 kammern
 küche ...
 last ....
@@ -1748,46 +1750,46 @@ Dahen., NM Ntnu,
  
 
 Trupp«
-* 26 Pallen 	
-188 ry^ PallkräN-e 	 "
-Panzer		
-Panzerdeck 			
-* deckel 	
-» grätinge		
-» platten	
-» rohr 	
-» schrauben	
-» schütz, Anordnung wichttger Teile	
-» Me 			
-, türen, Beschläge für 		 Panzerungen, MgemeineS						
-Peilkompaß 	 » lenzrohre				 		
-» linie für Schiffsdurchbiegung	 ^^ » rohre 				
-19C n 16t Pforten im Zitadellpanzer				
-» in der Außenhaut	
-^^Phosphatieren	 ..
-l!» Pissoire	-	
-Borbem. 4 Pissoirbecken 		 orbem. 7»! Pistolenschränke	 orbem. 7» Plattformdecks						
-II6 II ^Plattformen für Ankermanöver	 154 II1L -	> Fallreepstteppen 	
-HL	,	» Scheinwerfer	
-I K	,	- Sirene, Dampfheuler und
-Tyfone		
-» im Mast 	 Plätterei 			
-Poller	......
-Polsterstühle 		
-^Posteinrichtung 	..
-Pritschen für Arresträume 		
-Profile (Formstahle) 	 Provianträume					
-117 II Prüfung der wafser- und öldichten Wandungen II21 Mi Pult für das Signalbuch 	
-W »	- » Logbuch				
-U Pulverkammer	.	
-D» Pumpen				
-Borbem. l«t Pumpenmeisterhellegat 	 18 MgeiB Purnpenmeisterspind 	
+* 26 Pallen  
+188 ry^ PallkräN-e   "
+Panzer  
+Panzerdeck    
+* deckel  
+» grätinge  
+» platten 
+» rohr  
+» schrauben 
+» schütz, Anordnung wichttger Teile 
+» Me    
+, türen, Beschläge für    Panzerungen, MgemeineS      
+Peilkompaß   » lenzrohre       
+» linie für Schiffsdurchbiegung  ^^ » rohre     
+19C n 16t Pforten im Zitadellpanzer    
+» in der Außenhaut 
+^^Phosphatieren  ..
+l!» Pissoire - 
+Borbem. 4 Pissoirbecken    orbem. 7»! Pistolenschränke  orbem. 7» Plattformdecks      
+II6 II ^Plattformen für Ankermanöver  154 II1L - > Fallreepstteppen  
+HL , » Scheinwerfer 
+I K , - Sirene, Dampfheuler und
+Tyfone  
+» im Mast   Plätterei    
+Poller ......
+Polsterstühle   
+^Posteinrichtung  ..
+Pritschen für Arresträume   
+Profile (Formstahle)   Provianträume     
+117 II Prüfung der wafser- und öldichten Wandungen II21 Mi Pult für das Signalbuch  
+W » - » Logbuch    
+U Pulverkammer . 
+D» Pumpen    
+Borbem. l«t Pumpenmeisterhellegat   18 MgeiB Purnpenmeisterspind  
 113-18 11
 136
-I	o
-<1 Querbalken der Decks		 113—18
-«orbem.» ^Querschotte 	     110
-Querspanten	    15
+I o
+<1 Querbalken der Decks   113—18
+«orbem.» ^Querschotte       110
+Querspanten     15
 II 11 II 11 130—35 115 136 136 II4b 136 II 4o 130—35 134 133 134
 Borbem. 15 I 35
 II 4a 130—35 160
@@ -1801,68 +1803,68 @@ III 6s in 6h
 Borbem. 5 I 28 H 5 Borbem. 9
 III 8 in 8 126 II 9 I 28 m 8
 Truppe
-Rauchfänge, Süllplatten	k	I 24-
-Raumbezeichnungen		 x zg
-Raum für Admiral 			 ni 2
--	» Artillerie-, Torpedo- und Minengerät	i zg
-»	- Bekleidungen	 128
-»	» feuergefährliche Farben ........... I 28 II 9s
-»	» Hängematten	 I 28
-»	-	Kommandanten	 III2
--	-	Kopfhörer		 128
-»	»	Kurzwellensender 		 160
--	- Messegerät	 128	III 6k
--	-	Mineralwasser-	und Selterwasser-
-Apparat 	  128
-»	»	Musikinstrumente			  HI6f
-,	»	Sand	    128
-»	-	Sperrgerät		 128
-»	»	Tropenzeug 		 128
--	»	Vorräte		 128
-Raumluftkühlung 		   154
-Reeptrommeln 				 I111
-Regenkappenbügel 				 n 22
-Registrierapparat, Halterung für			 1122
-Reinaluminium	   Borbem.	46, Anhang D
-Reinigungsgeschirr, Raum für		 •	 I 28
-Reserveanker 	  I	45
-Reserve-Gefechtsfunkraum 			 I 54 m 6
-Reservekleiderkammer	 I	28
-Reserveklüse	   I	45
+Rauchfänge, Süllplatten k I 24-
+Raumbezeichnungen   x zg
+Raum für Admiral     ni 2
+- » Artillerie-, Torpedo- und Minengerät i zg
+» - Bekleidungen  128
+» » feuergefährliche Farben ........... I 28 II 9s
+» » Hängematten  I 28
+» - Kommandanten  III2
+- - Kopfhörer   128
+» » Kurzwellensender    160
+- - Messegerät  128 III 6k
+- - Mineralwasser- und Selterwasser-
+Apparat    128
+» » Musikinstrumente     HI6f
+, » Sand     128
+» - Sperrgerät   128
+» » Tropenzeug    128
+- » Vorräte   128
+Raumluftkühlung      154
+Reeptrommeln      I111
+Regenkappenbügel      n 22
+Registrierapparat, Halterung für    1122
+Reinaluminium    Borbem. 46, Anhang D
+Reinigungsgeschirr, Raum für   •  I 28
+Reserveanker    I 45
+Reserve-Gefechtsfunkraum     I 54 m 6
+Reservekleiderkammer  I 28
+Reserveklüse    I 45
 Reserveschrauben bzw. Reserveschraubenflügel,
-Lagerung der			  .....	160
-Reservesteuerstellen		      n	10
-Rettungsringe, Spuren	und Halterungen für	II	22
-Richtungsachsen 		 134 I 48 I114
-Riffelblech	 113-18
-Rinnen an Fenstern zur Ablenkung des Wassers	II6»
-Rohre 			   Borbem.	4b
-Rohrleitungen		  H9
-Rohrverkleidung	    U	9o
-Rotguß		  Borbem.	4o
-Rückschlagklappen	•	II 7 II 9
-Rückstoß der Geschütze 		 I	48
-Ruder	    I8	U 10
-Ruderballeinrichtung 		 II10
-Ruderbeplattung				
-Ruderblatt			 • 18
-Rudergeschirr						 n 10
-Ruderjoch		 18	U10
-Ruderlager, oberes	  •	18
-- unteres	 17
-Rudermaschinen 		 113—18 II10
-Ruderschaft 	 18	U 10
-Ruderwinkel	-	 U 10
-Rundhölzer 			 H 2
+Lagerung der     ..... 160
+Reservesteuerstellen        n 10
+Rettungsringe, Spuren und Halterungen für II 22
+Richtungsachsen    134 I 48 I114
+Riffelblech  113-18
+Rinnen an Fenstern zur Ablenkung des Wassers II6»
+Rohre       Borbem. 4b
+Rohrleitungen    H9
+Rohrverkleidung     U 9o
+Rotguß    Borbem. 4o
+Rückschlagklappen • II 7 II 9
+Rückstoß der Geschütze    I 48
+Ruder     I8 U 10
+Ruderballeinrichtung    II10
+Ruderbeplattung    
+Ruderblatt    • 18
+Rudergeschirr       n 10
+Ruderjoch   18 U10
+Ruderlager, oberes   • 18
+- unteres  17
+Rudermaschinen    113—18 II10
+Ruderschaft   18 U 10
+Ruderwinkel -  U 10
+Rundhölzer     H 2
 i7dUAM
-Rahen	,.	 n	2
->	I Randpolsterung an den Munittonsschächten ...	I 48
-^Rasierstuhl	»....	 HI	61
-Salutmunition 		    I	26 II14
-Sammelkasten	    II	7b II 9m
-Sammler, Luft-			
-Sand, Kasten für		 9
-Saugeköpfe für Lüftung		
+Rahen ,.  n 2
+> I Randpolsterung an den Munittonsschächten ... I 48
+^Rasierstuhl »....  HI 61
+Salutmunition       I 26 II14
+Sammelkasten     II 7b II 9m
+Sammler, Luft-   
+Sand, Kasten für   9
+Saugeköpfe für Lüftung  
  
 
 U,
@@ -1872,30 +1874,30 @@ UM
 n»
 ui
 StahlguHd Stahlmati Stapellau Staueinri
-Schacht für Antennen	
-»	» Befehls- und Meldeanlagen.
-Schächte für Maschinen- und Kesselräume »	» Notausgänge	
-Schachtverschlüsse 	 Schamfilplatten	 Schamfilrollen	 Schanzkleider	 Scharnierdeckel 	 Scheibenmaterial, Raum für	 Scheinwerfer	 Scheinwerferleuchtstände	 Schieber, wasserdichter	 Schienen unter den Backsbänken 		 Schießblenden	 Schiffbaustahl (Flußstahl) 	 Schiffbauwerkstatt	 Schiffsglocke	  •	■
-Schiffsname	 Schiffsraumlüfter				
-Schiffsschreibstube		
-Schiffstreppen			'•	• • ■
-Schilder 	 Schlafraum für den Admiral	
+Schacht für Antennen 
+» » Befehls- und Meldeanlagen.
+Schächte für Maschinen- und Kesselräume » » Notausgänge 
+Schachtverschlüsse   Schamfilplatten  Schamfilrollen  Schanzkleider  Scharnierdeckel   Scheibenmaterial, Raum für  Scheinwerfer  Scheinwerferleuchtstände  Schieber, wasserdichter  Schienen unter den Backsbänken    Schießblenden  Schiffbaustahl (Flußstahl)   Schiffbauwerkstatt  Schiffsglocke   • ■
+Schiffsname  Schiffsraumlüfter    
+Schiffsschreibstube  
+Schiffstreppen   '• • • ■
+Schilder   Schlafraum für den Admiral 
 
 » » Kommandanten
-Schleusenschieber			
-Schlingen		
-Schlingeranlagen, Räume für	
-Schlingerkiele				
+Schleusenschieber   
+Schlingen  
+Schlingeranlagen, Räume für 
+Schlingerkiele    
 Schlipphaken für Ankerzurrvorrichtungen.
-» im Kettenkasten	
-Schlippstopper		
-Schlösser				
-Schlosserwerkstatt 				
-Schlüssel		 Schmiedestücke			
-Schottbeplattung		 Schotte, leichte 		 Schottöffnungen	 Schottstutzen			
-Schottversteifungen			
-Schranktüren				
-Schrauben 					
+» im Kettenkasten 
+Schlippstopper  
+Schlösser    
+Schlosserwerkstatt     
+Schlüssel   Schmiedestücke   
+Schottbeplattung   Schotte, leichte    Schottöffnungen  Schottstutzen   
+Schottversteifungen   
+Schranktüren    
+Schrauben      
 Schraubenschutz für Schiffe, Sonderschiffe
 »
 » Boote
@@ -1920,34 +1922,34 @@ II11 Ad
 H 22 n
 H 22
 Vordem. 42 6b 110 120 iio n 8 19 110
-Seefallreep 	
-Seewasserlühlleitung 	
-Seewasserleitung	
-Seewasserspülleitung 	
-Segelhellegat	
-Sehschlitzfenster	
-Seitenfenster	
-Seitengänge der Außenhaut Seitenlängsschotte	 Seitenlenzeinrichtung	 Seitenlichter, Kasten für...
-Seitensonnensegel	 Sicherheitsschlösser 		
-Sicherheitsvorrichtungen an den Drehschächten Signalflaggen			
-Signalhellegat 				
-Signalmunition 				
-Signalscheinwerfer, Halter für	
-Sockelringe				
-Sofadoppelkojen		
-Sofakojen	    •	•
-Sondermessing 		
-Spakenkränze 	 Spannschrauben für Takelage 	
-»	- Ankerzurrvorrichtungen...
-Spanten s. Querspanten usw	 Sparstoffe 		
-Speigatten	 -		
-Speigattrohre 			
-Speisetische 			
-Speisewasserzellen 	 Sperrhellegat 	 Sperrwaffen, Einrichtungen für 			
-Spiegelglas 					
-Spier für Lotmaschine 			
-SpMe	   -
-Spinde, leichte 			
+Seefallreep  
+Seewasserlühlleitung  
+Seewasserleitung 
+Seewasserspülleitung  
+Segelhellegat 
+Sehschlitzfenster 
+Seitenfenster 
+Seitengänge der Außenhaut Seitenlängsschotte  Seitenlenzeinrichtung  Seitenlichter, Kasten für...
+Seitensonnensegel  Sicherheitsschlösser   
+Sicherheitsvorrichtungen an den Drehschächten Signalflaggen   
+Signalhellegat     
+Signalmunition     
+Signalscheinwerfer, Halter für 
+Sockelringe    
+Sofadoppelkojen  
+Sofakojen     • •
+Sondermessing   
+Spakenkränze   Spannschrauben für Takelage  
+» - Ankerzurrvorrichtungen...
+Spanten s. Querspanten usw  Sparstoffe   
+Speigatten  -  
+Speigattrohre    
+Speisetische    
+Speisewasserzellen   Sperrhellegat   Sperrwaffen, Einrichtungen für    
+Spiegelglas      
+Spier für Lotmaschine    
+SpMe    -
+Spinde, leichte    
 für artilleristische Instrumente
 ^
 i«
@@ -1997,23 +1999,23 @@ H ^ Stufen
 II
 UL
 IUI
-Schraubenspindel für Steuereinrichtung	
-Schraubenwellen				
-Schreibstuben	
-Schreibräume für Unteroffiziere und Mann¬schaften 	
-Schreibtische			
+Schraubenspindel für Steuereinrichtung 
+Schraubenwellen    
+Schreibstuben 
+Schreibräume für Unteroffiziere und Mann¬schaften  
+Schreibtische   
 Schutz gegen Splitterwirkung und Gasdruck...
-Schutzanstrich	
-Schutzblech für Bordwandstutzen	
-» an Spillen 	
-Schutzgeländer					
-Schutzkleider	
-Schutzsegeleinrichtung		
-Schutzsiebe		
-Schutzvorrichtungen für Luken			
-Schweißen			.	
-Schweißwerkstatt			;
-Schwer zugängliche Stellen	
+Schutzanstrich 
+Schutzblech für Bordwandstutzen 
+» an Spillen  
+Schutzgeländer     
+Schutzkleider 
+Schutzsegeleinrichtung  
+Schutzsiebe  
+Schutzvorrichtungen für Luken   
+Schweißen   . 
+Schweißwerkstatt   ;
+Schwer zugängliche Stellen 
 Schwimmwesten, Spuren und Halterungen für
 Vordem. 4 b
 II 22
@@ -2037,22 +2039,22 @@ Spind
 »
 >
 »
-Aufschlagmelder 	
-Chronometer		
-Flottenatmer 		
-Gefechtsersatz-Glühlampen	
-Heizer 			
-Karten		 ....
-Mannschaft		
-Nachtvisiereinrichtungen 		
-Pistolen		
-Pumpenmeister 	
-Salutmunition	
+Aufschlagmelder  
+Chronometer  
+Flottenatmer   
+Gefechtsersatz-Glühlampen 
+Heizer    
+Karten   ....
+Mannschaft  
+Nachtvisiereinrichtungen   
+Pistolen  
+Pumpenmeister  
+Salutmunition 
 Signalbuch und Signalflaggen ...
-Sternsignalpatronen 	
+Sternsignalpatronen  
 schutzgerät
 Spirituslast
-» Zündungen		  •	•
+» Zündungen    • •
 (gasdichtes) zum Entseuchen von Gas'
 157
 157
@@ -2073,13 +2075,13 @@ lll Teakhol
 Telegra
 Terrazz
 128
-Splitterschutz für Kabel	
-Splitterwirkung, Schutz gegen	
-Sprachrohre			
-Spülpumpe	
-Spülrohre für Aborteinrichtung 		
-Spülwasserleitung 			
-Spuren zum Aufstellen der Hand- und Motor¬lotmaschine 		 			
+Splitterschutz für Kabel 
+Splitterwirkung, Schutz gegen 
+Sprachrohre   
+Spülpumpe 
+Spülrohre für Aborteinrichtung   
+Spülwasserleitung    
+Spuren zum Aufstellen der Hand- und Motor¬lotmaschine       
 Ulf Tiefgmi
 II ^TS*®1
 I« Tische i
@@ -2099,13 +2101,13 @@ II 6d;
 " UM iw Im
 UM iH n$ Utz nui
 Stahlgußstücke ........
-Stahlmaterial 		
+Stahlmaterial   
 Stapellauf, Bauzustand
 Staueinrichtungen für
 »
-Geräte 		
-Heckanker 		
-Munition			
+Geräte   
+Heckanker   
+Munition   
 Spiegel, Streuer usw.
 des Scheinwerfers...
 Krupp»
@@ -2131,21 +2133,21 @@ IU
 in i
 Mi
 in«
-Staugerüste					
-Staukasten für Fenster des Schiffsführungs¬standes 	
-Stauplätze 	     >
-Stauspinde für Artillerie-Akkumulatoren	 Stehendes Gut				.	
-Steigeisen 	 Steigeleiter 	 Steigerohre 	 Stellen, schwer zugängliche 				
-Stellklappen zur Regelung der Luftmengen .. Stemmlöcher			
-Sternsignalpatronenspinde 	 Steuereinrichtungen	.■	
-Steuerkompasse				
-Steuermannsgerät, Raum für	
-Steuermannshellegat		
-Steven, Bor- 		
-» , Hinter- 	 Stöße				
-Stopfbuchsen			
-Stopper	 Strecktaubügel	 Streichen	 Stufen	 Stühle 	 Sturmhaken für Türen	 Stützmäntel für die Geschütze 	 Stützzylinder			
-Stutzen für Bodenventile 		 Sülle 	 Süllwinkel	
+Staugerüste     
+Staukasten für Fenster des Schiffsführungs¬standes  
+Stauplätze       >
+Stauspinde für Artillerie-Akkumulatoren  Stehendes Gut    . 
+Steigeisen   Steigeleiter   Steigerohre   Stellen, schwer zugängliche     
+Stellklappen zur Regelung der Luftmengen .. Stemmlöcher   
+Sternsignalpatronenspinde   Steuereinrichtungen .■ 
+Steuerkompasse    
+Steuermannsgerät, Raum für 
+Steuermannshellegat  
+Steven, Bor-   
+» , Hinter-   Stöße    
+Stopfbuchsen   
+Stopper  Strecktaubügel  Streichen  Stufen  Stühle   Sturmhaken für Türen  Stützmäntel für die Geschütze   Stützzylinder   
+Stutzen für Bodenventile    Sülle   Süllwinkel 
 III 8
 I 26
 IU 8
@@ -2185,8 +2187,8 @@ kW
 •d
 0"^
 
-Takelage			 Takelagezubehör .... Tapeten 		 Taulast	 Tauwerk	 Teakholz..,	 Telegraphen 	 Terrazzo	 Tiefgangsmarken ... Tiefgangsstandrohre . Tische und Stühle .. Tischlerwerkstatt .... Torpedoarmierung ..
-Torpedobahnen	 Torpedohellegat .... Torpedolager	 Torpedolukendeckel .. Torpedoeinrichtungen Torpedoschotte	
+Takelage    Takelagezubehör .... Tapeten    Taulast  Tauwerk  Teakholz..,  Telegraphen   Terrazzo  Tiefgangsmarken ... Tiefgangsstandrohre . Tische und Stühle .. Tischlerwerkstatt .... Torpedoarmierung ..
+Torpedobahnen  Torpedohellegat .... Torpedolager  Torpedolukendeckel .. Torpedoeinrichtungen Torpedoschotte 
 157
 147 H 13 in 1b
 I 28 Vordem. 4k 113—18
@@ -2198,59 +2200,59 @@ I 49A
 HI ni5A II15A 128 II15A II15A II 15A
 I 10
 Kruppe
-Torpedoübernahmekran						 II15A
-Traditionstafel 	  Anhang	P
-Träger der Hauptmaschinen, Wellen, Kessel und Rohrleitungen 	 112
-»	»	Hilfsmaschinen	für Maschinen- und
-Schiffszwecke		 112
-»	für die Davits			 I 46
--	» Zielapparate 			 H 14h II15A
-Transporteinrichtungen für Asche 	  I	53 U 18
-Transp orteinrichtungen für Munition	 I 48 U 14
-Treibölbunker	 I 28
-Treppen		 II 5
--	für Decks und Brücken	 U 5a
--	- Maschinenräume			n 5b
-Treppengeländer	 H 3
-Trimmzelle	   II	9d, f
-Trinkwasserzellen	  I	28 n 9k
-Trinkwasserleitung	   U9k
-Tritte.			.	  I	26 U 5o
-Trockenlast						 I 28
-Trockenräume					   154
-Trommelbrett.			;......	UI 5s
-Tropfbecken			 II 10
-Trossenkneifer		  .^				 H 11 Bd
-Trossenrollen 			 				 						 Vordem.	19 U 22
-Trossentrommel................»:..........	U 11
-Türen, wasserdichte				 II 8a
--	, lüft- und dampfdichte						 H 8b
-»	für Wohnkammern und Messen.......	Hl
--	* Küchen, Bäder, Aborte, Hellegats usw..	Hl
-Türöffnungen, Größe der ...................	110
+Torpedoübernahmekran       II15A
+Traditionstafel    Anhang P
+Träger der Hauptmaschinen, Wellen, Kessel und Rohrleitungen   112
+» » Hilfsmaschinen für Maschinen- und
+Schiffszwecke   112
+» für die Davits    I 46
+- » Zielapparate     H 14h II15A
+Transporteinrichtungen für Asche    I 53 U 18
+Transp orteinrichtungen für Munition  I 48 U 14
+Treibölbunker  I 28
+Treppen   II 5
+- für Decks und Brücken  U 5a
+- - Maschinenräume   n 5b
+Treppengeländer  H 3
+Trimmzelle    II 9d, f
+Trinkwasserzellen   I 28 n 9k
+Trinkwasserleitung    U9k
+Tritte.   .   I 26 U 5o
+Trockenlast       I 28
+Trockenräume        154
+Trommelbrett.   ;...... UI 5s
+Tropfbecken    II 10
+Trossenkneifer    .^     H 11 Bd
+Trossenrollen                 Vordem. 19 U 22
+Trossentrommel................»:.......... U 11
+Türen, wasserdichte     II 8a
+- , lüft- und dampfdichte       H 8b
+» für Wohnkammern und Messen....... Hl
+- * Küchen, Bäder, Aborte, Hellegats usw.. Hl
+Türöffnungen, Größe der ................... 110
 Türvorhänge......................... /.,,... UI 2—4
-Turmunterbauten		 I 33
-Turngeräteraum			128
-Umschottungen der Niedergänge 			 110
+Turmunterbauten   I 33
+Turngeräteraum   128
+Umschottungen der Niedergänge     110
 Unmagnetischer Stahl ................... Vordem. 4 b I 60
-Unterbau für Kommandotürme			 134
-Unterbauten für Wellenlager unb	Wellenbauten	112
-Unteres Plattformdeck	 113a
-Unterlage für Lafettensockel	 I	33
-Unterosfizieraborte 	 U	7b II 21
-Unteroffizierbad	 H	20
-Unteroffizierräume	 HI	5a
-Unterrichtsraum für Unteroffiziere und Mann- fchasten	 HI 5g
-Unterstützungszylinder der Geschütze 		 I 48a
-Unterstützung der Feuerleitgeräte	 I 34, 38 H 14
-Unterzüge	 113—18 I 23
-U. D.-Räume und Horchstelle	 I	25 Bc
+Unterbau für Kommandotürme    134
+Unterbauten für Wellenlager unb Wellenbauten 112
+Unteres Plattformdeck  113a
+Unterlage für Lafettensockel  I 33
+Unterosfizieraborte   U 7b II 21
+Unteroffizierbad  H 20
+Unteroffizierräume  HI 5a
+Unterrichtsraum für Unteroffiziere und Mann- fchasten  HI 5g
+Unterstützungszylinder der Geschütze    I 48a
+Unterstützung der Feuerleitgeräte  I 34, 38 H 14
+Unterzüge  113—18 I 23
+U. D.-Räume und Horchstelle  I 25 Bc
 V
-Ventilation s. Lüftungseinrichtung	
-Ventilatoren s. Lüfter	
-Bentilatorköpfe			
-Ventile, Boden-	
-Bentilverschlüsse				
+Ventilation s. Lüftungseinrichtung 
+Ventilatoren s. Lüfter 
+Bentilatorköpfe   
+Ventile, Boden- 
+Bentilverschlüsse    
 I 54 H 19
 I 54 R 19 H 9g
 n 7
@@ -2261,11 +2263,11 @@ Verbandteile
 Kruppe
 Vordem. 7o
 Verbindung Vordem. 7» u. die entsprechenden Gruppen von 81
-Berholklampon	
-Verholspille	
-Verkehrsboote 	
-Berkehrsluken		
-Berkehrstüren, Größe der	
+Berholklampon 
+Verholspille 
+Verkehrsboote  
+Berkehrsluken  
+Berkehrstüren, Größe der 
 Verkleidungen, Decks-, zu Schönheitszwecken...
 II 22
 H 11
@@ -2274,62 +2276,62 @@ I 46
 110
 in la
 Waschttsche (Waschbecken)...
-Waschwasserzellen	
-Waschwasserleitung	
+Waschwasserzellen 
+Waschwasserleitung 
 Wasserabweiser für Flutspier
-Wasserdichte Schieber	
+Wasserdichte Schieber 
 ^
 
 
 für Rohre und Gestänge der
-Entwässerungseinrichtung	
-der Speigatten			
+Entwässerungseinrichtung 
+der Speigatten   
 H 9o
 II 7d
 *
 y
 *
-Schotte 	
-Spanten	
-Türen			
-Verschlüsse		
+Schotte  
+Spanten 
+Türen   
+Verschlüsse  
 Wandungen, Prüfen der
 Vernietung Vordem. 7a u. die entsprechenden Gruppen von 8 I
 Verschiedener Ausbau
-Verschlüsse 	
+Verschlüsse  
 »
 9
 -
-, wasserdichte	
+, wasserdichte 
 für besondere Zwecke
 »
 
 *
-nicht wasserdichte Kanäle	
-wasserdichte Kanäle	
-Pforten			
+nicht wasserdichte Kanäle 
+wasserdichte Kanäle 
+Pforten   
 Schotte, Decks und Außenhaut.
 Verfchlußplatten für Verkehrsöffnungen
-Versenken	
-Verstärkungen der Decks	
+Versenken 
+Verstärkungen der Decks 
 160 II 22 n 22
 II 8 H 19f II 19b n 19b
 II 4 11 8 I 10 Vordem. 7b 6 113—18
 
 » Aufbauten
-Verstemmen	
-Vertikalpanzerungen	 Berwaltergerät, Raum für Berwaltungsschreibstube... Verwiegung der Bauteile. Verzierungen		 - - - > Verzinkung	 Vorhänge			 Vorratsräume		
-... I 4, I 5, 118, 119 	 Vorbem. 7 b 10 		130—35 .....	I	28
-		III 6s
-		Vordem. 3
-.....	I	59
-Vordem. 7 a, Anhang E 	 HI 2—4 		128 III7
-Wasserdichtigkeit 	
-Wasser, Einrichtungen für Wasser, Räume für	 Wasserlöcher	 Wegerungen 			
-Wellenbocknaben	 Wellenböcke 	 Wellenbrecher 	 Wellenhosen	-
-Wellenmitten	 Wellenrohre		 Wellenträger 	...
-Werkstätten 		
-Werkstoffe		
+Verstemmen 
+Vertikalpanzerungen  Berwaltergerät, Raum für Berwaltungsschreibstube... Verwiegung der Bauteile. Verzierungen   - - - > Verzinkung  Vorhänge    Vorratsräume  
+... I 4, I 5, 118, 119   Vorbem. 7 b 10   130—35 ..... I 28
+  III 6s
+  Vordem. 3
+..... I 59
+Vordem. 7 a, Anhang E   HI 2—4   128 III7
+Wasserdichtigkeit  
+Wasser, Einrichtungen für Wasser, Räume für  Wasserlöcher  Wegerungen    
+Wellenbocknaben  Wellenböcke   Wellenbrecher   Wellenhosen -
+Wellenmitten  Wellenrohre   Wellenträger  ...
+Werkstätten   
+Werkstoffe  
 Vordem. 13
 14
 I 28 1191
@@ -2346,32 +2348,32 @@ I 28
 Vorrichtungen zum Befestigen von Gestängen,
 »
 
-Rohrleitungen, Kabeln.. Einsetzen und Herausnehmen der Ruder	 Auffangen der Schrauben und Schraubenwellen...
+Rohrleitungen, Kabeln.. Einsetzen und Herausnehmen der Ruder  Auffangen der Schrauben und Schraubenwellen...
 I 60
 18 11 22
 Vorsteven
 II 22
 I 6
-Wärmebrücken			
-Wallganglängsschotte	
-Wallgangquerschotte		
-Walzmaterial			
-Walzstahlprofile	
+Wärmebrücken   
+Wallganglängsschotte 
+Wallgangquerschotte  
+Walzmaterial   
+Walzstahlprofile 
 Wände der Niedergangsschächte zu den Ma-
-schinen- und Kesselräumen	
+schinen- und Kesselräumen 
 I 25 110 110 Borbern. 4 Vorbem. 5
 Wände
 der Kommandotürme
-» Luftschächte	
+» Luftschächte 
 des Kettenkastens ...
 Wandpult für Urlaubsbücher ...
-Wannenbäder 	
+Wannenbäder  
 Wascheinrichtung für Mannschaft
 n 20
-Wäscherei	
+Wäscherei 
 Wäscheschränke....
 Wäschetrockenräume
-Waichräume	
+Waichräume 
 Waschschüsseln ....
 I 10
 I 34
@@ -2382,9 +2384,9 @@ II 21
 III 6in
 HI 6m
 III 2—4
-		 125	154 III6L 113—18 II 91, m H 20 HI 6b 			 II	20o
-Wh n/A, Ww n/A		
-Wetterwarte, Raum für Personal der Wielinge, Augen für	 WindmeßanlageO)		 Wohnkammern 	 Wohnkammerschotte 	 Wohnkammertüren	
+   125 154 III6L 113—18 II 91, m H 20 HI 6b     II 20o
+Wh n/A, Ww n/A  
+Wetterwarte, Raum für Personal der Wielinge, Augen für  WindmeßanlageO)   Wohnkammern   Wohnkammerschotte   Wohnkammertüren 
 in 6k
 II 7 119
 Vorbem. 411
@@ -2392,24 +2394,24 @@ Vorbem. 411
 1122
 I 60
 120 m
-Zahlbrett .. 	
-Zapfhähne 		
-Zapfstellen	
-Zeichnungen 	
-Zeigervorrichtung mit Gradeinteilung 	 Zellenschotte 		
-Zement	■
-Zementierungen		
-Zentralverschlüsse 	 Zentrifugallüfter	 Zielgeräte	
-Zielgerät, Raum für			
-Zimmermannsgerät, Raum für	 Zimmermannshellegat	 Zinkschutz 					
-Zugangsöffnungen in den Turmunterbauten .. Zulauf-Kupplungen (Cinheits-Schlauchkupp- lungen) 	
-Zuluftkanäle 	
-Zündungsspinde 		
-Zurrvorrichtung für Anker 	 Zurrvorrichtungen für Geschütze 	
-Zusammenpassen			
-Zwischendeck	
+Zahlbrett ..  
+Zapfhähne   
+Zapfstellen 
+Zeichnungen  
+Zeigervorrichtung mit Gradeinteilung   Zellenschotte   
+Zement ■
+Zementierungen  
+Zentralverschlüsse   Zentrifugallüfter  Zielgeräte 
+Zielgerät, Raum für   
+Zimmermannsgerät, Raum für  Zimmermannshellegat  Zinkschutz      
+Zugangsöffnungen in den Turmunterbauten .. Zulauf-Kupplungen (Cinheits-Schlauchkupp- lungen)  
+Zuluftkanäle  
+Zündungsspinde   
+Zurrvorrichtung für Anker   Zurrvorrichtungen für Geschütze  
+Zusammenpassen   
+Zwischendeck 
 Zwischenringe an den Geschützunterbauten ....
-Zylinder zur Unterstützung der Geschütze 	
+Zylinder zur Unterstützung der Geschütze  
 II SIL IIS!
 Vordem, li
 III«
@@ -2479,7 +2481,7 @@ Tischlerwerkstatt,
 Malerwerkstatt.
 Die Vier Abschnitte sind in Gruppen, die der besonderen Bauvorschrist noch i» I Untergruppen eingeteilt. Die Untergruppen sind am Rande des Textes durch fette» k Druck kenntlich gemacht.
 Erscheinen Untergruppen auch in der allgemeinen Bauvorschrift, sind sie ebenfalls durch I fetten Druck kenntlich gemacht.
-Die allgemeine und die besondere Bauvorschrift für den Schiffskörper werde» abgekürzt bezeichnet: A.B.V. — S —, B.B.V.— 8	.
+Die allgemeine und die besondere Bauvorschrift für den Schiffskörper werde» abgekürzt bezeichnet: A.B.V. — S —, B.B.V.— 8 .
  
 
 2 Vorbemerkungen (3—4»)
@@ -2491,21 +2493,21 @@ In der B. B. V. — 8 — bedeutet der Hinweis »Vergleiche«, daß das Gewicht 
 In der B.B.V. — 8 — und in der A.B.V.— 8 — bedeutet der Hinweis »Siehe» daß der erwähnte Bauteil unter der Gruppe zu verwiegen ist, auf die hingewiesen wird, un daß dort — im allgemeinen in beiden Bauvorschriften — über den Bauteil etwas gesagt ist.
 Die in den Bauvorschriften erwähnten Teile, welche zu der Hauptmaschinenanlage — NI — und zu den maschinenbaulichen Einrichtungen für Schiffszwecke — MII — rechnen, sind durch entsprechende Hinweise gekennzeichnet.
 Die Gewichte »sonstiger Teile« sind wie folgt nachzuweisen:
-Allgemeine Geräte	 in der Gewichtsliste J/
-Nautische Geräte 	 » »	» N/
-Takelage 	 ..’		 » »	» Ta,
+Allgemeine Geräte  in der Gewichtsliste J/
+Nautische Geräte   » » » N/
+Takelage   ..’   » » » Ta,
 Artilleriebewaffnung und Teile derselben, soweit sie zur
-Bauwerftlieferung gehören und in den Bauvorschriften — S — mit f bezeichnet sind, 	 - »	»	A,
+Bauwerftlieferung gehören und in den Bauvorschriften — S — mit f bezeichnet sind,   - » » A,
 Teile der Torpedobewaffnung und der Nebelanlage, soweit
-sie mit °) bezeichnet sind,		» »	»	1,
-Teile der Sperrwaffen, soweit sie mit ") bezeichnet sind	 » -	»	Spr,
-Teile der Flugzeugernrichtung, soweit sie mit °) bezeichnet sind » -	»	F, I
+sie mit °) bezeichnet sind,  » » » 1,
+Teile der Sperrwaffen, soweit sie mit ") bezeichnet sind  » - » Spr,
+Teile der Flugzeugernrichtung, soweit sie mit °) bezeichnet sind » - » F, I
 die mit °) bezeichneten Gegenstände — als Teile der vor-
-behaltenen Lieferungen —, soweit sie zum Schiffskörper gehören, nach der Gruppeneinteilung der Bauvorschriften — 8 —		 in den Anhängen I und HW
+behaltenen Lieferungen —, soweit sie zum Schiffskörper gehören, nach der Gruppeneinteilung der Bauvorschriften — 8 —   in den Anhängen I und HW
 zur Gewichtsliste 8.
 Erscheinen die »sonstigen Teile« nur in der A.B.V. — 8—, so find auch ih«U Gewichte in den zugehörigen Gewichtslisten nachzuweisen.
 Abweichungen von diesen Verwiegungsvorschriften bedürfen der Genehmigung des Ober» kommandos der Kriegsmarine (im folgenden abgekürzt: O. K. M.).
-a)	Allgemeines
+a) Allgemeines
 Sämtliche für die Kriegsschiffe zu verwendenden Werkstoffe müssen von einwan>D freier Beschaffenheit sein. Es sind vorzugsweise die in den XU-Werkstoffnormblättern e^U haltenen Werkstoffe zu verwenden, sofern nicht in Sonberfällen die Verwendung nOR genormter Werkstoffe erforderlich ist.
 In bezug auf die Auswahl und Anwendung der Werkstoffe sind au^r die Angaben in den B.B. V. — 8 — zu beachten.
 In den Stücklisten der Zeichnungen, in Bauvorschriften, Bestellungen usw. ist ö^x genormte Werkstoffkurzzeichen, bei nicht genormten Werkstoffen eine eindeutige und gena»» Werkstoffbezeichnung anzugeben.
@@ -2513,22 +2515,22 @@ In den Stücklisten der Zeichnungen, in Bauvorschriften, Bestellungen usw. ist �
 
 Alle Werkstoffe, soweit sie nicht für untergeordnete und wenig beanspruchte Teile U bestimmt sind, müffen nach den technischen Lieferbedingungen der Kriegsmarine abgenon».» men werden und sind nur von Firmen zu beschaffen, die nach der Lieferanteniiste f^R Kriegsschiffslieferungen zugelaffen sind.
 Für untergeordnete und nichttragende Bauteile kann auch Werkstoff, der nicht» marineseitig geprüft und abgenommen oder von Firmen außerhalb der Lieferanten^ U beschafft worden ist, verwendet werden. Hierzu ist jedoch das Einverständnis der Bai». I beaufsichtigung erforderlich.
-b)	Flußstahl, gewalzt oder geschmiedet
+b) Flußstahl, gewalzt oder geschmiedet
 Boll- und Profilstangen nach KM9103, Bleche nach KM9104.
 Für alle tragenden schiffbaulichen Verbände und alle wichtigeren Bauteile sindR die Stähle 8t 34 KM, St 42 KM und St 52 KM nach KM 9103 und 9104 zu der.» wenden, für sonstige weniger beanspruchte Teile können auch die in den X^l-Werk-I stoffnormblättern aufgeführten vin-Stähle verwendet werden.
-1.	8t 34 KM
+1. 8t 34 KM
 für solche Teile, die feuergeschweißt werden müffen.
-2.	8t 42 KM
+2. 8t 42 KM
 besonders für Bauteile mit geringer Dicke sowie für warm zu biegende Teile.» 3, St 52 KM
 darf nicht für solche Bauteile verwendet tverden, die scharf geknickt werden müffen, insbesondere nicht für Winkel, die aus Plattenstreifen gebogen werden müffen.
-.	4. Unmagnetischer Stahl
+. 4. Unmagnetischer Stahl
 Für alle besonders beanspruchten Bauteile in der Nähe der Magnet¬kompasse sind unmagnetische (austenitische) Stähle, und zwar möglichst nickel- arme oder nickelfreie Stähle zu verwenden. Es muß jedoch von Fall zu Fall bei der Abnahme durch Magnetisierungsproben nachgeprüft werden, ob der Stahl genügend unmagnetisch ist.
-5.	Ungehärtete Panzerbleche und Panzerplatten (Wh—n/A u. Ww—n/A nach A B. B. I Nr. 27
+5. Ungehärtete Panzerbleche und Panzerplatten (Wh—n/A u. Ww—n/A nach A B. B. I Nr. 27
 Zur Erzielung einer möglichst hohen Kerbzähigkeit quer zur Walzrich¬tung, welche für die Beschußeigenschaften von wesentlicher Bedeutung ist, soll die Blechbreite möglichst mehr als 3 000 mm, auf keinen Fall aber unter 2 000 nun betragen. Das Verhältnis von Länge zu Breite soll möglichst 3 :1 nicht überschreiten. Hiervon kann abgewichen werden, wenn die Plattenbreite 3 300 nun und mehr beträgt. Das gleiche gilt sinngemäß für Laschbleche, weil sonst die Laschen bei Treffern zur Rißbildung in der Längsrichtung neigen.
 Verwendung gemäß 8. 8. V. — 8 —.
-6.	Gehärtete Panzerplatten
+6. Gehärtete Panzerplatten
 nach A. B. B. I Nr. 27 für die Gruppen 8130 bis 35, soweit nicht in der 8.8. V. — 8 — etwas anderes vorgcschrieben ist.
-7.	Niete und Nietschrauben (hierfür beachte KM 9103)
+7. Niete und Nietschrauben (hierfür beachte KM 9103)
 Sofern in den besonderen Bauunterlagen nicht anders bestimmt wird/ sollen für die Niete und Nietschrauben zur Verbindung der Bauteile ft'' ] gende Werkstoffe verwandt werden:
 8t 34 KM jur Verbindung von St 34 KM und St 42 KM mit» und uuttl'
 einander.
@@ -2541,27 +2543,27 @@ für Nietschrauben zur Verbindung von 8t 52 KM untereinander und» mit ungehärt
 Chrom-Nickelstahl
 nach besonderen Abnahmebedingungen, die einzufordern sind, zum Nieten besonderer Bauteile gemäß B. B. V. — 8 —.
 Wo zur Verbindung von Bauteilen Niete und Nietschrauben gleichzeitig verwendet werden müssen, sollen die Nietschrauben aus dem gleichen Werk¬stoff wie die Niete hergestellt werden.
-8.	Schrauben und Bolzen
+8. Schrauben und Bolzen
 Auswahl der Werkstoffe je nach Verwendungszweck und erforderlichen Festigkeit nach den XN-Normblättern für Doll- und Profilstangen KM 9103 Blatt 1 und 2.
 Für minderwichtige Verbindungen können mit Zustimmung der Bau¬beaufsichtigung handelsübliche Schrauben verwendet werden.
 Panzerbolzen und Panzerschrauben
 aus Sonderstahl nach der Materialvorschrift der Deutschen Kriegsmarine, Ausgabe 1915, Heft B Nr. 15 zur Verbindung von Panzermaterial der Gruppen 8130 bis 35. Beachte auch A. B. B. II Nr. 10.
-9.	Rohre
+9. Rohre
 Bei höherer Beanspruchung sind nahtlose Rohre nach KM 9105 zu ver¬wenden, z. B. für DeckMtzen 8t 45 KM.
 Bei mäßiger Beanspruchung können auch wassergas-, autogen- oder tief' I trisch geschweißte Rohre verwendet werden.
-10.	Schmiedestücke
+10. Schmiedestücke
 nach KM 9102
 Für Schmiedestücke ist im allgemeinen unlegierter Flußstahl 8t 42,11,1 81C 25 KM, St 50,11 oder St C 35 KM zu verwenden, z. B. für Ladr-» geschirr, Wellenböcke, Ruderschäfte usw. Näheres hierüber siehe unter den ent'» sprechenden Gruppen der Bauvorschrist.
-11.	Stahlguß
+11. Stahlguß
 nach KM 9106
 Stahlgußstücke sind nach Möglichkeit durch Schmiedestücke oder durch V Schweißkonstruktionen zu ersetzen. Hierbei ist u. a. zu berücksichtigen, daß V auch ein Stahlgußstück infolge seiner günstigeren Formgebung einem g? x schweißten Stück überlegen sein kann.
 Bauteile für die in den Bauunterlagen Stahlguß vorgeschrieben ist, so^ 1 in der Regel aus Stg 45 8 KM hergestellt werden. Für höher beansprucht » Stahlgußstücke kann auch Stg 55 KM verwendet werden.
  
 
-12.	Temperguß
+12. Temperguß
 Für mäßig beanspruchte, insbesondere dünnwandige und schwierige I Gußstücke kann hochwertiger Temperguß verwendet werden und zwar ent.I weder Io 35,92 (Schwarzguß) oder le 38,92 (weißer Temperguß) nach! Vin 1692.
 Schwarzer Temperguß hat etwas größere Dehnung und Zähigkeit und I ist besonders bei Stücken mit großer und stark wechselnder Wanddicke zu der | wenden. Für Stücke, die verzinkt oder geschweißt werden sollen, ist weißer Temperguß zu nehmen.
-13.	Gußeisen
+13. Gußeisen
 Verwendung nur für wenig beanspruchte Gußteile, die keinen wesentlichen Stoßbeanspruchungen ausgesetzt sind, besonders für dickwandigere Gußteile (beachte Vin 1691).
 o) Kupfer und Kupferlegierungen
 (Messing, Sondermessing, Rotguß, Bronze, Sonderbronzen)
@@ -2572,16 +2574,16 @@ Nahtlose Rohre nach KM 9205,
 Gußteile nach KM9206.
 Kupfer- und Kupferlegierungen sind für diejenigen Bauteile im Bereich der Magnet¬kompasse zu verwenden, die nicht mit Rücksicht auf die Festigkeit aus höher legierten unmagnetischem Stahl herzustellen sind.
 Es ist zu prüfen, wie weit sich für Teile in der Kompaßzone Kupferlegierungen durch Leichtmetalle austauschen lassen.
-6)	Leichtmetalle
-1.	Schmiede- und Preßstücke nach KM9302
+6) Leichtmetalle
+1. Schmiede- und Preßstücke nach KM9302
 Für Schmiede- und Preßteile AlMgSi oder ^.1 ^-Legierungen und, soweit die Teile geringer Korrostonsbeanspruchung ausgesetzt sind, auch Al CuNZ-Legierungen.
-2.	Stangen und Profile nach KM9303,
+2. Stangen und Profile nach KM9303,
 Bleche nach KM 9304,
 Nahtlose Rohre nach KM9305.
 Reinaluminium und AlMn»Cegierungen für mechanisch wenig beanspruchte Teile.
 Plattierte ^.I6nN§-Legierungen und ^INZ-Legierungen für alle höher beanspruchten Teile.
 AlCuMg»Regierungen für höher beanspruchte Bauteile, die keiner Korro- sionsbeanspruchung ausgesetzt sind (im allgemeinen besser AlCuMg plattiert).
-3.	Gußteile
+3. Gußteile
 nach KM 9306
 Leichtmetallguß kommt wegen seiner niedrigen Festigkeitswerte im allgemeinen nur für wenig beanspruchte Bauteile in Frage. Wegen der besseren Festigkeit eigenschaften sind Preß- und Schmiedestücke im allgemeinen Gußstücken vorzn' ziehen, jedoch kommen Preßstücke wegen der hohen Gesenkkosten nur bei größerer Stückzahl in Frage.
  
@@ -2603,7 +2605,7 @@ Farben
 Hartgläser nach der Materialvorschrist der Deutschen Kriegsmarine M gäbe 1915 Heft 0 Nr. 106, soweit nicht besondere Dorschriftm bestehm.
 Wegerungsstoffe.
 Al fol mit einem Reinheitsgrad von mindestens 99,5 v. H.
-Expansitkorkstein 1 nach der Materialvorschrist der Deutschen Kriegsmarin! Kieselgur f	Ausgabe 1931 Heft L.
+Expansitkorkstein 1 nach der Materialvorschrist der Deutschen Kriegsmarin! Kieselgur f Ausgabe 1931 Heft L.
 Tauwerk
 nach dm Technischen Liestrbedingungen der Kriegsmarine für Stahl-Tauwerk, nach den Technischen Liestrbedingungen der Kriegsmarine für Bronze-Tauwerk, nach dm Technischen Lieferbedingungen der Kriegsmarine für Hans-Tauwerk.
 «) Sparstosfe
@@ -2621,11 +2623,11 @@ a Allgemeines
 1. Leichtbau
 Die für den Längsverband in Frage kommenden Platten und Formstahle aus Flußstahl sollen in möglichst großen Längen verwendet werden. Wenn nicht ausdrücklich etwas anderes! vorgeschrieben ist, sollen aus Schiffen über 150 m Länge die Platten möglichst nicht unter 12 w,l die Formstahle möglichst nicht unter 15 m lang sein. Für die Abmessungen der ungehärtete» V Panzerbleche und Panzerplatten beachte Vorbemerkung 4d5. Wenn beim Einziehen von Längs, i bändern infolge der oben verlangten großen Länge Schwierigkeiten entstehen, können die Längs, bänder den vorliegenden Verbältniffen entsprechend kürzer gewählt werden.
 Falls aus Herstellungsgründen für die schweren Stahlguß« und Schmiedestücke Änderung!» der Wanddicken, Rippen usw. nötig sind, ist eine Zeichnung der Änderung zur Kenntnisnahmt vorzulegen.
-2. Marineübliche
+1. Marineübliche
 Ausführung
 3.Normen« und
 Musterblätter
-4. Leichtmetalle
+1. Leichtmetalle
 Alle Teile des Schiffskörpers und seiner Einrichtungen müssen so leicht wie möglich gebaut werden.
 Gebrauch und Vorschriften der Marine sind auch dort maßgebend, wo in den Bauunterlagen nicht besonders darauf hingewiesen wird oder Abweichungen nicht ausdrücklich angegeben sind.
 Normen« und Musterblätter sind anzuwenden, soweit dem nicht wirtschaftliche Bedenken oder Einzelbestimmungen in der Bauvorschrist entgegenstehen/ jedoch ist in jedem Einzelsalle zu prüfen, ob nicht zur Gewichtsverminderung die Werkstoffdicken und auch einzelne Größen« abmeffungen herabgesetzt oder Gußstücke durch Gebilde aus geschweißten Platten ersetzt werden können.
@@ -2638,8 +2640,8 @@ Ein Verzeichnis der aus Leichtmetall herzustellenden Gegenstände und der hierf�
  
 
 Uorbrmerfungen (7»S-dy
-5.	Elektrisch Schweißen
-6.	Rieten
+5. Elektrisch Schweißen
+6. Rieten
 7. Verzinken
 8. Phosphatieren
 b Bearbeitung von W«l,Werkstoff
@@ -2649,10 +2651,10 @@ Sofern wegen der Flanschbreite der vorgeschriebenen Formstahle die in der Nietvo
 Für die Anordnung und Ausführung der Schweißung gilt die Schweißvorschrift A. B. B. II Nr. 4 A, für die der Nietung die Nietvorschrift A. B. B. Nr. 9 und dir RM/HN^Normenblätter Nil—5. Wegen der zu verwendenden Nietdurchmeffer (ob nach A. B. B. Nr. 9 oder nach Ni 1—3) ist anzufragen/ für die Nietform gelten die Normenblätter.?
 Grundsätzlich sollen verzinkt werden, soweit nicht in der 8.8. V. — 8 — etwas änderet oorgeschrieben wird:
 ' 1. Bauteile aus Flußstahl von geringer Dicke in Bilgen.
-2.	Beplattung unter 5 uw» Dicke bei Wetterdecks ohne Holzbelag und bei solchen Schein« Werfer-Plattformen, deren Konservierung schwierig ist.
-3.	Umschottungen von Aborten, Bade« und Waschräumen, Küchen und sonstigen der? Feuchtigkeit ausgesetzten Räumen, desgleichen Wegerungsbleche, sofern sie für diese? Räume vorgesehen werden.
-4.	Rauchfang- und Luftschächte unter 5 nun Dick.
-5.	Alle Bleche und Formstahle von 3 mm Dick und darunter (die 2 mm dickn Topp¬platten an Kammerschotten, die der Feuchtigkeit nicht ausgesetzt find, brauchen »licht verzinkt zu werden) sowie alle eisernen Bauteile, die mit solchen aus Leichtmetall I verbunden werden/ ferner solche Bau- und Beschlagteile aus Eisen und Stahl, bei! denen es zur Vermeidung von Rostbildung in der Marine gebräuchlich ist, wie Be> I schlage an Türen, Treppen und Luken, soweit fie auf steien Decks liegen, an Masten, I am Ladegeschirr, an den Rundhölzern usw./ Drahtnetze, Fleischhaken, Geländer, I Grätinge, Griffe, Holzschrauben, schmiedeeiserne Rohrleitungen, Bedienungsgestänge I (Rohre), Stutzen für Bodenventile, durch die warmes Wasser nach außenbordsf geführt wird, Takelagezubehör usw.
+2. Beplattung unter 5 uw» Dicke bei Wetterdecks ohne Holzbelag und bei solchen Schein« Werfer-Plattformen, deren Konservierung schwierig ist.
+3. Umschottungen von Aborten, Bade« und Waschräumen, Küchen und sonstigen der? Feuchtigkeit ausgesetzten Räumen, desgleichen Wegerungsbleche, sofern sie für diese? Räume vorgesehen werden.
+4. Rauchfang- und Luftschächte unter 5 nun Dick.
+5. Alle Bleche und Formstahle von 3 mm Dick und darunter (die 2 mm dickn Topp¬platten an Kammerschotten, die der Feuchtigkeit nicht ausgesetzt find, brauchen »licht verzinkt zu werden) sowie alle eisernen Bauteile, die mit solchen aus Leichtmetall I verbunden werden/ ferner solche Bau- und Beschlagteile aus Eisen und Stahl, bei! denen es zur Vermeidung von Rostbildung in der Marine gebräuchlich ist, wie Be> I schlage an Türen, Treppen und Luken, soweit fie auf steien Decks liegen, an Masten, I am Ladegeschirr, an den Rundhölzern usw./ Drahtnetze, Fleischhaken, Geländer, I Grätinge, Griffe, Holzschrauben, schmiedeeiserne Rohrleitungen, Bedienungsgestänge I (Rohre), Stutzen für Bodenventile, durch die warmes Wasser nach außenbordsf geführt wird, Takelagezubehör usw.
 Die tatsächlich auf den verschiedenen Schiffsarten für die Verzinkung in Betracht ww«« wenden Bauteile werden in der 8.8. V. — 8 — im Anhang 8 festgelegt.
 Auf die Verzinkung ist besondere Sorgfalt zu verwenden. Die Bauteile find im allgemeinen I beiderseitig zu verzinken. Dagegen sind Innenflächen von Trinkwasserzellen, Olbunkern und» Öltanks sowie alle Bauteile in diesen Zellen, Bunkern und TanK nicht zu verzinken.
 Platten dürfen beim Verzinken zusammengebogen werden, wenn die KrümmungShalb» meffer der Buchten so groß sind, daß weder die Festigkeit der Platten noch die Güte der Del'» zinkung durch das Biegen beeinträchtigt werden.
@@ -2674,26 +2676,26 @@ Bauteile aus ungehärteten Panzerblechen und Panzerplatten (Whn/A und Wwn/A)
 dürfen nicht scharf gebogen, nicht geknickt und nicht im Feuer bearbeitet werden, daS autogene
 Schneideverfahren gilt dabei nicht als Feuerbearbeitung.
 Da daS Kaltbiegen bei diesem Werkstoff den Beschußwiderstand verringert, darf der innere Krümmungshalbmesser der Biegung nicht weniger als etwa bOfache Plattendicke be« tragen. Biegungen mit einem kleineren Krümmungshalbmesser, bei denen der Werkstoff ange- wärmt werden muß, dürfen im allgemeinen nur von der Fa. Fried. Krupp A. G. auSgeführt werden. In jedem einzelnen Falle ist anzufragen.
-2.	Bördeln	Die freien Kanten aller Stützbleche, Kniebleche usw. von 10 mm Dicke und darunter find
+2. Bördeln Die freien Kanten aller Stützbleche, Kniebleche usw. von 10 mm Dicke und darunter find
 zu bördeln, wenn die Bauunterlagen nicht andere Angaben enthalten. Der innere Krümmungs-halbmesser der Bördelungen soll nicht weniger als die doppelte, ihre Breite im allgemeine« nicht mehr als die vierfache Plattendicke betragen. Soweit zulässig, soll an den Enden der Bördelungen zur GewichtSersparniS das für die Festigkeit überflüssige Material unter einem Winkel von etwa 20° abgeschnitten werden.
 Um daS Einreißen von Platten beim Bördeln und Ioggeln zu vermeiden, find Scheren- grate vorher zu entfernen. Körnerschläge zum Anzeichnen der Bördelung müssen auf deren Innenseite gesetzt werden, um daS Einreißen an den Stellen der Körnerschläge zu verhindern.
 Bei Anwendung von Nietung sollen, soweit möglich, an Stelle von Verbindungswinkeln an den Stützblechen und an den eingeschobenen Platten der Ouerspanten usw. sowie an den über der Schwimmlinie liegenden Schott- und Decksversteifungen Bördelungen angeordnet werden.
-3.	Ioggeln, Über- Werden Plattennähte genietet, so sollen die Landungen im allgemeinen klinkerartig ab-1 lappen	geknickt werden.
+3. Ioggeln, Über- Werden Plattennähte genietet, so sollen die Landungen im allgemeinen klinkerartig ab-1 lappen geknickt werden.
 Wenn in besonderen Fällen beabsichtigt wirb, die Nähte zu joggeln, so ist die Entscheidung! deß O. K. M. einzuholen.
 Um eine durchlaufende Gurtung für die zugehörigen Spanten, Balken ober Versteifungen I zu schaffen, müssen im allgemeinen an den betreffenden Kreuzungsstellen vor Ausführung der» Nietung die Kehlen auf 40 fache Plattendicke vollgeschweißt werden.
 Stöße dürfen nicht gejoggelt werben/ sie werden geklinkert, ober sie erhalten Stoßbleche R Der Biegungshalbmesser der Ioggelung muß mindestens die doppelte, die KröpfungSbreiteJ die vierfache Plattendicke betragm.
-4.	Kröpfer	Um daS Kröpfen von Formstahlen über die Flanschen von Gußstücken und über Platte«'!
+4. Kröpfer Um daS Kröpfen von Formstahlen über die Flanschen von Gußstücken und über Platte«'!
 kanten zu vermeiden, sind die Gußflanschen und Plattenkanten auszuschärfen, oder eS sind Keil'M stücke einzulegen/ die Flanschen der Guß- und Schmiedestücke für Geschützstände dürft» nicht auS-L geschärft werden.
 Sponungm, Falze, Verblattungen find mit abgerundeten Ecken herzustellen.
-5.	Lochen	Bördelungen und Ioggelungen sollen im allgemeinen erst nach dem Biegen gelocht werbe«/I
+5. Lochen Bördelungen und Ioggelungen sollen im allgemeinen erst nach dem Biegen gelocht werbe«/I
 im übrigen beachte A. B. B. Nr. 9 Abschn. D.
-6.	Versenken	Jedes Versenk muß die vorschriftsmäßige Tieft und Form erhalten. Beachte A. DB. Nr
+6. Versenken Jedes Versenk muß die vorschriftsmäßige Tieft und Form erhalten. Beachte A. DB. Nr
 und RM/HNA. Ni 1 bis 5.
  
 
 OottaNtfmaai
 (7b 7—c 1)
-7.	Streichen	Alle Eisenteile find vor de« Aufträgen des ersten Anstrichs durch Schrapen und Bürsten V
+7. Streichen Alle Eisenteile find vor de« Aufträgen des ersten Anstrichs durch Schrapen und Bürsten V
 von Rost und Schmutz gründlich zu reinigen. Außerdem ist sorgfältig darauf zu achten, daß g
 die zu streichenden Bauteile vollständig trocken find, damit die Farbe bindet und das Eisen V
 unter der Farbschicht nicht rostet. Im besonderen ist die Beseitigung von Schwitzwaffer dadurch I
@@ -2712,14 +2714,14 @@ Leichtnletalle müssen vor dem Streichen gut gereinigt und entfettet werden (Rei
 durch Sandstrahlen, Beizen in Natronlauge usw., Entfetten in geeigneten Lösungsmitteln).
 Für den Anstrich der Leichtmekalle sind geeignete und erprobte Spezial-Anstrichmittel zu ver-
 wenden.
-8.	Zusammenpassen Zusammenzunietende Flächen müffm in ihrer ganzen Ausdehnung unmittelbar aufein-
+8. Zusammenpassen Zusammenzunietende Flächen müffm in ihrer ganzen Ausdehnung unmittelbar aufein-
 anderliegen, u. a. auch die mit der Beplattung zu vernietenden Flanschen von L, £_, T
 und £ Spanten usw. an dm SchiffSenden und an ähnlichm Stellen mit stärkerer Krümmung.
 Bei zu nietendm Naht« und Stoßverbindungm mit Nahtstrrifen und Stoßblechm müssen
 die Plattmkanten gehobelt werdm. Bei zu schweißendm Plattenverbindungm genügt im allge«
 meinm schräger Scheren- oder Brennerschnitt- der mtstehende Grat ist zu beseitigm.
 Schweißung und Nietung gemäß Vorbemerkung 7 a, 5 und 6.
-9.	Dichten	Bei geschweißten Wandungm soll die Dichtigkeit durch die Schweißung selbst ohne weitere
+9. Dichten Bei geschweißten Wandungm soll die Dichtigkeit durch die Schweißung selbst ohne weitere
 Nacharbeit erreicht werdm. Gmietete Schotte usw. find grundsätzlich durch Verstemmen waffer¬und öldicht zu machm.
 Wo erforderlich, find Stemmlöcher oder Schweißlücher vorzusehen.
 10. Verstemmen
@@ -2755,10 +2757,10 @@ Im allgemeinen sollen Nähte und Stöße geschweißt werden. Wo Verbandteile noc
 Der Nietquerschnitt bei Festigkeitsmietung ist so zu bemessen, daß sich die Spannungen der anzuschließenden Querschnitte zu den Spannungen der Nietquerschnitte verhalten wie 1 :0,6.
 Bei mehrreihiger Nietung sind außerdem Wertzahlen nach folgender Tabelle zu berück¬sichtigen:
 Bei Verbindung etwa gleichdicker Teile
-	Reihenzahl
-	1	2	3	4
-Zug		1	2	2,7	3,4
-Schub ....	1	2	2,3	—
+ Reihenzahl
+ 1 2 3 4
+Zug  1 2 2,7 3,4
+Schub .... 1 2 2,3 —
 3. Träger- Gurtplattrn
 -Stege
 4. Endbefestigung
@@ -2808,18 +2810,18 @@ Die Außenhaut und der Innenboden sind wasserdicht zu machen, soweit sie nicht �
 Zur Befestigung von Bauteilen sind Löcher in den Beplattungen für durchgehende Schrauben grundsätzlich zu vermeiden.
 Auf der Dersteifungsseite der Wandungen sind die Bauteile an den Versteifungen selbst oder auf zwischen diesen vorzusehenden Verbindungsstücken zu befestigen. Auf der Plattenseitr sind sie durch Schweißen oder Nieten unmittelbar mit den Platten selbst zu verbinden. Wo ausnahmsweise Schrauben verwendet werden müssen, sind die Schraubbolzen auf die Be> plattung zu schweißen, andernfalls sind Nictschrauben zu verwenden.
 Für die Herstellung von Dldichtigkeit gelten folgende Bestimmungen:
-1.	Genietete Verbandteile sind so anzuordnen, daß alle Dichtungsnähte sowie alle Kanten und Niete von einer Seite (der Hauptstemmseite) gestemmt werden können. Bei ein« seitig benetzten Wandungen ist im allgemeinen die unbenetzte Seite die Hauptstemm- feite. Es sollen möglichst wenig Verbandteile durch die Wände der Bunker und Tan8 gehen. Die erforderlichen Stemmlöcher sind vorzusehen. Wenn möglich sind nie mehr als zwei Bauteile durch dasselbe Niet zu verbinden. Es sollen so wenig Bauteile wie möglich an der Hauptstemmseite der Wände befestigt werden. Läßt sich dies nicht vermeiden, sind alle Nietköpfe und alle Kanten dieser Bauteile an der Hauptstennri' feite zu stemmen. Ausnahmsweise dürfen die Köpfe von Nieten für Versteifung stähle, die an der Außenwand der Bunker und Tanks angebracht werden, auf der voi" öl benetzten Seite gestemmt werden. Kabel, Rohrleitungen usw. dürfen nicht W mittelbar auf der Hauptstemmseite befestigt werden. Die Hauptstemmseite soll eint« auffälligen Anstrich erhalten, um die Beachtung der vorstehenden Bestimmungen P sichern.
-2.	Alle geschweißten Derbandteile sind so anzuordnen, daß die Dichtigkeit ohne Raö arbeit erreicht wird. Hierfür sind Schweißlöcher in dem erforderlichen Umfang vorzusehen.
-3.	Die zu verstimmenden Kanten sind sauber zu bearbeiten, wenn möglich zu hobel"- Beim Lochen ist darauf zu achten, daß die Löcher von der Seite auS gestanzt werde"' mit welcher die Derbandteile aufeinanderliegen sollen. Nähte und Stöße der Wa"' düngen sind nicht zu joggeln.
+1. Genietete Verbandteile sind so anzuordnen, daß alle Dichtungsnähte sowie alle Kanten und Niete von einer Seite (der Hauptstemmseite) gestemmt werden können. Bei ein« seitig benetzten Wandungen ist im allgemeinen die unbenetzte Seite die Hauptstemm- feite. Es sollen möglichst wenig Verbandteile durch die Wände der Bunker und Tan8 gehen. Die erforderlichen Stemmlöcher sind vorzusehen. Wenn möglich sind nie mehr als zwei Bauteile durch dasselbe Niet zu verbinden. Es sollen so wenig Bauteile wie möglich an der Hauptstemmseite der Wände befestigt werden. Läßt sich dies nicht vermeiden, sind alle Nietköpfe und alle Kanten dieser Bauteile an der Hauptstennri' feite zu stemmen. Ausnahmsweise dürfen die Köpfe von Nieten für Versteifung stähle, die an der Außenwand der Bunker und Tanks angebracht werden, auf der voi" öl benetzten Seite gestemmt werden. Kabel, Rohrleitungen usw. dürfen nicht W mittelbar auf der Hauptstemmseite befestigt werden. Die Hauptstemmseite soll eint« auffälligen Anstrich erhalten, um die Beachtung der vorstehenden Bestimmungen P sichern.
+2. Alle geschweißten Derbandteile sind so anzuordnen, daß die Dichtigkeit ohne Raö arbeit erreicht wird. Hierfür sind Schweißlöcher in dem erforderlichen Umfang vorzusehen.
+3. Die zu verstimmenden Kanten sind sauber zu bearbeiten, wenn möglich zu hobel"- Beim Lochen ist darauf zu achten, daß die Löcher von der Seite auS gestanzt werde"' mit welcher die Derbandteile aufeinanderliegen sollen. Nähte und Stöße der Wa"' düngen sind nicht zu joggeln.
  
 
-1.	Der Nietabstand soll bei allen Bauteilen, deren Kanten zu stemmen sind, betragen » nicht mehr als 3'/, Nietdurchmeffer bei Dicken unter 8 nun und nicht'Mehr als 4 Nietdurchmeffer bei Dicken von 8 mm an auswärts.
+1. Der Nietabstand soll bei allen Bauteilen, deren Kanten zu stemmen sind, betragen » nicht mehr als 3'/, Nietdurchmeffer bei Dicken unter 8 nun und nicht'Mehr als 4 Nietdurchmeffer bei Dicken von 8 mm an auswärts.
 Die Niete sollen zwei versenkte Köpfe haben, welche die zu verbindenden BaukilM nicht ganz durchdringen dürfen. Der Konus in den Dichtungsteilen muß genau juw dem der Nietköpfe paffen. An schlecht zugänglichen Stellen, an denen versenkte Nietr» nicht einwandfrei geschlagen werden können, dürfen Niete mit vorstehenden Setz« undI Schließköpfrn verwandt werden.
 Für die Ausführung der Schweißung ist die Schweißvorschrist maßgebend.
-5.	Bei genieteten Bauteilen darf Dichtungsmaffe angcwendet werden:
-a)	bei Bauteilen, die eine Wand der Olbunker und «tanks durt^ringen, wem« Stemmlöcher aus Festigkeitsgründen nicht zulässig sind,
-d)	an den Stellen, an denen sich Nähte und Wände oder Nähte und Versteifung^.» stähle kreuzen,
-o)	dort, wo wegen Zusammentreffens mehrerer Derbandteile die Dichtung durch! Derstemmm unmöglich ist.
+5. Bei genieteten Bauteilen darf Dichtungsmaffe angcwendet werden:
+a) bei Bauteilen, die eine Wand der Olbunker und «tanks durt^ringen, wem« Stemmlöcher aus Festigkeitsgründen nicht zulässig sind,
+d) an den Stellen, an denen sich Nähte und Wände oder Nähte und Versteifung^.» stähle kreuzen,
+o) dort, wo wegen Zusammentreffens mehrerer Derbandteile die Dichtung durch! Derstemmm unmöglich ist.
 Für die Ausführung der Verschlüsse und für die Oldichtigkeit von Rohr« und Gestänge-1 durchführungen usw. ist die in den Bauplänen angegebene Verwendung der Räume maßgebend. I
 Müssen an Torpedo- und sonstigen Schutzschotten oder an gepanzerten Decks unterhalb der Druckhöhenlinie (beachte die Zeichnung »Druckhöhen- und Belastungsplan«) Bauteile, die an! den beiden Plattenseiten einander gegenüberliegen, durch Schrauben befestigt werden, so ist die Schraubenteilung so zu wählen, daß die Löcher nicht aufeinandertreffen. Wenn bas nicht möglich ist, muß durch geeignete Maßnahmen dafür gesorgt werden, daß Ol oder Leckwasser nicht durch die Schranbenverbindung treten kann.
 Die vorstehenden Bestimmungen gelten sinngemäß auch für die Wasserdichtigkeit.
@@ -2874,7 +2876,7 @@ Bei auf Privatwerften gebauten Schiffen ist dafür zu sorgen, daß bei der Über
 Für die weiteren gemäß A. B. B. II Nr. 5 Abschnitt 8 und 6 vorgeschriebenen Rach- Prüfungen lebenswichtiger Räume unter Panzerdeck auf Dichtigkeit sollen Anschlußmöglichkeito» für Preßluft von vornherein vorgesehen werden. Diese Anschlüsse sind nach jeder Prüfung j zu plombieren. Für die Zusammenstellung der üntersuchungsergebnisse usw. gilt daS vor- stehend unter Vorbemerkung 9 am Schluß Gesagte.
 11 Schwer zugäng-
 liche Stellen
-1.	Alle Räume müssen zugänglich sein. Schwer zugängliche Stellen, an welchen dir spätere Untersuchung und Erhaltung des Schiffskörpers erschwert ist oder unmöglich sein würde, müssen vermieden werden. Ist dies nicht zu erreichen, so ist folgend^ zu beachten:
+1. Alle Räume müssen zugänglich sein. Schwer zugängliche Stellen, an welchen dir spätere Untersuchung und Erhaltung des Schiffskörpers erschwert ist oder unmöglich sein würde, müssen vermieden werden. Ist dies nicht zu erreichen, so ist folgend^ zu beachten:
  
 
 ^ g Dorbtmnkungen (11
@@ -2883,17 +2885,17 @@ Alle toten Ecken und Winkel sind, soweit erforderlich, mit Zement oder Kork J Ma
 Alle Ecken und Winkel, in denen sich Wasser ansammeln kann, wie im Boden der Schiffes, zwischen der Panzerdecksböschung und der Außenhaut usw., sollen so aus. zementiert werden, daß sich das Wasser an bestimmten Stellen sammeln kann.
 Auf der Panzerdecksböschung angeordnete Winkel für die Verbindung des Panzer, decks mit der Außenhaut sollen sorgfältig in Zement eingebettet werdm.
 Wo die Zementlage eine Dicke von 100 mm und darüber erhalten muß, ist zunächst eine 25 bts 30 mm dicke Schicht Zement aufzutragen. Hierauf ist eine Schicht gestoßen« Koks aufzubringen, der sorgfältig mit einer Zementschuht zu bedecken ist. Derartige Zementierungen sind auch sonst anzubringen, wo es erforderlich ist, jedoch so leicht und sparsam wie möglich auszuführen, um unnöttge Mehrgewichte zu vermeiden.
-2.	Ringsherum abgeschottete Räume, die unbenutzt bleiben, sollen in ihren Umschoi- Lungen Öffnungen erhalten, die nötigenfalls mit Deckeln oder losschraubbaren Plaß ten zu versehen sind, oder es sind ganze Wände mit Schrauben zu befestigen. Hierher gehören die zylindrischen Unterbauten der Geschütze, die Unterbauten von Boots« tränen usw., die Ecken und Winkel, die beim Einbau von Einrichtungen entstehen und Blechabschottungen erhalten (soweit sie nicht zu 1. gehören), die an den Decks« fenstern zum Schutz gegen Pulvergase durch Abschrägung geschaffenen Räume und dergleichen.
+2. Ringsherum abgeschottete Räume, die unbenutzt bleiben, sollen in ihren Umschoi- Lungen Öffnungen erhalten, die nötigenfalls mit Deckeln oder losschraubbaren Plaß ten zu versehen sind, oder es sind ganze Wände mit Schrauben zu befestigen. Hierher gehören die zylindrischen Unterbauten der Geschütze, die Unterbauten von Boots« tränen usw., die Ecken und Winkel, die beim Einbau von Einrichtungen entstehen und Blechabschottungen erhalten (soweit sie nicht zu 1. gehören), die an den Decks« fenstern zum Schutz gegen Pulvergase durch Abschrägung geschaffenen Räume und dergleichen.
 Die Unterbauten der Hauptmaschinen, Kessel, Wellenleitung und Hilfs« Maschinen sind durch genügend große Öffnungen zugänglich zu machen. Diejenigen Bauteile, die ihrer Lage wegen nur selten untersucht werden können, sind namentlich an den Stellen, wo sie mit Bilgewasser in Berührung kommen, besonders sorgfältig mit dem vorgeschriebenen Anstrich zu versehen.
-3.	Wenn größere Flächen durch Rohrleitungen usw. bedeckt werden, so sind die Rohr« leitungen usw. möglichst in so großen Abständen von den Wandungen usw. zu ver¬legen, daß diese noch zugänglich bleiben. Dies gilt auch für die Aufstellung von Hilssmaschinen, Apparaten u. dgl.
+3. Wenn größere Flächen durch Rohrleitungen usw. bedeckt werden, so sind die Rohr« leitungen usw. möglichst in so großen Abständen von den Wandungen usw. zu ver¬legen, daß diese noch zugänglich bleiben. Dies gilt auch für die Aufstellung von Hilssmaschinen, Apparaten u. dgl.
 Bei Kabelbündeln wird die Zugänglichkeit der Wandungen häufig durch Lösen» der Kabelschellen und Abbiegen der Kabel erreicht werden können. Sofern die Kabel-V bündel jedoch sehr umfangreich und unbiegsam werden, sind sie aus besonderen Blech« streifen und in solchem Abstande von den Wandungen zu verlegen, daß deren Zugäng-I lichkeit gewahrt bleibt. Wo dies wegen Naummallgels nicht durchführbar ist, müsse« die Wandungen usw. durch Anstrich mit Marineleim oder Asphalt so geschützt werde« daß Rostbildung nicht auftreten kann.
-4.	Mit den Luftkanälen ist wie 3. zu verfahren, sofern sie nicht auch bei wasserdichte»! Kanälen im ganzen losnehmbar eingerichtet werden, um nicht nur die benachbarte« Bauteile, sondern auch die Kanäle selbst zugänglich zu machen.
+4. Mit den Luftkanälen ist wie 3. zu verfahren, sofern sie nicht auch bei wasserdichte»! Kanälen im ganzen losnehmbar eingerichtet werden, um nicht nur die benachbarte« Bauteile, sondern auch die Kanäle selbst zugänglich zu machen.
 Wenn es notwendig wird, Luftkanäle unmittelbar auf einem Schott oder auf beM Außenhaut derartig zu befestigen, daß eine Wand des Kanals durch die betreffeniM Beplattung gebildet wird, so ist letztere dadurch zugänglich zu machen, daß in Kanälen Öffnungen (Handlöcher) mit verschraubbaren, bei wasserdichten Kanälen flif» wasserdichten Deckeln vorgesehen werden, oder ein größerer Teil einer Kanalwa^I losnehmbar eingerichtet wird.
 Gegen Sprengung durch Frost sollen hohle Teile durch Abdichtcn oder, wenn trohbelW Wasser in ba8 Innere gelangen kann, durch Entwässerungslöcher an der tiefsten Stelle obe« in anderer geeigneter Weise geschützt werden. Beachte Vorbemerkung II.
  
 
-13 Durchfluß- öffnungen
-14 Schutz gegen Splitterwirkung und Gasdruck
+13. Durchfluß- öffnungen
+14. Schutz gegen Splitterwirkung und Gasdruck
 In den nicht wasser« oder öldichten Längs« und Ouerspanten, im nicht waffer- oder öldichtn, Teile der Mittelkielplatte, in den Maschinen- und Keffelträgern und wo sonst noch erforderlich, sind Durchflußöffnungen in genügender Zahl und Größe vorzusehen, damit die Flüssigkeit den Saugern schnell genug zufließen kann. Von besonderer Bedeutung ist dies für Raume, aus denen Pumpen mit großer Lenzleistung saugen.
 Außer diesen Öffnungen sind für den Durchfluß kleiner Flüssigkeitsmengen (auch Schwitz, waffer) in den auf dem Boden und Innenboden sowie an der Bordwand angeordneten Bau- teilen (Querspanten, Längsspanten, Längsbänder, Maschinen« und Keffelträger u. dgl.) an der tiefsten Stelle ausreichende, dem Bauteil angepaßte Durchflußöffnungen anzuordnen.
 Schutz der Kabel gegen Splitterwirkung siehe 8160.
@@ -2971,7 +2973,7 @@ Die Stapellaufrechnung ist zur Genehmigung vorzulegen.
 
 a Stiel
 b LSngsfPanten
-8 I Schiffbauwerkstatt	I
+8 I Schiffbauwerkstatt I
 S I Gruppe 4 Längsverbindungen
 Die Anordnung und der Verlauf der in dieser Gruppe aufgeführten LängsverbindungM gehen auS den Zeichnungen »Bauspantenriß«, »Längsschnitt«, aus den Decksplänen sowie am« der Zeichnung »Anordnung der Längsverbände und Außenhaut« hervor.
 Die Bauart ist den Zeichnungen »Hauptspant«, »Vorschiff«, »Mittelschiff« und »Hintn.» schiff« zn entnehmen.
@@ -2984,7 +2986,7 @@ Bei der Anordnung der Längsspanten im Bereiche der Maschinen- und Keffelräume 
 Die Stöße der Längsspanten sollen, wenn angängig, aus 74 des Querschottabstandei liegen.
 Für Erleichterungslöcher in nicht dichten Längsspanten beachte Vorbemerkung 7o 11. D den Spantfeldern unmittelbar vor und hinter den Querschotten sind wegen der hohen Schub' spannungen keine Erleichterungslöcher vorzusehen. Beachte auch das unter Vorbemerkung 7c9 »Ausschnitte für Längsbänder usw.« über Auflagerdruck Gesagte. Wenn erforderlich, sw zum Befahren der. Zellen Öffnungen in Mannlochgröße einzuschneiden.
 An den Enden sollen die Längsspanten, soweit sie nicht an Längsschotle herangefühlt werden, allmählich mit Dreiecksplatten in die Längsbänder übergeführt werden.
-e Längsbänder an der Der Abstand der Längsbänder voneinander und von den übrigen Längsverbänden dal Antzenhant	die in den Zeichnungen »Hauptspant« und »Bauspantenriß« angegebenen Entfernungen i^
+e Längsbänder an der Der Abstand der Längsbänder voneinander und von den übrigen Längsverbänden dal Antzenhant die in den Zeichnungen »Hauptspant« und »Bauspantenriß« angegebenen Entfernungen i^
 allgemeinen nicht übersteigen. Muß diese Entfernung ausnahmsweise an einer Stelle übt? schritten werden, so ist nachzuprüfen, ob mit Rücksicht auf eine unzulässige Belastung dkl Außenhaut durch den vorgeschriebenen Wasserdruck eine besondere Verstärkung notwendig wird Nach Bedarf sind kurze Längsbänder einzufügen. Die Gurtung der Längsbänder darf nirgend entfernt werden.
  
 
@@ -3094,23 +3096,25 @@ Schotte sind Schottstopfbuchsen (siehe Ick 111) vorzusehen.
  
 
 
-d Wellentrager für die Die-Wellenböcke sind auS 816 25 Lick zu schmieden. Bei zu großen Abmessungen^» Teitenwellen Wellenböcke wird der Bauwerft fteigestellt, Vorschläge für geteilte Ausführung zu machen. Wellenböcke	Mr ^jnere Boote und Fahrzeuge können die Wellenböcke aus Stahlguß-gefertigt werdn,,»
+d Wellentrager für die Die-Wellenböcke sind auS 816 25 Lick zu schmieden. Bei zu großen Abmessungen^» Teitenwellen Wellenböcke wird der Bauwerft fteigestellt, Vorschläge für geteilte Ausführung zu machen. Wellenböcke Mr ^jnere Boote und Fahrzeuge können die Wellenböcke aus Stahlguß-gefertigt werdn,,»
 jedoch ist hierzu die Genehmigung der O. K. M. einzuholen.
 Um einen glatten Übergang von der Wellenbocknabe nach der Schraubennabe und dn» Welle zu schaffen, soll die Wellenbocknabe eine Umhüllung erhalten, die nach vorn bis an Welle heranzuführen ist. Sie ist so zu gestalten, daß sie zusammen mit der SchraubtilnaKN und deren Hinteren Verlängerung einen tropfenförmigen Rotationskörper mit elliptischer Spi^L bildet. Der größte Durchmeffer soll auf etwa '/, seiner Länge von vorn liegen. Der Raun» zwischen Umhüllung und Wellenbocknabe ist zur Konservierung mit Kork und MarimleinL sorgfältig auszufüllen.
 Die Flanschen der Wellenbockarme sollen durch die Außenhaut durchgesteckt und mit dy» inneren Bauteilen sorgfältig verbunden werden. An den Durchführungsstellen der AußenhaM sind Dichtungsbleche (siehe 8119) anzuordnen, die mit der Außenhaut und mit den Well«« bockarmen zu verschweißen sind.
 Die Bodenwrangen sind im Bereiche der Wellenböcke verstärkt auszuführen.
-Abschlußstücke	Die Abschlußstücke der Wellenhosen sollen aus ringförmigen Schmiedestücken mit angt»
+Abschlußstücke Die Abschlußstücke der Wellenhosen sollen aus ringförmigen Schmiedestücken mit angt»
 schmiedeten oder angeschweißten Flanschen aus 8142-11 bestehen, die mit den Span« blechen zu verschweißen und durch die Beplattung der Wellenhosen miteinander zu verbinde» sind. Die Beplattung soll um die Abschlußstücke herumfaffen, sie ist mit ihnen zu verschweiß« bzw. zu verschrauben.
 In den Schmiedestücken sind zwischen Außenbaut und Ringfläche möglichst an der tiefst« Stelle Durchflußschlitze anzuordnen.
 Zur Vermeidung von Wirbeln soll die Hinterfiäche der Abschlußstücke im Zuge der Wellen Hosen eine Haube erhalten. Zwischen Wellenbekleidung und Haubenranb ist mindestens 10 wo Spielraum zu lasten.
 Die Naben der Abschlußstücke sind den Wellenrohren entsprechend auSzubohren.
-Schottstutzen	Beachte das unter a über Schottstutzen Gesagte.
+Schottstutzen Beachte das unter a über Schottstutzen Gesagte.
 Zinkschutz gemäß Vorbemerkung 18.
 Lage der Schraubenwellen nach B. B. V. — S112 —.
 Beplattung der Wellenhosen siehe 8119.
  
 
 S I Gruppe 10 Schwere Schotte
+-----------------------------
+
 Die Anordnung der Schotte geht aus den Zeichnungen »Bauspantenriß«, »Längsschnitt, aus den Decksplänen sowie aus der Zeichnung »Anordnung der Querverbände« hervor.
 Die Bauart ist den Zeichnungen »Hauptspant«, »Vorschiff«, »Mittelschiff«, »Hinterschiß,i und -Geschützstände« zu entnehmen.
 Für die Wasser- und Öldichtigkeit sind die Zeichnungen »Schema für öl- und wasserdicht! l Wandungen« sowie »Schema für die Einrichtung für Waffer« maßgebend. Beachte auch Lor.! bemerkung 8.
@@ -3211,7 +3215,7 @@ Bei artilleristischen Betriebsräumen, die unmittelbar auf dem Innenboden liegen
 Für die Hilfslenzrohrstutzcn sind in die Innenbodenbeplattung im Anhalt an die in dein »Schema für die Einrichtungen für Wasser« angegebenen Stellen Lenzbrunnen von etwa 200 bis 3001 Fassungsvermögen öldicht einzubaucn. Sie müssen so liegen, daß die Bilgen bei jeder Trimmlage des Schiffes restlos gelenzt werden können. Sie dürfen aber nicht unmittel- bar an die Querschotte verlegt werden, um die als Gurtung dienende Innenbodenbeplattung^ nicht wegzuschneiden. Für die Zugänglichkeit der Lenzbrunnen beachte 8II9.
 Für die Schmierölsammeltanks sind im Doppelboden nach Maßgabe der Zeichnungen» Wannen (Zwischenböden) einzubauen. Zum Befahren der Wannen und der Leerzellen unter» den Wannen sind die erforderlichen Zugangsschächte und Mannlöcher vorzusehen.
 Eine Anordungszeichnung aller in die Innenbodenbcplattung einzuschneidenden Löcher» und der etwa vorzusehenden Verstärkungen iji zur Genehmigung vorzulegen.
-Stutzen für Boden- Zwischen der Außenhaut und dem Innenboden sind für die Aufnahme und Sicherung» Ventile	der Bodenventile, der Saugrohre und der Auswurfrohre der Pumpen aus Platten HE»
+Stutzen für Boden- Zwischen der Außenhaut und dem Innenboden sind für die Aufnahme und Sicherung» Ventile der Bodenventile, der Saugrohre und der Auswurfrohre der Pumpen aus Platten HE»
 stellende Stutzen anzubringen, die mit der Außenhaut und dem Innenboden durch Schweiße»» zu verbinden und je nach ihrer Lage wasserdicht oder öldicht herzustellen sind. Sie sind, wen»» irgend angängig, in die Nähe der Längsspanten zu setzen. Überall da, wo Bodenventilstutzt»» nicht in unmittelbarer Nähe von hohen Längs- und Oucrspanten angeordnet werden könnt»,» wie z. B. zwischen Außenhaut und Wallganglängsschott, sollen, wo angängig, die Stutze»» 8-fürmig so geführt werden, daß stets Gefälle nach der Außenhaut hin vorhanden und Bildung von Luftsäcken ausgeschlossen ist. Die Zeichnung der Stutzen ist zur Genehmigung vot'» zulegen. Das über die Anordnung der Mannlöcher Gesagte gilt auch hier.
  
 
@@ -3243,7 +3247,8 @@ Anstrich der Stutzen siehe 8IV.
 Für die Anordnung und Lage der Bodenventile beachte A. B. V. — MI 10 — — MII28 — und — 8II 9g.
 
 
-8 I Gruppe 12 Maschinenträger.
+S I Gruppe 12 Maschinenträger.
+------------------------------
 Bei der Formgebung der Grundplatten und Gehäuse sowie der Anordnung der Unter¬bauten ist in enger Zusammenarbeit zwischen Schiffbau und Maschinenbau die jeweils günstigste Bauart anzustreben. Hierbei wird auf das unter 814 »Längsspanten« Gesagte hingewiesen. Für die Aufstellung von elektrischen Maschinen im Schiff sind die G. f. e. A. und B. B. V. — MII29 — zu beachten. Bei der Formgebung der Grundplatten für die DieseldynamoS ist auf die Besonderheiten der Gummilagerung Rücksicht zu nehmen.
 Die Befestigungsschrauben zwischen Maschinenteil und Unterbau sollen auf Mitte Steg der Unterbauträger oder so dicht wie möglich an den Stegen der Unterbauträger liegen, damit die Beanspruchungen, welche durch das Gewicht oder den Betrieb der Maschinen eintreten. durch die Schrauben unmittelbar auf die Maschinenträger übertragen werden.
 Die Abmessungen der Platten lind Winkel sind nach den auf sie entfallenden Belastungen j zu bestimmen. Auf gute Verbindung mit den benachbarten Schiffsverbänden ist besonderer, Wert zu legen. Zum Schweißen geeignete Konstruktionen sind in möglichst ausgedehnte!» j Maße anzuwenden. Die Durchbiegung des Bodenwerks einschließlick der Unterbauten darf die i für die Maschinen zugelassene Durchbiegung nicht überschreiten.
@@ -3252,10 +3257,10 @@ Durchbrechungen für Rohre usw. sind möglichst zu vermeiden. Für Durchflußöf
  
 
 Die Zeichnungen der Unterbauten für die Hauptmaschinen, Kessel, Mellenlager und Wel!^ bremsen, der Träger für die Hilfskesscl, die Diesel- oder Turbodynamos, Lüftungsmaschin^ Maschinen für Waffenzwecke usw. sowie die Bauzeichnungen der Widerlager von Dampft«^ leitungen für Maschinen- und Schiffszwecke, die den vollen Dampfdruck der Stopfbuchsen a^ zunehmen haben, sind zur Genehmigung vorzulegen. Die Verbindung er Kesselteile mit den Trägern sowie die Belastung der Träger sind auf n en sprechen en Zej^ nungen einzutragen.
-Lage der Wellen nach 8. B. V. — S112 —.
-Träger	Die Unterbauten der Hauptmaschinen und Kessel sind aus Platten und Formstahlen try,
+Lage der Wellen nach B. B. V. — S112 —.
+Träger Die Unterbauten der Hauptmaschinen und Kessel sind aus Platten und Formstahlen try,
 sprechender Abmessungen und Dicke herzustellen und sollen im Verein mit der Bodenkonstruktio^ und, wo angängig, auch mit den Raumwänden ein zusammenhängendes Trägersystem bilb^ durch das eine möglichst starre Lagerung der Maschinen und Kessel gewährleistet wird. Es ist anzustreben, die Querträger nicht bis an die Torpedoschotte zu führen, damit bei einem etwaig«. Durchbiegen der Schotte infolge Detonation die Querträger nicht in Mitleidenschaft gezogn, werden. Beachte 8.8. V. — M15 —.
-Für die Unterbauten der Drucklager, Wellenbremsen, der Lager für die Schraubenwell« gilt sinngemäß dasselbe. Die Wellenbremsen sollen möglichst mit dem nächstliegenden Lauf ,	lager auf einem gemeinsamen Unterbau angeordnet werden, um eine bessere Kraftübertragung
+Für die Unterbauten der Drucklager, Wellenbremsen, der Lager für die Schraubenwell« gilt sinngemäß dasselbe. Die Wellenbremsen sollen möglichst mit dem nächstliegenden Lauf , lager auf einem gemeinsamen Unterbau angeordnet werden, um eine bessere Kraftübertragung
 und Gewichtsersparnis zu erzielen.
 Für die Dampf- usw. Rohre, für die Hilfsmaschinen fiir Maschinen- und flir Schiffszwn» und für die Maschinen und Apparate für Waffenzwecke (soweit sie mit dem Schiffskörper ftV verbunden und von den Herstellern der Apparate nicht mitgeliefert werden) sind entsprechen» gebaute Träger vorzusehen.
 Etwa erforderliche Verstärkungen von Schiffsverbandteilen wie Längs- und Querspante« Schotte, Jnnenboden, Decks, Plattformen und dgl. siehe die entsprechenden Gruppen von 8W
@@ -3266,7 +3271,7 @@ Die Anordnung und der Verlauf der Decks gehen aus den Zeichnungen »Bauspantenri
 Die Bauart der Decks ist den Zeichnungen »Hauptspant«, -Vorschiff«, »Mittelschiff« »Hinterschiff« zu entnehmen.
 Für die Wasser- und Oldichtigkeit sind die Zeichnungen »Schema für öl- und wafserkilkW Wandungen« sowie »Schema für die Einrichtung für Wasser« maßgebend. Beachte auch ^» bemerkung 8.
 Prüfung der wasser- und öldichten Wandungen gemäß Vorbemerkung 9.
-Beplattungen	Die Platten sind in möglichst großen Abmessungen zu verwenden. Beachte
+Beplattungen Die Platten sind in möglichst großen Abmessungen zu verwenden. Beachte
 bemerkung 6 a.
 Die Nähte und Stöße sollen durch Schweißen verbunden werden, sofern die besonkessM Bauunterlagen nicht etwas anderes vorschreiben. Dickere Platten sind hierbei jeweils auf W
  
@@ -3280,8 +3285,8 @@ Bei Decks ohne Holzbelag ist gegen den Verschleiß im Bereiche des Ankerkettenla
 Decksöffnungen Bei der Anordnung von Decksöffnungen, wie Luken, Decksfenster usw., ist die Schwächung des Längsverbandes der Decks, soweit erforderlich, durch Verstärkungen auszugleichen. An dm Ecken von im oder unmittelbar am tragenden Längsverband liegenden Öffnungen sind d« Ecken umfassende Verstärkungsplatten einzuschweißen oder bei genieteten Decks aufzunieten. Füg die Abrundungen in den Ecken beachte Vorbemerkung 7 c 10.
 Wo größere Öffnungen (wie z. B. für Lüftungsschächte) im obersten Tragedeck beider-ü seits von schweren Schotten unmittelbar nebeneinanderliegen, ist darauf zu achten, daß für ör» geschwächten Decksqucrverband ein Plattenstreifen von 20facher Plattendicke nach jeder Sei« vom Steg, aber nicht unter einer Gesamtbreite von 250 mm als Gurtung für das Schot« stehenbleibt. Wo diese Anordnung unmöglich ist, muß durch geeignete Maßnahrmn eine Über« anstrengung der geschwächten Gurtung verhindert werben. Die Gürtung muß knicksest sein. 1
 Die Öffnungen für die in den Längsverband eingezogenen Decks dürfen gegenüber fr» Bauunterlagen nur nach Genehmigung abgeändert werden/ beachte Vorbemerkung 7c 1 -Stoß« anordnung neben Öffnungen«.
-Luken, Mannlöcher	Abmessungen der Luken und Mannlöcher nach B.B. V. — Allgemeines zu 8113 — 18
-Öffnungen zum Ein-	Bei der Platteneinteilung ist auf die Öffnungen zum Einsetzen der Hauptmaschimn, HMD
+Luken, Mannlöcher Abmessungen der Luken und Mannlöcher nach B.B. V. — Allgemeines zu 8113 — 18
+Öffnungen zum Ein- Bei der Platteneinteilung ist auf die Öffnungen zum Einsetzen der Hauptmaschimn, HMD
 bringen von Maschinen, Kessel und Hilfskessel usw. von vornherein Rücksicht zu nehmen, so daß die Öffnung»« Maschinen usw. ^ möglichst geringem Arbeitsaufwand und ohne größere Einrichtungen, Schotte, Aufbaute»» usw. entfernen zu müssen, freigelegt werden können. Rohrleitungen, Kabel usw. sind in diesem« Bereiche möglichst nicht zu verlegen.
 Für das Ein- und Ausbringen größerer Teile der vorstehend genannten Haupt» Maschinen usw. sind im allgemeinen die Verkehrsluken zu benutzen und nur, falls diese hiersiM nicht ausreichen, nach Einholung der Genehmigung d. O. K. M. besondere Förderwege vor^D sehen. Beachte auch die Allgem. Vorschriften zu MI und MII der A. B. V. — M —. DM Derschlußplatten sind im allgemeinen zu vernieten. Verschraubung ist nur dort anzuwendoM wo mit mehrfachem Öffnen innerhalb eines Jahres zu rechnen ist.
 Für das Ein- und Ausbringen der Ersatzmotoren für die Bordflugzeuge find die erfordel'J lichen Förderwege ebenfalls frei zu halten.
@@ -3294,11 +3299,11 @@ Aussteifungen Querbalken, Längsbalken, Schlingen, UnterzÜge, Sülle, Süll- wi
 Die Decks sind durch Querbalken, Längsbalken, Unterzüge usw. auszusteifen. Für di,
 Querbalken und Unterzüge sind im allgemeinen aus Steg- und Gurtplatten zusammengeschweißt,
 "»"-Stahle, für die Längsbalken Formstahle zu verwenden. Außerdem beachte:
-Für Längsbalken	
-Unterbrochene Aussteifung	
-Frei aufliegende Träger 	
-Fest eingespannte Träger 		
-Gurtplatten und Stege an den Decks-aussteifungen 			
+Für Längsbalken 
+Unterbrochene Aussteifung 
+Frei aufliegende Träger  
+Fest eingespannte Träger   
+Gurtplatten und Stege an den Decks-aussteifungen    
 814 »Längsbänder«,
 Vorbemerkung 7 c 8,
 S110 »Schottversteifungen«,
@@ -3323,8 +3328,8 @@ In der Umgebung von Hilfsmaschinen und Olsörderstellen sind die Decks, wenn erf
 Wo Sülle den Verkehr unzulässig behindern würden, sind mit den Decks bündigliegendt» Deckel anzuwenden.
 Luken- und Mannlochdeckel siehe 8II8.
 Lukendeckel für die gepanzerten Decks siehe 81 36, Beschläge siehe 8II4.
-cksbelaa	Umfang, Art und Dicke des Decksbelages werden für die einzelnen Schiffsgattungen in du l
-Holz	B. B. V. — 8 — bestimmt.
+cksbelaa Umfang, Art und Dicke des Decksbelages werden für die einzelnen Schiffsgattungen in du l
+Holz B. B. V. — 8 — bestimmt.
 Die frei liegenden Teile der Admirals-, der Kommandobrücke (einschließlich ihres zugk-D hörigen überdachten Schutzstandes) mit Signalstand und der Artilleriestände sollen keinen festeyJ Holzbelag, sondern Holzgrätinge (siehe 8III8) erhalten. Die Decks sollen in diesem BereiM einen Anstrich (siehe 8IV) und unten innerhalb von Kammern Wärme- und Schallisolierung V (siehe 8125) erhalten.
 Beim Verlegen von Holzdecks soll die Breite der Planken nicht über 140 mm betragen. Wo durch ungleich dicke Beplankung des Decks Unebenheiten entstehen würden, sind sie durch | Schlichten der Planken auszugleichen. Der Holzbelag soll über Stoßplatten, Nahtstreisen odnf dergleichen im allgemeinen nicht dünner als 45 mm werden.
 An den am tiefsten liegenden Stellen des Decks, möglichst an der Bordwand, sind Waffen läuft von angemeffener Breite vorzusehen. Die innere Begrenzung des Wasserlaufs soll durch, ein auf das Deck hochkant aufgeschweißtes Flacheisen gebildet werden, das um 5 mm niedriger zu halten ist als die Plankendicke.
@@ -3335,8 +3340,8 @@ Zur Befestigung der Planken sind auf die Dccksbeplattung eiserne verzinkte Schra
 Bei Decks von größerer Dicke können einschraubbare Bolzen mit Schlitz verwendet werden.
 Die Schraubenbolzen sollen abwechselnd an der einen und der anderen Kante der Planke» sitzen. Die Plankenenden sind mit je 2 Bolzen zu befestigen.
 Der Abstand der Bolzen soll betragen:
-a)	auf Decksbeplattungen von weniger als 15 mm Dicke etwa 500 bis 700 mm, je nach dem Abstande der Decksbalken,
-b)	auf Decksbeplattungen von 15 mm und größerer Dicke im allgemeinen etwa 1000 bis 1400 mm, jedoch von 2 m hinter bis 6 m vor den Ntündungen von Geschützen vo»! 15 cm und größerem Kaliber etwa 500 bis 700 mm.
+a) auf Decksbeplattungen von weniger als 15 mm Dicke etwa 500 bis 700 mm, je nach dem Abstande der Decksbalken,
+b) auf Decksbeplattungen von 15 mm und größerer Dicke im allgemeinen etwa 1000 bis 1400 mm, jedoch von 2 m hinter bis 6 m vor den Ntündungen von Geschützen vo»! 15 cm und größerem Kaliber etwa 500 bis 700 mm.
 Die Nähte der Planken sind durch Werg sachgemäß zu dichten und darüber mit Marinrglnk Marke Supra II auszugießen.
 Vor Verkehrstüren und Verkehrsluken ist der Holzbelag zu verstärken.
 Unter dem Bugankerkettenlauf ist Moaholz oder eine um 30 mm verstärkte Beplankung ; aus möglichst schwerem Teakholz in einer Breite zu verwenden, daß die Kette beim Ankerfallt» i nicht von dem Belag herunterschlägt.
@@ -3403,12 +3408,12 @@ Dor Beschaffung deS Linoleums ist anzufragen, ob ein anderer DeckSbelag gevM wer
 Die OffizierSmeffen der Schiffe und Sonderschiffe sollen bis auf weiteres an Stelle ^ Linoleumbclages einen solchen aus Gummi erhalten.
 Der Belag ist auf vollständig ebenem Boden — am besten auf dünner Steinholzunty. läge — sachgemäß zu verlegen. Als Klebemittel ist ein nicht brennbarer, guthastender J j möglichst feuchtigkeitsbeständiger Klebestoff zu verwenden.
 Zur Herabsetzung der Schmutzempfindlichkeit ist ein dunkler und gesprenkelter (marine vierter) Farbton des Belages zu wählen.
-Terrazzo	Terrazzobelag nach Musterzeichnung ist in der Bäckerei, den Küchen, Kühlräumen, Baden i
+Terrazzo Terrazzobelag nach Musterzeichnung ist in der Bäckerei, den Küchen, Kühlräumen, Baden i
 (mit Ausnahme der Einzelbäder), Waschräumen und Aborten sowie im Raum für PflichtschH behandlung (Spritzraum), Lazarettbad und -abort zu verlegen.
 In den Küchen sind Abflußrinnen mit leichtem Gefälle nach den Speigatten vorzusehns Sie sind, soweit erforderlich, mit durchlochtem Blech abzudecken.
 Der Terrazobelag selbst soll nach Möglichkeit zur Rinne hin abfallen, um einen besieg Wafferzufiuß zu ermöglichen.
 Wegen etwaigen Fortfalls des Terrazzobelages und Ersatzes durch einen anderen Werkst« ist rechtzeitig anzuftagen.
-Gleitschutz	Soweit die Decksbeplattung ohne Belag bleibt und begangen wird, sind zum Schutze geg^
+Gleitschutz Soweit die Decksbeplattung ohne Belag bleibt und begangen wird, sind zum Schutze geg^
 Ausgleiten Schweißwarzen auf der Beplattung anzubringen.
 Auf den Außendecks soll an der Außenhaut und neben den Aufbauten je ein etwa 150 nm breiter Streifen von Warzen frei bleiben, damit beim Deckwaschen ein guter Abfluß des Waffel! und der Schmutzrückstände gewährleistet wird.
 Im Innenschiff sind Schweißwarzen in den Räumen für Maschinen und Schiffshilst Maschinen (Ausnahmen unter »Linoleum«), in den Werkstatträumen usw. vorzusehen.
@@ -3468,7 +3473,7 @@ Schiffes in Frage kommenden Außenhautgänge (Flachkiel, Bodengänge im Bereiche
 kielsohle) in Qnerschiffsrichtung vollkommen waagerecht, in Langsschissrichtung vollkonm«
 gerade angeordnet werden, damit beim Docken des Schiffes unsachgemäßes Aufliegen U
 Dockkiels oder der Dockkiele ober gar unzulässige Formänderung des Schiffes nicht eintnid
-können.	'
+können. '
 Dor dem Stapellauf ist durch genaue Messungen festzustellen, ob die Lage der Ünterfläck«
 der Dockkiele (bei mehreren Dockkielen auch zueinander) den Bauunterlagen entspricht.
 Eine Skizze der Dockkielsohle, in die etwa festgestellte Abweichungen eingetragen sind,
@@ -3486,15 +3491,15 @@ MII28 —.
 Zu den leichten Schotten gehören alle dünnen Schotte, soweit sie nicht nach der B.B.y» __,S — unter 110 oder 123 zu verwiegen sind. Sie dienen im allgemeinen zur Abtrennu^M von Kammern, Hellegats, Lasten usw.
 Je nach ihrem Verwendungszweck sind die leichten Schotte wie folgt auszuführen:
 Schottbeplattung
-Dicke	Süll Stahlblech	Topplatte Stahlblech Dicke mm
-	Dicke mm	Höhe mm	
-		150	
-		oder	
-1,5 mm Stahlblech 		3	300	2
-1,8 mm Leichtmetall ......	3	150	2
-1,8 mm Leichtmetall für Boote	2	150	2
-3 mm Stahlblech		—	—	—
-Drahtgeflecht od. Streckmetall	3	150	2
+Dicke Süll Stahlblech Topplatte Stahlblech Dicke mm
+ Dicke mm Höhe mm 
+  150 
+  oder 
+1,5 mm Stahlblech   3 300 2
+1,8 mm Leichtmetall ...... 3 150 2
+1,8 mm Leichtmetall für Boote 2 150 2
+3 mm Stahlblech  — — —
+Drahtgeflecht od. Streckmetall 3 150 2
 Senkrechte Versteifung
 Bördelung von 15—20 m^
 Bördelung von 15—20
@@ -3509,8 +3514,8 @@ Schotte, die an gehärtete Panzerwände stoßen, sind nicht am Panzer zu befesti
 Wo nicht aus besonderen Gründen eine andere Ausführungsweise erforderlich ist, für die in Frage kommenden Umschottungen nachstehende Blechdicken zu wählen:
 1/5 mm dicke Stahlbleche für
 Bäder, Waschräume, Brausen, Wäscherei, Wäschetrockenräume, nicht wafferdieE Niedergänge in Maschinen- und Hilfsmaschinenräumen, Aborte (Trennungswät^W oben und unten offen).
-1.8	mm dicke Bleche aus Reinaluminium oder
-1.5	nun dicke Bleche aus Hydromalium oder anderen AlMg»CegierunflfÄ® mit 2^ bis 3 v. H. Nx für
+1.8 mm dicke Bleche aus Reinaluminium oder
+1.5 nun dicke Bleche aus Hydromalium oder anderen AlMg»CegierunflfÄ® mit 2^ bis 3 v. H. Nx für
 Kajüte, Messen, Kammern, Anrichten, Schreibstuben, Lazarett, Apotheke, Röntgt»'» raum, Raum für Pflichtschutzbehandlung, Hellegats, Lasten, Werkstätten sobekt» Hälfte der Umschottung Drahtgeflecht oder Streckmetall), Instrumenten, und Kartt»'» kammer, Reinigungsgeschirräume, Lüfterräume, Küchen und Bäckerei.
 Für die Ausführung dieser Umschottungen ist die Musterzeichnung maßgebe^l Für die Ausschottung der Zimmermanns-Werkstatt beachte die Angaben unter 8IU6W
  
@@ -3634,7 +3639,7 @@ Für die Verwendung von Holz ist Anhang F zu beachten.
 ü. Isolierungen gegen
 Wärme- und Luft¬
 austausch
-a Oberschiff	Für die Art der Isolierungen sind im allgemeinen die Musterzeichnungen und
+a Oberschiff Für die Art der Isolierungen sind im allgemeinen die Musterzeichnungen und
 läufigen Musterzeichnungen sinngemäß maßgebend.
 Die Bordwände der Mannschaftsräume auf großen Schiffen werben im allgemeinen isoliert.
 Unter Wetterdecks ohne Holzbelag sowie an ten Außenwänden der Lese- und Unteroffizikl^ i räume, Arresträume, des Segelhellegats, des Raumes für Turn-, Fecht- und Zielgerät so^ an der Bordwand von Torpedobooten, Fahrzeugen usw., wenn hier keine Köjen vorgeskhI l sind, ist allgemein nur Leichtmetall als Isolierung (ohne Isoliermaterial) an der InnenkaH r
@@ -3751,7 +3756,7 @@ Die Hängemattskasten sind an der Bordwand mit verzinktem Eisenblech, an den üb
 Die zur Verhütung von Verletzungen oder aus sonstigen, nicht unter »Wegerungen gegq Wärme und Luftaustausch« und »Wegerungen gegen Schall« fallenden Gründen erforderlich^ Verkleidungen sind vorzusehen. Beachte auch B. B. V. — SII 9o —.
 Verkleidungen aus Schönheitsrücksichten siehe 8II11.
 Die Entscheidung des O. K. M. über die für Olbunker anzunehmenden Temperaturen i rechtzeitig einzuholen.
-Entwürfe	Der Entwurf für die Isolierung der Munitionskammern und der übrigen Räume nü
+Entwürfe Der Entwurf für die Isolierung der Munitionskammern und der übrigen Räume nü
 Berechnung und Zeichnungen, aus denen die Anbringung der einzelnen Isolierungen, l Lage der Wärme- und Schallquellen usw. ersichtlich sind, sowie eine Zusannnenstellung der B rechnungsergebniffe sind zur Genehmigung vorzulegen. Beachte 8126 und A. B. V. J MHI —.
 Muster nach Skizzenbuch.
 Um unnötige Änderungen zu vermeiden, sind die Entwürfe möglichst erst dann vorzi legen, wenn keine größeren Raumänderungen mehr zu erwarten sind.
@@ -3761,7 +3766,7 @@ Bei den gegen Schall zu schützenden Räumen mit Gefechtswert ist zur Beurteilun
 Nach Möglichkeit ist bei den Schallwegerungen eine Luftschicht von etwa 30 mm zwW Alfol und der Wand oder dem Abdeckblech vorzusehen.
 Die Art des Decksbelages ist in allen Plänen so weit anzugeben, wie es zur Beurteilt der Geräuschübertragung oder des Wärmeüberganges erforderlich ist.
 Für die Räume mit elektrischen Maschinen ist anzugeben, welche Wärmemengen von Maschinen an die Räume abgegeben werden und ob für die Maschinen Eigenlüftung ^ -knhlung vorgesehen oder ob Raumlustkühlung oder beides erforderlich wird.
-.	Dor dem Entwurf ist zunächst mit den der Berechnung zugrunde zu legenden Tempt^ !
+. Dor dem Entwurf ist zunächst mit den der Berechnung zugrunde zu legenden Tempt^ !
 turen und der Anordnung der Isolierungen zur Genehmigung vorzulegen.
  
 
@@ -3825,17 +3830,17 @@ Kammern, Hellegats, Lasten, Bunker, Zellen, Tanks usw. sind für die einzelnen S
 aumbezeichnungkn
 Für die Vorratsräume sind in allen baulichen Unterlagen (Zeichnungen, Büchern, Dor.»
 schriften, Beschreibungen usw.) nachstehende Raumbczeichnungen anzuwenden:
-1.	Zur Unterscheidung nach ihrem Inhalt und zur Kennzeichnung der Schutz räume: s
+1. Zur Unterscheidung nach ihrem Inhalt und zur Kennzeichnung der Schutz räume: s
 a) für brennstofführende Räume: Bunker (z. B. Kohlen-, Heizöl-, TreibölM
 Benzin-, Benzolbunker),
-d)	für wasserführende Räume und Schutzräume: Zellen (z.B. Speisewassn-Z
+d) für wasserführende Räume und Schutzräume: Zellen (z.B. Speisewassn-Z
 Waschwasier-, Trinkwaffer-, Trimm-, Leerzellen),
 c) für schmierölführende Räume: Tanks (z.B. Turbinen-, Motoren-, Maschinen-«
 Zylinderschmieröltanks),
 ä) für Raume, in denen Geräte und Verbrauchsstoffe für die entsprechenden Abschnitt«
 in kleinen Mengen für den täglichen Bedarf bereitgehalten und durch ständig Vvu
 gesehenes Personal verausgabt werden: Hellegat,
-e)	für die nicht ständig besetzten Räume zur Lagerung der Geräte, die nur in größer«
+e) für die nicht ständig besetzten Räume zur Lagerung der Geräte, die nur in größer«
 Zeitabschnitten benötigt werden und sich wegen ihrer Größe und Sperrigkeit niÄ
 im Hellegat unterbringen laffen sowie der Verbrauchsstoffe in größerem Umfang»
 Last.
@@ -4062,18 +4067,18 @@ Siehe».». V. — 8131 —.
 81 Gruppe 32 Kasemattpanzer
 Siche B. 8. VM 8132
 8 I Gruppe 33 Geschütztürme
-Drehtürme^)	Mr die Aufstellung der Drehtürme der schweren und mittleren Artillerie sind die M
+Drehtürme^) Mr die Aufstellung der Drehtürme der schweren und mittleren Artillerie sind die M
 sonderen Bauunterlagen maßgebend.
 » Barbetten °) und
 Turmunterbauten der schwere« Artillerie
-BarbettenO)	Die Dicke, Zahl und Form der Panzerplatten her Barbetten sind der Zeichnung »PanW
+BarbettenO) Die Dicke, Zahl und Form der Panzerplatten her Barbetten sind der Zeichnung »PanW
 abwicklung« zu entnehmen. Die Platten sind nach Maßgabe der Zeichnung am oberen nach innm abzuschrägen. Es ist mit besonderer Sorgfalt darauf zu achten, daß der obW Rand der Barbetten vollkommen waagerecht und eben eingebaut wird. Die senkrechten MatM stöße sind durch Verkämmung und Laschen zu verbinden. Der Schraubenabstand soll vier Durchmesser betragen. Die Laschen sind am oberen Ende abzurunden. Von OberkaW Barbette bis obere Einspannstelle des Turmunterbaues sollen Versenkkopfschrauben verlvnW werden.
 Der geringste Abstand zwischen Oberkante Barbette und Drehturm soll, soweit H ß. B. V. — 8 — nichts anderes vorschreibt, 50 mm sein. Etwa vorhandene ilngenauig^ dürfen höchstens ± 20 mm betragen. Die Abstände sind während des Baues nach MaßgA der Dfg. vom 8.3.1913 — KIBe. 16609 — (AnhangG) festzustellen. Das Ergebnis zur Kenntnisnahme vorzulegen. Die in den Zeichnungen »'Geschützstände der schweren tillerie« angegebenen Hbhenmaße sind genau einzuhalten.
 °) Vgl. Zusammenstellung V Millagt zu § 5 IV der Liefervorschnft).
  
 
 
-58	^ 33
+58 ^ 33
 Turmunterbauten
 In jeder Barbette ist nach später einzuholenden Angaben eine Zugangsöffnung
 Panzertür nach Maßgabe der Zeichnung vorzusehen.
@@ -4125,7 +4130,7 @@ Luftwechsel zu sichern. An Unterkante des Ausschnitts im Panzerdeck ist ein Lauf
 Druckrollen vorzusehen, der durch Kniebleche abzustützen ist.
  
 
-59	81 33, 34
+59 81 33, 34
 Die Turmunterbauten sind in allen Teilen auf das genaueste auszuführen. Auf Schweißung I und Nietung ist besondere Sorgfalt zu verwenden.
 Die Lauf- °) und Führungsschienen °) für die Geschoßringwagen °) und für die Geschoß,» Plattformen") sowie die Unterteilei') der festen Labetische") sind auf dem zugehörigen Platt.» formdeck zentrisch und rechtwinklig zur Drehachse der Türme auSzurichten und aüfzuschweißen. I
 Die Turmunterbauten sind bis zu der in den Vorbemerkungen unter 9 angegebenen Höh, I wasserdicht auszuführen. Entwässerung der Geschützstände siehe 8II9 ä.
@@ -4217,10 +4222,10 @@ Die Grätinge der Lüftungsöffnungen in allen mit Raumlustkühlung oder Eigenk�
 Die Dicke der Grätinge soll betragen:
 für 20 mm
 »30 » - 40/50- - 60 -
-dicken Deckpanzer	
-*	9	..t.		
-*	>		
--	- und darüber	
+dicken Deckpanzer 
+* 9 ..t.  
+* >  
+- - und darüber 
 55 mm
 75 -
 100 -
@@ -4287,8 +4292,8 @@ Klüsendeckel siehe 8II8.
 Für die Ausrüstung der einzelnen Schiffsgattungen mit Beibooten") ist die 8.8.1 — 8 — maßgebend. A. B. B. Nr. 54 ist zu beachten.
 Zum Ein- und Aussetzen der Boote sollen Krane oder Ladebäume dienen/ für das Kid bringen der Rettungsboote sind im allgemeinen Davits zu verwenden.
 Die Zeichnungen der Bootsaufstellung find zur Genehmigung vorzulegen.
-Barrmgs und	Die Barrings sind ihrer Belastung entsprechend zu bäum und mit den zu ihrer Uilta
-Mampen	stützung heranzuziehenden Bauteilen sachgemäß zu verbindm.
+Barrmgs und Die Barrings sind ihrer Belastung entsprechend zu bäum und mit den zu ihrer Uilta
+Mampen stützung heranzuziehenden Bauteilen sachgemäß zu verbindm.
 Für alle Boote, mit Ausnahme der ständig in den Davits hängenden, sind eiserne KlaO« mit Holzfutter anzubringen, die nach Bedarf klappbar zu machen sind. Die Bootsklampen st biv Ei^sWecks auf das Deck, bei Eisendecks mit Holzbelag auf eine mit dem Deck (in Anlt nung an die Befestigung des Holzbelags) zu verschraubende Grundplatte zu schweißen und n" in Fällen, wo ein Versetzen der Klampen in Frage kommt (z. B. beim Verfahren der Beibooi bei Schießübungen), losnehmbar einzurichten.
 Bei der Anordnung der Motorboote ist darauf zu achten, daß der Motor zugänglich blei und unbehindert versehen werdm kann, auch wenn andere Boote in dem Sitzraum oder darüst gelagert werden.
 Tröger für die Davits Die Davits find durch gebaute Träger sachgemäß zu stützm.
@@ -4296,7 +4301,7 @@ Sonstige Einrichtungen für Boote flehe 81112.
 °) Dgl. Zusammenstellung V (Anlage zu § 5 IV der Liefervorschrift).
  
 
-64	81 47, 48
+64 81 47, 48
 8 I Gruppe 47 Takelage
 Verwiegung der Takelage gemäß Vorbemerkung 3.
 Sämtliches Bronze», Hanf», Manila» und Stahltauwerk, die Blöcke und sonstigen ^ der Takelage sollen den in der Marine gültigen Vorschriften und technischen Beding^ entsprechen. In der Nähe der Magnetkompasse ist unmagnetischer Werkstoff zu verwes A. B. v. Nr. 48 ist zu beachten.
@@ -4366,7 +4371,7 @@ Rückstoß der Geschütze nach B. B. V. — S —.
 °) vgl. Zusammenstellung V (Anlage zu 8 5 IV der Liefervorschrift).
  
 
-66	81 <*
+66 81 <*
 Munition-förde-
 rung für mitt-
 lere und leichte
@@ -4400,23 +4405,23 @@ gewehre sowie Füllstellen für die Patronengurte sind vorzusehen. Für die Aufs
 M G C/30 ist zu beachten, daß beim Schwenken der bä 6 die Bedienungsmannschaften zwischen
 Bordwand bzw. Geländer und Lafttte nicht durch die Haltevorrichtung für die Patronen-
 rahmen oder vorhandenen Kniebleche behindert werden.
-Munition-über- Die Einrichtungen sind so zu bemessen, daß die gesamte Munition der schweren, mittleren nähme	und leichten Artillerie in höchstens 10 Stunden übergenommen werben kann. Die vorhandenen
+Munition-über- Die Einrichtungen sind so zu bemessen, daß die gesamte Munition der schweren, mittleren nähme und leichten Artillerie in höchstens 10 Stunden übergenommen werben kann. Die vorhandenen
 Bordeinrichtungen sind, soweit möglich, hierzu httanzuziehen. Außerdem sollen Einrichtungen Vorgesehen werden, welche die Übernahme von einzelnen Schüssen Übung-munition ohne um-fangreiche Vorbereitungen ermöglichen.
 Ein ausführlicher Entwurf ist zur Genehmigung vorzulegen. Dem Entwurf ist eine Be¬rechnung der Leistung sämtlicher Übernahmemittel und eine Festigkeitsrechnung für etwaige Spieren und Toppbäume mit ihrer Takelung beizufügen.
 Es ist dafür zu sorgen, daß das Deck im Bereiche der Förderwege möglichst eben hergestellt wird und Klampen, Augen usw. vermieden werden.
-für schwere	Die Munition für die schwere Artillerie soll auf das Oberdeck übergenommen und durch
+für schwere Die Munition für die schwere Artillerie soll auf das Oberdeck übergenommen und durch
 Artillerie untereinanderliegende Öffnungen direkt in die Kammern gefiert werden. Für das Heranschasfcn der Munition auf den freien Decks sind von Hand getriebene Wagens) ohne besondere Schienen, Davits und Handwinden nach Bedarf vorzusehen. Fördereinrichtungen siehe 81114.
-für mittlere und Die Munition soll durch die MumtionSöffnungen, Schächte oder Luken mittels Munition-- leichte Artille- winden, Handwinden ober Munitionswippen f) nach den Kammern gefördert werben (siehe rie	81114).
-LabeübunaS-	Für die Stauung der Labeübungskanonen und des Exerzierladegeräts ist Platz M
-kanone°)	zu halten.
-Exerzierlabe- Beftstigung der LadeübungSkanonen an Deck stehe 81114 i. gerät°) 	
+für mittlere und Die Munition soll durch die MumtionSöffnungen, Schächte oder Luken mittels Munition-- leichte Artille- winden, Handwinden ober Munitionswippen f) nach den Kammern gefördert werben (siehe rie 81114).
+LabeübunaS- Für die Stauung der Labeübungskanonen und des Exerzierladegeräts ist Platz M
+kanone°) zu halten.
+Exerzierlabe- Beftstigung der LadeübungSkanonen an Deck stehe 81114 i. gerät°)  
 •) vgl. Zusammenstellung V (Anlage |u § 5 IV bei Virfervorfchrist).
  
 
-67	8148
+67 8148
 Landungslafetten") Für die Unterbringung der Landungslafetten mit Zubehör ist der erforderliche Platz q Borb frei zu halten.
 Halterungen siehe 81114 i.
-Sonstiges	Für die Aufstellung der großen und der beiden kleinen Bordscheiben sind die erforderlich«
+Sonstiges Für die Aufstellung der großen und der beiden kleinen Bordscheiben sind die erforderlich«
 Halterungen anzubringen, llbernahmeeinrichtung siehe 81112.
 Um zu verhüten, baß die vorgeschriebenen BedienungSkreise der Geschütze im Bereich unmittelbar begrenzender Aufbau- und Luftschachtwände durch Pilzkappen, Schacht- uni Sicherungskasten eingeschränkt werben, sollen während des BauzustandeS die in Frage komm« den Wände durch einen auffallenden Anstrich oder durch Hinweistaftln kenntlich gemai werden. In einem Abstand von 2 m über dem Geschützstanddeck kann hinsichtlich deS $ dienungSkreises von dieser Einschränkung abgegangen werden.
 Einrichtungen für Bereitschaftsmunition siehe 8II14 k.
@@ -4572,11 +4577,11 @@ spruchungen entsprechend sorgfältig nach dem Schiff abzustützen.
 81 Gruppe 52 Bekohlungseinrichtungen
 Nicht vorhanden.
 81 Gruppe 53 Aschförderung
-«schaufzüge	Nicht vorhanden.	W
+«schaufzüge Nicht vorhanden. W
 Förderwege für ver- Zum Fortschaffen von verbrauchtem Mauerwerk, Ruß usw. sollen die in jedem Keffelrauock ü brauchte« Mauer- und im Hafenbetriebsraum nach Maßgabe der Einrichtungszeichnungen vorzusehenden Luti wert »sw. rinnungSöffnungen dienen.
 Unter jeder Öffnung ist zur Führung der Eimer ein loSnehmbareS Gestell aus Bandeise« vorzusehen. Die genaue Lage der Öffnungen ist nach dem Einbau der Kessel an Bord zu bestimmen.
 81 Gruppe 54 Lüftungseinrichtungen
-Zweck	Die Lüftungseinrichtungen dienen zur:
+Zweck Die Lüftungseinrichtungen dienen zur:
 Lusterneuerung,
 Luftkühlung,
 Entgiftung von Schiffsräumen.
@@ -4602,22 +4607,22 @@ Für den Luftbedarf in Räumen mit, neben oder über Wärmequellen ist die zu be
 Dies gilt für die Leistung der Raumluftkühler in Räumen mit Raumluftkühlung.
 Für die Berechnung der Wärmemengen kommen in Frage: Wärmeabgabe von Maschine Aggregaten, Dampfrohren, Wärmeeinstrahlung von Nachbarräumen, Wärmeabgabe vU Menschen (für eine Person 100 kcal/h, Beleuchtung.
 Maschinen und Aggregate sollen nach Möglichkeit Kühler erhalten, deren Leistung für dit Abführung aller oben genannten Wärmemengen ausreichen soll (siehe MII »Allgemeine Do^ schriften und MII29). Nur in Ausnahmefällen sollen zusätzliche Raumluftkühler vorgesehen werden.
-Räume	Stündlicher Luftbedarf	Bemerkungen
-	Leerer
-Rauminhalt in m* mal	Anzahl
-der Personen mal m8	
+Räume Stündlicher Luftbedarf Bemerkungen
+ Leerer
+Rauminhalt in m* mal Anzahl
+der Personen mal m8 
 A. Räume mit Wäri
-1.	L-Werke (Schalt- stellen,L-Gefechts- stand)
-2.	Umformer	
-3.	Torpedolustpumpen a) mit Dampfanti b) mit elektrischem Antrieb	
-4.	Frischwassererzeugei
-5.	Waffenleiträume st u. Torp	
-6.	Kommandozentrale
-7.	Kreiselumformer..	Urquellen
+1. L-Werke (Schalt- stellen,L-Gefechts- stand)
+2. Umformer 
+3. Torpedolustpumpen a) mit Dampfanti b) mit elektrischem Antrieb 
+4. Frischwassererzeugei
+5. Waffenleiträume st u. Torp 
+6. Kommandozentrale
+7. Kreiselumformer.. Urquellen
 Turbo- .. "Diesel- ..
-rieb	
+rieb 
 oder Diesel-
-r ........ ir Artillerie	45—90') 30—45’)
+r ........ ir Artillerie 45—90') 30—45’)
 30—60’)
 90
 45
@@ -4627,35 +4632,35 @@ r ........ ir Artillerie	45—90') 30—45’)
 90
 20
 15
-10		Zu- und Abluft. Unterdrück.
-				
-8 Rudermasckinen					
-9.	Pumpen mit
-a)	Dampfantrieb
-b)	elektrischem Ar
-10.	Spillmaschinen al mit Damvkan				
-	rtrieb.....
-trieb			—	
+10  Zu- und Abluft. Unterdrück.
+    
+8 Rudermasckinen     
+9. Pumpen mit
+a) Dampfantrieb
+b) elektrischem Ar
+10. Spillmaschinen al mit Damvkan    
+ rtrieb.....
+trieb   — 
 b) mit elektrischem Antrieb..
-11. Fla-Kreiselraum und Schalt¬stelle 				Zuluft. Rat. Abluft.
-12. Kesselbetriebsräume		30—60
-90 30—60’")	—	
-13. Rohrgänge (die nicht von Maschinenräumen mit gelüftet werden)				Zu- und Abluft.
-14. Schlingeranlage			i —	Zu- und Abluft. Unterdrück. ] Besondere Lüfter anstreben.
-			Zu- und Abluft. Unterdrück. I
+11. Fla-Kreiselraum und Schalt¬stelle     Zuluft. Rat. Abluft.
+12. Kesselbetriebsräume  30—60
+90 30—60’") — 
+13. Rohrgänge (die nicht von Maschinenräumen mit gelüftet werden)    Zu- und Abluft.
+14. Schlingeranlage   i — Zu- und Abluft. Unterdrück. ] Besondere Lüfter anstreben.
+   Zu- und Abluft. Unterdrück. I
 >) Erforderlichenfalls Raumluftsühler.
 u) Außerdem Raumluftkühler.
 ") Luftwechsel richtet sich nach den abzuführenben Wärmemengen.
  
 
-Räume	Stündlicher Luftdedarf >
-	Leerer
-Rauminhalt in m8 mal	Anzahl 1
+Räume Stündlicher Luftdedarf >
+ Leerer
+Rauminhalt in m8 mal Anzahl 1
 der Personen 1 mal m8
-	
+ 
 Bemerkungen
-1.	
-2.	
+1. 
+2. 
 3
 4.
 5.
@@ -4664,13 +4669,13 @@ Bemerkungen
 8.
 9.
 10.
-8.	Wohnräume
-Kajüten')	
-Arbeitszimmer«)		
-Schlafzimmer	 Wohnkammern«)	 Messen'»	
-a)	Mannschaftsräume und Lese-räume in Decks ohne Wärme-quellen 	
-b)	MannschaftSräume und Lese- räume neben oder über Wärmequellen	
-Krankenräume«) und u)	 Nebenräume«)	 OperationSranm«)	 Apotheke«)	 Arresträume 	
+8. Wohnräume
+Kajüten') 
+Arbeitszimmer«)  
+Schlafzimmer  Wohnkammern«)  Messen'» 
+a) Mannschaftsräume und Lese-räume in Decks ohne Wärme-quellen  
+b) MannschaftSräume und Lese- räume neben oder über Wärmequellen 
+Krankenräume«) und u)  Nebenräume«)  OperationSranm«)  Apotheke«)  Arresträume  
 10*
 10
 10*
@@ -4682,9 +4687,9 @@ Krankenräume«) und u)	 Nebenräume«)	 OperationSranm«)	 Apotheke«)	 Arrestr
 2.
 6. Arbeitsräume
 Munitionskammern
-a)	gekühlte Kammern	 b) nichtgekühlte Kammern ..
-b)	Torpedozündungen	 d) Torpedoladungen ...... e) Turmbeladeräume	
-Hellegats			
+a) gekühlte Kammern  b) nichtgekühlte Kammern ..
+b) Torpedozündungen  d) Torpedoladungen ...... e) Turmbeladeräume 
+Hellegats   
 15«)
 20
 50*)
@@ -4697,12 +4702,12 @@ Hellegats
 wie Munitionskammern
 10
 127)
-3.	
-4.	
+3. 
+4. 
 5
 Instrumentenkammer..
-Kartenkammer	
-Kartenhaus	
+Kartenkammer 
+Kartenhaus 
 10
 30
 30
@@ -4758,50 +4763,50 @@ Wenn neben oder Über Wärmequellen, 20—30fachen Luftwechsel, vgl. Nr 22
 Die größte Luftmenge ist zu nehmen.
  
 
-Räume	Stündlicher Luftbedarf
-	Leerer
-Rauminhalt in m» mal	Anzahl
+Räume Stündlicher Luftbedarf
+ Leerer
+Rauminhalt in m» mal Anzahl
 der Personen mal m»
-11. Räume für Handwerker			50")
-12. Bücherei			10	—
-13. Postraum 				10	50
-14. Räume für Handruder		—	
-15. Räume für Munitionsaufzüge	6	-	■
-16. Minenräume		6	.—
-17. Turn-, Fecht- und Zielgerät ..	6			;
-18. Scheibenmaterial		6			/
-19. Lagerräume für Munition in		
-den oberen Decks		30	—
-20. Gänge und Räume im Panzer-		
-und Zwischendeck		
-a) über den Keffelränmen ..	^mindestens		
-b) über den Maschinenräumen	J etwa 20	—
-21. Räume für Rudergeschirr ...	4	—
-22. Maschinenleitstand		30u)	
-23. Maschinenhilfsleitstand		30 u)	—
-24. Kesselgefechtsstand 		30")	—
-25. Raum für Laurin-Gerät ....	60	—
-26. Raum für Ol- und Master-		
-Untersuchung 			10	—
-D. Räume mit Quellen für		
-Luftverschlechterung		
-l. Aborte")		20—30	—
-2. Anrichten		15	
-3. Bäder.					20—30	
-4. Waschräume					30	—	1
-5. Mesteküchen1S)	/	30 für Z
-40 » A	—
-6. Mannschaftsküchen ")....... {	45 für Z
-60 » A	—
-7. Bäckereien")	{	30 für Z
-40 , A	
-8. Kantine 						
-9. Meffevorräte				
-10. gleischlasteu 				
-11. Vorräte		15 ")	
-12. Trockenlasten			
-13. Brotlast			
-14. Kartoffellast				 4
+11. Räume für Handwerker   50")
+12. Bücherei   10 —
+13. Postraum     10 50
+14. Räume für Handruder  — 
+15. Räume für Munitionsaufzüge 6 - ■
+16. Minenräume  6 .—
+17. Turn-, Fecht- und Zielgerät .. 6   ;
+18. Scheibenmaterial  6   /
+19. Lagerräume für Munition in  
+den oberen Decks  30 —
+20. Gänge und Räume im Panzer-  
+und Zwischendeck  
+a) über den Keffelränmen .. ^mindestens  
+b) über den Maschinenräumen J etwa 20 —
+21. Räume für Rudergeschirr ... 4 —
+22. Maschinenleitstand  30u) 
+23. Maschinenhilfsleitstand  30 u) —
+24. Kesselgefechtsstand   30") —
+25. Raum für Laurin-Gerät .... 60 —
+26. Raum für Ol- und Master-  
+Untersuchung    10 —
+D. Räume mit Quellen für  
+Luftverschlechterung  
+l. Aborte")  20—30 —
+2. Anrichten  15 
+3. Bäder.     20—30 
+4. Waschräume     30 — 1
+5. Mesteküchen1S) / 30 für Z
+40 » A —
+6. Mannschaftsküchen ")....... { 45 für Z
+60 » A —
+7. Bäckereien") { 30 für Z
+40 , A 
+8. Kantine       
+9. Meffevorräte    
+10. gleischlasteu     
+11. Vorräte  15 ") 
+12. Trockenlasten   
+13. Brotlast   
+14. Kartoffellast     4
 zu erhöhen.
 “) Wenn wand oder »».günstig gelegen, auf 100 m»
 “) Die Aborte erhalten einen besonderen Ablüfter.
@@ -4835,72 +4840,72 @@ Zu« und Abluft. Unterdrück-
 ") Denn die Vorräte und Lasten über ober neben Wärmequellen liegen, ist der Luftwechsel zu erhöh«»-
  
 
-Räume	Stündlicher Lustdedarf	Bemerkungen
-	Leerer
-Nauminhalt in m* mal	Anzahl der Personen mal m*	
-15. Taulastm			6	—-	Abluft. Zuluft im allgemeinen ^M di« Zugänge.
-16 ÄnnfHiip Pslfttn .	.. ..	6—12	w M	z Zu- und Abluft.
-			
-17 ?uunels 		6—12	—	
-18. Raum für Hängematten ... -1	4		1 A b l u f t. Zuluft im allgemeinen buM । Zugänge oder Umschottungen. 1
-IV,	»	»		1
-. ^senkten 		J			
-			
-21.	,	» Spiritus				Siehe A. B. B. Nr. 41.
-22.	»	» feuergefährliche	10		
-Materialien ....,			Abluft. (Vorsichtsmaßregeln
-23. Niedergänge nach den Maschi-nenräumen		—	- (200)	gegen Dampfgrfahr.)
+Räume Stündlicher Lustdedarf Bemerkungen
+ Leerer
+Nauminhalt in m* mal Anzahl der Personen mal m* 
+15. Taulastm   6 —- Abluft. Zuluft im allgemeinen ^M di« Zugänge.
+16 ÄnnfHiip Pslfttn . .. .. 6—12 w M z Zu- und Abluft.
+   
+17 ?uunels   6—12 — 
+18. Raum für Hängematten ... -1 4  1 A b l u f t. Zuluft im allgemeinen buM । Zugänge oder Umschottungen. 1
+IV, » »  1
+. ^senkten   J   
+   
+21. , » Spiritus    Siehe A. B. B. Nr. 41.
+22. » » feuergefährliche 10  
+Materialien ....,   Abluft. (Vorsichtsmaßregeln
+23. Niedergänge nach den Maschi-nenräumen  — - (200) gegen Dampfgrfahr.)
 Die Keffelraum-Niedergänge find ul zu entlüften, wenn besondere Wdwi
-24.	•	nach den Kessel-			quellen in den Niedergängen M
-räumen	
-OR Mninkelknnrmer						Handen sind.
+24. • nach den Kessel-   quellen in den Niedergängen M
+räumen 
+OR Mninkelknnrmer      Handen sind.
 Zu- und Abluft. Unterdmck.
-	10	" ■ —'	
-26. Labeschränke				Siehe G. f. e. A. III § 13.
-			
-27. Gasschutzhellegat 		20	—	I Nur Abluft. Zukrft durch die Z«
-28. Gasreizraum18) 			30	—	1 gänge und Umschottungen.
-29. Verfügbare Räume		10—30	—	Zu. und Abluft.
-30. Wäscherei				30	—	^Ju- und Abluft. Unterdrück. |
-31. Plätterei		30	—	
-E. Räume für besondere Zwecke			Diese Räume sollen migliä
-			besondere Lüfter erhalten.
-I. Gefechtsverbandplätze		20 w)	—	
-2. Zur Lagerung Verwundeter			Zu- und Abluft. Unterdrück. -
-bestimmte Räume		15 “)		
-3. Wäschetrockenräume		*—		Abluft. (Vgl. A.B.B. Nr.8^
-4. Kühlmaschinenräume ^		30		Zu- und Abluft. Unterdrück, l
-5. Fleischkühlräume		4		Zu« und Abluft, um gelegentli!
-			die Luft erneuern zu können (der il Kühlraum angeordnete Lüfter di« nur zur Bewegung der gekühlt« Luft/ für die Bestimmung der ^ stung ist ein 6Ofachrr LuftwM gegen einen statischen Druck von sw
-			bestens 60 mm W S zugrunde I* legen).
-6. Kreiselkompaßraum			30	—	Zu- und Abluft.
-7. Funk- und Horchräume		30 h)		Zu- und Abluft. Apparates
-			Verschmutzen schützen. In den ^ nälen ist hinter der unmittelbar« Einströmungsöffnung rin 8chals<fti
-			anzuordnen.
-8. Kabelgänge		10—15		
-9. Kasematten (Geschützstände) ..	30		Abluft.
-10. Akkumulatorenräume		30		Siebe S. f. r. A. III § 13.
-11. Akkumulatorenschränke		30	—	Siehe <B. f. e. 8L VH § 25.
-U) Größter Mannschaftswaschraum.			
+ 10 " ■ —' 
+26. Labeschränke    Siehe G. f. e. A. III § 13.
+   
+27. Gasschutzhellegat   20 — I Nur Abluft. Zukrft durch die Z«
+28. Gasreizraum18)    30 — 1 gänge und Umschottungen.
+29. Verfügbare Räume  10—30 — Zu. und Abluft.
+30. Wäscherei    30 — ^Ju- und Abluft. Unterdrück. |
+31. Plätterei  30 — 
+E. Räume für besondere Zwecke   Diese Räume sollen migliä
+   besondere Lüfter erhalten.
+I. Gefechtsverbandplätze  20 w) — 
+2. Zur Lagerung Verwundeter   Zu- und Abluft. Unterdrück. -
+bestimmte Räume  15 “)  
+3. Wäschetrockenräume  *—  Abluft. (Vgl. A.B.B. Nr.8^
+4. Kühlmaschinenräume ^  30  Zu- und Abluft. Unterdrück, l
+5. Fleischkühlräume  4  Zu« und Abluft, um gelegentli!
+   die Luft erneuern zu können (der il Kühlraum angeordnete Lüfter di« nur zur Bewegung der gekühlt« Luft/ für die Bestimmung der ^ stung ist ein 6Ofachrr LuftwM gegen einen statischen Druck von sw
+   bestens 60 mm W S zugrunde I* legen).
+6. Kreiselkompaßraum   30 — Zu- und Abluft.
+7. Funk- und Horchräume  30 h)  Zu- und Abluft. Apparates
+   Verschmutzen schützen. In den ^ nälen ist hinter der unmittelbar« Einströmungsöffnung rin 8chals<fti
+   anzuordnen.
+8. Kabelgänge  10—15  
+9. Kasematten (Geschützstände) .. 30  Abluft.
+10. Akkumulatorenräume  30  Siebe S. f. r. A. III § 13.
+11. Akkumulatorenschränke  30 — Siehe <B. f. e. 8L VH § 25.
+U) Größter Mannschaftswaschraum.   
 ") Neben oder über Wärmequellen bis JOfachen Luftwechsel.
 ^) Die Kühlmaschinenräume erhalten immer besonder« Ablüfter.
  
 
 Lüftung-arten
 Lüftung-gruppen
-Räume	Stündlicher Luftbedarf
-	Leerer
-Rauminhalt in m * mal	Anzahl der Personen mal mB
-12. Olübernahmesteüen		20 A Z durch	—
-13. Räume für Benzinlagerung ^	Umschaltung 30'")	—
-14. Raum für festringebaute Aze« tylkn-Entwickler für Schwerst« apparate'^		30	
-15. Lm«Drehhaubm		30	—
-16 Fahrtmeßanlagen			12	-—
+Räume Stündlicher Luftbedarf
+ Leerer
+Rauminhalt in m * mal Anzahl der Personen mal mB
+12. Olübernahmesteüen  20 A Z durch —
+13. Räume für Benzinlagerung ^ Umschaltung 30'") —
+14. Raum für festringebaute Aze« tylkn-Entwickler für Schwerst« apparate'^  30 
+15. Lm«Drehhaubm  30 —
+16 Fahrtmeßanlagen   12 -—
 F. Räume, welche keine beson« bere Lüftung erhalten.
-1.	Doppelboden	•••
-2.	Doppelwand			
-3.	Wallgang		
-4.	Heizölbunker	-	-		
+1. Doppelboden •••
+2. Doppelwand   
+3. Wallgang  
+4. Heizölbunker - -  
 und
 der Stau«
 Sollen nach Bedarf durch die hi« vorgesehenen besonderen, tragt« Lüster mit elektrischem Nntried lüstet werden.
@@ -4948,7 +4953,7 @@ Die Kreiselgehäuse sind aus verzinktem Blech herzustellen,' sie müssen für di
  
 
 
-77	81 54
+77 81 54
 Die dem Motor zugewendete Seite der Gehäuse muß in Größe des Kreisels losnehmbar sM Die Luftgeschwindigkeit im Lüsterrad und im Saugeteil des Gehäuses soll etwa 15 w j, W Sekunde betragen.
 Die Luftschächte und -kanäle sollen keine wichtigen Verbände und insbesondne J wichtigen Schotte durchbrechen und sind daher grundsätzlich von oben in die Räume zu fW Wo dies nicht zu erreichen ist, soll das in der A. B. V. unter S110 Gesagte beachtet wertz^ Luftkanäle sollen in möglichst großen Abständen von den Türöffnungen durch die Haupts^ geführt werden. Welche Schotte und welche Teile der Decks überhaupt nicht durchbuÄ werden dürfen, geht aus der B. B. V. — S — hervor.
 Für Öffnungen in gepanzerten Decks oder Seitensplitterschotten ist ein Seitenverhält^ 1:2,5 anzustreben. Beachte auch 8136.
@@ -5025,7 +5030,7 @@ In den Umformerräumen sind die Zuluftkanäle so weit nach unten zu führen, da�
 Für die Lüftung der Räume zur Unterbringung der ftst eingebauten Azetylen-Sch^ apparate ist außerhalb des Raumes ein besonderer Ablüfter (Fliehkraftlüfter) vorzusthts Zuluft natürlich durch einen ins Freie zu führenden Schacht. Umschottung des Raumes M Gehäuse des Lüfters, Schächte und Kanäle außerhalb des Raumes müssen gasdicht sein. Lüfterschächte müssen möglichst hoch (über dem Sonnensegel) ins Freie geführt werben, & Austrittsöffnungen müssen gegen die Wirkung von Funkenbildung, gegen Wasserschlag und Hineinwerfen von Gegenständen durch einen Schwanenhals mit sachgemäß angeordnetrm, W maschigem und doppeltem Drahtgewebe geschützt werben. Absperrorgane (Verschluß Gasklappe) dürfen nicht eingebaut werden. Im Raum soll oben und unten durch abgesaugt werden. Ein Hineinwerfen von brennenden Gegenständen darf nicht möglich f^' I
  
 
-81	81 b4
+81 81 b4
 Folgende Schilder find anzubringen
 bei der Zuluftklappe und an der Raumtür:
 Vorsicht — Explosionsgefahr! Offenes Feuer und Jla«^ fernhalten!
@@ -5035,10 +5040,10 @@ Alle Räume, wie Zentralen, Rechen- und Schaltstellen, Funkräume, Umformerräum
 Die Umschottung der Raumlustkühler ist spritzwasserdicht mit einem 300 mm Hohm wasserdichten Süll auszuführen. Die an die Raumluftkühler angeschlossenen LüftungskaM und deren Verschlüsse brauchen ebenfalls nur spritzwasserdicht zu sein.
 Für die Berechnung der Leistungen des Lüfters und des Kühlers solcher Räume sind mi allgemeinen die Wärmeeinstrahlung und die von Aggregaten, Personen und der Beleuchtung abgegebenen Wärmemengen zugrunde zu legen, sofern nicht der vorgeschriebene Luftwechs« höhere Leistungen erfordert. Um möglichst kleine Decksdurchbrechungen zu erhalten, find Ml Anordnung des Kühlers vor dem Schiffsraumlüfter für die Berechnung der SchachtquerschnitA möglichst die kleineren Luftmengen si'ir den vorgeschriebenen Luftwechsel zugrunde zu legen« soweit hierdurch keine Nachteile für die Pressung entstehen. Die verschiedenen Leistungen fol Lüfter (für Raumluftkühlung und für den vorgeschriebenen Luftwechsel) sind durch AndernoU der Umdrehungen zu erreichen. Die Raumtemperatur dieser Räume darf beim Betrieb dell Raumluftkühlung und gesperrter Außenlüftung und Betrieb aller Maschinen und ApparaW 30° 6 im allgemeinen nicht übersteigen. Hierbei sind als Temperatur des Kühlwassers grunW sätzlich 22° 6 anzunehmen. Bei Heimatschiffen und bei anderen Schiffen kann, wenn MW Kühlwassermenge oder Lüfterleistung zu groß werden, eine Kühlwassertemperatur von 20° W zugrunde gelegt werden. Bei beschränkten Raumverhältnissen kann die höchste RaumtemperadW mit 35° 0 für folgende Waffenleiträume angenommen werden:
 Regelmaschinenräume,
-Mutterrichtanlagen,	,
+Mutterrichtanlagen, ,
 Artl.-Berstärkerräume.
 Eigenlüftung und -kühlung der elektrischen Maschinen siehe A. B. V. — M — »MgeineinM Vorschriften« und MII29.
-Es sind zu beachten:	*
+Es sind zu beachten: *
 Für die Lüftung der Akkumulatorenräume die G. f. e. A. HI 8 13, für die Lüftung der Akkumulatorenladeschränke die G. f. e. A. VII. für Lüftung der elektrischen Maschinen ^. B. V. — M — »Allgemeine Vorschriß^U und M n 29.
  
 
@@ -5060,7 +5065,7 @@ Allgemein ist zu beachten: um kleine Querschnitte zu erzielen, dürftn Luftgcsch
 a Luftschachte
 Die Austrittsgeschwindigkeiten der Zulust für bewohnte Räume dürfen nicht über 10^
 für die Kaiüte und die Messen etwa 3 m/s betragen. Für die übrigen Räume und
-...	Ablust darf der vorhandene Druck voll auSgenutzt werd»
+... Ablust darf der vorhandene Druck voll auSgenutzt werd»
 b« Lmt->Mg.schwmd.gkn^ * Mtlüstung - beacht, unter u LuMÄ^Z
 mit den Angaben über Lustmengen, Luftgeschwmdlgketten und Omrschnittk in Schächte» i^
 Schwimmern sind zur Genehmigung vorzulegen.
@@ -5123,7 +5128,7 @@ Lochgrätinge in den Schächten siehe 8136 und beachte 8II19.
 Für die Heranziehung der Luftschächte für den Notverkehr beachte 8II8.
 Gasabschluh der Luftschächte oder -kanäle siehe 8II19.
 Für die Bauart der Schachtenden beachte Skizzenbuch Nr. 20 Blatt 40 und 45.
-b Lüfterkammern und Lüfterkammern sollen angeordnet werden für die in den Wohnräumen in unmittelbar« nicht wasserdichte Nähe von Schlafplätzen ober Kammern liegenden Lüfter, für Räume mit Hörempfang und wo Lnfttanäle	^ sonst zur Dämpfung von Geräusch notwendig ist.
+b Lüfterkammern und Lüfterkammern sollen angeordnet werden für die in den Wohnräumen in unmittelbar« nicht wasserdichte Nähe von Schlafplätzen ober Kammern liegenden Lüfter, für Räume mit Hörempfang und wo Lnfttanäle ^ sonst zur Dämpfung von Geräusch notwendig ist.
 Die Bedienung der Motoren (Herausnehmen des Ankers) und Lüfter darf durch biti Lüfterkammern nicht behindert werden. Die Kammerwände sind, wenn erforderlich, lo^ nehmbar anzuordnen.
 Ihre Umschottungen aus etwa 2,5 mm dickem Blech mit leichten Dersteifungsstahlen sollm gasdicht und gegen Schallübertragung in die angrenzenden Räume gut isoliert sein. Dis Zugangstüren sind mit Filzdichtung zu.versehen.
 Anordnung der Motoren, Regelung der Umdrehungen und Anlasser siche A.B.V.j — MI119 — und die G.f.e. A.
@@ -5197,41 +5202,41 @@ Anstrich siehe 8IV.
 °) Dgl. Zusammenstellung V (Unlage zu § 5 IV b-r Llrfervorschrift.)
  
 
-87	81 60
+87 81 60
 Ahminge
 SI Gruppe 60 Verschiedener Ausbau
 Für das Absetzen und Anbringen der Ahminge ist nachstehende Vorschrift mahgebeM
-1. Geltungsbereich der Vorschrift	1
+1. Geltungsbereich der Vorschrift 1
 Die Vorschrift soll für alle gleich, und steuerlastig entworfenen Schiffe und Jahq^
 gelten.
-2.	Lage der.Ahminge und ihrer Nullpunkte
-a)	An den beiden Bordseiten des Hinter- und Vorschiffes ist je eine Ahming anzubringv
+2. Lage der.Ahminge und ihrer Nullpunkte
+a) An den beiden Bordseiten des Hinter- und Vorschiffes ist je eine Ahming anzubringv
 und zwar
-1.	im Hinterschiff
+1. im Hinterschiff
 bei Einschraubenschiffen in einer rechtwinklig zur X. W. L. liegenden Qi« schnittsebene durch den Rudersteven,
 bei Zwei- und Dreischraubenschiffen
 a) bei Schlachtschiffen, Panzerschiffen und Kreuzern in einer rechtwinklig j K. W. L. liegenden Querschnittsebene durch die seitlichen Wellenböcke, j Vierschraubenschiffen durch die Hinteren Wellenböcke /
 ß) bei Torpedobooten, Zerstörern, Geleitbooten usw. in einer rechtwinkl zur K. W. L. liegenden Querschnittsebene durch den hintersten Punkt h geraden Teiles des Kiels/
-2.	im Vorschiff am Vorsteven,
-3.	außerdem ist bei Schiffen mit unter den Kiel herausragenden festen Bauteilen, z.H Ruder, Ruderhacke, Schraubenkreis usw., eine zusätzliche Ahming in der Querschnitt ebene des am tiefsten unter den Kiel ragenden Bauteiles vorzusehen.
-h)	Die Nullinie der Ahminge zu a1 und a2 ist die Gerade durch den hintersten und do bersten Punkt der Unterkante des nach der Zeichnung geraden Teiles des Kieles.
+2. im Vorschiff am Vorsteven,
+3. außerdem ist bei Schiffen mit unter den Kiel herausragenden festen Bauteilen, z.H Ruder, Ruderhacke, Schraubenkreis usw., eine zusätzliche Ahming in der Querschnitt ebene des am tiefsten unter den Kiel ragenden Bauteiles vorzusehen.
+h) Die Nullinie der Ahminge zu a1 und a2 ist die Gerade durch den hintersten und do bersten Punkt der Unterkante des nach der Zeichnung geraden Teiles des Kieles.
 Der Nullpunkt der Ahming zu »3 ist der unter »3 bezeichnete tiefste Punkt.
-o)	Die Teilstriche der Ahminge sind parallel zur X. W. L. abzusetzen.
-d)	Das Stichmaß für dm Nullpunkt der Ahming zu »3, bezogen auf die Nullinie de Ahminge zu a.1 und a2, ist festzustellen und dem O. K. M. und der Marinewerft dp dem Marinearsenal zwecks Aufnahme in das Schiffsbuch mitzuteilen.
-3.	Art der Ahminge
-a)	Die Ahminge sind auf beiden Seiten des Schiffes durch Dezimeterzahlen in arabisch« Ziffern darzustellen, und zwar sollen bei Schiffen über 300 t nur die geradzahlig Dezimeter durch 100 nun hohe Ziffern, bei Schiffen unter 300 t hingegen alle Dezimeß durch 50 nun hohe Ziffern bezeichnet werden. Die Ziffern sind so anzubringen, daß H Unterkante mit dem angegebenen Tiefgänge zusammenfällt.
+o) Die Teilstriche der Ahminge sind parallel zur X. W. L. abzusetzen.
+d) Das Stichmaß für dm Nullpunkt der Ahming zu »3, bezogen auf die Nullinie de Ahminge zu a.1 und a2, ist festzustellen und dem O. K. M. und der Marinewerft dp dem Marinearsenal zwecks Aufnahme in das Schiffsbuch mitzuteilen.
+3. Art der Ahminge
+a) Die Ahminge sind auf beiden Seiten des Schiffes durch Dezimeterzahlen in arabisch« Ziffern darzustellen, und zwar sollen bei Schiffen über 300 t nur die geradzahlig Dezimeter durch 100 nun hohe Ziffern, bei Schiffen unter 300 t hingegen alle Dezimeß durch 50 nun hohe Ziffern bezeichnet werden. Die Ziffern sind so anzubringen, daß H Unterkante mit dem angegebenen Tiefgänge zusammenfällt.
 Bei jeder Ahming ist die X. W. L. sowie mindestens eine Ziffer durch Anköriü sicher festzulegen, damit etwa verlorengegangene Ziffern leicht und zuverlässig wiedi angebracht werden können.
-b)	Der Werkstoff, aus dem die Ziffern angefertigt werden, soll haltbar sein und so ycwÄ werden, daß Zerstörungen durch Anfreffungen infolge galvanischer Ströme usw. zu erwartm sind. Die Ziffern sind im allgemeinen aufzuschweißen.
+b) Der Werkstoff, aus dem die Ziffern angefertigt werden, soll haltbar sein und so ycwÄ werden, daß Zerstörungen durch Anfreffungen infolge galvanischer Ströme usw. zu erwartm sind. Die Ziffern sind im allgemeinen aufzuschweißen.
 Wo Ahminge am Seitenpanzer (gehärteter Panzer) befestigt werden, ist daS GewW für die Befestigungsschrauben unter Verwendung von Gewindepfropfen in den PanzerW zuschneiden. Um die Zahl der Befestigungsschrauben möglichst cinzuschränken, sindW Ziffern der Ahminge gegebenmfalls auf etwa 170 mm breiten, 10 mm dicken BlechstrrW
  
 
 usw.
 b diese mit etwa '/«"Schrauben in Zickzackanordnung ^
-mit abgeschrägten Kanten UN	^ Verwendung von Gewindepfropfen) auf da
+mit abgeschrägten Kanten UN ^ Verwendung von Gewindepfropfen) auf da
 etwa 500 mm Abstand rn der /
 ^^^Die^Ziffern^der Ahminge zu 2 s. 1 und 2 sind auf dunklem Grunde weiß, auf ^
 schwarz, die Ziffern der Ahming zu 2 a 3 rot zu malen.
-4.	Bereich der Ahminge nach oben und unten
+4. Bereich der Ahminge nach oben und unten
 Die Ahminge- sollen reichen
 nach oben hin bei Schlachtschiffen, Panzerschiffen und Kreuzern 2,5 m, bei Torpch
 booten, Zerstörern und Geleitbooten usw. mindestens 0,5 m über die Wafsnlq
@@ -5242,7 +5247,7 @@ der bas Schiff in leerem Zustande (ohne Kohlen, Ol, Wasser, Munition, Provim
 Besatzung usw.) liegt.
 Bei Sonderschiffen wirb die Höhenausdehnung der Ahminge in jedem Falle besonders
 bestimmt.
-5.	HilfSahminge
+5. HilfSahminge
 Außer den unter 2. vorgeschriebenen Ahmingen sind vor dem Stapellauf an bridet
 Schiffsseiten nach Bedarf einfache HilfSahminge an den SchiffSenden von der zu 2d M
 geschriebenen Nullinie und auf etwa V«, V2 und 8/4 deS AbstandeS zwischen den Ahmingq
@@ -5250,7 +5255,7 @@ zu 2 s. I und u 2 von Unterkante Kiel an diesen Stellen deS Schiffes sorgfältig
 zumalen und bis nach dem endgültigen Abschluß des Tiefgangsnachweises instand zu halt«
 Die Dezimeterstriche dieser HilfSahminge sind anzukörnen, am Seitenpanzer (gehärtetes
 Panzer) durch geeignete Maßnahmen kenntlich zu machen.
-6.	Festpunkte
+6. Festpunkte
 Für die in Abschnitt 5 auf ^ % und '/« des AbstandeS der Hauptahminge vorgeschriebem
 HilfSahminge sind an beiden Bordseiten Festpunkte in Höhe der Unterkante der obersten Ahmw
 zahlen anzubringen.
@@ -5259,7 +5264,7 @@ Breite und 5 mm Dicke herzustellen und mittels '/«"-Schrauben zu befestigen ode
 Für die Befestigung am Seitenpanzer (gehärteter Panzer) gelten die Bestimmung^
 unter 3. sinngemäß.
 Die Unterkante dieser Marken kennzeichnet den Festpunkt.
-7.	Angaben über die Ahminge und Festpunkte in den Zeichnungen
+7. Angaben über die Ahminge und Festpunkte in den Zeichnungen
 Die Ahminge und ihre Nullpunkte sowie die Festpunkte sind in den Linienriß und in dit
 zeichnerische Darstellung der Berechnungsergebnisse schematisch einzuzeichnen.
 Dor dem Anbringen der Ahminge und HilfSahminge auf Schiffsneubauten ist ta*
@@ -5300,7 +5305,7 @@ Kasten für Streu- sand
 KompasseO)
 Feste und losnehmbare Flurplatten, wo erforderlich mit Fußleisten, sowie Laufbleche uni Grätinge sind in den Wallgängen und wo sonst nötig nach dem Brauch in der Marine vorzu sehen.
 Ilurplatten und Grätinge in den Haupt- und Hilssmaschinenräumen siehe MI bzw.
-»	»	»	» » Lasten siehe 8128.
+» » » » » Lasten siehe 8128.
 Gemäß B. B. V. — 8 —.
 Zur Vermeidung von Unfällen bei Vereisung der Decks sind auf den Kriegsschiffbautei mit Dampfantrieb je nach Größe des Schiffes und dem Ort der Aufstellung 1 oder 2 Kasia von je 0,2 bis 1,0 m' Fnhalt für die Unterbringung von Streusand einzubauen. Der Stand ort der Kästen auf den Außendccks im Vor- und Hinterschiff ist so zu wählen, daß eine Gesähl düng der Diesel-L-Maschinen und der Flugzeugmotoren durch Flugsand ausgeschlossen wird.!
 Für die Ausrüstung der einzelnen Schiffsgattungen mit Kompassen sind die besonder« Bauunterlagen maßgebend.
@@ -5317,7 +5322,7 @@ Marken für Flucht-
 und Rullinien
 nung der Steuerstellen zum Betriebe der Ruderanlage, Peilfelder und Verteilung des unmag^ tischen Materials« zur Genehmigung vorzulegen. Die Peiltochterkompasse auf der Kommandkf brücke müffen möglichst die ganze Rundsicht beherrschen.
 Geländer und Zugangstreppen siehe 8II3 und 8 H 5.
-Für die Lagerung der Reserveschrauben bzw. Reserveschraubenflügel sind Vorschläge ^i Genehmigung einzureicheu, die erforderlichen Halterungen sind vorzusehen.	W
+Für die Lagerung der Reserveschrauben bzw. Reserveschraubenflügel sind Vorschläge ^i Genehmigung einzureicheu, die erforderlichen Halterungen sind vorzusehen. W
 Für die Anbringung sämtlicher Laternen sind die nötigen Vorrichtungen zu treffe^ Laternenbretter sind in der erforderlichen Anzahl in den verschiedenen Decks nach dem BraM in der Marine vorzusehen.
 Für die Ausführung und Anordnung der Kasten für Seitenlichter ist die Musterzeichmum maßgebend.
 Zum Loten von Hand ist auf jeder Bordseite nach Maßgabe der Zeichnungen eine klapp¬bare Lotplattsorm anzubringen.
@@ -5397,9 +5402,9 @@ Die Türen zu den Abortvorräumen sind mit einem normalen Kammerschloß (Drehern
 Die Anschläge der in der Nähe von Wohnkammern liegenden Aborttüren sind mit W zu belegen. Die Klosettüren sollen nach dem Klosettraum schlagen und die gleiche Höh« N die Trenilungswände des Klosetts erhalten. Auch die Einzelabschottungen der Klosetts 8 Unteroffiziere und Mannschaften sind mit solchen Türen zu versehen.
 Die Türen der Küchen sind in der Höhe zu teilen, daß die obere Hälfte für sich geW und festgestellt werden kann. Die Türen der Hellegats sind mit einer Ausgabeklapp« 4 versehen.
 Bei nebeneinanderliegenden Küchen ist in dem Trennungsschott, wenn Platz Vorhang eine Schiebetür nach Ausführung des Trennungsschottes vorzusehen.
-Mit dem Baubelehrungskommando ist zu vereinbaren, welche Türen feste oder Dorha«Ä schlosser erhalten sollen.	J
-Für die Verwendung von Leichtmetallen beachte auch Vorbemerkung 46, 7» 4	;
-8.	B. V. — S Anhang D —.
+Mit dem Baubelehrungskommando ist zu vereinbaren, welche Türen feste oder Dorha«Ä schlosser erhalten sollen. J
+Für die Verwendung von Leichtmetallen beachte auch Vorbemerkung 46, 7» 4 ;
+8. B. V. — S Anhang D —.
 Wasserdichte und sonstige nicht wasserdichte Türen siehe 8II8.
  
 
@@ -5540,13 +5545,13 @@ Für die Scheiben der runden und eckigen Fenster ist 8 mm dickes gehärtetes Ein
 Für die Klarsichtfenster sind optisch geschliffene Scheiben aus gehärtetem Einschicht- Sicherheitsglas vorzusehen.
 Die Seitenfenster der Kajüten und Messen sind so tief anzuordnen, daß vom Sitzplatz in diesen Räumen ein freier Ausblick auf die Kimm bei waagerechter Lage des Schiffes gewähr leistet ist.
 Damit die Fenster auch in Stehhöhe einen guten Ausblick gestatten, darf Unterkante Few ster (Durchblick) nicht tiefer als 1 250 mm über Deck gelegt werden.
-Teitenfeuster	Die an der Bordwand liegenden Wohnräume, Kammern usw. sollen runde Seitenfenstck
+Teitenfeuster Die an der Bordwand liegenden Wohnräume, Kammern usw. sollen runde Seitenfenstck
 von 344 mm Glasdurchmesser in genügender Zahl erhalten.
 Abweichend von der vorläufigen Musterzeichnung »Bronzefenster 344 mm ^ mit ein« geschweißter Zarge und fester Seeschlagblende« sollen die Fenster in der Außenhaut zur & sparnis von Bronze wie folgt ausgeführt werden:
 Fensterrahmen aus Temperguß hhosphatiert (Te 35,92), Haltering für Scheiben aus 7e phosphatiert oder 8t vzkt, Hängebolzcn aus 8t mit aufgezogenen Messinghülsen oder in Messingbuchsen, Bolzen für Augschrauben aus 8t, Augschrauben und Scheiben aus Ms, Kock muttern aus le vzkt oder 8t vzkt, Blenden aus le phosphatiert oder St phosphatiert, Senh schrauben für Haltering aus 8t phosphatiert, Splinte aus 8t vzkt. Die Nuten in den Feustel rahmen sind vor dem Einlegen des Dichtungsqummis gut zu konservieren (Anstrich mit Blch Mennige), damit keine Rostbildung eintreten kann.
 Abmessungen der Gläser für Boote und Sonderschiffe gemäß B. B. V. — S —/ i® übrigen gelten die vorstehenden Bestimmungen sinngemäß.
 Die Fensterhöhen über den einzelnen Decks sind den besonderen Bauunterlagen zu rat' nehmen.
-Deckfenster	Die Deckfenster sind den Musterzeichnungen entsprechend im Anhalt an die Einrichtung
+Deckfenster Die Deckfenster sind den Musterzeichnungen entsprechend im Anhalt an die Einrichtung
 Zeichnungen einzubauen.
 Zum Freihalten der Decksflächm sind sie, wo es möglich ist, an die Aufbauwände hera«^ zulegen. Deckfenster im Bereiche des Gasdrucks sollen an der Geschützmündung zugekebritNj Süllwand kräftige schräge Ableitbleche erhalten, anderenfalls muß diese Wand sattelförmig ausgeführt werden.
 Die Deckfenster der Küchen sind möglichst über den Herben anzuordnen.
@@ -5556,11 +5561,11 @@ Die Deckfenster der Küchen sind möglichst über den Herben anzuordnen.
 99 sn 6
 Die Boote sollen Deckfenster mit Gläsern von 140 mm ßf erhalten. Die Klappen dy Maschmenraumoberlichte sollen 3 nun, die der anderen Deckfenster 2,5 mm dick und IHty gewölbt sein. Sie sind mit einem gebördelten Rand von 25 bis 30 mm Höhe zu versehen.^
 Für Sülle der Deckfenster beachte Allgemeines zu 8113 bis 18 und siehe 8117 und 18,
-e Decksgläser	Decksgläser find, wo erforderlich, anzubringen. Beachte die Musterzeichnungen für
+e Decksgläser Decksgläser find, wo erforderlich, anzubringen. Beachte die Musterzeichnungen für
 DeckSgläser.
 Wo im Bereich von gepanzerten Außendecks zur Beleuchtung der darunterliegnden Rän^ DeckSgläser verwendet werden, sind dieselben loSnehmbar einzurichten. Für den GefechtffaS sind statt der DeckSgläser gepanzerte Deckel einzulegen.
 d Blenden für die Teh- Die Blenden in den Sehschlitzen der Kommandotürme sind wie bei den letzten Neubautyi !wtürme«**"TehschÄ auszuführen. Die Befestigungsteile sind so einzurichten, daß bei Klarschiff keine splitterbilk« fenster mit Blenden, den Teile am Panzer verbleiben. Uber den Sehschlitzen selbst sind an der Panzerwand Waffel' ?Äen ^SchuvstLnd?« rinnen zum Abweisen des ablaufenben Waffers anzubringen.
-für die SchUsführung Die Sehschlitze im Vormarsstand sollen eine Größe von 250 x 50 mm erhalten. Lie "sw	sind sowohl durch Fenster aus 8 mm dicken gehärtetem Einschicht-SicherheitSglas als auch dur^
+für die SchUsführung Die Sehschlitze im Vormarsstand sollen eine Größe von 250 x 50 mm erhalten. Lie "sw sind sowohl durch Fenster aus 8 mm dicken gehärtetem Einschicht-SicherheitSglas als auch dur^
 Splitterschutzblenden au8 20 mm dickem ^dn/^-Material abzuschließen. Fenster und Blend« sind so anzuordnen, daß sie wahlweise über den Sehschlitz geklappt werden können.
 Die Fenster in den splittersicheren Schutzständen für die Schiffsführung und die Verbands führung sollen Abmessungen gemäß B. B. V. — S — und klappbare Blenden aus 20 nun dicke« ^Im/^-Material erhalten. In den Blenden des Schutzstandes für die Derbandsführung find Schlitze von 250 X 50 mm vorzusehen, die durch besondere Panzerblenden abzudecken sind, 1
 Für die Zahl der in den Schutzständen vorzusehenden Klarsichtfenster (Atlas-Kent-Klalf fichtfenster) beachte B. B. V. — 8II6 —.
@@ -5610,9 +5615,9 @@ Für die Speigatttohre sind im allgemeinen etwa folgende lichte Weiten vorzusehe
 102 SI17
 70 mm in den überdeckten Decks, Deckshausdecken, Art.-Ständen, Brücken, ^ ständen und an Stellen, an denen Geräte in Gruben ausgestellt werden, ferner in der^ Bäckerei, dem Waschraum sür Fähnriche, den Unteroffizier- und Mannschaftsabort, räumen und in sonstigen Räumen, wo mit Deckwaschwasser zu rechnen ist,
 40 mm für die übrigen Abort- und Baderäume, sür die Wäschetrockenräume uch" für kleinere Podeste und Plattformen.
-?luf Booten und	70 rum für das freie Oberdeck, die Back und in der Küche,
-kleinen Sonder-	50 mm für das Aufbaudeck, die Kommandobrücke, das Oberdeck unter der Bach
-schiffen	die Waschräume, Aborte und gegebenenfalls für die Wohnräume im Zwischendeck, '
+?luf Booten und 70 rum für das freie Oberdeck, die Back und in der Küche,
+kleinen Sonder- 50 mm für das Aufbaudeck, die Kommandobrücke, das Oberdeck unter der Bach
+schiffen die Waschräume, Aborte und gegebenenfalls für die Wohnräume im Zwischendeck, '
 40 mm für die Decken der Deckshäuser, die kleineren Plattformen, EinzelbädeW
 Benachbarte Bade-, Wasch-, Aborträume o. dgl. sind möglichst gemeinsam nach tind Speigattleitung zu entwässern.
 Die Decksvffnungen der Speigatten sind im allgemeinen mit festgeschraubten Gräting zu versehen. Da der freie Querschnitt der Grätinge dem 1,5fachen SpeigattrohrquerschnM entsprechen muß, ist das Speigattrohr an der Decksbefestigungsstelle entsprechend zu erweitert« Zum Durchspülen der Speigattrohre ohne Decksventilverschluß sind festschraubbare Decke! von! der Größe der Grätinge mit Einheitskupplung zum Anschlägen eines Jeuerlöschschlauches als Geräte an Bord zu geben.
@@ -5643,7 +5648,7 @@ Backgeschirr nicht erforderlich, da hier die vorhandenen Absperrhähne bequem zu
 und die Speigattventile der Einzelbäder, Waschräume und Wäschereien mit selbsttätig wirkens
 den Geruchverschlüssen zu versehen. Soweit Geruchkrümmer zur Anwendung kommen, find
 Verstopfungen zur Verbesserung der Reinigungsmöglichkeit im unteren und oberen Ende
-Krümmers Verschlußschrauben anzubringen.	W
+Krümmers Verschlußschrauben anzubringen. W
 Ferner sind für die Fallrohre der Schmutzwasserauögüffe Geruchverschlüffe am besten
 Sumpf mit Glocke und herausnehmbarem Sieb vorzuschen.
 Die von den Schmutzwafferkästen abgehenden Luftröhre dürfen nicht in WohnräuNltU j
@@ -5675,10 +5680,10 @@ Die Schlupftüren in den Zuluftschächten (750 X 500 mm) sollen zwei Vorreiber u
 Mit den Decks bündig liegende Lukendeckel oder sonstige Deckel sind wegen der schwim« Unterhaltung nur dort anzuwenden, wo Sülle den Verkehr unzulässig behindern würben m wo die Deckel gewöhnlich dicht gefahren werden.
 Wasserdichte Verschlüsse, einschließlich der spritzwasserdichten, sollen im allgemein Gummidichtung, lüft- und gasdichte Verschlüsse Filzdichtung erhalten/ die Dichtung iff all gemein auf der Tür oder dem Deckel anzubringen. Für genügenden Anzug der Gummidichtn^ beachte a.
 Im allgemeinen sind die Anzugsvorrichtungen für wasserdichte Verschlüsse, soweit i« nachfolgenden nichts Besonderes vorgeschrieben, nach folgenden Gesichtspunkten vorzusehen: |
-a)	Nur Schraubverschlüsse (Korbmuttern) sollen die Verschlüsse solcher Räume erhall« welche sowohl im Klarschiffzustande als auch außerhalb desselben nur vorübergeh« betreten werden (z. B. leere Räume, Vorratsräume, ferner Türen, die dem Gasdm ober dem Sog der Geschütze ausgesetzt sind, sofern sie nicht unter e fallen), sowie H als Nottüren dienenden Mannlochdeckel.
-b)	nur Vorreiber sollen diejenigen Verschlüsse der im Klarschiffzustand besetzten Rau«E erhalten, welche für den Verkehr wahrend des Klarschiffzustandes sowie zum W kommen geöffnet werden müssen, sowie alle Nottüren/
-c)	Vorreiber- und Schraubverschlüsse zugleich sollen die Verschlüsse solcher RäM erhalten, welche im Klarschiffzustande unbesetzt, sonst jedoch besetzt sind, sowie « jenigen Verschlüsse der im Klarschiffzustande besetzten Räume, welche für den Derk« während dieses Zustandes nicht.geöffnet werden müssen (also nicht unter b Bei den dem Gasdruck oder dem Sog der Geschütze ausgesetzten Verschlüßen W weniger Vorreiber-, dafür aber mehr Schraubverschlüsse anzuordnen/
-d)	Mutterschrauben oder Stiftschrauben sollen die Verschlüsse erhalten, die Reinigen oder Konservieren von Ölbunkern oder -tanks oder Zellen (Frischwafftll zellen, Trimmzellen, Leerzellen usw.) nur selten geöffnet werden.
+a) Nur Schraubverschlüsse (Korbmuttern) sollen die Verschlüsse solcher Räume erhall« welche sowohl im Klarschiffzustande als auch außerhalb desselben nur vorübergeh« betreten werden (z. B. leere Räume, Vorratsräume, ferner Türen, die dem Gasdm ober dem Sog der Geschütze ausgesetzt sind, sofern sie nicht unter e fallen), sowie H als Nottüren dienenden Mannlochdeckel.
+b) nur Vorreiber sollen diejenigen Verschlüsse der im Klarschiffzustand besetzten Rau«E erhalten, welche für den Verkehr wahrend des Klarschiffzustandes sowie zum W kommen geöffnet werden müssen, sowie alle Nottüren/
+c) Vorreiber- und Schraubverschlüsse zugleich sollen die Verschlüsse solcher RäM erhalten, welche im Klarschiffzustande unbesetzt, sonst jedoch besetzt sind, sowie « jenigen Verschlüsse der im Klarschiffzustande besetzten Räume, welche für den Derk« während dieses Zustandes nicht.geöffnet werden müssen (also nicht unter b Bei den dem Gasdruck oder dem Sog der Geschütze ausgesetzten Verschlüßen W weniger Vorreiber-, dafür aber mehr Schraubverschlüsse anzuordnen/
+d) Mutterschrauben oder Stiftschrauben sollen die Verschlüsse erhalten, die Reinigen oder Konservieren von Ölbunkern oder -tanks oder Zellen (Frischwafftll zellen, Trimmzellen, Leerzellen usw.) nur selten geöffnet werden.
  
 
 All- Anzugsvoriichtungrn sollen s° dicht w.° möglich °m R°nd° d°S WM« ft| Di- B°mib-r°°rschlüss- sind °us d°r d°. B°rr-ib-rzung- g-g°nub-rl>-g°nd°n S-U- mü Ax,, -ruckflächen -inzuri«-n, s° daß ihr. B°hm nur auf Zug b-ansprucht w-rd°nj dn Dmch. meff-r des Bolzens ist hiernach zu bestimmen. Die Borre.^rbo z.n sollen n> kräftigen Buch,„ gelagert werderi, die nach Möglichkeit mit Schleifbahnen für die Gegendruckstachen der reibet ^u versehen sind. Die Zungen sollen so lang sein, daß sie die ganze Fläche der Anzug?, keile bestreichen und die Keile mindestens 30 nun überdecken, wenn sie rechtwinklig zu diesen stehen. Bei Unten betteln sind erforderlichenfalls Schlitze mit Kappen am Süll vorzuseben, um diese Bedingung zu erfüllen.
@@ -5716,13 +5721,13 @@ Bei Türen in schrägen Wänden sind Vorkehrungen zu treffen, die das leichte ö
 Wasserdichte Türen, die dem Kesselraumüberdruck ausgesetzt sind (z. B. bei wasserdichten Schleusen), sollen zum Ausgleich des Luftdruckes eine wasserdicht schließende Luftausgleichklappt im Anhalt an die »Musterzeichnung für luftdichte Türen« erhalten.
 Warnungslampen bei den äußeren Schleusentüren siehe M II35.
 Iren und Luken für Für die Lage und Schlagrichtung der Türen und für die Lage der Lukendeckel von Mnnitionskammern Munitionskammern sind die Einrichtungszeichnungen, für ihre Ausführung folgende Bestim- m ungen maßgebend:
-A.	Kammern, in denen Pulvermunition lagert «Pulverkammern, PatronenkammeW gemischte Pulver- und Granatkammern).
-1.	Trennungstüren zwischen Kammergruppen benachbarter Türme und zwischen be« nachbarten Kammern von Einzelgeschützen, soweit sie getrennte Aufzüge besitzen, sowie^ zwischen Kammern verschiedener Kaliber sind als Doppeltüren auszuführen.
-2.	Zugangstüren zu den einzelnen Kammern einer Turmgruppe bzw. eines Geschützes sind als einfache Türen auszuführen und so anzuorbnen, daß sie in der Reihenfolge! des Gebrauchs der Kammern in diese hineinschlagen.
-3.	Türen, die aus Munitionskammern in andere Schiffsräume führen, sollen als einfache Türen ausgeführt werden, die in die Munitionskammern hineinschlagen.
-4.	Nur in Ausnahmefällen, wo besondere Sicherheitsgründe vorliegen, können Türen nach außenschlagend angeordnct werden.
-5.	Lukendeckel sollen stets nach oben schlagen.
-B.	Granatkammern.
+A. Kammern, in denen Pulvermunition lagert «Pulverkammern, PatronenkammeW gemischte Pulver- und Granatkammern).
+1. Trennungstüren zwischen Kammergruppen benachbarter Türme und zwischen be« nachbarten Kammern von Einzelgeschützen, soweit sie getrennte Aufzüge besitzen, sowie^ zwischen Kammern verschiedener Kaliber sind als Doppeltüren auszuführen.
+2. Zugangstüren zu den einzelnen Kammern einer Turmgruppe bzw. eines Geschützes sind als einfache Türen auszuführen und so anzuorbnen, daß sie in der Reihenfolge! des Gebrauchs der Kammern in diese hineinschlagen.
+3. Türen, die aus Munitionskammern in andere Schiffsräume führen, sollen als einfache Türen ausgeführt werden, die in die Munitionskammern hineinschlagen.
+4. Nur in Ausnahmefällen, wo besondere Sicherheitsgründe vorliegen, können Türen nach außenschlagend angeordnct werden.
+5. Lukendeckel sollen stets nach oben schlagen.
+B. Granatkammern.
 Für Granatkammern gilt das gleiche wie zu A, soweit dort überhaupt wegen der Förderbahnen Türverschlüffe möglich sind.
 0. Pulver- und Granatkammern.
 Verbindungstüren zwischen Pulver- und Granatkammern sollen einfache Türflügel erhalten, die in die Pulverkammer hineinschlagen.
@@ -5756,15 +5761,15 @@ und Mannlöcher in wasserdichten Schotten und Decks, welche für den Nowerkehr d
 Die Nottüren sollen
 ».) die Möglichkeit bieten, die in dem gefährdeten Raume befindlichen Gefechts»«
 zugänglich zu machen, wenn die Haupttür unbenutzbar ist/
-b)	dem Personal bei Gefechtshavarien das Entkommen ins Freie ermöglichen, w«W
+b) dem Personal bei Gefechtshavarien das Entkommen ins Freie ermöglichen, w«W
 die Haupttür unbenutzbar ist/
-o)	dem Personal bei Betriebshavarien (Dampfgefahr usw.) das Enttommen in W
+o) dem Personal bei Betriebshavarien (Dampfgefahr usw.) das Enttommen in W
 gefährdete Nachbarräume erleichtern.
 Nottüren erhalten
-a)	die Kesselräume, die Hauptmaschinenräume und diejenigen im KlarschisszustaW
+a) die Kesselräume, die Hauptmaschinenräume und diejenigen im KlarschisszustaW
 besetzten Hilfsmaschinenräume, in denen Dampf- und Gasgefahr durch Betti«
 bavarien eintreten kann/
-b)	die Munitionskammern -nur so weit, wie die für die Zugänglichkeit der Kam»««
+b) die Munitionskammern -nur so weit, wie die für die Zugänglichkeit der Kam»««
 und Geschütztürme und die zur Munitionsförberung erforderlichen Öffnungen
 Nottüren hergerichtet werden können/
 o) die Kohlenbunker gemäß A. B. B. Nr. 24/
@@ -5776,7 +5781,7 @@ mit mehr als 10 Mann besetzt sind.
 Ausführung
 a) Wo eine zweite Haupttür vorhanden ist, soll diese als Nottür dienen. Diese H
 schränkung gilt nicht für Kesselräume und Hauptmaschinenräume.
-d)	Die Nottür soll möglichst entfernt von der Haupttür und, wenn angängig? M
+d) Die Nottür soll möglichst entfernt von der Haupttür und, wenn angängig? M
 geordnet werden, daß die eine (bei Dampf- und Gasgefahr) das Entkommen H
 unten, die andere (bei Waffergefahr) das Entkommen nach oben ermöglikbt.
  
@@ -5784,7 +5789,7 @@ unten, die andere (bei Waffergefahr) das Entkommen nach oben ermöglikbt.
 108
 c) Di- Nottür bars zwei Räume mit GeftchtSwerten nicht unmittelbar in Verbirg bringen.
 ä) Durch die Nottüren darf die Zahl der Durchbrechungen von AbteilungSschotten ^ von Panzerungen (Panzerdecks, Panzerschotte, Splitterschotte, Torpedoschottr) M vermehrt werden.
-e)	Wenn eine der Bedingungen zu e oder ä nicht erfüllt werden kann, ist auf dir M tür zu verzichten. In zweifelhaften Fällen ist die Entscheidung des O. K. M. herbei.! zuführen.
+e) Wenn eine der Bedingungen zu e oder ä nicht erfüllt werden kann, ist auf dir M tür zu verzichten. In zweifelhaften Fällen ist die Entscheidung des O. K. M. herbei.! zuführen.
 Die Lage der Nottüren und sonstigen dem Notverkehr dienenden Öffnungen ist im Anhal^ an die Einrichtungszeichnungen zu besttmmen. Ihre Derschlüffe sind so einzurichten, daß ße an beiden Seiten schnell geöffnet und geschlossen werden können/ es dürfen hierbei keine vn-^ blockten Verschlüsse verwendet werden. Das gleiche gilt auch für solche Zugangstüren (z.B. in den Wellentunneln), die gleichzeitig dem Notverkehr dienen.
 Für die als Nottüren dienenden Mannlochdeckel sind im Anhalt an die MusterzeichnunM drei von oben und unten bedienbare Schraubverschlüsse vorzusehen, da sich die früher angr« wendeten Zentralverschlüsse wegen ihrer Schwergänglichkeit nicht bewährt haben.
 Die Derschlußdeckel der Munitionsübernahmeöffnungen sind für den Nowerkehr kW richten, wenn sie innerhalb von Niedergängen liegen, die zwischen Panzer- und Batterie^ oder Oberdeck umschottet sind.
@@ -5994,19 +5999,19 @@ Für die Schmierung der Stopfbuchsen und wo sonst angängig, sind Staufferbuchse
 Gelenkkupplungen für Gestänge sind im Anhalt an das Skizzenblatt Nr. 12, 10 auM zuführen.
 Die Beschriftung der Bezeichnungsschilder — siehe 8II22 — für die Einrichtung«« für Wasser ist in VI^-Schrift auszuführen.
 Sicherheitsschlösser müssen erhalten:
-a)	Natürliche Fluteinrichtungen: Alle Bodenventile für Munitionskammern, die Bobe« Ventile zum Spülen des HilfslenzrohreS und die Bodenventile zum Fluten btl§ Trimmzellen.
-b)	Künstliche Fluteinrichtungen: Die Schieber oder Ventile in den Anschlußleitungt« und Mun K Gr Schb.
-c)	Hauptlenzeinrichtungen: Alle Hauptlenzventile und Hauptentwässerungsventile oW| -schieber.
-d)	Seitenlenzeinrichtungen: Die Bodenventile.
+a) Natürliche Fluteinrichtungen: Alle Bodenventile für Munitionskammern, die Bobe« Ventile zum Spülen des HilfslenzrohreS und die Bodenventile zum Fluten btl§ Trimmzellen.
+b) Künstliche Fluteinrichtungen: Die Schieber oder Ventile in den Anschlußleitungt« und Mun K Gr Schb.
+c) Hauptlenzeinrichtungen: Alle Hauptlenzventile und Hauptentwässerungsventile oW| -schieber.
+d) Seitenlenzeinrichtungen: Die Bodenventile.
 Falls Bodenventile auch noch anderen Zwecken dienen (vgl. auch zu a), mW sehr oft oder beständig offen gefahren werden, müssen statt der Bodenventile die a« Bodenventil befindlichen Absperrventile (Seeventile) der Seitenlenzrohre gesichert werden.
-e)	Schottschieber: Jeder Schottschieber oder dessen Gestänge soll durch ein Sicherheit schloß gesichert werden, gleichgültig ob der Schieber für Haupt-, Seiten- oder M lenzeinrichtungen dient.
+e) Schottschieber: Jeder Schottschieber oder dessen Gestänge soll durch ein Sicherheit schloß gesichert werden, gleichgültig ob der Schieber für Haupt-, Seiten- oder M lenzeinrichtungen dient.
 
  
 
 Die Sicherheitsverschlüsse sind im allgemeinen so auszubilden, daß sie nur bei ganz schlossenem Ventil oder Schieber angelegt werden können. Erhalten Ventile oder SchottschieM jedoch Gestänge, welche von beiden Seiten eines wasserdichten Schottes aus zu bedienen MV dann sind die Bedienungsstellen nur durch Schutzkasten mit Sicherheitsschloß zu sichern. solchen Fällen wird auf den bei geschlossenen Ventilen oder Schiebern unmittelbar anzulegendM Sicherheitsverschluß verzichtet.
 Bei dm Sicherheitsschlössern sind der Wichtigkeit der einzelnen Ventile und Schieber sprechend noch zwei besondere Gruppen zu unterscheidm, deren jede einen gemeinsamen SicheM heitsschlüssel erhalten soll.
-1.	Gruppe. Ventile und Schieber für das Bestuten der MunitionSräume, bei Spirituslast und des Raumes für feuergefährliche Farben. (Der Schlüssel ist « der Kammer des Ersten Offiziers aufzubewohren.)
-2.	Gruppe. Alle übrigen Ventile und Schieber. (Den Schlüssel für die zweit Gruppe hat der Pumpenmeister unter eigener Verantwortlichkeit zu verwalt^
+1. Gruppe. Ventile und Schieber für das Bestuten der MunitionSräume, bei Spirituslast und des Raumes für feuergefährliche Farben. (Der Schlüssel ist « der Kammer des Ersten Offiziers aufzubewohren.)
+2. Gruppe. Alle übrigen Ventile und Schieber. (Den Schlüssel für die zweit Gruppe hat der Pumpenmeister unter eigener Verantwortlichkeit zu verwalt^
 Die Sicherheitsschlüssel der einm Gruppe dürfen nicht für die Schlösser der ander« Gruppe passen.
 Die Schutzkasten für die Kupplungen sollen durch die gleichen Sicherheitsschlüssel geöffn^ werden können wie die Sicherheitsschlösser der zugehörigen Deckverschraubungen oder wie d Verschlüsse der Handräder.
 Bon jeder Sorte Sicherheitsschlüssel sind von der Bauwerft drei, Stück zu liefern. Drei kantschlüffel usw. werden als Sicherheitsschlüssel nicht anerkannt.
@@ -6059,13 +6064,13 @@ Als Werkstoff für Wasserzu- und -ablaufgarnituren der Wafferversorgungseinricht
 Für die Gemischleitungen bei Luftschaum- (Komet-) Feuerlöschanlagen, soweit Tutvgen als Löschmittel bmutzt wird, sind verzinkte Flußstahlrohre, für die Tutogen führenden Rohre - sinb Kupferrohre zu verwenden.
 Im übrigen, besonders für die Verwendung von Leichtmetall, beachte Vorbemerkung4,; 7a »Allgemeines« sowie B. B. V. — S Anhang D —.
 Zur Genehmigung sind unter Beachtung der Musterblätter »Farben der Rohrleitungen«! vorzulegen: ein schematischer Entwurf für die Einrichtungen für Wasser getrennt nach:
-1.	Anordnung der Haupt- und Hilfslenzeinrichtungen, der Gegenfiut- und Trimmst«» einrichtungen, der Flut- und Feucrlöscheinrichtungen.
-2.	Anordnung der Peil-, Peillenz-, Flutluft-,, Luft- und Durchlüftungseinrichtungen. 1
-3.	Schematische Anordnung der Wasch-, Trink- und Seewasserdruckbehälteranlagen. :
-4.	Anordnung der Waschwasser-, Trinkwasser- und Seewasserversorgung.
-5.	Anordnung der Seewasserkühleinrichtungen.
-6.	Anordnung der Schaum- bzw. Gasfeuerlöschanlagen.
-7.	Anordnung der Bodenventile bzw. -schieber (siehe auch 24110).
+1. Anordnung der Haupt- und Hilfslenzeinrichtungen, der Gegenfiut- und Trimmst«» einrichtungen, der Flut- und Feucrlöscheinrichtungen.
+2. Anordnung der Peil-, Peillenz-, Flutluft-,, Luft- und Durchlüftungseinrichtungen. 1
+3. Schematische Anordnung der Wasch-, Trink- und Seewasserdruckbehälteranlagen. :
+4. Anordnung der Waschwasser-, Trinkwasser- und Seewasserversorgung.
+5. Anordnung der Seewasserkühleinrichtungen.
+6. Anordnung der Schaum- bzw. Gasfeuerlöschanlagen.
+7. Anordnung der Bodenventile bzw. -schieber (siehe auch 24110).
 Die Pläne sind durch eine hinreichende Anzahl Querschnitte übersichtlich zu gestalten» wo nötig, sind auch die Pläne auf das ganze Oberschiff auszubehnen. Unübersichtliche Stellen - müssen in einem größeren Maßstabe herausgezeichnet werden.
 Auf den Plänen sind ferner Durchmesser, Wanddicken, Werkstoff der Rohrleitungen und; der zugehörigen Absperrorgane sowie die Bedienungsstellen anzugcben. Wenn möglich, sind? auch die Leckraumzeichen, besonders in den Munitionskammern, einzutragen. Auf den Plänen, | einschließlich derjenigen zu 2 sind, außer den Farben der Rohrleitungen, die Wafferzellen, ; Olbunker, Munitionskammer», Trimmzellen, Zellen zum Geradelegen des Schiffes, Leerzelle« 1
  
@@ -6096,9 +6101,9 @@ Bei den zum Fluten eingerichteten Leckpumpen ist außerdem noch ein Manometer M 
 Manometer und Vakunmmeter sind bei den Leckpumpen selbst und bei den Hauptbct» nungsstellen der Pumpen anzuordnen/ soweit sie in Leckpumpenräumen untergebracht werbH ist für ihre Wasserdichtigkeit Sorge zu tragen.
 Pumpenbuch
 In das Pumpenbuch sind folgende Hinweise aufzunehmen:
-a)	»Der Hahn im Entlüftungsrohr des Hauptlenzrohres der Hauptbedienungsstelle | für gewöhnlich geschlossen zu fahren und im Bedarfsfälle so lange zu öffnen, bis« Luft in dem Nohrteile entwichen ist. Hierbei ist der Dreiwegehahn im Bereicht Pumpe im Durchgang nach dem Oberschiff offen plombiert zu fahren und nur 4 Bedienung vom Ausstellungsraum im Durchgang zu schließen. Das gleiche gilt für die Saugeteilentlüftung der Pumpe.
-d)	Die Rückschlagklappen sind von Zeit zu Zeit, besonders vor Beginn der jährlich v»rJ zunehmenden Hauptlenzversuche, mittels der Abhebevorrichtung von ihrem KlaPpeW sitze abzuheben, um einem etwaigen Festkleben vorzubeugen.
-o)	Um ein sicheres Ansaugen der aus See saugenden Leckpumpen beim Lenzen W liegender Räume zu ermöglichen, ist vor Beginn des Lenzens die Pumpe von W nach See anzustellen, der Saugeschieber aus See zu drosseln, bis das Vakuum auf 0,8 bis 0,9 kg/cm2 steigt, dann das Absperrorgan deS Hauptlenzstutzens langsam zu öffnen und gleichzeitig der Sauge-Seeschieber und das -Bobenventil der VuH langsam zu schließen.
+a) »Der Hahn im Entlüftungsrohr des Hauptlenzrohres der Hauptbedienungsstelle | für gewöhnlich geschlossen zu fahren und im Bedarfsfälle so lange zu öffnen, bis« Luft in dem Nohrteile entwichen ist. Hierbei ist der Dreiwegehahn im Bereicht Pumpe im Durchgang nach dem Oberschiff offen plombiert zu fahren und nur 4 Bedienung vom Ausstellungsraum im Durchgang zu schließen. Das gleiche gilt für die Saugeteilentlüftung der Pumpe.
+d) Die Rückschlagklappen sind von Zeit zu Zeit, besonders vor Beginn der jährlich v»rJ zunehmenden Hauptlenzversuche, mittels der Abhebevorrichtung von ihrem KlaPpeW sitze abzuheben, um einem etwaigen Festkleben vorzubeugen.
+o) Um ein sicheres Ansaugen der aus See saugenden Leckpumpen beim Lenzen W liegender Räume zu ermöglichen, ist vor Beginn des Lenzens die Pumpe von W nach See anzustellen, der Saugeschieber aus See zu drosseln, bis das Vakuum auf 0,8 bis 0,9 kg/cm2 steigt, dann das Absperrorgan deS Hauptlenzstutzens langsam zu öffnen und gleichzeitig der Sauge-Seeschieber und das -Bobenventil der VuH langsam zu schließen.
 Bei Leckpumpen ohne Saugemöglichkeit aus See sind für bas Auffüllen der Haups lenzstutzen, um das Ansaugen dieser Pumpen auS tiefgelegenen Räumen zu absperrbare Rohrstutzen mit Einheitsschlauchkupplungen zum Anschlägen eines löschschlauches angebracht. Für diesen Zweck ist jedoch nur die SeewafferP»^
  
 
@@ -6179,7 +6184,7 @@ sollen Absperrventile erhalten, entweder ganz geschloffen oder beim Einnehmen vo
  
 
 
-127	8 II 9
+127 8 II 9
 d Sonstige Entwässe-
 rungseinrichtnngen
 unter dem
@@ -6239,7 +6244,7 @@ Die Abfallrohre des Panzerdecks innerhalb der Turmstützmäntel sind im Anhalt c
 Zum Lenzen der Räume ohne Lenz- oder Entwäfferungsmöglichkeiten sollen die tragbar« Lenzpumpen (siehe n) dienen. Peillenzrohre siehe i.
 Zum Entwässern der oberen wasserdichten Einspannstellen zwischen Turmunterbau und; Barbette der Drehtürme und zum Ableiten von Ol und Waffer aus den Lafettensockeln sin^ im Anhalt an die Ausführungen auf den letzten Neubauten Abfallrohre vorzusehen, Ante» halb der Absallrohre für Waffer und Ol aus den Sockeln sind zur Aufnahme in ein Gesa« Zapfstellen mit Hahnabfluß anzubringen. Aus den Schiffen sind unter jedem Abflußrohr dch Oltropfrinnen der 8. A.« und M. ^.-Türme Sammelgefäße nach D. W. L.-Ausführung anzug ordnen. Die Gefäße müssen nach Entleerung der Rohre zum Ausgießen abgenommen werde» können.
 Zum Ableiten eingedrungener Wassermengen zwischen Turmunterbau und Barbette beim vorderen Geschützturm sind etwa 4 Entwässerungsrohre vorzusehen, die in benachbarten Lem pumpenräumen enden sollen.
-e Künstliche Flutein- Alle Munitionskammern — Mun K — und die Lasten für feuergefährliche Farben unb richtung	Spiritus sind allgemein künstlich zu fluten. Nur in solchen Fällen, wo geeignete Pumpen fütz
+e Künstliche Flutein- Alle Munitionskammern — Mun K — und die Lasten für feuergefährliche Farben unb richtung Spiritus sind allgemein künstlich zu fluten. Nur in solchen Fällen, wo geeignete Pumpen fütz
 die künstliche Beflutung nicht zur Verfügung stehen und die oberste Munitionslage von tieft liegenden Nuu L 1,5 m oder tiefer unter der Schwimmwasserlinie des Schiffes liegt, kaum natürliche Beflutung durch Bodenventile — siehe § — gewählt werden. Vgl. die B.B. V. — S.-j Die Mun K sind in Flutgruppen zu unterteilen, die unabhängig voneinander jede für sich: geflutet werden können. Die Flutgruppen sind von hinten beginnend mit arabischen Ziffer« (z. B. Flutgruppe 1, 2, 3 usw.) zu bezeichnen.
 Auf großen Schiffen sind für das Dor- und Hinterschiff zwei in sich abgeschlossene HauM fiutleitungen vorzusehen, die mit den zum Fluten eingerichteten Leckpumpen oder Hauptküh» wasserpumpen unmittelbar zu verbinden sind. Wo erforderlich, ist als Ersatz die FeuerlösÄ leitung mit den einzelnen Flutgruppenleitungen durch eine Derbindungsleitung zu verbinde^ (beachte auch h).
 Aus den Bezeichnungen der Fluteinrichtungen soll Zweck- unb Lagebestimmung eindeutig zu erkennen sein.
@@ -6350,25 +6355,25 @@ Stichflammen einzubauen.
 Die Flutschieber der einzelnen -MAIK K sollen in den Kammern, und zwar möglichst in der ; Nähe ihrer Zugangstür oder ihres -luks, durch.Handrad oder Kurbel bedienbar sein. Der Plombenverschluß gegen unbefugtes Schließen ist so zu wählen, daß er nur bei geöstnetem Schieber angelegt werden kann. Unter geöffneter Schieberstellung ist in diesem Falle diejenige ; zu verstehen, bei welcher für die sämtlichen Mun K einer Gruppe ein möglichst gleichmäßiges ; Fluten aller Kammern in der vorgeschriebenen Zeit zu erreichen ist. Diese Stellung -ist bei den i glutversuchen festzulegen und durch die Anzeigevorrichtung mit »Offen« zu kennzeichnen.
 Bedingen örtliche Verhältnisse die Anordnung eines Schutzkastens für die Bewegungs- Vorrichtung, dann soll nur der Schutzkasten den Plombenverschluß erhalten. Jede Bedienungs¬stelle soll an gut sichtbarer Stelle eine Anzeigevorrichtung für die Schieberstellung erhalten. Bei ■ Anordnung eines Schutzkastens ist die Anzeigevorrichtung außerhalb desselben anzubringen.
 Außer der Bedienungsstelle in der MunK soll noch eine zweite Bedienungsstclle mit Zeiger« ’ Vorrichtung und Plombenverschluß zum Schließen der Flutschieber außerhalb der Kammer vorgesehen werden. Diese Bedienungsstclle darf in einem Vorraum oder einem anderen ge- eigneten Nachbarraume, nicht aber in einer anderen Mun K liegen/ sie darf auch auf dem über der Nun K liegenden Deck angeordnet werden, wenn
-a)	keim geeigneten Vor- bzw. Nachbarräume vorhanden sind oder
-b)	wenn dadurch die Gestängeführung vereinfacht wird.
+a) keim geeigneten Vor- bzw. Nachbarräume vorhanden sind oder
+b) wenn dadurch die Gestängeführung vereinfacht wird.
 Die Flutwasserabsperrklappen und die Gasklappen sind nach den neuesten Musterzeichnungen auszuführen. Soweit in Kartuschbeladeräumen keine Muution ständig gelagert wird, sind hier keine Flutrohre zum Unterwassersetzen der Räume vorzuschen, sondern nur einfache, von dem Flutrohr einer benachbarten MunK abzuzweigende Berieselungsrohre. Diese Einrichtungen sind so zu treffen, daß bei eintretenden Pulverbränden die in der Transportmulde liegenden Kartuschen durch Wasserberieselung ausreichend geschützt werden können. Die Flutwasserabsperr¬klappen in den MunK sind so anzuordnen, daß eine vollständige Flutung der Munitionsstauung beim Zuschlägen der Klappen gewährleistet ist.
 Flutlustrohre stehe i.
 Für die Entlüftung der Munitionskammer beachte 8154.
 Für das Fluten der Zellen für Benzinlagerung beachte 8.8. V. — 8 —.
 Durch die Erprobungen der Flut- und Entwässerungseinrichtungen soll festgestellt werden,
-a)	ob sämtliche Kammern einer Flutgruppe gleichmäßig und ungefähr in der gleichen - Zeit geflutet werden können,
-d)	ob die vorgeschriebene Flutzeit bei gleichzeitiger Flutung aller Kammern einer Flut- j gruppe innegehalten wird (bei der Erprobung der natürlichen Fluteinrichtungen sind 1 die Flutzeiten von dem vorhandenen auf den rechnungsmäßigen Tiefgang um- j zurechnen),
-o)	ob — besonders bei Erprobung der Dockfluteinrichtung mit Landwasseranschluß auf i Booten und kleinen Sonderschiffen — bei gleichzeitiger Flutimg aller Kammern einer 1 Flutgruppe das Wasser bis zum äußersten Ende der Berieselungsrohre austritt.
+a) ob sämtliche Kammern einer Flutgruppe gleichmäßig und ungefähr in der gleichen - Zeit geflutet werden können,
+d) ob die vorgeschriebene Flutzeit bei gleichzeitiger Flutung aller Kammern einer Flut- j gruppe innegehalten wird (bei der Erprobung der natürlichen Fluteinrichtungen sind 1 die Flutzeiten von dem vorhandenen auf den rechnungsmäßigen Tiefgang um- j zurechnen),
+o) ob — besonders bei Erprobung der Dockfluteinrichtung mit Landwasseranschluß auf i Booten und kleinen Sonderschiffen — bei gleichzeitiger Flutimg aller Kammern einer 1 Flutgruppe das Wasser bis zum äußersten Ende der Berieselungsrohre austritt.
 Auf großen Schiffen, wo bei Landwasseranschluß eine gleichzeitige Berieselung | aller zu einer großen Flutgruppe gehörigen Mun K nicht möglich ist, sind diese Ver- | suche durch Berieselung einer großen Mun K, gegebenenfalls mehrerer kleineren Kam- | mern, nacheinander getrennt durchzuführen.
-d)	soweit möglich, der Zeitunterschied beim Fluten einer größeren Kammer zwischen der | Flutung ohne Berieselungsrohre und der Flutung mit Berieselungsrohren,
-e)	der bei geschlossenen Gruppenschiebern in den Hauptflutrohren der künstlichen Flut- z einrichtung an den Pumpen erzielte Druck,
-k)	der beim Fluten — mit der der vorgeschriebenen Flutzeit entsprechenden Wasser- I geschwindigkeit — entstehende Pumpendruck,
+d) soweit möglich, der Zeitunterschied beim Fluten einer größeren Kammer zwischen der | Flutung ohne Berieselungsrohre und der Flutung mit Berieselungsrohren,
+e) der bei geschlossenen Gruppenschiebern in den Hauptflutrohren der künstlichen Flut- z einrichtung an den Pumpen erzielte Druck,
+k) der beim Fluten — mit der der vorgeschriebenen Flutzeit entsprechenden Wasser- I geschwindigkeit — entstehende Pumpendruck,
  
 
 8119
-g)	ob Lie Flutwasserabsperrklappen in den Flutrohren einwandfrei arbeiten. Im brson- | deren ist dabei festzustellen, daß ein vorzeitiges Zuschlägen der Klappen vor Er- ] reichung des höchsten Wasserstandes (bis zur Munitionsstauung) in den Mun K un- I bedingt vermieden wird und die Klappen nach Entwässerung der Mun K auch wieder in ihre Anfangslage zurückfallen. Dieser Versuch ist mindestens 3mal hintereinander 1 zu wiederholen.
-h)	in welcher Zeit die gefluteten Kammern durch ihre Entwäfserungseinrichtung Wicher entwässert werden können.
+g) ob Lie Flutwasserabsperrklappen in den Flutrohren einwandfrei arbeiten. Im brson- | deren ist dabei festzustellen, daß ein vorzeitiges Zuschlägen der Klappen vor Er- ] reichung des höchsten Wasserstandes (bis zur Munitionsstauung) in den Mun K un- I bedingt vermieden wird und die Klappen nach Entwässerung der Mun K auch wieder in ihre Anfangslage zurückfallen. Dieser Versuch ist mindestens 3mal hintereinander 1 zu wiederholen.
+h) in welcher Zeit die gefluteten Kammern durch ihre Entwäfserungseinrichtung Wicher entwässert werden können.
 Um die Erprobungen möglichst vollständig durchführen zu können, sind die Einrichtungen ; wahrend des Baues so früh wie möglich zu erproben. Es sind daher die zur künstlichen■ Flutung gehörigen Leckpumpen oder sonstigen Flutpumpen und die Flutleitungen mit den nötigen Absperrorganen und Flutwafferabsperrklappen sowie die Entwässerungseinrichtungen rechtzeitig einzubauen. Bei den Erprobungen müffen alle zu der zu flutenden Grrcppe gehörigen Absperrorgane in den Flutleitungen geöffnet und die Flutschieber in den MunK nach Bedarf so eingestellt werden, daß die vorgeschriebene Flutzeit eingehalten und die gleichmäßige Beflu¬tung der Kammern einer Flutgruppe sichergestellt werden.
 Der elektrische Strom für die elektrisch angetriebenen Flutpumpenmotoren muß gegebenen¬falls von Land aus zugeleitet werden.
 Die Einrichtungen können bei der Feststellung zu g) ohne Berieselungsrohre erprobt werden.
@@ -6452,7 +6457,7 @@ am Innenboden siehe 8111,
 am unteren Plattformdeck siche 8113 a, am mittleren Plattformdeck siehe 8113 b.
 Im übrigen sind die Stutzen bei dem Bauteil zu verwiegen, den sie wasserdicht oder öldi<E abschließen sollen.
 Für Tiefgangsstandrohre sind allgemein besondere Bodenventile vorzusehen, für den q schluß von Bodenventilstutzen für Tiefgangsstandrohr beachte 8II22.
-Für Verzinkung und Zinkschutz beachre Vorbemerkung 7 s. 7, 18 und Anhang $ 1 B. B. V. — S —.	H
+Für Verzinkung und Zinkschutz beachre Vorbemerkung 7 s. 7, 18 und Anhang $ 1 B. B. V. — S —. H
 Die schiffbaulichen Bodenventile ober Bodenschieber sind grundsätzlich einheitlich N’e zu bezeichnen:
  
 
@@ -6470,25 +6475,25 @@ An Bord: an den Boden- und Seeventilen (-schiebern) von und nach See, an ihren |
 Bedienungsstellen und auf der Liste — Verzeichnis der Bedienungsstellen — erhalten die ge-j
 nannten Absperrungen zum besseren Verständnis für das Bedienungspersonal Bezeichnungs-H
 schilder mit einer Aufschrift nach folgender Gegenüberstellung:
-			—						
+   —      
 Bezeichnung
-im Sprachgebrauch, im Schriftverkehr und auf den Zeichnungen und Beschreibungen	an Bord:
+im Sprachgebrauch, im Schriftverkehr und auf den Zeichnungen und Beschreibungen an Bord:
 an den Absperrungen, an ihren BedienungsA stellen und auf der Liste
 »Verzeichnis der Bedienungsstellen«
-					A
+     A
 Saugebodenventil Leckpumpe III
-Saugeseeschieber	-	»
-Druckbodenschieber	»	-
-Druckseeschieber	»	»
+Saugeseeschieber - »
+Druckbodenschieber » -
+Druckseeschieber » »
 Saugebodenventil Feuerlöschpumpe X 2
-Saugeseeventil	»	K 2
-Bobenventil hinteres Tiefgangsstandrohr	1
-Don See außen Leckpumpe III »	»	innen	»	»
-Nach	»	außen	»	»
-»	»	innen	-	»
+Saugeseeventil » K 2
+Bobenventil hinteres Tiefgangsstandrohr 1
+Don See außen Leckpumpe III » » innen » »
+Nach » außen » »
+» » innen - »
 Don » außen Feuerlöschpumpe K2
--	> innen	»	K 2
-»	» hinteres Tiefgangsstandrohr.
+- > innen » K 2
+» » hinteres Tiefgangsstandrohr.
 h FeuerlSschetnrich-
 tung
 Lbschmittel:
@@ -6517,7 +6522,7 @@ Für den Antrieb der tragbaren hydraulischen Pumpen (n) sind an geeigneten Stell
  
 
 AWA
-138	8"^
+138 8"^
 Die Stutzen für den Antrieb der hydraulischen Pumpen sind gleichzeitig als Feuerl-schl
 stutzen zu verwenden. Zu diesem Zwecke sind für jeden Stutzen Verbindungsstücke mit Kupp,
 lungen für einen 70 mm Druckschlauch und für zwei Feuerlöschschläuche ober, wenn ausreichend^
@@ -6594,7 +6599,7 @@ Die Rohre sind in Abständen von etwa 60 cm an den Schotten, Decks usw. durch Sc
  
 
 
-140	8 II 9
+140 8 II 9
 der Rohre sind eiserne Schrauben zu verwenden. (Messingschrauben schmelzen bei starker Hitze,) L Schrauben, die der Korrosion ausgesetzt sind (z. B. in den Bilgen), sind zu Parkern oder zu L Sondern.
 Wo nötig, sind die Leitungen mittels Holzhammer und Holzkeil allseitig gut auszurichten. j Die Kupferrohre sind mit den Armaturen durch die Lötverschraübungen wie folgt zu verbinden:
 Zunächst wird die Überwurfmutter auf das Kupferrohr geschoben, dann ist das Rohrende mit einer Schlichtfeile sorgfältig zu entgraten. Falls das Rohrende' unrund ist, kann es über einen leicht konischen Dorn mittels Holzhammer gerichtet' werden. Hierauf ist der aus Kupfer hergestellte Konus auf das Rohrende zu schieben. Sollte der Konus hierbei zu schwergängig sein, so daß ein Aufpaffen nicht möglich' wäre, so ist das Rohr abzuschleifen, bis der Konus paßt. Das Rohrende muß mit dem aufgepaßten Konus abschneiden. Sollte das Rohrende aus dem Konus heraus« ragen, so ist dieses mit einem Spiel bis zu 1 mm zulässig. Auf feinen Fall darf das Rohrende innerhalb des Konus liegen. Nunmehr ist der Konus hart aus das Rohr aufzulöten. Hierbei muß beachtet werden, daß nach beendeter Lötung der Durchgang des Rohres nicht durch Hartlot verringert worden ist. Das Rohr ist nun in das Zwischenstück einzuschieben und durch Aufschrauben der Überwurfmuttern ohne Derlötung zu sichern. Die Kappen der Spritzdüsen sind fest anzuziehen (nicht zu verlöten), da diese zwecks Reinigung losnehmbar bleiben müssen.
@@ -6616,7 +6621,7 @@ Durchlässigkeitsprobe der Düsen mit grischwasser:
 Dllrch diese Probe soll festgestellt werden, ob dir Anschlüsse der Düsen richtig s
 gewählt sind und ob aus jeder Düse annähernd die gleiche Jlüssigkeitsmenge auStritt. 1
 Bevor das vom Ardexinbehälter kommende Rohr an die Derteilerbatterie cmy, < schloffen wird, ist hier, um so den tatsächlichen Bordverhältniffen zu entsprechen, | Rohr von gleichem Durchmesser anzuschrauben und mit eimm geeigneten Druck. - behälter, etwa in der gleichen Gröhe des Arde^nbehälters, so zu verbinden, daß id diesem Behälter gefülltes Frischwaffer — entsprechend der Menge des in Fra« kommenden Ardexins — durch Druckluft vom Betriebsdruck deS ArbexinbehLltr» in bas Rohrnetz gedrückt werden kann.
-Beim Durchführen dieses Versuches find die bei jeder Düse auSströmenden Waffe« mengen durch vorher untergestellte oder untergehängte Gefäße zu messen. Ergeben sich; hierbei bei den einzelnen Düsen größere Unterschiede in den Wassermenzen, so sind! die Durchmesser der in Frage kommenden Derteilerrohre, wenn nötig im Em4 vernehmm mit der Lieferfirma, entsprechend zu ändern, worauf der Versuch zu; wiederholen ist.	.
+Beim Durchführen dieses Versuches find die bei jeder Düse auSströmenden Waffe« mengen durch vorher untergestellte oder untergehängte Gefäße zu messen. Ergeben sich; hierbei bei den einzelnen Düsen größere Unterschiede in den Wassermenzen, so sind! die Durchmesser der in Frage kommenden Derteilerrohre, wenn nötig im Em4 vernehmm mit der Lieferfirma, entsprechend zu ändern, worauf der Versuch zu; wiederholen ist. .
 Nach Abschluß der Wasserprobe ist das etwa noch im Rohrnetz befindliche Daffm
 durch Durchblasen mit Preßluft zu entfernen.
 Löschmittel:
@@ -6734,14 +6739,14 @@ biS zu 1 m über dasselbe, im Bereiche der Maschinen- und Kesselräume bis etwa 
 die Flurplatten zu führm. Die Endverschlüsse der Rohre müssen in allen Fällen jedoch so
 hoch liegen, daß beim Offnen derselben, beim Überholen des Schiffes ein Austreten der Flüssig.
 keiten in die Schiffsräume durch die Endverschlüsse vermieden wird.
-Die Rohre sollm mindestens folgende Nennweiten erhaltm:	NW
-Peillenzrohre 	     80
-» für Boote und kleine Sonderschiffe 					 40
+Die Rohre sollm mindestens folgende Nennweiten erhaltm: NW
+Peillenzrohre       80
+» für Boote und kleine Sonderschiffe       40
 Flutluftrohre für Trimmzellen und Zellen zum Geradelegen deß Schiffes .. 60—70
-Durchlüftungsrohre (Peilrohre für Olbunker)	  50
-Peilrohre, die	gleichzeitig zur Temperaturmeffung dienen	 50
-Peilrohre	  32
-Luftröhre 	       32
+Durchlüftungsrohre (Peilrohre für Olbunker)   50
+Peilrohre, die gleichzeitig zur Temperaturmeffung dienen  50
+Peilrohre   32
+Luftröhre         32
 Luftröhre für Räume und Zellen, für die Peillenzrohre vorgesehen werden .... 20
 Der Durchmesser der Peilrohre für Olsammeltanks soll sich nach der Weite deS Sauge-
 rohres der an diese Rohre anzuschließenden maschinenbaulichen Handpumpe richten — beachte
@@ -6777,27 +6782,27 @@ Messer.
  
 
 Bei denjenigen Räumen, welche gegen Feuer- oder Detonationsgefahr geflutet werden (Munitionskammern, Torpedoladungen und -Zündungen, Spirituslasten, Räume für few gefährliche Farben usw.), sind Luftröhre vom höchsten Punkte des Flutraumes aus mit möglichst wenig Schott- und Deckdurchbrechungen bis auf das freie Deck zu führen, wo sie in einem genügend langen Schwanenhals endigen sollen. Um das Hineinwerfen von Gegenständen zu verhindern, ist der Schwanenhals durch ein Drahtnetz von 10 mm Maschenweite abzuschließen. Die Luftröhre dürfen keine Verschlüsse erhalten und müssen durch ihre Lage gegen Eindringen von Wasser von obenher geschützt sein. Der l. Durchmesser der Rohre ist entsprechend der nachstehenden Zusammenstellung zu wählen:
-glut-Lustrohr	Lust- geschwindig- keit
-m/s	Luftdruck	Luftmenge ] in
+glut-Lustrohr Lust- geschwindig- keit
+m/s Luftdruck Luftmenge ] in
 15 Minuten | = Größe btS I glutraumeS j bis
-mm	Querschnitt
-cm*		Geschwin-digkeitshöhe
-mm/WS	Widerstandshöhe	Gesamt- druckhöhe
-mm/WS	
-				1 Reibungen
+mm Querschnitt
+cm*  Geschwin-digkeitshöhe
+mm/WS Widerstandshöhe Gesamt- druckhöhe
+mm/WS 
+    1 Reibungen
 10 m Rohr-länge
-mm/WS	für 4—90° Rohr- krümmer
-mm/WS		
-30	7,06	14,3	13,0	94,0	13,0	120,0	9,1
-35	9,62	15,2	14,7	91,0	14,7	120,4	13,15 1
-40	12,56	15,8	16,1	88,0	16,1	120,2	17,9
-45	15,90	16,6	17,6	85,0	17,6	120,2	23,8 -
-50	19,63	17,3	19,1	81,0	19,1	119,2	30,6 j
-55	23,75	18,2	21,1	78,0	21,1	120,2	38,9
-60	28,27	18,6	22,0	76,0	22,0	120,0	47,5
-65	33,18	19,2	23,5	73,0	23,5	120,0	57,5
-70	38,48	19,6	24,5 i	71,0	24,5	120,0	68,0
-80	50,26	20,5	26,8	|	66,0	26,8	119,6	93,0
+mm/WS für 4—90° Rohr- krümmer
+mm/WS  
+30 7,06 14,3 13,0 94,0 13,0 120,0 9,1
+35 9,62 15,2 14,7 91,0 14,7 120,4 13,15 1
+40 12,56 15,8 16,1 88,0 16,1 120,2 17,9
+45 15,90 16,6 17,6 85,0 17,6 120,2 23,8 -
+50 19,63 17,3 19,1 81,0 19,1 119,2 30,6 j
+55 23,75 18,2 21,1 78,0 21,1 120,2 38,9
+60 28,27 18,6 22,0 76,0 22,0 120,0 47,5
+65 33,18 19,2 23,5 73,0 23,5 120,0 57,5
+70 38,48 19,6 24,5 i 71,0 24,5 120,0 68,0
+80 50,26 20,5 26,8 | 66,0 26,8 119,6 93,0
 Größere Durchmesser sind nicht zulässig.
 Falls das Flutluftrohr für feuergefährliche Farben und Petroleumkanifter gleichzeitig für die Lüftung des Raumes dient, ist sein Durchmesser nach der Luftmenge, jedoch nicht größeü als 80 null, zu wählen. An den äußeren bzw. oberen Enden der Luftröhre sind Bezeichnung« schilder (siehe 8II22) mit der Angabe des zugehörigen Raumes anzubringen.
 Etwaige Abweichungen von vorstehenden Bestimmungen regelt die B. B. V. — S —. j
@@ -6826,7 +6831,7 @@ An den einzelnen Trinkwaffermtnahmestellen, wo Trinkwasser dauernd im ungekochte
 Je 1 Filter in den Anrichten für Kommandant, Offiziere, Oberfeldwebel, Unter-?
 Offiziere und Mannschaften, in jeder Küche, Bäckerei und bei jedem Selterwasser-Apparat. §
 Je 1 Filter in jedem größeren Unteroffizierraum und Mannschaftsraum- ihre Aer-z teilung auf die einzelnen Räume ist so zu treffen, daß die Entnahmemenge aus ben 1 einzelnen Filtern möglichst gleich groß ist.
-1	Filter im Krankenraum oder in der nächsten Nähe desselben.
+1 Filter im Krankenraum oder in der nächsten Nähe desselben.
 Auf den übrigen Kriegsschiffen ist, soweit zutreffend, finngemäß zu verfahren.
 Allgemein kommen für die Lieferung von Aktiv-Kohlefiltern solche mit einer stündlichen z Leistung von 50, 100, 200 und 3001 in Frage.
 Die Filtergrößen sollen sich nach der Anzahl der jeweiligen Verbraucher richten. Für jeden Verbraucher ist mit etwa 1.1/h filtrierten Trinkwassers zu rechnen.
@@ -6943,9 +6948,9 @@ A. Antrieb des Ruders mittels Schraubenspindel
 8II Gruppe 10 Steuereinrichtungen
 Anzahl und Lage der Haupt- und Reservesteuerstellen, Anordnung der Steuereinrichtung | sowie Art des Antriebs für das Ruder — Schraubenspindel oder Quadrant — für die ein-1 zelnen Schiffsgattungen sind aus den besonderen Bauunterlagen zu ersehen.
 Der größte Ruderwinkel soll betragen:
-für Schiffe	40°; Durchführung der Berechnung für 40 ° 4- 2° Nachlauf, |
+für Schiffe 40°; Durchführung der Berechnung für 40 ° 4- 2° Nachlauf, |
 » Boote und kleine
-Sonderschiffe	 35°;	>	»	»	- 35° 4- 2°	-
+Sonderschiffe  35°; > » » - 35° 4- 2° -
 An den Steuerapparaten ist ein besonderes Schild mit folgender Aufschrift anzubringen: I
 »Bei A. K.-Rückwärtsfahrt darf mit Rücksicht auf die vorhandene Rudermaschinenleistung r nur bis .... Grad Ruder gelegt werben.«
 Der Grenzwinkel wird erst nach Abschluß der betreffenden Probefahrten auf dem Schild | angegeben.
@@ -7076,7 +7081,7 @@ Kettenkneifer
 An jeder Decksklüse find Kettenkneifer in Form von Hebeln — bei Booten und Sonder
 schiffen als Schieber ^ unter Deck vorzusehen.
 Al8 Zurrvorrichtung für die Anker sind an jeder Bugklüse und bei Schiffm mit einem
-Zurrvorrichtungen	.
+Zurrvorrichtungen .
 " für die Anker usw. Reserveanker auch an der Reserveklüse eine Kette mit Spannschraube und Schlipphaken sowie
 zwei Augbolzen vorzusehm.
 Abhalterollen, Augbolzen, Führungsrollen usw. sind, wo erforderlich, anzubringen.
@@ -7418,51 +7423,51 @@ Im übrigen sind die A. B. B. Nr. 34 Abschnitt s (ohne Lu und b) und A.B. B.H Nr
  
 
 
-170	8U20
+170 8U20
 GepreßteWaschtisch- platten aus emailliertem Stahlblech
 Waschbecken aus
 Kristallporzella
 A. Gepreßte Waschtischplatten aus emailliertem Stahlblech nach Musterzeichnungen (Ent- 1 wurf) sind in den Fähnrichs., Unteroffizier, und Mannschaftswaschräumen, dem Lazarett bzw. 1 dem Lazarettbad, dem Operations- bzw. ärztlichen Untersuchungsraum, den Mohnkammern des 1 Zivilpersonals (Köche, Kellner, Barbiere) und überall dort, wo es die räumlichen Verhältnisse Z gestatten, z. B. in den Offizier- und Obcrfeldwcbelbädern bzw. Brausen, den Fähnrichs-, Unter- 1 Offizier- und Mannschaftsklosetts, den Schreibstuben und Barbierstuben usw., vorzusehen. Bei 1 den Waschbecken, die nur Kaltwafferanschluß erhalten, ist in den Waschtischplatten nur ein Zapf. H hahnloch vorzusehen oder das zweite Hahnloch in der Platte (in geeigneter Weise) dicht zu setzen, j
 Die Gestelle und die Befestigungen der Waschtischplatten sowie die Anordnung der Waffer- I anschlüffe und die Armaturen sind im Anhalt an die Musterzeichnungen (Entwurf) auszuführen. |
 Diese Zeichnungen
-1.	Gestelle für emaillierte Waschtischplatten,
-2.	Waschtischplatte für Unteroffiziere und Mannschaften,
-3.	Befestigung der Waschtischplatten und Anordnung der Wafferanschlüffe,
-4.	Mannschaftsbad,
-5.	Zapfventil für Waschtischplatten. In den Fähnrich-, Unteroffizier- und Mannschafts- I waschräumen wafferschlagfreie Selbstschlußstandventile aus Messing, poliert, im 1 übrigen gewöhnliche Standventile (Ventilzapfhähne) aus Messing, vernickelt.
-6.	Ablaufstutzen mit Konusverschluß für Wascktischplatten^
-7.	Befestigung der Handtuchhalter
+1. Gestelle für emaillierte Waschtischplatten,
+2. Waschtischplatte für Unteroffiziere und Mannschaften,
+3. Befestigung der Waschtischplatten und Anordnung der Wafferanschlüffe,
+4. Mannschaftsbad,
+5. Zapfventil für Waschtischplatten. In den Fähnrich-, Unteroffizier- und Mannschafts- I waschräumen wafferschlagfreie Selbstschlußstandventile aus Messing, poliert, im 1 übrigen gewöhnliche Standventile (Ventilzapfhähne) aus Messing, vernickelt.
+6. Ablaufstutzen mit Konusverschluß für Wascktischplatten^
+7. Befestigung der Handtuchhalter
 find, soweit bei den Bauwerften noch nicht vorhanden, von der Marinewerft einzufordern.
 Regulierventile in der Zufiußleitung und Dreiwegehähne zum Durchspülen des Ablauf-H stutzens — bei Gruppenwaschtischplatten für jede Gruppe — sind ähnlich wie bei den Kristall-1 Waschbecken vorzusehen.
 Für die Waschtischplatten aus emailliertem Stahlblech sind einfache Derschlußstöpsel mit I Kette vorzusehen, weil der Konusverschluß (in Unkenntnis der Handhabung) häufig von der ; Kette loSgeriffen wird.
 Für das Durchspülen der Abflußleitungen sind eine Anzahl Konusverschlüffe (gleich der 1 Zahl der Waschbecken des größten Waschraumes, + 10 % Reserve) als Pumpenmeistergerät, M ferner als Ersatz für abhanden gekommene Verschlußstöpsel eine Anzahl (gleich 10°/, der ein- 1 gebauten Waschtischplatten) als Verbrauchsstoff an Bord zu geben.
-8.	Für die Ausführung und den Einbau der Abwaschbecken für Backsgeschirr, der Ab- I Waschbecken in den Anrichtm, Küchen und Bäckerei aus emailliertem Stahlblech geltm die | Musterzeichnungen (Entwurf).
-9.	Für Offizier- und Oberfeldwebelkammern sind folgende Einrichtungen zu wählen:
-1.	Becken aus stoßfestem Kristallporzellan oder gleichwertigem Material mit kom- ] diniertem Ab- und Überlauf nach Zeichnung v. Blohm & Voß Rr. 4553 Seite 1.
-2.	Wafferzuflußventile je nach den Bestimmungen für kaltes oder für kaltes und warmeS Z Waffer — beachte SII9l — gewöhnliche Standventile 3/8" aus Messing, vernickelt, 1 wie Zeichnung v. Triton-Belco T1815. Für die Wafferzuführungsleitungen der 1 Waschbecken, die beim Schießen starken Erschütterungen ausgesetzt sind, sind klastische j Verbindungen (Metallschlauch) vorzusehen.
-3.	Ablaufstutzm aus Messing, vernickelt, mit Hartgummistöpsel und Kette, untm gewellt, 1 für Gummimuffe wie auf Zeichnung v. Triton-Belco Nr. v 54. Ein Verschluß mit 1 Umlegehebel ist wegen der komplizierten Konstruktion, auch wegen der höheren In- J standhaltungskosten, nicht vorzusehen.
-4.	Dreiwegehahn zum Spülen aus Messing, oben gewellt, für Gummimuffe, Spül« I anschluß zum Anschlägen eines 25-mm.Schlauche8 mit Abschlußkappe, nach Zeichnung 1 v. Triton-Belco Nr. 8 v 189.
+8. Für die Ausführung und den Einbau der Abwaschbecken für Backsgeschirr, der Ab- I Waschbecken in den Anrichtm, Küchen und Bäckerei aus emailliertem Stahlblech geltm die | Musterzeichnungen (Entwurf).
+9. Für Offizier- und Oberfeldwebelkammern sind folgende Einrichtungen zu wählen:
+1. Becken aus stoßfestem Kristallporzellan oder gleichwertigem Material mit kom- ] diniertem Ab- und Überlauf nach Zeichnung v. Blohm & Voß Rr. 4553 Seite 1.
+2. Wafferzuflußventile je nach den Bestimmungen für kaltes oder für kaltes und warmeS Z Waffer — beachte SII9l — gewöhnliche Standventile 3/8" aus Messing, vernickelt, 1 wie Zeichnung v. Triton-Belco T1815. Für die Wafferzuführungsleitungen der 1 Waschbecken, die beim Schießen starken Erschütterungen ausgesetzt sind, sind klastische j Verbindungen (Metallschlauch) vorzusehen.
+3. Ablaufstutzm aus Messing, vernickelt, mit Hartgummistöpsel und Kette, untm gewellt, 1 für Gummimuffe wie auf Zeichnung v. Triton-Belco Nr. v 54. Ein Verschluß mit 1 Umlegehebel ist wegen der komplizierten Konstruktion, auch wegen der höheren In- J standhaltungskosten, nicht vorzusehen.
+4. Dreiwegehahn zum Spülen aus Messing, oben gewellt, für Gummimuffe, Spül« I anschluß zum Anschlägen eines 25-mm.Schlauche8 mit Abschlußkappe, nach Zeichnung 1 v. Triton-Belco Nr. 8 v 189.
  
 
 
 
 
-171	8"
+171 8"
 20, 21
-5.	Regulierventil aus Messing für 8 mm l. W., Verschraubungen mit Kupferkonus für Kupferrohre von II mm Außendurchmeffer, ähnlich Zeichnung v. Blohm & Voß Nr. 1057.
-10.	Für Aborte, Einzelbrausebäber, Einzelwannenbäder und Schreibstuben, sofern gepreßte Waschtischplatten au8 emailliertem Stahlblech wegen Platzmangels nicht eingebaut werden können:
-1.	Becken aus Kristallporzellan oder gleichwertigem Material mit kombiniertem Ab- und Überlauf — Außenmaße 440 X260 mm — nach Zeichnung von Blohm & Voß Nr. 4553 Seite 3.
-2.	Wasserzuslußventile je nach den Bestimmungen für kaltes oder für kaltes und warmes Wasser — beachte 8II9/ — aus Messing, vernickelt, •//', ähnlich Zeichnung v. Triton-Belco 8 M Nr. 256.
-3.	Ablaufstutzen
-4.	Dreiwegehahn
-5.	Regulierventil
+5. Regulierventil aus Messing für 8 mm l. W., Verschraubungen mit Kupferkonus für Kupferrohre von II mm Außendurchmeffer, ähnlich Zeichnung v. Blohm & Voß Nr. 1057.
+10. Für Aborte, Einzelbrausebäber, Einzelwannenbäder und Schreibstuben, sofern gepreßte Waschtischplatten au8 emailliertem Stahlblech wegen Platzmangels nicht eingebaut werden können:
+1. Becken aus Kristallporzellan oder gleichwertigem Material mit kombiniertem Ab- und Überlauf — Außenmaße 440 X260 mm — nach Zeichnung von Blohm & Voß Nr. 4553 Seite 3.
+2. Wasserzuslußventile je nach den Bestimmungen für kaltes oder für kaltes und warmes Wasser — beachte 8II9/ — aus Messing, vernickelt, •//', ähnlich Zeichnung v. Triton-Belco 8 M Nr. 256.
+3. Ablaufstutzen
+4. Dreiwegehahn
+5. Regulierventil
 wie zu 6.
-11.	Für Aborte mit besonders beschränkten Raumverhältnisien.
-1.	Becken mit Außenmaßen 350 X 260 mm, sonst wie zu B 1).
-2.	Wasserzuflußventil
-3.	Ablaufstutzen
-4.	Dreiwegehahn	$
-5.	Regulierventil
+11. Für Aborte mit besonders beschränkten Raumverhältnisien.
+1. Becken mit Außenmaßen 350 X 260 mm, sonst wie zu B 1).
+2. Wasserzuflußventil
+3. Ablaufstutzen
+4. Dreiwegehahn $
+5. Regulierventil
 Die aufgeführten Zeichnungen sind, soweit bei den Bauwerften noch nicht vorhanden, von der Marinewerft einzufordern.
 Für Fußbodenbelag beachte Allgemeines zu 8113 bis 18.
 Umschottungen siehe 8120.
@@ -7554,7 +7559,7 @@ Bezeichnungsschilder, die außergewöhnlich starker Korrosion ausgesetzt sind un
 Die Hängemattsräume sind mit Schildern zu versehen, die angeben, wie viele gezurrte,! mit zwei wollenen Decken versehene? Hängematten gestaut werden können.
 Die Bezeichnungen der Luftkanäle sind nach Anhang 6 lfd. Nr. 2, die der Luftröhre nach ' S n 9 i auszuführen.
 Auf Booten sind die Längsschiffslagen der Bordwandstutzen im Unterwafferschiff für Sauge« und Druckbodenventile, für die Fahrtmeßanlage usw. durch kurzbeschriftete Schilder' auf dem freien Deck an Bb bzw. Stb kenntlich zu machen. Für die Austrittsöffnungen für Schwerter usw. der Unterwasserhorcheinrichtungen sind keine Schilder anzubringen.
-Schlösser und Zu- Für die Art des Verschlusses der Türen sollen KI Ah 8697 v. 10.11.13 mit den behör	erlassenen Änderungen maßgebend sein.
+Schlösser und Zu- Für die Art des Verschlusses der Türen sollen KI Ah 8697 v. 10.11.13 mit den behör erlassenen Änderungen maßgebend sein.
 DerkehrStüren über der X. W. L. und solche, die für die Munitionsförderung in Frage kommen, sollen Sturmhaken erhalten.
 Haken, Klinken, Riegel, Schlösser, Schlüssel u. dgl: sind au8 Leichtmetall eloxiert, Stahl- oder Temperguß, gegebenenfalls mit metallischen Schutzüberzügen (verzinkt, vernickelt, ver¬chromt) herzustellen.
 Bronze oder Messing dürfen nur in Ausnahmefäüm mit besonderer Genehmigung deS O.K.M. verwendet werden.
@@ -7582,7 +7587,7 @@ Schutzsegel nach dem Gebrauche der Marine mit Kauschen, Reihleinen, Seitenstande
 Soweit die Schutzsegelstützen als Geländerstützen Verwendung finden, siehe 8II3.
 Strecktaue an Deck mit den zugehörigen Stützen, Beschlägen usw. sind, wo erforderlich, I vorzusehen.
 Die nicht umschotteten oder überdachten Niedergangsluken auf den freien Decks sind mit > Regenkappenbügeln zu versehen.
-Strecktaubügel	Bei hochbordigen Schiffen find zum Verholen der Beiboote an jeder Schiffsseite etwa 2 m
+Strecktaubügel Bei hochbordigen Schiffen find zum Verholen der Beiboote an jeder Schiffsseite etwa 2 m
 über K. W. L. Strecktaubügel in Abständen von etwa 6 m anzubringen, sofern nicht andere Teile den Bootshaken Halt gewähren. Die Bügel müffen der normalen Bootshakenform ent¬sprechen.
 Tiefgangsstand,
 rohre
@@ -7654,7 +7659,7 @@ Duraba oder gleichwertiges Material) in handelsüblicher Ausführung, jedoch nic
 5 bis 6 l Wafferinhalt vorzusehen, die so rinzubauen sind, daß sie den Stößen beim Schieße»
 mit den schweren Geschützen standhalten. Sie sind so weit entfernt von der Wand auf-
 zustellen, daß beim Waschen der darüber angeordnete Toilettenschrank nicht stört. Ausführung
-des Schrankes nach Musterzeichnung	
+des Schrankes nach Musterzeichnung 
 Auf Schiffen und Sonderschiffen sind für jede Doppelkammer 2 Wascheinrichtungen für
 fließendes Wasser und 2 Toilettenschränke vorzusehen/ sie sind so aufzustellen, daß ei» gleich-
 zeitiger unbchinderter Gebrauch möglich ist.
@@ -7698,14 +7703,14 @@ Beachte 8157, A. B. B. 42, 46 und 79.
 Für die Wohnlichkeit der Räume sollen die unter »Allgemeines zu den Gruppen 8III2 bis 4« enthaltenen Bestimmungen sinngemäß gelten. Die Unteroffizierräume sind zur Hebung der Wohnlichkeit durch leichte Schotte und kurze Durchgangsvorhänge zu unterteilen.
 In jedem Mannschafts- und Unteroffizierraum ist für je 50 oder angefangene 50 Mann I Wandspiegel anzubringen.
 In einem möglichst großen Mannschaftsraume sind Einrichtungen für Filmvorführungen vorzusehen.
-» Backstische und	Für die Unteroffiziere sind feste Tische mit hölzernen Platten und Linoleumbelag sowie
+» Backstische und Für die Unteroffiziere sind feste Tische mit hölzernen Platten und Linoleumbelag sowie
 hölzerne Stühle, für die Mannschaften Backstische aus Leichtmetall mit Linoleumbelag und - hölzerne Backsbänke mit Rückenlehnen vorzusehen. Im übrigen sind die Musterzeichnungen zu beachten. Werden Backskisten (siehe 6) eingebaut, sollen sie als Sitzgelegenheit dienen.
 Auf Booten sind die Backstische für Unteroffiziere und Mannschaften in der auf Torpedo-ß booten üblichen Ausführung und Gröhe nach Musterzeichnung vorzusehen. Als Sitzgelegenheit^ sollen im allgemeinen die Backskisten (siehe ä) dienen. Soweit diese nicht ausreichen, sind für die Unteroffiziere hölzerne Stühle, für die Mannschaften hölzerne Backsbänke mit Rückenlehnen^ vorzusehen.
-d Backsspinde	Spinde für das planmäßige Backsgeschirr und für frischen Proviant nach Musterzeichnung ;
+d Backsspinde Spinde für das planmäßige Backsgeschirr und für frischen Proviant nach Musterzeichnung ;
 sind in genügender Anzahl vorzusehen. Sie sollen möglichst in der Nähe des Eingangs zu dem zugehörigen Wohnraum liegen.
 In den Unteroffizierräumen mit Anrichten fallen die Backsspinde fort.
 Die Spinde sind nach Musterzeichnung auszuführen.
-e Abwaschbecken	Abwaschbecken aus emailliertem Stahlblech nach Musterzeichnung (Entwurf) für das Back« 1
+e Abwaschbecken Abwaschbecken aus emailliertem Stahlblech nach Musterzeichnung (Entwurf) für das Back« 1
 für Backsgeschirr gefeit! mit Universalmischventilen zum Mischen von Dampf und Waschwasser sind in den i Mannschaftsräumen für die gesamte Mannschaft einzubauen und so zu verteilen, daß auf etwa je 30 Mann ein Becken entfällt.
 Auf Booten sind Anzahl und Aufstellung der Abwaschbecken den besonderen Bauunterlagen ■ zu entnehmen.
 Waschwasserleitung stehe 8II92, Universalmischventile siehe MII21, Abwaschbecken für die Anrichten siehe 8III6.
@@ -7882,7 +7887,7 @@ Werkstattseinrichtung: Nähmaschine, Tisch mit Holzplatte, Schubladen unter dem 
 Segelmacherwerkstatt.
 Ein besonderer Raum ist hierfür nicht erforderlich, da die Werkstatt nur selten ge- | braucht wird.
 Für die elektrisch anzutreibende Nähmaschine ist ein verschließbares Spind in der Nähe | des Arbeitsplatzes des Segelmachers einzubauen,' auch ist an geeigneter Stelle des Arbeitsplatzes ; eine Festsetzvorrichtung für die Nähmaschine beim Gebrauch vorzusehen.
-l Barbierstube	Die Barbierstube ist nach Musterzeichnung mit Rasierstühlen auszustatten.
+l Barbierstube Die Barbierstube ist nach Musterzeichnung mit Rasierstühlen auszustatten.
 »Einrichtungen für Wasser« siehe 8II9 r.
 w Wäscherei, Plätterei Die erforderlichen Bügeltische, Tische und Borde für Sortierung, Annahme und Ausgabe j der Wäsche usw. sind vorzusehen. Werkstoff: Holz.
 »Einrichtungen für Wasser« siche 8II9 /.
@@ -7936,7 +7941,7 @@ Gasmaskenspinde für Boote nach L. L. V. — 8 —*
 Für die Unterbringung der Flottenatmer sind Spinde nach Mnsterzeichnung einzubauens die nach Angabe des Kommandos auf die Mannschaftsdecks und die Niedergänge zu den Be« triebsräumen verteilt werden.
 Zum Entseuchen geringer Mengen Gasschutzgerät (etwa 2 bis 3 Masken) ist ein gasdichtes Spind — »Entseuchungsspind für Gasschutzgerät« — an geeigneter Stelle im Schiff ein«, zubauen.
 Für Spinde für Reinigungsgerät beachte 8158.
-Auf Booten und Sonderschiffen (soweit sie mit festen Schwimmwesten ausgerüstet werdens sind für das Personal an Deck und in den Aufbauten die Schwimmwesten in Blechkästen nach Musterzeichnung unterzubringen. Die Kästen mit Deckel und klappbarer Dorderwand find so anzubringen, baß	aufgehängt werden. Außerdem ist für jede Person einer Wache in den Maschinen« und Keffelräumen je eine feste Schwimmweste in dem umschotteten Rieder^ gang an Oberdeck oder, falls ein solcher nicht vorhanden ist, in dem betreffenden Raum selbst^ in der Nähe der Niedergänge anzubringen. An heißen Wänden dürfen die Schwimmwesten nicht unmittelbar befestigt werden.
+Auf Booten und Sonderschiffen (soweit sie mit festen Schwimmwesten ausgerüstet werdens sind für das Personal an Deck und in den Aufbauten die Schwimmwesten in Blechkästen nach Musterzeichnung unterzubringen. Die Kästen mit Deckel und klappbarer Dorderwand find so anzubringen, baß aufgehängt werden. Außerdem ist für jede Person einer Wache in den Maschinen« und Keffelräumen je eine feste Schwimmweste in dem umschotteten Rieder^ gang an Oberdeck oder, falls ein solcher nicht vorhanden ist, in dem betreffenden Raum selbst^ in der Nähe der Niedergänge anzubringen. An heißen Wänden dürfen die Schwimmwesten nicht unmittelbar befestigt werden.
 Alle Arbeiten der Tischlerwerkstatt, die sonst noch erforderlich sind, sind in zweckentspreche««; der Weise auszuführen. Beachte 8160 und 8II22.
  
 
@@ -8000,40 +8005,40 @@ Lfde. Nr.
 1
 2
 3
-Etwaige Abweichungen von den Verwiegungsvorschriften	
-Verzeichnis der aus Leichtmetall anzusertigenden Gegenstände	
+Etwaige Abweichungen von den Verwiegungsvorschriften 
+Verzeichnis der aus Leichtmetall anzusertigenden Gegenstände 
 Etwaige Vernietung von Bauteilen an Stelle der vorgeschriebenen
 Gruppe
 Vorbemerkung 3 i
 Vorbemerkung 7 a4. ■
-Schweißung 	Vorbemerkung 7»tz
-4	Biegen von ungehärtetem Panzermaterial mit einem Krümmungs¬halbmesser unter 50facher Plattendicke			 »	7bi
-5	Verstärkungen infolge Gasdrucks der Geschütze, Anordnung von Schießblenden	 -	14
-6	Stapellaufrechnung sowie Maßnahmnn für den Stapellauf gemäß II 4 der Stapellaufvorschrift 	'	 »	21
-7	. Schlingerkiele	  I	4
-8	Ruder mit Lagerung und Berechnung	  I	8
-9	Wellenböcke und Abschlußstücke	  I	9
-10	Anordnung aller in die Innenbodenbeplattung einzuschneidenden Löcher
-und der etwa erforderlichen Verstärkungen	
-II Stutzen für Bodenventile	'	
-12	Unterbauten für die Hauptmaschinen, Kessel, Wellenlager und Wellen-
+Schweißung  Vorbemerkung 7»tz
+4 Biegen von ungehärtetem Panzermaterial mit einem Krümmungs¬halbmesser unter 50facher Plattendicke    » 7bi
+5 Verstärkungen infolge Gasdrucks der Geschütze, Anordnung von Schießblenden  - 14
+6 Stapellaufrechnung sowie Maßnahmnn für den Stapellauf gemäß II 4 der Stapellaufvorschrift  '  » 21
+7 . Schlingerkiele   I 4
+8 Ruder mit Lagerung und Berechnung   I 8
+9 Wellenböcke und Abschlußstücke   I 9
+10 Anordnung aller in die Innenbodenbeplattung einzuschneidenden Löcher
+und der etwa erforderlichen Verstärkungen 
+II Stutzen für Bodenventile ' 
+12 Unterbauten für die Hauptmaschinen, Kessel, Wellenlager und Wellen-
 bremsen, Träger für die Hilfskesselanlage, Diesel- und Turbodynamos,
-Lüftungsmaschinen, Maschinen für Waffenzwecke usw	
-13	Änderungen von Öffnungen im Oberdeck gegenüber den Bauunterlagen
-14	Jörderwege außer den Verkehrsluken für das Ein- und Ausbringen
+Lüftungsmaschinen, Maschinen für Waffenzwecke usw 
+13 Änderungen von Öffnungen im Oberdeck gegenüber den Bauunterlagen
+14 Jörderwege außer den Verkehrsluken für das Ein- und Ausbringen
 größerer Teile der Maschinen, Keffel, Hilfsmaschinen, Apparate der
-Artilleriefeuerleitungsanlagen usw		
-15	Durchbrechungen von Unterzügen			
-16	Befestigung der Linoleumschienen			
-17	An der Außenhaut vorstehende Spritzwasser bildende Teile, auch
-Mulden in der Außenhaut 		
-18	Isolierungen					
-19	Etwaige Änderungen an den Munitionskammern	
-20	Munitionsstaupläne 	
-21	Einzelzeichnungen der Geschützstände und der darunterstehenden Schotte
-mit Durchbrechungen und Versteifungen	
-22	Bootsaufstellung			'.	
-23	Takelage	
+Artilleriefeuerleitungsanlagen usw  
+15 Durchbrechungen von Unterzügen   
+16 Befestigung der Linoleumschienen   
+17 An der Außenhaut vorstehende Spritzwasser bildende Teile, auch
+Mulden in der Außenhaut   
+18 Isolierungen     
+19 Etwaige Änderungen an den Munitionskammern 
+20 Munitionsstaupläne  
+21 Einzelzeichnungen der Geschützstände und der darunterstehenden Schotte
+mit Durchbrechungen und Versteifungen 
+22 Bootsaufstellung   '. 
+23 Takelage 
 24 Etwaige Anbringung von nicht artilleristischen Zwecken dienenden
 I 11
 I 11
@@ -8049,106 +8054,106 @@ I 26
 I 10, 33, 48
 I 46
 I 47
-Gegenständen an den Drehtürmen 	 I	48
-25 Munitionsförderanlage 	 I	48, II 14
-26 Entwurf der Munitionsübernahme nebst Berechnung	 I	48
-27 Torpedostände nebst Berechnung	 I	49^
-28 Einrichtungen für Sperrgerät	  I	498
-29 Nebelanlage 	 I	496
-30 Bugschutzanlage	 I	49 D
+Gegenständen an den Drehtürmen   I 48
+25 Munitionsförderanlage   I 48, II 14
+26 Entwurf der Munitionsübernahme nebst Berechnung  I 48
+27 Torpedostände nebst Berechnung  I 49^
+28 Einrichtungen für Sperrgerät   I 498
+29 Nebelanlage   I 496
+30 Bugschutzanlage  I 49 D
 *) Alle zur Genehmigung vorzulegenden Zeichnungen, Berechnungen usw. sind vor brr Bauausführung *«- zureichen, damit Änderungen bei den Materialbestellungen noch berücksichtigt werden können.
  
 
-Lfb-Nr.	T	R.
-31 					
-32	Schächte für Notlüftung	    ^	^4
-33	Einrichtungen der Mannschaftsräume		 1	57
-34	Schlingeranlage- nebst Berechnung 	    I	58
-35	Bugverzierung		 I	59
-36	Ahminge					 -		 I	60
-37	Aufstellungsort für die Reserveschrauben	bzw.	Reserveschraubenflügel	...	I	60
-38	Kompaßausstellung, Anordnung der Steuerstellen zum Betriebe der 'Ruderanlage, Peilfelder und Verteilung	des	unmagnetischen	Materials	I	60
-39	Meßleisten zum Ausrichten der Geschützstände usw		 I	60
-40	Marken für Flucht- und Nllllinien								 I	60
-41	Peillinie' für Messungen von Schiffsdurchbiegungen			 I	60
-42	Ausführungs- uild Übersichtszeichnung sämtlicher Panzerdeckel	 II	4
-43	Speigattanlage mit Angabe des Werkstoffs und der	Rohrdurchmesser II	7
-44	Tür- und Lukenverteilungspläne 	 H	8
-45	.Schuellschlußschieber in den Munitionskammern			  II	8
-46	Schematischer Entwurf für die Einrichtungen für Wasser nebst' Be- rechnung und Beschreibung	  II	9
-47	Erprobungsplan der Flut- und Entwässerungseinrichtungen	für WrnL II	9
-48	Zeutralfeuerlöschanlage 	  II	9
-49	Trink- und Waschwasser-Druckbehälter-Anlage, Ausstellung der An¬wärmer usw	      II	9
-50	Übersichtszeichnung aller von der Seewafferkühlleitung zu speisenden Apparate	    II	9
-51	Steuereinrichtungen Uebst Berechnung ....,			 H	10
-52	SpillaUlagen nebst Berechnung 	 II	11
-53	Bootsaussetzeinrichtungen nebst Abstützung		 n	12
-54	Verteilung der Bercitschastsmunitionseinrichtungen sowie Einbauplätze
+Lfb-Nr. T R.
+31      
+32 Schächte für Notlüftung     ^ ^4
+33 Einrichtungen der Mannschaftsräume   1 57
+34 Schlingeranlage- nebst Berechnung      I 58
+35 Bugverzierung   I 59
+36 Ahminge      -   I 60
+37 Aufstellungsort für die Reserveschrauben bzw. Reserveschraubenflügel ... I 60
+38 Kompaßausstellung, Anordnung der Steuerstellen zum Betriebe der 'Ruderanlage, Peilfelder und Verteilung des unmagnetischen Materials I 60
+39 Meßleisten zum Ausrichten der Geschützstände usw   I 60
+40 Marken für Flucht- und Nllllinien         I 60
+41 Peillinie' für Messungen von Schiffsdurchbiegungen    I 60
+42 Ausführungs- uild Übersichtszeichnung sämtlicher Panzerdeckel  II 4
+43 Speigattanlage mit Angabe des Werkstoffs und der Rohrdurchmesser II 7
+44 Tür- und Lukenverteilungspläne   H 8
+45 .Schuellschlußschieber in den Munitionskammern     II 8
+46 Schematischer Entwurf für die Einrichtungen für Wasser nebst' Be- rechnung und Beschreibung   II 9
+47 Erprobungsplan der Flut- und Entwässerungseinrichtungen für WrnL II 9
+48 Zeutralfeuerlöschanlage    II 9
+49 Trink- und Waschwasser-Druckbehälter-Anlage, Ausstellung der An¬wärmer usw       II 9
+50 Übersichtszeichnung aller von der Seewafferkühlleitung zu speisenden Apparate     II 9
+51 Steuereinrichtungen Uebst Berechnung ....,    H 10
+52 SpillaUlagen nebst Berechnung   II 11
+53 Bootsaussetzeinrichtungen nebst Abstützung   n 12
+54 Verteilung der Bercitschastsmunitionseinrichtungen sowie Einbauplätze
 für Spinde der Maschinenwaffen und artilleristischen Zubehörteile .... II 14;III 8
-55	Aufstellung der Ladeübungskanonen und Landungslafetten	 II	14
-56	Sprachrohrplan, schematische Übersicht der Sprachrohre und Fernsprecher
--sowie schematische Skizze sämtlicher Havariekabel und deren Führung von den Havariesteckern zu den Verbrauchsstellen	 H	Z
-57	Lage und Bauart der Gasschutzklappen			   H
-58	Etwaige Verschlüffe für die Schiffslüftung, die nicht unmittelbar an Schotten ober Decks liegen 	  II	’" !
-59	Schraubenschutz	     II	j
-60	Anordnung der	Tiefgangsstandrohre	.	   II	22
-61	Lazarett mit Nebenräumen und Gefechtsverbandplätze			 Ill	6
-62	Einrichtung der	Kartenhäuser	  Ill	6
-63	Funkpeilkreis und Tochterkompaß im.Schiffskartenhaus	   III	6
-64	Einrichtung der	Kommandozentrale	 III	6
-65	Einrichtung der artilleristischen Rechen- und.Schaltstellen, Umformer¬räume usw		 III	6
+55 Aufstellung der Ladeübungskanonen und Landungslafetten  II 14
+56 Sprachrohrplan, schematische Übersicht der Sprachrohre und Fernsprecher
+-sowie schematische Skizze sämtlicher Havariekabel und deren Führung von den Havariesteckern zu den Verbrauchsstellen  H Z
+57 Lage und Bauart der Gasschutzklappen      H
+58 Etwaige Verschlüffe für die Schiffslüftung, die nicht unmittelbar an Schotten ober Decks liegen    II ’" !
+59 Schraubenschutz      II j
+60 Anordnung der Tiefgangsstandrohre .    II 22
+61 Lazarett mit Nebenräumen und Gefechtsverbandplätze    Ill 6
+62 Einrichtung der Kartenhäuser   Ill 6
+63 Funkpeilkreis und Tochterkompaß im.Schiffskartenhaus    III 6
+64 Einrichtung der Kommandozentrale  III 6
+65 Einrichtung der artilleristischen Rechen- und.Schaltstellen, Umformer¬räume usw   III 6
 B Verzeichnis der von der Bauwerft demO. K. M. zur Kenntnisnahme
-Lfdk. Nr.	vorzrüegenden Zeichnungen usw.
-I Etwaige Änderungen schwerer Stahlguß- oder Schmiedestücke	Vorbemerkung 6b
-2	Skizze der Dockkiclsohlcn mit etwaigen Abweichungen	 I	19
-3	Abstände zwischen Unterkante Turmpanzer und Oberkante	Barbette	'I	33
-4	Öffnungen und Durchbrechungen des Panzerdecks	 I	36
-5	Zeichnungen der Räume für Artillerie- und TorpedofeuerleitaUlagen	...	I	58
+Lfdk. Nr. vorzrüegenden Zeichnungen usw.
+I Etwaige Änderungen schwerer Stahlguß- oder Schmiedestücke Vorbemerkung 6b
+2 Skizze der Dockkiclsohlcn mit etwaigen Abweichungen  I 19
+3 Abstände zwischen Unterkante Turmpanzer und Oberkante Barbette 'I 33
+4 Öffnungen und Durchbrechungen des Panzerdecks  I 36
+5 Zeichnungen der Räume für Artillerie- und TorpedofeuerleitaUlagen ... I 58
  
 
-fifbe. Nr.	Gruppe
-6	Stichmaß für zusätzliche Ahming			 1 6V
-6a Peilfelder der M* und L-Kompasse	 *	I 60
-7	Beschläge für die Panzertüren	•	 U 4
-8	Wasserdichte Verschlüsse		 U	8
-9	Pumpen- und Motoren-Kennlinienblätter	 U	9
-10	Saugestutzen mit Schutzsieb			 U	9
-11	Pumpenbuch	*	 H 9
-12	Anordnung der Poller und Klampen mit Unterstützungm	 II	22
-13	Anordnung der Leckpumpen		 H	9
+fifbe. Nr. Gruppe
+6 Stichmaß für zusätzliche Ahming    1 6V
+6a Peilfelder der M* und L-Kompasse  * I 60
+7 Beschläge für die Panzertüren •  U 4
+8 Wasserdichte Verschlüsse   U 8
+9 Pumpen- und Motoren-Kennlinienblätter  U 9
+10 Saugestutzen mit Schutzsieb    U 9
+11 Pumpenbuch *  H 9
+12 Anordnung der Poller und Klampen mit Unterstützungm  II 22
+13 Anordnung der Leckpumpen   H 9
 C Verzeichnis der vom O. K. M. der Bauwerst noch zu liefernden
-,	Zeichnungen und Angaben*)
-de. Nr.	o r o	»	/	Gruppe
-1	Abnahmebedingungen für Chromnickelstahl 			 Vorbemerkung 4b7 •
-2	Zu verwendende Nietdurchmesser nach A. B. B. Nr. 9 oder nach Ni 1—3	»	7a6
-3	Decksbelag vor Verkehrstüren, Niedergängen nsw.          	 I	13—18
-4	Etwaiger Ersatz des Linoleum- und Terrazzobelages durch einen anderen
-Werkstoff 	 1	13—18
-5	Anzunehmende Temperaturen für Olbunker			 1	2$	1
-6	Gewichte und Abmessungen der Munition	 -"	®r
-7	Zugangsöffnungen in den Darbetten	 ^	83 r
-8	Don der Konstruktion der Drchschächte der schweren Geschütze abhängige
-Einzelheiten	 I	33
-9	Angaben über die Durchfahröffnungen und Schieber in dm Turmtrage-
-schotten 	 I	48, II14
-10	Alarmstellung der Geschütze	 I	48
-11	Änderung de8 MunitionSfördersystemS						 I	48	und
+, Zeichnungen und Angaben*)
+de. Nr. o r o » / Gruppe
+1 Abnahmebedingungen für Chromnickelstahl     Vorbemerkung 4b7 •
+2 Zu verwendende Nietdurchmesser nach A. B. B. Nr. 9 oder nach Ni 1—3 » 7a6
+3 Decksbelag vor Verkehrstüren, Niedergängen nsw.            I 13—18
+4 Etwaiger Ersatz des Linoleum- und Terrazzobelages durch einen anderen
+Werkstoff   1 13—18
+5 Anzunehmende Temperaturen für Olbunker    1 2$ 1
+6 Gewichte und Abmessungen der Munition  -" ®r
+7 Zugangsöffnungen in den Darbetten  ^ 83 r
+8 Don der Konstruktion der Drchschächte der schweren Geschütze abhängige
+Einzelheiten  I 33
+9 Angaben über die Durchfahröffnungen und Schieber in dm Turmtrage-
+schotten   I 48, II14
+10 Alarmstellung der Geschütze  I 48
+11 Änderung de8 MunitionSfördersystemS       I 48 und
 II 14
-12	Sockel für Flugzeugschleudern				 15Ö, II15 F
-13	Tragbare Lüfter zum Entgiften von Räumen	 I	54
-14	Bauweise der Schutzsegelstützen	 n	3
+12 Sockel für Flugzeugschleudern     15Ö, II15 F
+13 Tragbare Lüfter zum Entgiften von Räumen  I 54
+14 Bauweise der Schutzsegelstützen  n 3
 15
-16	Isolation von Kupfer- und Bronzeteilen an den Durchführungsstellen
-durch dm Innenboden		 U 2
-17	Art der Zumischer			. - •	11	9 h
-18	Leistung der Förderwerke für M. A	 II	14
-19	Dichtungen für die Drehtürme 	 H	14
-20	Sicherheitsvorrichtungen in Höhe der drehbaren	Plattformen ........ H	141
-21	Lagerböcke, Abstützungen usw. für die Landesegeleinrichtung		 II	15 F
-22	Etwaiger Fortfall der Motorlotmaschine	 H	22
-23	Tiefgangsmeßeinrichtung für die Probefahrten und für den Leckdienst,
-Trimmlagen deS Schiffes		 II	22
-24	Bereitschaftsspind für Sternsignalpatronen 	 HI 8
+16 Isolation von Kupfer- und Bronzeteilen an den Durchführungsstellen
+durch dm Innenboden   U 2
+17 Art der Zumischer   . - • 11 9 h
+18 Leistung der Förderwerke für M. A  II 14
+19 Dichtungen für die Drehtürme   H 14
+20 Sicherheitsvorrichtungen in Höhe der drehbaren Plattformen ........ H 141
+21 Lagerböcke, Abstützungen usw. für die Landesegeleinrichtung   II 15 F
+22 Etwaiger Fortfall der Motorlotmaschine  H 22
+23 Tiefgangsmeßeinrichtung für die Probefahrten und für den Leckdienst,
+Trimmlagen deS Schiffes   II 22
+24 Bereitschaftsspind für Sternsignalpatronen   HI 8
 D Verzeichnis
 der gegebenenfalls aus Leichtmetall anzufertigenden Gegenstände
 Gemäß B; B. V. — S —
@@ -8173,14 +8178,14 @@ Nr. der A. B. B.
 5
 6
 7
-Decksbelag >......		......... ^..............
-Hinterlage für Seitenpanzer		
+Decksbelag >......  ......... ^..............
+Hinterlage für Seitenpanzer  
 Wegerung der Kühlräume nebst Vorräume und der Akkuräume Unterlagen in sämtlichen Munitionskammern, Vorsatzbretter
-in den Geschoßkammern der S. A	
-Losnehmbare Holzrosten in Brotlasten	
+in den Geschoßkammern der S. A 
+Losnehmbare Holzrosten in Brotlasten 
 Grätinge in Lasten, wo Fußbodm als Staustäche dient ....
 Grätinge für die frei liegenden Teile der Admirals-, der
-Kommandobrücke und der Artilleriestände, für Bäder, Brausen, Waschräume, Küchen usw	
+Kommandobrücke und der Artilleriestände, für Bäder, Brausen, Waschräume, Küchen usw 
 8113 bis 18
 8130
 8125
@@ -8200,34 +8205,34 @@ Kommandobrücke und der Artilleriestände, für Bäder, Brausen, Waschräume, K�
 18
 19
 20
-Futter für Bootsklampen 		
+Futter für Bootsklampen   
 Futter auf den Torpedo-Ladeschalen und .Transportwagen,
 in den Bereitschaftsmunitionskasten und Munitionsförder-
 mulden, Puffer unter den Munitionsaufzügen auf Deck
-Laufbrett der Backspieren 									
+Laufbrett der Backspieren          
 Handläufer an Treppen im Bereiche von Offizierskammern
-Funkstenge, Funkrahen und Wimpelstöcke	
+Funkstenge, Funkrahen und Wimpelstöcke 
 Tellerborde und Gläserbretter in den Anrichten, Regale für
 Wäsche in Plätterei, Regal für Kaffee- und Mehllagerung
-in Trockenlasten				
+in Trockenlasten    
 Schutzbretter an den Wänden neben Kojen, Kojenbretter der
-Schwingekojen im Lazarett		
+Schwingekojen im Lazarett  
 Knieschutz cm Schreibtischen, Abschlußleiste für Linoleum-
-belag an Vorkante Schreibtisch	
+belag an Vorkante Schreibtisch 
 Backsbänke für Mannschaften, Sitzbretter in Aborten, Sitz-
 bank in Bädern und Brausen, Pritschen in Arrestzellen
 Tischplatten für feste Tische in Wohnkammern und Meffen
 für Offiziere, Oberfeldwebel und Unteroffiziere, Tischplatten
 für Arbeitstische in Werkstätten, Kiichen, Bäckerei, Wäscherei,
 Plätterei, Wäscheausgabe, Hellegats. Hängetisch im
-Gefechtsverbandplatz sowie Tisch im Lazarett 			
+Gefechtsverbandplatz sowie Tisch im Lazarett    
 Stühle in den Wohnkammern, Messen, Schreibstuben,
 Räumen für Unteroffiziere und Schreib- und Leseräumen
 für Mannschaften, Reitsitze auf den Kommandobrücken,
-Rahmen für Sofapolster			
+Rahmen für Sofapolster   
 Spiegelrahmen für Einzelspiegel, Rahmen für Taufteden,
 \ Traditionstafeln, Rollentafeln, Namentafeln, Eßbretter für
-Kranke, Schlüsselbretter 		
+Kranke, Schlüsselbretter   
 Verpackungskosten und Futter in solchen aus Eisen für
 Torpedomunition und für Artilleriegerät, Einsatzkasten für
 Chronometerspinde. Kasten für Akkumulatoren (tragbare)
@@ -8259,73 +8264,73 @@ der Bauvorschrift oder
 Nr. der A. B. B.
 Hinterlage der Leck«, Lenz- und Fluttafel-Stöpselbretter ....
 Innere Einrichtung im Laboratoriumsschrank für Unter-
-suchung von Wasser und Öl	 MII22
-Backtröge in Bäckerei	
-Futter für Klampen der Flugzeuge	
+suchung von Wasser und Öl  MII22
+Backtröge in Bäckerei 
+Futter für Klampen der Flugzeuge 
 Wegerung, Boden und Zwischenboden in Kartoffel- und
-Gemüselasten 		 SIII7
+Gemüselasten    SIII7
 Futter für Sauerstoff-Dorratszylinder im Gasschutzhellegat 8III7
 Wegerung in Lasten zum Schutz gegen Feuchtigkeit an Wänden,
-wo Vorräte (Brot, Mehl, Kaffee usw.) lagern	
+wo Vorräte (Brot, Mehl, Kaffee usw.) lagern 
 G Abschriften
 zu beachtender Verfügungen und Vorschriften
 Der Text ist nach den später erlassenen, am Kopf vermerkten Ergänzungs-
 und Änderungsverfügungen vervollständigt
-Lfde. Nr.	Buch-Nr.	Datum	betrifft
-1	—	—	Luftkanäle
-2	—	—	Lüftungsbücher
-3	KIA 431/11	27. Januar 1912	Abstützung von Decksbalken
-4	Will 2101	23. April 1912	Signal- und Salutmunition
-5	KIBe 16699	8. März 1913	Abstände zwischen Unterkante
-			Turm und Oberkante Barbette
-			
-6	KIA 8697	10. November 1913	Verschluß der Räume
-7	KIA 12839	12. September 1914	Kondensatzellen
-8	KIAli 16028/14	29. Juni 1915	Schutzsegel
-9	BKId 1244	1. Mai 1922	Stapellaufvorschrist
-10 {	Kia 6491
-»	7295	7. Oktober 1926
-10. November 1931	? Leuchtnmnition
-11	BWII 4791	9. Juni 1927	Munitionstransportgeräte
-12	Kia 8357/27	1. März 1928	Spinde fiir artilleristische
-13			Instrumente
-	»	2308	10. September 1928	Freilote bzw. Elektrolote
-14	KIb 7502	26. Oktober 1928	Rettungsbojenlichte, Nacht-
-			schußbvjen
-15	BWIc 3810	1. August 1929	Muuitionslagervorschrift
+Lfde. Nr. Buch-Nr. Datum betrifft
+1 — — Luftkanäle
+2 — — Lüftungsbücher
+3 KIA 431/11 27. Januar 1912 Abstützung von Decksbalken
+4 Will 2101 23. April 1912 Signal- und Salutmunition
+5 KIBe 16699 8. März 1913 Abstände zwischen Unterkante
+   Turm und Oberkante Barbette
+   
+6 KIA 8697 10. November 1913 Verschluß der Räume
+7 KIA 12839 12. September 1914 Kondensatzellen
+8 KIAli 16028/14 29. Juni 1915 Schutzsegel
+9 BKId 1244 1. Mai 1922 Stapellaufvorschrist
+10 { Kia 6491
+» 7295 7. Oktober 1926
+10. November 1931 ? Leuchtnmnition
+11 BWII 4791 9. Juni 1927 Munitionstransportgeräte
+12 Kia 8357/27 1. März 1928 Spinde fiir artilleristische
+13   Instrumente
+ » 2308 10. September 1928 Freilote bzw. Elektrolote
+14 KIb 7502 26. Oktober 1928 Rettungsbojenlichte, Nacht-
+   schußbvjen
+15 BWIc 3810 1. August 1929 Muuitionslagervorschrift
  
 
 J
 Bestimmung Nr. 1
 Wanddicken für Luftkanäle
-Wasserdichte	Nichtwasserdichte
+Wasserdichte Nichtwasserdichte
 Kanäle
-Querschnitt: Wanddicke:	Bis
-9	50
-100	cm’ = 0,5 mm » = 0,8 »
-Bis 100 cm2 = 1,0 mm	-	150	» — 1,0 -
-» 200 » — 1,5 »	9	200	» — 1,3 »
-, 400 - = 2,0 »	9	300	- — 1,5 »
-» 600 - — 2,5 »	9	400	- = 1,8 -
-Darüber = 3,0 »	» 600 » == 2,0 > Darüber = 2,5 -
-Material: Verzinktes Stahlblech	Material: Leichtmetall
+Querschnitt: Wanddicke: Bis
+9 50
+100 cm’ = 0,5 mm » = 0,8 »
+Bis 100 cm2 = 1,0 mm - 150 » — 1,0 -
+» 200 » — 1,5 » 9 200 » — 1,3 »
+, 400 - = 2,0 » 9 300 - — 1,5 »
+» 600 - — 2,5 » 9 400 - = 1,8 -
+Darüber = 3,0 » » 600 » == 2,0 > Darüber = 2,5 -
+Material: Verzinktes Stahlblech Material: Leichtmetall
 Die Kanäle aus Leichtmetall sind mit einem Innenanstrich zu versehen, der in Richtun des Luftstromes aufzutragen ist.
 Mr Querschnitte bis 100 mm ^ können Rohre verwendet werden, und zwar für wafferdichte Leitungen Rohre von 1,0 bis 1,5 mm Wanddicke und für nichtwafferdichte Leitungen Rohre von 0,5 bis 1,0 mm Wanddicke.
 Dtaterial: verzinktes Stahlblech oder Leichtmetall.
 Luftleitungen von 0,5 mm Wanddicke sind gegen Beschädigungen geschützt zu verlegen Außer der Querschnittsgröße der Kanäle richtet sick die Wanddicke derselben nach der Lag, der Schwimmebene.
 Mr die unterhalb der Schwimmebene liegenden wasserdichten Kanäle find du vorgeschriebenen Dicken innezuhalten, und es ist hier von Fall zu Fall zu erwägen, ob be besonders gefährdeter Lage nicht die nächsthöhere Dicke zu wählen ist. Für die in genügend« Höhe oberhalb der Schwimmebene liegenden wasserdichten und nichtwasserdichten Kanäk kann bei geringer Überschreitung der Grenzwerte für die Kanalquerschnitte die nächstgeringere Dicke genommen werden.
 Gerade Kanäle
-Nietung	NtetMW
-	—		—
+Nietung NtetMW
+ —  —
 Deckplatte
 Krümmer
-Nietung	^'^
-+		
+Nietung ^'^
++  
 Die Kanäle sind nach den nebenstehenden Skizzen
 anzufertigen.
 Wafferdichte Kanäle sind zu schweißen.
---t-			
-Nietung	Nittung
+--t-   
+Nietung Nittung
 Für die Wandbicken der Schächte siche 81 24 und 81 54.
  
 
@@ -8337,77 +8342,77 @@ Die Bezeichnung auf dem Einband und der ersten Seite ist:
 (hier folgt Schiffsklasse und Name).
 Das Buch ist mit dem Aufdruck »Nur für den Dienstgebrauch« zu versehen.
 Der Inhalt ist wie folgt zu ordnen:
-1.	Allgemeines
-1.	LüftungSarten,
-2.	Lüfter,
-3.	Luftschächte,
-4.	Luftkanäle,
-5.	Notlüftung,
-6.	Wasserdichte Verschlüsse in dem Lüftungs-Kanalnetz,
-7.	Gasdichte Verschlüsse,
-8.	Llbrandklappen,
-9.	Tragbare Lüfter.
-1.	Zusammenstellungen der LüftungSanlage für die Schiffsräume
-2.	Lüfter und deren Anschlüsse,
-3.	Wasserdichte und wasser- und gasdichte Verschlüsse,
-4.	Gasdichte Verschlüsse.
-5.	Olbrandklappen.
-III.	Vorschrift für die Bedienung der Anlage
-1.	Allgemeines,
-2.	Lüftung der Lüftungsgruppen und der besonderen Räume,
-3.	Gasschutzmaßnahmen.
-IV.	Lüftungstafeln
+1. Allgemeines
+1. LüftungSarten,
+2. Lüfter,
+3. Luftschächte,
+4. Luftkanäle,
+5. Notlüftung,
+6. Wasserdichte Verschlüsse in dem Lüftungs-Kanalnetz,
+7. Gasdichte Verschlüsse,
+8. Llbrandklappen,
+9. Tragbare Lüfter.
+1. Zusammenstellungen der LüftungSanlage für die Schiffsräume
+2. Lüfter und deren Anschlüsse,
+3. Wasserdichte und wasser- und gasdichte Verschlüsse,
+4. Gasdichte Verschlüsse.
+5. Olbrandklappen.
+III. Vorschrift für die Bedienung der Anlage
+1. Allgemeines,
+2. Lüftung der Lüftungsgruppen und der besonderen Räume,
+3. Gasschutzmaßnahmen.
+IV. Lüftungstafeln
 Unter I. »Allgemeines« ist kurz die Beschreibung der gesamten Anlage sowie der Zweck derselben nach den aufgeführten Unterabteilungen anzugeben.
 Für die unter II. aufgeführten Zusammenstellungen sind die nachstehenden Muster zu benutzen: Dgl. Abschnitt B.
 1. Lüfter und deren Anschlüsse
-Lüfter	Angeschlossene Räume	Nummer der zugehörigen wasserdichten Verschlüsse	Bemerkungen
-Art und Nr. des Lüsters und Aufstellungsort	Angaben	Stündliche Leistung in ms etwa	Bezeichnung	Leckraum-
--eichen	Deck	Spt	Seite	Abtlg.		
+Lüfter Angeschlossene Räume Nummer der zugehörigen wasserdichten Verschlüsse Bemerkungen
+Art und Nr. des Lüsters und Aufstellungsort Angaben Stündliche Leistung in ms etwa Bezeichnung Leckraum-
+-eichen Deck Spt Seite Abtlg.  
 Z.2
-ZwdSpttS—17Bb	Einseitiger Luftein. tritt — 508 mm 0
+ZwdSpttS—17Bb Einseitiger Luftein. tritt — 508 mm 0
 Gesamtpressung 65 mm WS
 Drehrichtung von der Motorseite ge» sehen: link»
 Umdrehungen: 2100/min
 65 PS —4.784 kW
-Danneberg und Quandt mit Eonz Motor	7 000	Tunnel
-Tunnel Ruderraum		Stg
-OPlfd	—1-^-6
+Danneberg und Quandt mit Eonz Motor 7 000 Tunnel
+Tunnel Ruderraum  Stg
+OPlfd —1-^-6
 —1H-6
-—3-r-8	Bb Stb mittsch	I
+—3-r-8 Bb Stb mittsch I
 I
-I		
+I  
  
 
 2. Wasserdichte und wasser- und gasdichte Verschlüsse
-Lfd. Nr.	Nummer deS Verschlusses	Lage des Verschlusses	Angeschlossene Räume	Art de«
-Verschlusses	Bedienung des Verschlusses	
-		Deck	Spt	Seite	Bezeichnung	Leckraum-zeichen			
-1	2.1.1.	UPlfd	6—7	Stb	Handruder		LKl	Gang Spt 7/11 Stb	
-2	Z. 1.2. G.	»	6—7	Bb				.	» 7/11 vb	
+Lfd. Nr. Nummer deS Verschlusses Lage des Verschlusses Angeschlossene Räume Art de«
+Verschlusses Bedienung des Verschlusses 
+  Deck Spt Seite Bezeichnung Leckraum-zeichen   
+1 2.1.1. UPlfd 6—7 Stb Handruder  LKl Gang Spt 7/11 Stb 
+2 Z. 1.2. G. » 6—7 Bb    . » 7/11 vb 
 
 3. Gasdichte Verschlüsse
 Lfd.
-Nr.	Bezeichnung der Verschlüsse	Abgesperrt wird	Bedienung des Ver¬schlusses	Bemerkungen
-	a
-Wasser- und gasdicht	b
-Nur gasdicht			
-				Deck	Spant Seite	
-1	2.1. 3. 6.		Schacht für 2.1.	Obd	28/29 Bb	
-2	A. 2. 6. G.		»	» A. 2.	»	» Stb	
-3		G.A.N.	»	» nat.
-Abluft der O.-Messe	Abd	31/32 mittsch.	
-4	Z. 3. 2. G.		Schacht für 2. 3.	Obd	34/35 Bb	
-5		G. Z. 4.	-	- 2. 4.	»	36/37 Stb	
+Nr. Bezeichnung der Verschlüsse Abgesperrt wird Bedienung des Ver¬schlusses Bemerkungen
+ a
+Wasser- und gasdicht b
+Nur gasdicht   
+    Deck Spant Seite 
+1 2.1. 3. 6.  Schacht für 2.1. Obd 28/29 Bb 
+2 A. 2. 6. G.  » » A. 2. » » Stb 
+3  G.A.N. » » nat.
+Abluft der O.-Messe Abd 31/32 mittsch. 
+4 Z. 3. 2. G.  Schacht für 2. 3. Obd 34/35 Bb 
+5  G. Z. 4. - - 2. 4. » 36/37 Stb 
 4. Olbrandklappen
-Lfd. Nr.	Bezeichnung des Verschlusses	Abgesperrt wird	Lage deS Verschlusses	Bedienung des Verschlusses
-I	A. 20. Nr. 10.0”.	Treibölförderg.-Raum	Zwd Spt 60/61 Bb	am Verschluß
-2	2. 21. Nr. 19.0".	T reibö lfbrderg.-Raum	- » 61/62 Stb	am Verschluß
-3	Olbrandklappe	1.	Motorenraum
-2.	Schacht Bb	» » 74 V, Bb	im Durchgang
-4	Olbrandklappe	1.	Motorenraum
-2.	Schacht Stb	» »73 Stb	im Niedergang
+Lfd. Nr. Bezeichnung des Verschlusses Abgesperrt wird Lage deS Verschlusses Bedienung des Verschlusses
+I A. 20. Nr. 10.0”. Treibölförderg.-Raum Zwd Spt 60/61 Bb am Verschluß
+2 2. 21. Nr. 19.0". T reibö lfbrderg.-Raum - » 61/62 Stb am Verschluß
+3 Olbrandklappe 1. Motorenraum
+2. Schacht Bb » » 74 V, Bb im Durchgang
+4 Olbrandklappe 1. Motorenraum
+2. Schacht Stb » »73 Stb im Niedergang
 Abkürzung
-2.	— Zuluft
+2. — Zuluft
 A. = Abluft
 Z.3. = Zulüfter Nr. 3.
 A.4. = Ablüfter Nr. 4.
@@ -8415,10 +8420,10 @@ Z.3. 14. = Wasserdichter Verschluß Nr. 14 am
 Zulüster 3.
 A. 4.15. = Wasserdichter Verschluß Nr. 15 am
 Ablüfter 4.
-2	.4.1.8. — Wasserdichter Verschluß, zugleich
+2 .4.1.8. — Wasserdichter Verschluß, zugleich
 gasdichter Verschluß
 G.Z. 5.2. — Nur gasdichter Verschluß
-3	N = Zuluft, natürlich
+3 N = Zuluft, natürlich
 AN = Abluft, natürlich
 Stg — Stauungsplan
 Plfd — Plattformdeck
@@ -8467,10 +8472,10 @@ v. Bezeichnungen für die Lüster, für die Verschlüsse und für die Kanäle
 Die Lüster und Verschlüsse für die Schiffsraumlüftung sind wie folgt zu bezeichnen:
 Die Lüfter mit deutschen Ziffern in fortlaufender Reihenfolge von hinten nach vorn, von unten nach oben und von Bb nach Stb, z. B. für Zuluft 21., für Abluft A 2.?
 die Verschlüsse mit deutschen Ziffern von hinten nach vorn, von unten nach oben, an Bb mit geraden, an Stb mit ungeraden Zahlen.
-a)	Bei den wasserdichten Verschlüssen für die künstliche Lüftung beginnt die Rechenfolge für jeden Lüfter von neuem und in den Decks fortlaufend. Die Bezeichnung des zugehörigen Lüfters ist der Zahl des Verschlusses voranzustellen, z. B. 2 3. 14., A. 4. 15.
+a) Bei den wasserdichten Verschlüssen für die künstliche Lüftung beginnt die Rechenfolge für jeden Lüfter von neuem und in den Decks fortlaufend. Die Bezeichnung des zugehörigen Lüfters ist der Zahl des Verschlusses voranzustellen, z. B. 2 3. 14., A. 4. 15.
 Sofern die wasserdichten Lüftungsverschlüsse gleichzeitig Gasverschlüsse sind, ist der Numerierung noch ein »6.« nachzustellen, z.B. 2 5. 16 G., A4. 3 G.
 Die leichten Gasklappen, die nur zum Gasschutz dienen, find gesondert mit der Be¬zeichnung 0. und des angeschloffenen Lüfters zu versehen, z. B. G Z 5, G A 4.
-b)	Die wasserdichten Verschlüsse für natürliche Lüftung erhalten die Zahlenbezeichmmgen in fortlaufender Reihenfolge durch das ganze Schiff unter Voranstellung von
+b) Die wasserdichten Verschlüsse für natürliche Lüftung erhalten die Zahlenbezeichmmgen in fortlaufender Reihenfolge durch das ganze Schiff unter Voranstellung von
 ZN bei natürlicher Zuluft und
 AN bei natürlicher Abluft, z. B. 2 N 2, A N 3
 Sofern diese wasserdichten Verschlüsse gleichzeittg Gasverschlüffe sind, ist ein 6. nachzu- stellen, z.B. ZN2G.,AN3G<
@@ -8492,13 +8497,13 @@ nnd Kle 5634 v. 8. 9. 1930
 verfügten Änderungen.
 Vorschrift*)
 über die Verstärkung und Abstützung von Decksbalken
-1.	Ausfiihrungsarten
+1. Ausfiihrungsarten
 Balken können verstärkt und abgestützt werden:
-1.	durch Gurtungen aus Gegenwinkeln, Gegenbalken und Dlechstreifen,
-2.	durch querlaufende Unterzüge ohne Stützen,
-3.	durch querlaufende Unterzüge mit Stützen,
-4.	durch kurze Zwischenstücke zur Verbindung eines einzelnen belasteten BalkenS mit den benachbarten Balken und
-5.	durch Stützen.
+1. durch Gurtungen aus Gegenwinkeln, Gegenbalken und Dlechstreifen,
+2. durch querlaufende Unterzüge ohne Stützen,
+3. durch querlaufende Unterzüge mit Stützen,
+4. durch kurze Zwischenstücke zur Verbindung eines einzelnen belasteten BalkenS mit den benachbarten Balken und
+5. durch Stützen.
 Für genietete Ausführungen soll die Skizze Nr. 1, für geschweißte Ausführungen die Skizze Nr. la maßgebend sein.
 IL Verwendungsbereich der verschiedenen Ausführungsarten
 ^.Mehrere nebeneinanderliegende Balken
@@ -8507,9 +8512,9 @@ Auch sonst sind die Arten 1 und 2 in der Regel den Arten 3 und 5 vorzuziehen, we
 Müssen Stützen angewendet werden, so ist die Art 3 der Art 5 vorzuziehen.
 Klappbare Stützen sind im allgemeinen zu vermeiden. Wenn sie ausnahmsweise nicht umgangen werden können, sind ihre Einzelheiten dem O. K. M. zur Genehmigung vorzulegen.
 Außerdem ist bei der Wahl der Ausführungsarten zu beachten:
-a)	Bei der Art 2 darf die Gurtung des Unterzuges nur dann mit der Unterkante der Decksbalken bündig liegend angeordnet werden, wenn die Länge des Unterzuges die halbe, nicht unterstützte Balkenlänge nicht überschreitet,' wird die Länge des Unter« zugeS größer, so muß er im allgemeinen mit größerer Steghöhe gebaut werden. Vergleiche Teil IN.
-b)	Bei der Art 3 gilt als ftei tragende Länge im Sinne der Ausführungen unter a die Länge zwischen zwei Stützen.
-e)	Stützen sollen stets bis auf oder dicht neben ein Schott geführt werden.
+a) Bei der Art 2 darf die Gurtung des Unterzuges nur dann mit der Unterkante der Decksbalken bündig liegend angeordnet werden, wenn die Länge des Unterzuges die halbe, nicht unterstützte Balkenlänge nicht überschreitet,' wird die Länge des Unter« zugeS größer, so muß er im allgemeinen mit größerer Steghöhe gebaut werden. Vergleiche Teil IN.
+b) Bei der Art 3 gilt als ftei tragende Länge im Sinne der Ausführungen unter a die Länge zwischen zwei Stützen.
+e) Stützen sollen stets bis auf oder dicht neben ein Schott geführt werden.
 L. Einzelne Dalken
 ES kommen die Arten 1, 4 und 5 in Frage.
 Die Arten I und 4 sind der Art 5 vorzuziehen. Fm übrigen gilt sinngemäß das unter A Gesagte.
@@ -8521,51 +8526,51 @@ Vorbemerkung
 Für die Berechnung von Widerstands« und von Trägheitsmomenten dürfen Decks beplattungen bis zu einer Breite gleich ihrer 40fachen Dicke herangezogen werden.
 Die Beanspruchung soll folgende Werte nicht überschreiten:
 ») bei dauernden Belastungen: für Schiffbaustahl .... 1 500 kg/cm2,
-» Niete	 900	»
-b) bei vorübergehender Belastung durch Wasserdruck: für Schiffbaustahl 2 200 kg/cm’, » Niete	 1200 > .
-1.	Verstärkte Balken
+» Niete  900 »
+b) bei vorübergehender Belastung durch Wasserdruck: für Schiffbaustahl 2 200 kg/cm’, » Niete  1200 > .
+1. Verstärkte Balken
 Gurtplatten und ähnliche Verstärkungen dürfen an den Enden auf nicht mehr als 7» der frei tragenden Länge fortfallen.
 Die Nietabstände für die Verbindung der Balken mit dem Deck und mit der Gurtung dürfen an den Enden auf mindestens 7< der Balkenlänge höchstens 4, dazwischen bis 6 Durch« meffer betragen.
-2.	Unterzüge ohne Stützen
+2. Unterzüge ohne Stützen
 Unterzüge, deren Länge weniger als das 1,3fache der nicht unterstützten Dalkenlänge beträgt, sollen keine Stützen erhalten,
 Ist die Länge des Unterzuges nicht größer als die halbe nicht unterstützte Balkenlänge, so sollen die Unterzüge nach Skizze 1a oder 1b ausgeführt werden.
 Überschreitet die Länge des Unterzuges die halbe nicht unterstützte Balkenlänge, so soll das Trägheitsmoment des Unterzuges gleich sein dem Trägheitsmoment eines BalkenS mal der Anzahl der Balken, die der Unterzug zu tragen hat, mal Li (siehe weiter unten).
 Außerdem soll das Widerstandsmoment des Unterzuges nicht kleiner sein als das Wider« standsmoment eines Balkens mal der Anzahl der Balken, die der Unterzug zu tragen har, mal Liv.
 Werte für Li und Lw
 Länge des Unterzugrs, bezogen auf die nicht unterstützte Balkenlänge
-Li	kw
-0/5 — 0/6 ....	1/0 	 1/75/
-0,6 — 0,7 ....	1/3 	  1,85/
-0,7 — 0,8 ....	1/75	 2,00,
-0,8 — 0/9 ....	2,25	 2,2,
-0,9 — 1,0 ....	3,0		2,4,
-1,0 — 1/1 ....	3Z9 	2,6/
-1,1 —1,2 ....	5,0	  2,8,
-1,2 —1,3 ....	6,3 	3,0.
+Li kw
+0/5 — 0/6 .... 1/0   1/75/
+0,6 — 0,7 .... 1/3    1,85/
+0,7 — 0,8 .... 1/75  2,00,
+0,8 — 0/9 .... 2,25  2,2,
+0,9 — 1,0 .... 3,0  2,4,
+1,0 — 1/1 .... 3Z9  2,6/
+1,1 —1,2 .... 5,0   2,8,
+1,2 —1,3 .... 6,3  3,0.
 Die Skizzen 1s. und 15 sollen als Anhalt dienen.
 Mit den Stützstellen sind die Unterzüge besonders sorgfältig zu verbinden.
-3.	Unterzüge mit Stützen
+3. Unterzüge mit Stützen
 Unterzüge, deren Länge mehr als das 1,3fache der nicht unterstützten Baskenlänge de« »ragen würde, sollen durch Stützen so abgestützt werden, daß ihre freitragende Länge nicht größer als die nicht unterstützte Balkenlänge wird.
 Wenn die freitragende Länge mehrfach unterstützter Unterzüge nicht größer wird als daS O,7fachc der nicht unterstützten Balkenlänge, so soll der Querschnitt des Unterzuges nach Skizze 1s oder lb gewählt werden.
  
 
 Überschreitet die freitragende Länge deS Unterzuges die angegebene Dalkenlänge, so sind Trägheits- und Widerstandsmoment nach den unter 2 gegebenen Formeln zu bestimmen- für ki und kw gelten dann folgende Werte:
 Länge des Unterzuges, bezogen auf die nicht unterstützte Balkenlänge
-ki	kw
-0/7 — 0,8	....	0z35	 1,35/
-0,8 —0,9	....	0/45	  1,45,
-0,9 — 1,0	....	0/60	 1,60.
+ki kw
+0/7 — 0,8 .... 0z35  1,35/
+0,8 —0,9 .... 0/45   1,45,
+0,9 — 1,0 .... 0/60  1,60.
 DaS Trägheits- und das Widerstandsmoment einmal unterstützter Unterzüge, d. h. solcher Unterzöge, die außer an den Enden nur noch in der Mitte ihrer Länge einmal gestützt sind, sollen jedoch mit den unter 2 gegebenen Werten für Ki und Kw bestimmt werden.
-4.	Zwischenstücke
+4. Zwischenstücke
 Zwischenstücke zwischen benachbarten Balken sind wie kurze Unterzüge im Anhalte au Skizze la und 1b auszuführen.
-5.	Stützen
-a)	Stützen sind im allgemeinen so anzuordnen, daß der Abstand der äußersten Stützen von den Enden des Unterzugs nicht größer als % des Abstandes der übrigen Stützen vom einander wird.
-d)	Für Stützen sind nahtlose Flußstahlrohre nach DIN 2448 zu verwenden. Ihr Quer- schnitt soll nicht kleiner fein als 9mal das Widerstandsmoment des zugehörigen Balkens mal der Anzahl der Balken, die die Stütze zu tragen hat, geteilt durch die frei tragende Länge des Balkens zwischen zwei Stützstellen. Das Trägheitsmoment soll nicht kleiner sein als das Widerstandsmoment eines Balkens mal der Anzahl der Balken, die die Stütze zu tragen hat, mal dem Quadrat der Deckshöhe geteilt durch den 400 fachen Betrag der frei tragenden Länge des Balkens zwischen zwei Stützstellen. Die einzusetzenden Größen sind auf 1 cm als Einheit zu beziehen.
-c)	Die Rohre dürfen in besonderen Fällen durch Profile von gleichem Querschnitt und gleichem Trägheitsmoment ersetzt werden.
+5. Stützen
+a) Stützen sind im allgemeinen so anzuordnen, daß der Abstand der äußersten Stützen von den Enden des Unterzugs nicht größer als % des Abstandes der übrigen Stützen vom einander wird.
+d) Für Stützen sind nahtlose Flußstahlrohre nach DIN 2448 zu verwenden. Ihr Quer- schnitt soll nicht kleiner fein als 9mal das Widerstandsmoment des zugehörigen Balkens mal der Anzahl der Balken, die die Stütze zu tragen hat, geteilt durch die frei tragende Länge des Balkens zwischen zwei Stützstellen. Das Trägheitsmoment soll nicht kleiner sein als das Widerstandsmoment eines Balkens mal der Anzahl der Balken, die die Stütze zu tragen hat, mal dem Quadrat der Deckshöhe geteilt durch den 400 fachen Betrag der frei tragenden Länge des Balkens zwischen zwei Stützstellen. Die einzusetzenden Größen sind auf 1 cm als Einheit zu beziehen.
+c) Die Rohre dürfen in besonderen Fällen durch Profile von gleichem Querschnitt und gleichem Trägheitsmoment ersetzt werden.
 ä) Stützen sollen stets auf widerstandsfähigen Bauteilen stehen. Randwinkel von Schotten, auf denen Stützen sichen, sind unter dm Stützenfüßen der Tragkraft der Stützen entsprechend zu vernieten.
-b)	Bei Kammerschotten sind die Stützen zur Gewinnung von Platz und zur Vermeidung von Schmutzecken möglichst an die Schotte anzubauen.
-f)	Köpfe und Füße der Stützen sollen aus Stahlguß hergestellt und im allgemeinen so aufgepaßt werden, daß die Verbindungsniete oder Schrauben entlastet sind. Stehen die Stützen unter Decks, die durch den Gasdruck der Geschütze beansprucht werden, so soll die Festigkeit der Verbindung der Köpfe und Füße mit den Rohren und mit den Unterzögen gleich der halben Tragkraft der Rohre sein. Stehen die Stützen in einem Raume, der über¬flutet werden kann, so soll die Festigkeit der Verbindung der Köpfe und Füße mit den Rohren und mit den Unterzügen gleich der Tragkraft der Rohre sein.
-x)	Wenn Stützen durch mehrere Decks reichen, sind sie möglichst nicht unter die Decks-balken, sondern dicht daneben zu stellen. Köpfe und Füße sind in diesem Falle im Anhalt an die Skizzen 2, 3 und 4 auszuführen und so stark miteinander zu verbinden, daß die Trag¬kraft der Verbindungsmittel mindestens gleich der halben Tragkraft der Rohre ist. Wenn es in besonderen Fällen nicht möglich ist, die Stützen neben die Dccksbalken zu stellen, so dürft» sie ausnahmsweise in die Stegebene der Balken gesetzt werden. Die Füße und Köpft der übereinanderstehenden Stützen sind dann so miteinander zu verbinden, daß der Balkensteg entlastet wird. Einzelzeichnungen sind dem O. K. M. zur Genehmigung vorzulegen.
+b) Bei Kammerschotten sind die Stützen zur Gewinnung von Platz und zur Vermeidung von Schmutzecken möglichst an die Schotte anzubauen.
+f) Köpfe und Füße der Stützen sollen aus Stahlguß hergestellt und im allgemeinen so aufgepaßt werden, daß die Verbindungsniete oder Schrauben entlastet sind. Stehen die Stützen unter Decks, die durch den Gasdruck der Geschütze beansprucht werden, so soll die Festigkeit der Verbindung der Köpfe und Füße mit den Rohren und mit den Unterzögen gleich der halben Tragkraft der Rohre sein. Stehen die Stützen in einem Raume, der über¬flutet werden kann, so soll die Festigkeit der Verbindung der Köpfe und Füße mit den Rohren und mit den Unterzügen gleich der Tragkraft der Rohre sein.
+x) Wenn Stützen durch mehrere Decks reichen, sind sie möglichst nicht unter die Decks-balken, sondern dicht daneben zu stellen. Köpfe und Füße sind in diesem Falle im Anhalt an die Skizzen 2, 3 und 4 auszuführen und so stark miteinander zu verbinden, daß die Trag¬kraft der Verbindungsmittel mindestens gleich der halben Tragkraft der Rohre ist. Wenn es in besonderen Fällen nicht möglich ist, die Stützen neben die Dccksbalken zu stellen, so dürft» sie ausnahmsweise in die Stegebene der Balken gesetzt werden. Die Füße und Köpft der übereinanderstehenden Stützen sind dann so miteinander zu verbinden, daß der Balkensteg entlastet wird. Einzelzeichnungen sind dem O. K. M. zur Genehmigung vorzulegen.
 h) Bei Stützen unter einzelnen Balken dürfen die Köpfe und Füße durch sachgemäße- AuSschmieden der Rohre hergestellt werden.
  
 
@@ -8580,53 +8585,53 @@ Falls später Änderungen in diesen Sätzen eintreten sollten, hat die Marinewer
 Rachweisung
 über Signal« und Salutniunitton für die Aufstellung der Munitionsetats der Schiffe
 Lfde.
-Nr.	Ben en n u n g des Gegenstandes	Linien-schiffe	Kreuzer	Kleine Kreuzer	Kanonen- boote	Fluß« kanonen- boote	Bemerkungen
-I	Achsenstabsignalraketen...	40	40	30	20	20	
-		20*)	20')	15')	10')	10')	i) Zuschlag für
-							Auslandsreisen
-2	Stäbe zu Achsenstabsignal«						
-	rateten		40	40	30	20	20	
-		20')	20')	15')	10')	10')	
-3	Pillenlichte		44	44	33	22	22	
-		22')	22')	16')	11')	11')	
-4	Fackelfeuer	  .		50	50	30	30	30	
-							
-		50')	50')	30')	30')	30')	
-5	Fackelfeuerzünder		55	55	33	33	33	
-							
-		55')	55')	33')	33')	33')	
-6	Rettungsbojenlichte C/88	5	5	5	5	—	
-		5')	5')	5')	5')	—	
-7	Sternsignalpatrone, rote	480	480	480	480	480	
-8	»	, grüne	600	600	600	600	600	
-9	»	, weiße	540	540	540	540	540	
-10	Salutpatronen i)		100	100	100	40	25	") Flaggschiffe 40 mehr
-	Salutkartuschen							
-11		900	1020	1008")	22 56') 44') 56')	56')	’) 5 cm Sai.
-							
-12	Salutkartuschbeutel *)....	90	100	100')	2 6')	6^	*) 10%bttefaH*
-					2 6')		mäßigenSalut- kartuschen
-							
-13	Preßspanböden		900*)	1020*)	1008')')	22') 56')')
-44') 56')	56»)')	*) und 5% 9“' schlag f. Bruch, Zündschraube«
-							
-14	Patronen für bas Cordes«						entsprechend etatisierrn
-	sche Wurfgewehr		50	50	50	50	—	
-1b	Dorschlagplatten f. besgl.	50	50	50	50	—	
+Nr. Ben en n u n g des Gegenstandes Linien-schiffe Kreuzer Kleine Kreuzer Kanonen- boote Fluß« kanonen- boote Bemerkungen
+I Achsenstabsignalraketen... 40 40 30 20 20 
+  20*) 20') 15') 10') 10') i) Zuschlag für
+       Auslandsreisen
+2 Stäbe zu Achsenstabsignal«      
+ rateten  40 40 30 20 20 
+  20') 20') 15') 10') 10') 
+3 Pillenlichte  44 44 33 22 22 
+  22') 22') 16') 11') 11') 
+4 Fackelfeuer   .  50 50 30 30 30 
+       
+  50') 50') 30') 30') 30') 
+5 Fackelfeuerzünder  55 55 33 33 33 
+       
+  55') 55') 33') 33') 33') 
+6 Rettungsbojenlichte C/88 5 5 5 5 — 
+  5') 5') 5') 5') — 
+7 Sternsignalpatrone, rote 480 480 480 480 480 
+8 » , grüne 600 600 600 600 600 
+9 » , weiße 540 540 540 540 540 
+10 Salutpatronen i)  100 100 100 40 25 ") Flaggschiffe 40 mehr
+ Salutkartuschen       
+11  900 1020 1008") 22 56') 44') 56') 56') ’) 5 cm Sai.
+       
+12 Salutkartuschbeutel *).... 90 100 100') 2 6') 6^ *) 10%bttefaH*
+     2 6')  mäßigenSalut- kartuschen
+       
+13 Preßspanböden  900*) 1020*) 1008')') 22') 56')')
+44') 56') 56»)') *) und 5% 9“' schlag f. Bruch, Zündschraube«
+       
+14 Patronen für bas Cordes«      entsprechend etatisierrn
+ sche Wurfgewehr  50 50 50 50 — 
+1b Dorschlagplatten f. besgl. 50 50 50 50 — 
  
 
 Abschrift Nr. 5
 KIBe 16699 v. 8. März 1913.
 Die Schwankungen in den Abständen zwischen Unterkante Turm und Oberkante Barbette
 können ihren Grund haben:
-1.	in Unebenheiten der unteren Fläche des Drehtnrms,
-2.	in Unebenheiten der oberen Fläche der Barbette
+1. in Unebenheiten der unteren Fläche des Drehtnrms,
+2. in Unebenheiten der oberen Fläche der Barbette
 Um von dem Abstande von Turm und Barbette in verschiedenen Turmstellnngen eiy
 genaueres Bild zu erhalten, ist es erforderlich:
-1.	von einem festen Punkte B der oberen Fläche der Barbette in acht gleichmäßig ver-
+1. von einem festen Punkte B der oberen Fläche der Barbette in acht gleichmäßig ver-
 teilten Turmstellungen die Entfernung der unteren Fläche des DrehturmpanzerS zu
 bestimmen,
-2.	von einem festen Punkte v der unteren Fläche des Drehturmpanzers in den ent-
+2. von einem festen Punkte v der unteren Fläche des Drehturmpanzers in den ent-
 sprechenden Turmstellungen wie zu 1. den Abstand der oberen Fläche der Barbette
 zu messen.
 Etwaige Unebenheiten an den Stößen der einzelnen Barbetteplatten sind hierbei zu be-
@@ -8659,74 +8664,74 @@ mit den KI Ah 14458 .18. 9.1914
 und K I Ah 6372 v. 21. 4. 1917
 erlassenen Änderungen.
 Für den Verschluß der Räume auf den Schiffsneubauten sollen folgende Bestimmungen maßgebend sein:
-I.	Nicht verschließbar sollen sein:
+I. Nicht verschließbar sollen sein:
 die Verkehrstüren und -luken in den Decks,
-II.	Räume, deren Türen feste Sicherheitsschlösser oder Sicherheits- Vorhängeschlösser erhalten sollen:
-1.	Die Zugangstüren zu den Kessel-, Maschinen- und Hilfsmaschinenräumen, Leit- und Gefechtsständen (vorausgesetzt, daß die Aufbewahrung der Schlüssel und eine regelmäßige Überwachung der verschlossenen Räume sichergestellt sind),
-2.	Die Kammern der Mitglieder von Verbandsstäben, der Artillerie-, Torpedo- und F. T.- Offiziere, der Adjutanten und der Verwaltungsofsiziere,
-3.	alle Zugänge zu den Kommandotürmen und Geschütztürmen,
-4.	Zentralkommandostelle,
-5.	Artilleriezentrale,
-6.	Achtere Artillerierechenstelle und Reserveschaltstelle,
-7.	Zugänge zum Mittelgang und zu den Seitengängen,
-8.	Entfernungsmeßstände,
-9.	Munitionsräume für Artillerie und Torpedos,
-10.	Munitionsaufzüge,
-11.	Torpedoräume,
-12.	Torpedoluftpumpenräume,
-13.	Räume für Sperrgerät,
-14.	Funkräume und Schallräume,
-15.	Raum für elektrischen Mutterkompaß, Mutterrichtanlage und Regelmaschinen,
-16.	Schreibstuben,
-17.	Kühlräume,
-18.	Arresträume,
-19.	Kantinen und deren Vorratsräume,
-20.	Provianträume,
-21.	Kleiderkammern,
-22.	Wäschetrockenräume,
-23.	Zugänge zu den Wallgängen und Zellen,
-24.	Akkumulatorenräume und Schränke,
+II. Räume, deren Türen feste Sicherheitsschlösser oder Sicherheits- Vorhängeschlösser erhalten sollen:
+1. Die Zugangstüren zu den Kessel-, Maschinen- und Hilfsmaschinenräumen, Leit- und Gefechtsständen (vorausgesetzt, daß die Aufbewahrung der Schlüssel und eine regelmäßige Überwachung der verschlossenen Räume sichergestellt sind),
+2. Die Kammern der Mitglieder von Verbandsstäben, der Artillerie-, Torpedo- und F. T.- Offiziere, der Adjutanten und der Verwaltungsofsiziere,
+3. alle Zugänge zu den Kommandotürmen und Geschütztürmen,
+4. Zentralkommandostelle,
+5. Artilleriezentrale,
+6. Achtere Artillerierechenstelle und Reserveschaltstelle,
+7. Zugänge zum Mittelgang und zu den Seitengängen,
+8. Entfernungsmeßstände,
+9. Munitionsräume für Artillerie und Torpedos,
+10. Munitionsaufzüge,
+11. Torpedoräume,
+12. Torpedoluftpumpenräume,
+13. Räume für Sperrgerät,
+14. Funkräume und Schallräume,
+15. Raum für elektrischen Mutterkompaß, Mutterrichtanlage und Regelmaschinen,
+16. Schreibstuben,
+17. Kühlräume,
+18. Arresträume,
+19. Kantinen und deren Vorratsräume,
+20. Provianträume,
+21. Kleiderkammern,
+22. Wäschetrockenräume,
+23. Zugänge zu den Wallgängen und Zellen,
+24. Akkumulatorenräume und Schränke,
 Sicherheitsschlösser sind, wo irgend möglich, nicht als Vorhängeschlösser, sondern als innenliegende Kastenschlösser auszuführen.
 Wo Vorhängeschlösser verwendet werden müssen (z. B. an wasserdichten Türen und Luken), sind sie besonders kräftig auszuführen und zu befestigen.
-III.	Alle übrigen abgeschotteten Räume, soweit sie nicht unter I und II auf- gesührt sind, sollen einfache feste Schlösser oder, dem Zweck der Räume entsprechend, einfache Vorbänaeschlbller erkalten.
+III. Alle übrigen abgeschotteten Räume, soweit sie nicht unter I und II auf- gesührt sind, sollen einfache feste Schlösser oder, dem Zweck der Räume entsprechend, einfache Vorbänaeschlbller erkalten.
  
 
-IV.	Räume für den Verschluß zollpflichtiger Gegenstände.
+IV. Räume für den Verschluß zollpflichtiger Gegenstände.
 Für die Aufbewahrung zollpflichtiger Gegenstände soll in den nachstehend aufgeführten Räumen ein Teil (mit den vorhandenen Einrichtungen und einigen Regalen für Flaschen) durch Drahtgeflecht und Türen mit Sicherheitsschloß abgetrennt werden:
-1.	Von dem Raum für Admiralsvorräte (einschließlich Weinlast) etwa 10 v. H.,
-2.	von den Räumen für die Vorräte der Kommandanten, Offiziere und Oberfeldwebel (einschließlich der Weinlasten) je 5 v. H.,
-3.	von der Materialienverwalterlaft 2 v. H.
+1. Von dem Raum für Admiralsvorräte (einschließlich Weinlast) etwa 10 v. H.,
+2. von den Räumen für die Vorräte der Kommandanten, Offiziere und Oberfeldwebel (einschließlich der Weinlasten) je 5 v. H.,
+3. von der Materialienverwalterlaft 2 v. H.
 Abschrift Rr. 7
 K IAh 12839 v. 12. September 1914.
 Für das dllrch die Heizvlwärmeeinrichtungen erzeugte Kondensat soll auf den Nellbauien eine besondere Kondensatzelle im Doppelboden vorgesehen werden, um das Kondensat bei voll¬ständiger Olfreiheit im Steffel betrieb weiter verwenden zu können.
 Für die Lage der Zelle sollen die folgenden Gesichtspunkte maßgebend sein:
 a) Die Zelle soll 20 bis 30 ms Inhalt besitzen,' ihre Anordnung in möglichster Nähe eines Olkesselraumes ist erwünscht.
 Da fiir im Bau vorgeschrittene Neubauten der nachträgliche Einbau wasser¬dichter Längs- und Querspanten ohne erhebliche Mehrkosten nicht durchführbar ist, . kann für diese Neubauten eine vorhandene Doppelbodenzelle mit größerem Inhalt gewählt werden. Die Hinweise zu b und c müssen aber erfüllt werden.
-d)	Die Zelle darf nicht unmittelbar an Heiz- oder Treibölbunker angrenzen, damit dje Olfreiheit des Kondensats einwandfrei festgestellt werden kann.
-c)	Sie darf nicht unter oder neben kühl zu haltenden Räumen, noch an Trink- oder j Waschwasserzellen angeordnet werden. Läßt sich diese Forderung ausnahmsweise ; nicht erfüllen, dann soll die Kondensatzelle sorgfältig isoliert werden.
-d)	Zur Weiterverwendung des Kondensats im Keffelbetrieb soll die Zelle einen Nohr- z anschluß an die Saugventilkasten der zur Übernahme von Speisewasser dienenden I Reservespeisepumpen erhalten, damit das Kondensat unmittelbar nach den Speise- i wasserzellen gedrückt werden kann.
+d) Die Zelle darf nicht unmittelbar an Heiz- oder Treibölbunker angrenzen, damit dje Olfreiheit des Kondensats einwandfrei festgestellt werden kann.
+c) Sie darf nicht unter oder neben kühl zu haltenden Räumen, noch an Trink- oder j Waschwasserzellen angeordnet werden. Läßt sich diese Forderung ausnahmsweise ; nicht erfüllen, dann soll die Kondensatzelle sorgfältig isoliert werden.
+d) Zur Weiterverwendung des Kondensats im Keffelbetrieb soll die Zelle einen Nohr- z anschluß an die Saugventilkasten der zur Übernahme von Speisewasser dienenden I Reservespeisepumpen erhalten, damit das Kondensat unmittelbar nach den Speise- i wasserzellen gedrückt werden kann.
 Um ölhaltiges Kondensat entfernen zu können, ist außerdem ein Hilfslenzrohr- j anschluß vorzusehen.
-e)	Wenn irgend möglich, soll die Zelle ein gemeinschaftliches Peil- und Luftrohr > erhalten, das so groß zu wählen ist, daß ein Gefäß oder Heber zur Entnahme von j Kondensatproben eingesührt werben kann und das Offnen der Mannlochdeckel für ; diesen Zweck vermieden wird.
-f)	Die Mannlöcher sollen an möglichst gut zugänglichen Stellen angeordnet werden und je nach ihrer Lage Sülle bis zu etwa 300 mm Höhe erhalten, um das Übertreten ölhaltigen Bilgewassers bei geöffnetem Deckel und bei bewegtem Schiffe (z. B. beim Reinigen der Zelle) zu verhindern.
-g)	Die Zelle ist wie die wasserführenden Zellen zu streichen.
+e) Wenn irgend möglich, soll die Zelle ein gemeinschaftliches Peil- und Luftrohr > erhalten, das so groß zu wählen ist, daß ein Gefäß oder Heber zur Entnahme von j Kondensatproben eingesührt werben kann und das Offnen der Mannlochdeckel für ; diesen Zweck vermieden wird.
+f) Die Mannlöcher sollen an möglichst gut zugänglichen Stellen angeordnet werden und je nach ihrer Lage Sülle bis zu etwa 300 mm Höhe erhalten, um das Übertreten ölhaltigen Bilgewassers bei geöffnetem Deckel und bei bewegtem Schiffe (z. B. beim Reinigen der Zelle) zu verhindern.
+g) Die Zelle ist wie die wasserführenden Zellen zu streichen.
  
 
 Abschrift Nr. 8
 KI Ah 16028/14 v. 2V. Juni 1915
 Vorschrift für die Ausstattung der Schiffe mit Schutzsegeln
-1.	Umfang und allgemeine Anordnung der Schutzsegeleinrichtung
-A.	Linienschiffe, Große und Kleine Kreuzer
-a)	Für den Znlandbienst:
+1. Umfang und allgemeine Anordnung der Schutzsegeleinrichtung
+A. Linienschiffe, Große und Kleine Kreuzer
+a) Für den Znlandbienst:
 Einfache Schutzsegel über den freien Decks einschließlich der Aufbauten, soweit > Wohnräume, Mannschastsräume und Schreibstuben darunter liegen. Über größeren Boots- A gruppen, wo die Schutzsegel beim Bootsmanöver hinderlich sein würden, sind keine Schutzsegel I anzubringen.
-b)	Für den Auslandsdienst:
-1.	Einfache Schutzsegel wie zu a, soweit das Deck Holzbelag besitzt.
-2.	Doppelte Schutzsegel wie zu a, soweit das Deck keinen Holzbelag besitzt.
-3.	Einfache Schutzsegel über den Kommandobrücken, soweit nicht nach 5 2 doppelte Schutzsegel nötig sind.
-4.	Einfache Sonnensegel zum Schutze der Bordwand auf beiden Schiffsseiten im 1 Bereiche der Wohnräume, Mannschaftsräume und Schreibstuben.
-B.	Kanonenboote
-1.	Doppelte Schutzsegel über allen freien Decks einschließlich der Aufbauten und l Kommandobrücken.
-2.	Einfache Seitensonnensegel zum Schutze der Bordwand auf beiden Schiffs-Z feiten im Bereiche der Wohnräume, Mannschaftsräume und Schreibstuben.
-6.	Spezialschiffe
+b) Für den Auslandsdienst:
+1. Einfache Schutzsegel wie zu a, soweit das Deck Holzbelag besitzt.
+2. Doppelte Schutzsegel wie zu a, soweit das Deck keinen Holzbelag besitzt.
+3. Einfache Schutzsegel über den Kommandobrücken, soweit nicht nach 5 2 doppelte Schutzsegel nötig sind.
+4. Einfache Sonnensegel zum Schutze der Bordwand auf beiden Schiffsseiten im 1 Bereiche der Wohnräume, Mannschaftsräume und Schreibstuben.
+B. Kanonenboote
+1. Doppelte Schutzsegel über allen freien Decks einschließlich der Aufbauten und l Kommandobrücken.
+2. Einfache Seitensonnensegel zum Schutze der Bordwand auf beiden Schiffs-Z feiten im Bereiche der Wohnräume, Mannschaftsräume und Schreibstuben.
+6. Spezialschiffe
 Schutzsegel in dem durch die Bauvorschrist nach dem Verwendungszwecke festgesetzten! Umfange.
 U. Lieferung «nd bauliche Ausführung der Schutzsegeleinrtchtuag
 Für Linienschiffe, Große und Kleine Kreuzer sind von der Bauwerst nur die für denz Jnlanddienst vorgeschriehenen Schutzsegel nebst Einrichtungen zu liefern, die Stützen sind | jedoch an den Stellen, wo für den Auslandsdienst doppelte Schutzsegel vorgeschrieben sind,i von vornherein hierfür paffend auszuführen. Die sonstigen für den Auslanbsdienst hinzu- kommenden Teile sollen erst von der das Schiff hierzu ausrüstenden Werst angestrtigt werden. Z
@@ -8737,8 +8742,8 @@ Für die Ausführung der Schutzsegelstützen soll im allgemeinen die Zeichnung d
 Abschrift Nr. 9
 BK Id 1244 vom 1. 5. 1922.
 Stapellauf-Vorschrift für Kriegsschiffsneubauten
-I.	Bauzustand beim Stapellauf
-1.	Allgemeines. Bis zum Stapellaufe sollen alle wesentlichen Längs- und Quer-
+I. Bauzustand beim Stapellauf
+1. Allgemeines. Bis zum Stapellaufe sollen alle wesentlichen Längs- und Quer-
 verbände des Schiffes fertig eingebaut sein und dürfen nach dem Stapellaufe nicht wieder los-
 genommen werben, soweit im folgenden nicht Ausnahmen zugelaffen sind. Solche Verbände j
 müssen jedoch beim Stapellaufe vorläufig eingebaut sein mit Ausnahme von Decksteilen, die
@@ -8748,23 +8753,23 @@ in denen es nicht über die gesamte Schiffslänge durchläuft, sondern an den Sc
 gesetzt ist. Decksbalken der oberen Decks, deren Enden beim Stapellaufe infolge ihrer Lage j
 an Barbettausschnitten u. dgl. noch nicht befestigt sein können, sind durch Hilfsmittel so
 abzufangen, daß die Balken nicht nach oben oder unten ausweichen können.
-2.	Panzerquerschotte. Panzerquerschotte müffen vor dem Stapellaufe eingebaut sein, wenn sie nach dem Stapellaufe nur nach dem Losnehmen von Teilen der Decksbeplattungen in das Schiff eingebracht werden können.
-3.	Kessel. Die Kessel sind im allgemeinen vor dem Stapellaufe einzusetzen, damit der Decksverbanb nicht nachträglich gelöst zu werden braucht. Nur wenn die vorhandenen Öffnungen für die Schornstein- und Luftschächte zum Einsetzen der Kessel ausreichen oder nur Decksteile ausgenommen zu werden brauchen, die in der Verlängerung dieser Öffnungen liegen, ist es gestattet, Kessel nach dem Stapellaufe einzusetzen. In diesem Falle dürfen in der Mitte des Schiffes etwa auf ein Viertel der Schiffslänge Teile von Längsschotten und von Quer¬schotten wieder losgenommen werden, von letzteren jedoch zu gleicher Zeit nicht mehr als von einem. Außerhalb der angegebenen Strecke dürfen Teile von Längsschotten nur dann wieder losgenommen werden, wenn diese Schotte ihrer Bauart und Lage nach zur Aufnahme von Scherkräften nicht geeignet sind.
-4.	Turbinen. Die Einsetzluken für die Turbinen sind nach Möglichkeit so anzu- 1 ordnen, daß sie innerhalb der Flucht von Schornsteinschacht, Luftschacht und Barbettöffnungen j liegen. Bei einer Dreiteilung der Turbinenanlage sind daher nach Möglichkeit die seitlichen Turbinen zuerst durch ein über dem mittleren Turbinenraum liegendes Einsetzluk einzusetzen und seitlich auf ihre Träger zu verschieben. Die Längsschotte dürfen in diesem Falle wieder losgenommen werden, auch wenn sie außerhalb des unter 3. angegebenen Bereiches liegen und J zur Aufnahme von Scherkräften geeignet sind. Eine Zeichnung über die Anordnung der Turbineneinsetzluken ist zur Genehmigung vorzulegen.
-5.	Besondere Maßnahmen. Wenn zum Einsetzen der Turbinen und in Aus¬nahmefällen zum Einsetzen von Kesseln Decksteile außerhalb der Flucht der vorhandenen großen Decksöffnungen nach dem Stapellaufe wieder losgenommen werden müssen, sind besondere ; Vorkehrungen zu treffen, damit der Decksverband voll zur Aufnahme der Beanspruchungen im Seegange herangezogen werden kann. Zu diesem Zwecke ist das Schiff zum Schließen der Decksöffnungen im Schwimmdock zu docken. Das Schwimmdock ist dabei so zu beballasten, , daß die Durchbiegung des Schiffes verschwindet. Die Beballastung des Schwimmdockes ist vorher so zu ermitteln, daß die Belastungskurve mit der Auftriebskurve zur Deckung kommt. Eine zeichnerische Darstellung dieser Ermittelungen ist zur Kenntnis vorzulegen. Die Durch¬biegung des Schiffes ist vor dem Docken durch Tiefgangsmessungen an den Haupt- und Hilfs- ahmings nach vorgenommener Beballastung durch Ausvisieren zu bestimmen. Die Ergebnisse dieser Meffungen sind gleichfalls vorzulegen.
+2. Panzerquerschotte. Panzerquerschotte müffen vor dem Stapellaufe eingebaut sein, wenn sie nach dem Stapellaufe nur nach dem Losnehmen von Teilen der Decksbeplattungen in das Schiff eingebracht werden können.
+3. Kessel. Die Kessel sind im allgemeinen vor dem Stapellaufe einzusetzen, damit der Decksverbanb nicht nachträglich gelöst zu werden braucht. Nur wenn die vorhandenen Öffnungen für die Schornstein- und Luftschächte zum Einsetzen der Kessel ausreichen oder nur Decksteile ausgenommen zu werden brauchen, die in der Verlängerung dieser Öffnungen liegen, ist es gestattet, Kessel nach dem Stapellaufe einzusetzen. In diesem Falle dürfen in der Mitte des Schiffes etwa auf ein Viertel der Schiffslänge Teile von Längsschotten und von Quer¬schotten wieder losgenommen werden, von letzteren jedoch zu gleicher Zeit nicht mehr als von einem. Außerhalb der angegebenen Strecke dürfen Teile von Längsschotten nur dann wieder losgenommen werden, wenn diese Schotte ihrer Bauart und Lage nach zur Aufnahme von Scherkräften nicht geeignet sind.
+4. Turbinen. Die Einsetzluken für die Turbinen sind nach Möglichkeit so anzu- 1 ordnen, daß sie innerhalb der Flucht von Schornsteinschacht, Luftschacht und Barbettöffnungen j liegen. Bei einer Dreiteilung der Turbinenanlage sind daher nach Möglichkeit die seitlichen Turbinen zuerst durch ein über dem mittleren Turbinenraum liegendes Einsetzluk einzusetzen und seitlich auf ihre Träger zu verschieben. Die Längsschotte dürfen in diesem Falle wieder losgenommen werden, auch wenn sie außerhalb des unter 3. angegebenen Bereiches liegen und J zur Aufnahme von Scherkräften geeignet sind. Eine Zeichnung über die Anordnung der Turbineneinsetzluken ist zur Genehmigung vorzulegen.
+5. Besondere Maßnahmen. Wenn zum Einsetzen der Turbinen und in Aus¬nahmefällen zum Einsetzen von Kesseln Decksteile außerhalb der Flucht der vorhandenen großen Decksöffnungen nach dem Stapellaufe wieder losgenommen werden müssen, sind besondere ; Vorkehrungen zu treffen, damit der Decksverband voll zur Aufnahme der Beanspruchungen im Seegange herangezogen werden kann. Zu diesem Zwecke ist das Schiff zum Schließen der Decksöffnungen im Schwimmdock zu docken. Das Schwimmdock ist dabei so zu beballasten, , daß die Durchbiegung des Schiffes verschwindet. Die Beballastung des Schwimmdockes ist vorher so zu ermitteln, daß die Belastungskurve mit der Auftriebskurve zur Deckung kommt. Eine zeichnerische Darstellung dieser Ermittelungen ist zur Kenntnis vorzulegen. Die Durch¬biegung des Schiffes ist vor dem Docken durch Tiefgangsmessungen an den Haupt- und Hilfs- ahmings nach vorgenommener Beballastung durch Ausvisieren zu bestimmen. Die Ergebnisse dieser Meffungen sind gleichfalls vorzulegen.
 Falls ein Schwimmdock nicht zur Verfügung steht, ist das Schiff durch Fluten von Doppelbodenzellen, Wallgangszellen und Schutzbunkern annähernd spannungslos zu machen. Um die Flutmenge nach Möglichkeit einzuschränken, ist das Schließen der Einsetzluken in einem Bauzustande vorzunehmen, bei dem das Längsbiegemoment durch den Einbau schwerer Gewichte, wie Barbetten und Seitenpanzer, bereits verringert worden ist. Die Genehmigung der vor-
  
 
 zunehmenden Maßnahmen ist unter Vorlage einer zeichnerischen Darstellung der Ermittelung der Biegemomente vor und nach dem Fluten einzuholen. Die Durchbiegungen des Schiffes - sind durch Tiefgangsmessungen an den Haupt- und Hilfsahmings vor dem Offnen der Cinsetz- luken, nach dem Offnen der Einsetzluken, aber vor dem Einsetzen der Turbinen, nach dem, Einsetzen der Turbinen und nach dem Schließen der Einsetzluken zu ermitteln. Die Ergeb- ' nisse der Messungen sind vorzulegen.
 Die Einsetzluken im Panzerdeck sind in allen Fällen vor dem Docken bzw. vor dem Fluten zu schließen, weil das Panzerdeck wesentlich zur Aufnahme von Querbeanspruchungen beiträgt, die beim Docken bzw. beim Fluten vergrößert werden. Die Einsetzluken in den oberen Decks brauchen nicht unmittelbar nach dem Einsetzen von Turbinen und Kesseln ■ geschlossen zu werden, sondern können, wenn der Spannungsausgleich durch Fluten von Räumen : herbeigeführt wird, so lange offen gelassen werden, bis durch den Einbau genügender, schwerer * Gewichte die günstigsten Vorbedingungen für das Fluten geschaffen worden sind.
-II.	Maßnahmen für den Stapellauf
-1.	Schlittenanorbnung. Die Schlitten sind, soweit es die besonderen Der-; hältnisse gestatten, so anzuordnen, daß der Stapeldruck durch vorhandene feste Verbände, wie Längsschotte u. dgl., ausgenommen werden kann.
-2.	Außere Abstützung. Die Schlittenabstützung soll die Außenhaut nur an solchen Stellen berühren, die durch Längsspanten, Stützbleche usw. genügend ausgesteift sind. An diesen Stellen sind daher Unterlegstreifen aus Hartholz anzuordnen, so daß der nicht aus¬gesteifte Teil der Außenhaut frei bleibt.
+II. Maßnahmen für den Stapellauf
+1. Schlittenanorbnung. Die Schlitten sind, soweit es die besonderen Der-; hältnisse gestatten, so anzuordnen, daß der Stapeldruck durch vorhandene feste Verbände, wie Längsschotte u. dgl., ausgenommen werden kann.
+2. Außere Abstützung. Die Schlittenabstützung soll die Außenhaut nur an solchen Stellen berühren, die durch Längsspanten, Stützbleche usw. genügend ausgesteift sind. An diesen Stellen sind daher Unterlegstreifen aus Hartholz anzuordnen, so daß der nicht aus¬gesteifte Teil der Außenhaut frei bleibt.
 Es sind geeignete Maßnahmen zu treffen, um den vorderen Läuferdruck beim Aufkanten aufnehmen und auf eine größere Länge übertragen zu können.
 Eine Zeichnung der äußeren Abstützung und der Schlittenanordnung ist zur Kenntnis vorzulegen.
-3.	Innere Aussteifung. Wenn die Schlitten nicht unmittelbar unter genügendl tragfähigen Längsschotten u. dgl. angeordnet werden können, sind Hilfsverstärkungen aus Platten und Winkeln vorzusehen. Die Beanspruchungen des Plattenmaterials sollen babei für ruhende Belastungen 1 500 kg/cm2, die des Nietmaterials 750 kg/cm2, während der Bewegung 2 000 kg/cm2 bzw. 1 000 kg)cm2 nicht überschreiten. Die Verteilung des Stapel-; druckes während des Ablaufes ist dabei unter Berücksichtigung der Elastizität des Schiffes und des Schlittenaufbaues zu ermitteln/ für den Schlittenunterbau ist ein Elastizitätsmodul von 1 000 kg/cm2 anzunehmen, wenn nicht für das zu verwendende Holz wegen seiner ge¬ringeren Zusammendrückbarkeit ein h ö h e r e r Wert eingesetzt werden muß.
+3. Innere Aussteifung. Wenn die Schlitten nicht unmittelbar unter genügendl tragfähigen Längsschotten u. dgl. angeordnet werden können, sind Hilfsverstärkungen aus Platten und Winkeln vorzusehen. Die Beanspruchungen des Plattenmaterials sollen babei für ruhende Belastungen 1 500 kg/cm2, die des Nietmaterials 750 kg/cm2, während der Bewegung 2 000 kg/cm2 bzw. 1 000 kg)cm2 nicht überschreiten. Die Verteilung des Stapel-; druckes während des Ablaufes ist dabei unter Berücksichtigung der Elastizität des Schiffes und des Schlittenaufbaues zu ermitteln/ für den Schlittenunterbau ist ein Elastizitätsmodul von 1 000 kg/cm2 anzunehmen, wenn nicht für das zu verwendende Holz wegen seiner ge¬ringeren Zusammendrückbarkeit ein h ö h e r e r Wert eingesetzt werden muß.
 Eine rechnerische Ermittelung der Beanspruchungen des Schiffes und seiner Verbände und deren Verstärkungen beim Ablauf sowie Zeichnungen der Stapellaufsverstärkungen sind rechtzeittg zur Genehmigung vorzulegen.
-4.	Es muß dafür gesorgt werden, daß das ablaufende Schiff nach dem Freischwimmen rechtzeitig zum Stehen gebracht wird. Je nach der Größe des Schiffes und der verfügbaren? Auslauflänge müssen ausreichend bemessene Anker, Bremsflöße, fest angebrachte Bremsschilde oder andere geeignete Bremseinrichtungen vorgesehen werden. Das ablaufende Schiff durch 1 Schlepper aufzuhalten, wird nur bei kleineren Schiffen oder bei ganz geringer Freischwimm- ‘ geschwindigkeit und großer Auslauflänge als genügend angesehen.
+4. Es muß dafür gesorgt werden, daß das ablaufende Schiff nach dem Freischwimmen rechtzeitig zum Stehen gebracht wird. Je nach der Größe des Schiffes und der verfügbaren? Auslauflänge müssen ausreichend bemessene Anker, Bremsflöße, fest angebrachte Bremsschilde oder andere geeignete Bremseinrichtungen vorgesehen werden. Das ablaufende Schiff durch 1 Schlepper aufzuhalten, wird nur bei kleineren Schiffen oder bei ganz geringer Freischwimm- ‘ geschwindigkeit und großer Auslauflänge als genügend angesehen.
 Spätestens 4 Wochen vor dem Ablauf muß unter Angabe der beim Freischwimmen zu t erwartenden Geschwindigkeit über die in Aussicht genommenen Maßnahmen berichtet werden, z
  
 
@@ -8792,23 +8797,23 @@ Abschrift Nr. 11
 B W n 4791 v. 9. Juni 1927
 Vorschriften für Munitionstransportgeräte
 Für den Entwurf und die Prüfung neuer Munitionstransportgeräte an Bord und für ' die znr Marine gehörigen Küstenbefestigungen (Laufkatzen, Taljen, Wippen, Winden (Lauf- windenj, Munitionstransportschienen und ihre Aufhängung, Geschoß- und Kartuschzangen, Körbe, Gurte, Mulden, Wagen usw.) sowie die Handwinden, Drehscheiben, Weichen, Davits und Kraftrollen mit ihrer Aufhängung gelten folgende Bestimmungen:
-1.	Sicherheit
+1. Sicherheit
 Die Sicherheit soll in allen Konstruktionsteilen mit Rücksicht auf die häufig Vorkommen- den Stöße und Erschütterungen eine mindestens fünffache sein, d. h. alle Teile sind mit einer zulässigen Materialbeanspruchung zu berechnen, die Vz der Bruchfestigkeit des verwendeten Werkstoffes beträgt. Alle Teile, die der Abnutzung im Betriebe unterworfen sind, müssen so stark bemessen sein, daß die fünffache Sicherheit auch dann noch vorhanden ist, wenn die Abnutzung 7,5% des Durchmessers oder 15"/g des Querschnitts oder 20% des Widerstands¬moments beträgt. Sofern an einzelnen Geräten erfahrungsgemäß eine größere als fünffache Sicherheit erforderlich ist, ist die größere Sicherheit auch bei Neuanfertigungen oder Neu- entwürfen beizubehalten. Bei Geräten, bei denen Ketten oder Seile als lasttragende Glieder dienen, ist die fünffache Nennlast entsprechend der Bruchlast der genormten Zugorgane abzu¬stufen. Bei allen Konstruktionen ist Übereinstimmung mit den Vorschriften und Normen der Blockvorschrift nach Möglichkeit anzustreben. Die Festsetzung der fünffachen Sicherheit erfordert neben einer konstruktiv einwandfreien Wirkungsweise der Geräte und einer zweckmäßigen Form¬gebung die Verwendung nur bester Werkstoffe und eine sorgfältige und sachgemäße Arbeitsaus- führung, worauf von allen beteiligten Dienststellen besonders zu achten ist.
-2.	Material
+2. Material
 Für die Wahl der Konstruktionsmaterialien gelten die Bestimmungen der Blockvorschrift, Kettenvorschnft und der Materialvorschriften bzw. die für den Geschützbau maßgebenden Richtlinien für Werkstoffe. Zahnräder, Haspelräder, Laufrollen u. dgl. sind aus S.-M.- Flußeisen, Stahlguß oder Bronze herzustellen. Gußeisen darf nicht verwendet werden. Für nicht tragende und ausschließlich auf Druck beanspruchte Teile, wie Rädergehäuse u. dgl., kann die Zulassung von Gußeisen, Temperguß auf besonderen Antrag genehmigt werden. Alle Materialien müssen nach den Bedingungen der Materialvorschriften und der Kettenvorschrist geprüft und abgenommen sein.
-3.	Ausführung
+3. Ausführung
 Sämtliche hervorstehenden Teile der Geräte sind zum Schutz des Bedienungspersonals gegen Handverlrtzungen gut abzurunben. Hervorstehende Splinte sind nach Möglichkeit zu vermeiden. Nicht eingekapselte Zahnräder, Sperräder o. dgl. sind zu umgittern. Für aus¬reichende Schmierung aller beweglichen Teile ist Sorge zu tragen. Zwischen Seilrollen und Wangen der Blöcke usw. ist ein Zwischenraum von nicht mehr als 1 mm zu lassen, um ein Einklemmen der Seile zu vermeiden. Alle Schrauben und Muttern sind gegen selbsttätiges Lösen zu sickern. Die Achsen der Handkurbeln, Hand- und Kettenräder und die sonstigen Bedienungsgriffe oder Hebel sind auf jeden Fall so stark zu machen, daß sie allen im Dienst auftretenden Beanspruchungen gewachsen sind. Leichte und empfindliche Teile sind so anzu¬ordnen, daß sie gegen Bestoßen geschützt sind. Die Verbindung zwischen Wippen, Winden, Taljen usw. soll außer durch Schäkel nur durch Karabinerhaken mit innenliegender Feder nach dem Muster der Marine erfolgen. Ferner ist in das Gehänge stets ein Wirbel einzu- schakeln, damit die Last gedreht werden kann.
 Auf jeder Laufkatze, Talje oder Winde sowie auf jeder Geschoß- ober Kartuschzange, jeder Geschoßtrage (Korb, Gurt, Mulde) und Kraftrolle ist die Gerätebezeichnung und die höchste zulässige Tragkraft durch ein Schild anzugeben.
  
 
 213
-4.	Abnahme
+4. Abnahme
 Alle neuen oder teilweise erneuerten Munitionstransportgeräte sind vor der Anbordgabe
 bzw. Abgabe an das zuständige Art.-Depot von der Marinewerft bzw. dem Marinearsmal , einer Abnahmeprüfung zu unterziehen. Zusammengesetzte Geräte sind zu zerlegen, auf die | Güte des Materials und der Arbeitsansführung sowie auf Übereinstimmung mit den Zeich- nungen zu besichtigen und nachzumeffen. Hierauf sind alle Geräte einer Probebelastung mit 40°/o der Bruchbelastung = dem zweifachen der Gebrauchslast zu unterziehen, auseinander- zunehmen und zu besichtigen. Bei der Prüfung soll die Belastung möglichst der in Wirklich, keit austretenden ungünstigsten Belastung entsprechen.
 Zeigen sich bei der Prüfungöbelastung Mängel, so ist die Lieferung in Lose von höchstens 20 Stück einzuteilen und aus jeder Lieferung ein Gerät einer Bruchprobe — der fünffachen Gebrauchslast zu unterziehen. Wird die vorgeschriebene Bruchlast nicht erreicht, so ist das betreffende Los zu verwerfen, in zweifelhaften Fällen ist eine Ersatzprobe zulässig.
 Die auf Grund der Prüfungsbelastungen oder Zerreißproben als brauchbar erkannten ’ Geräte werden dadurch gekennzeichnet, daß an gut sichtbarer Stelle der Marinestempel und daneben der Anfangsbuchstabe der abnehmenden Dienststelle sowie Jahreszahl und Monat der Prüfung und Datum der nächsten Prüfung eingeschlagen werden.
 Verworfene Stücke werden mit V gestempelt.
-5.	Prüfungskosten
+5. Prüfungskosten
 Siehe Materialvorschriften der Deutschen Kriegsmarine.
 Abschrift Nr. 12
 XI» 8357/27 v. 1. März 1928.
@@ -8822,7 +8827,7 @@ Mehrkosten und Mehrgewichte dürfen durch diese Änderung nicht entstehen.
 Die Genehmigung der eingangs erwähnten Musterzeichnung wird hiermit aufgehoben.
  
 
-214 Abschriften (Nr. 13, *	14)
+214 Abschriften (Nr. 13, * 14)
 Abschrift Nr. IS
 Kia 2308/28 v. 10. September 1928
 Kia 4156 v. 31.Mai 1933 und
@@ -8831,11 +8836,11 @@ gehe.: Unterbringung von Freiloten bzw. Elektroloten auf
 Schiffen und Fahrzeugen
 Schiffe und Fahrzeuge der Kriegsmarine erhalten an Bord nur noch die Elektrolote in den handelsüblichen Blechbüchsen von 135 nun Durchmesser und 215 nun Länge, ohne nochmalige Verpackung in Holzkisten. Die Elektrolote dürfen stehend oder liegend mit beliebiger Achsen« richtung gelagert werden.
 DaS Jahressoll an Freiloten beträgt:
-Linienschiff und Kreuzer		
-Vermessungsschiffe 	 Stückzahl nach der Eondrranlage
-Torpedoboote 	 zur	Bauvorschrift »S«
-Minensuchboote 		
-Führerboote 	
+Linienschiff und Kreuzer  
+Vermessungsschiffe   Stückzahl nach der Eondrranlage
+Torpedoboote   zur Bauvorschrift »S«
+Minensuchboote   
+Führerboote  
 Die in heimischen Gewässern fahrenden Schiffe sollen höchstens das halbe, Schiffe, die eine Auslandsreise ausführen, möglichst das ganze Jahressoll mitnehmen.
 Freilote sollen Temperaturen über +30° C nicht ausgesetzt und unter gleichen Bedin¬gungen und Vorsichtsmaßnahmen behandelt werden wie sprengkräftige Zündungen (Spreng- kapseln). Die außer dem Bereitschaftsvorrat an Bord zu gebenden Freilote sind auf Schiffen, die Kammern für Torpedozündungen haben, in diesen Kammern mit unterzubringen, soweit noch Platz verfügbar gemacht werden kann, auch dürfen die außerhalb der Artilleriemunitions¬kammern kühl gelegenen Spinde für Artilleriezündungen, aber nicht die Kammern für Artillerie¬munition zur Lagerung von Freiloten herangezogen werden. Für alle anderen Schiffe ist Ent¬scheidung von Fall zu Fall einzuholen.
 Als Bereitschaftsvorrat sind 2 Büchsen zu je 10 Stück Elektrolote unterzubringen, und zwar in einem vorhandenen, verschließbaren Spind- oder Kastenfach im Kartenhaus. Wo dies nicht angängig ist, ist ein Spind auf der Brücke an einem gegen Erwärmung möglichst ge¬schützten Platze aufzustellen. Das Spind ist im Anhalt an die genehmigte Zeichnung -Bereit¬schaftsspind für Freilote« anzufertigen.
@@ -8843,23 +8848,23 @@ Abschrift Nr. 14
 Lid 7502 v. 26.Oktober 1928
 Unterbringung von Rettungsbojenlichten und Rachtschußbojen
 1. Rettungsbojenlichte zu je 4 Stück verpackt in eisernen, wasserdichten Kasten von 390x390x350 mm Außenmaßen sind in folgenden Mengen an Bord zu geben:
-Panzerschiffe und Kreuzer	je	4 Kasten --- 16 Lichte,
-Torpedoboote	  je	2	» »°- 8 »
-Fischereischutz, Peil-, bä.« und U. 2.-Boote, Tender, DermeffungS- und Segelschulschiffe .. je 1	-
+Panzerschiffe und Kreuzer je 4 Kasten --- 16 Lichte,
+Torpedoboote   je 2 » »°- 8 »
+Fischereischutz, Peil-, bä.« und U. 2.-Boote, Tender, DermeffungS- und Segelschulschiffe .. je 1 -
 - 4 - .
  
 
 21 * Abschriften (Str. 14,
 ich
 Abschrift Nr. 15
-2.	Rachtschußbojen zu je 12 Stück verpackt in nicht wasserdichten Hvlzkasten von
+2. Rachtschußbojen zu je 12 Stück verpackt in nicht wasserdichten Hvlzkasten von
 295x330x455 nun Außenmaßen erhalten:
-Panzerschiffe 	2	Kasten - 24 Bojen,
-Alte Kreuzer	 1	»	“12	»
-Neue Kreuzer	4	»	-- 48	»
-Torpedoboote 	2	»	«24	»	.
-3.	Nur je ein Rettungsbojenlicht soll auf den Schiffen in der Nähe der Rettungsboje (bei Torpedo- und ^.-Booten auf der Brücke) jeden Abend in einem wasserdichten Dereitschaftskasten (nach Musterzeichnung) untergebracht/ an die Boje angesteckt und morgens wieder in den Verpackungskasten geborgen werden.
-4.	Da die Rettungsbojenlichte und Nachtschußbojen ohne große Mühe nach Bedarf an die Verbrauchsstellen geholt werden können, ist es nicht unbedingt nötig, die Der- Packungskasten auf freien Decks unterzubringen. Es genügt, wenn sie unter Deck gegen Wasser- und Witterungseinflüsse geschützt und unbefugten Gebrauch gesichert aufbewahrt werden. Erst wenn geeignete Räume nicht verfügbar sind, käme die Aufbewahrung in besonderen Spinden in Frage, die bei Aufstellung auf freien Decks zwar wasserdicht und verschließbar, im übrigen aber wesentlich leichter auszuführen wären als. die von der Marinewerft vorgeschlagenen.
+Panzerschiffe  2 Kasten - 24 Bojen,
+Alte Kreuzer  1 » “12 »
+Neue Kreuzer 4 » -- 48 »
+Torpedoboote  2 » «24 » .
+3. Nur je ein Rettungsbojenlicht soll auf den Schiffen in der Nähe der Rettungsboje (bei Torpedo- und ^.-Booten auf der Brücke) jeden Abend in einem wasserdichten Dereitschaftskasten (nach Musterzeichnung) untergebracht/ an die Boje angesteckt und morgens wieder in den Verpackungskasten geborgen werden.
+4. Da die Rettungsbojenlichte und Nachtschußbojen ohne große Mühe nach Bedarf an die Verbrauchsstellen geholt werden können, ist es nicht unbedingt nötig, die Der- Packungskasten auf freien Decks unterzubringen. Es genügt, wenn sie unter Deck gegen Wasser- und Witterungseinflüsse geschützt und unbefugten Gebrauch gesichert aufbewahrt werden. Erst wenn geeignete Räume nicht verfügbar sind, käme die Aufbewahrung in besonderen Spinden in Frage, die bei Aufstellung auf freien Decks zwar wasserdicht und verschließbar, im übrigen aber wesentlich leichter auszuführen wären als. die von der Marinewerft vorgeschlagenen.
 BWIc3810 v. 1.August 1929.
 Trennung der Artillerie-Munitionsarten bei der Lagerung an Bord
 der Schiffe, Torpedoboote und Fahrzeuge der Kriegsmarine
@@ -8905,7 +8910,7 @@ In den Munition-kammern dürfen Elektrolote nicht untergebracht werben.
 Skizze / zu Ifd. Nr. 3
 Unterzüge und Deckstützen
 Unterzüge
-Skizze 1a	Skjm 1b
+Skizze 1a Skjm 1b
 Querschnitt der Gurtungen
 gleich dem dreifachen Querschnitt des Balkenflansches.
 Schnitt a—b
@@ -8924,7 +8929,7 @@ Skizze 4
 Stützenfuß auf-
 Schnitt g—h einem Schott
 Schott
-«	
+« 
  
 
 Geschweißte Unterzüge und Deckstützen
@@ -8939,13 +8944,13 @@ Fstütze — Querschnitt des Stützenrohres in cm2
 Fschweiße — Querschnitt der Schweiße in cm2
 lD = Lange der auf Druck beanspruchten Schweiße in cm
 ls = Länge der auf Abscheren beanspruchten Schweiße in cm
-k	----- Schenkellänge des Sch weißdreiecks in cm
+k ----- Schenkellänge des Sch weißdreiecks in cm
 d = Dicke der Schweiße in cm
 KD = T500kg/cm2 für Stütze
-Q 0	= 650kg/cm2 für Sch weiße] für wechselnde
-<j$	= 550kgl cm2 für Schweiße} Belastung
+Q 0 = 650kg/cm2 für Sch weiße] für wechselnde
+<j$ = 550kgl cm2 für Schweiße} Belastung
 P — FStütze *K D
-FSchweiße	Qd Ö5
+FSchweiße Qd Ö5
 . Fschw / _ f,Schw_
 d
 In Fällen, in denen der Stützen-$ größer ist als die Breite der Balken- bzw. Unterzuggurtung, ist die Kopf¬form „B“ zu wählen. Es wird freigestellt, die Form „B“ auch in anderen Fällen zu verwenden
