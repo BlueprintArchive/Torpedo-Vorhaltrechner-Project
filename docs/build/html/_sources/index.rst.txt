@@ -17,11 +17,6 @@ Title
 Heading 0
 ##########
 
-*********
-Chapter
-********
-
-
 
 Heading 1
 ============
@@ -49,6 +44,7 @@ Heading 4
    Type IX/_index
    Type XIV/_index
    Bismarck/_index
+   Kreigsmarine/_index
    restructuredtextreference
 
 Indices and tables
