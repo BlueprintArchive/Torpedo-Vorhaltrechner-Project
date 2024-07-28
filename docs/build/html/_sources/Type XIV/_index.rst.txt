@@ -4,7 +4,6 @@ Type XIV
 This ship was a longer range type
 
 .. toctree::
-   
    :maxdepth: 1
    :caption: Contents:
 

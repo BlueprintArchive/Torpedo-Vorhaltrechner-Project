@@ -2,7 +2,6 @@
 Schmutzwasser- und auf
 ======================
 
-
 Vorschrift! 
 Die Ausfertigung I Die Ausfertigung II Die Ausfertigung III Die Ausfertigung IV
 verbleibt beim Schiff, bei der Stationswerft, beim O.K. M.

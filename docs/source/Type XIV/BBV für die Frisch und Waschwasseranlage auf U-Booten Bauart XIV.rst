@@ -89,7 +89,7 @@ I.	Allgemeines.
 II.	Betrieb.
 3)	Handfrischwasserpumpe	 4
 1.	Inbetriebsetzen 	 4
-3) Frischwasserübernahme und abgabe 	 4
+2) Frischwasserübernahme und abgabe 	 4
 b) Fördern	 5
 2.	Abstellen	 5
 ' b)	Handwaschwasserpumpen	 5

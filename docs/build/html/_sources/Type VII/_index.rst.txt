@@ -3,9 +3,7 @@ Type VII
 
 This is the landing page for the VII Series, all types are under this page. What general info is relevant?
 
-
 .. toctree::
-   :numbered:
    :maxdepth: 1
    :caption: Contents:
    
