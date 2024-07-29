@@ -67,7 +67,7 @@ Rough translated books
 
 `A.B.B. 31 <_static/ABB 31.htm>`_
 
-`ABV -S- <_static/ABV_S.htm>`_
+`ABV -S- <_static/ABVS.htm>`_
 
 `ABB <_static/B.B.V.htm>`_
 
