@@ -7,7 +7,7 @@ Allgemeine Bauvorschrift für den Schiffskörper von Schiffen, Booten und Sonder
 
 Berlin 1938
 
- 
+ asdfasdf
 
 
 
