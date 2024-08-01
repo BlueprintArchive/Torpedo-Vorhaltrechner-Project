@@ -7,8 +7,6 @@ Allgemeine Bauvorschrift für den Schiffskörper von Schiffen, Booten und Sonder
 
 Berlin 1938
 
- asdfasdf
-
 
 
 Dies ist ein geheimer Gegenstand im Sinne des § 88 Reichsstrafgesetzbuchs (Fassung vom 24. April 1934). Mißbrauch wird nach den Be¬stimmungen dieses Gesetzes bestrast, sofern nicht andere Strafbestimmungen in Frage kommen.
@@ -19,7 +17,7 @@ ArthNgtrt, ZtaangMtfi
 Nr AM/Ys
  
 
-4. Vorabdruck
+1. Vorabdruck
 Nur für den Dienstgebrauch
 0.LM. Archiv LI
 ^ 690
@@ -3718,10 +3716,12 @@ isoliert werden.
  
 
 3. Kühl raum
+   
 4. Akkumulatoren-
 räume
 .» Räume für Benzin-lagerung
-8. Isolierungen gegen Schall
+
+1. Isolierungen gegen Schall
 a Zwischen-, Kammer-
 wände und Decken
 Der Wärineübergang soll bei einer Temperatur im Kühlraum von — 10" nicht #4 10 kcal/m2 h betragen. Dit Innenwände zur Unterteilung des Kühlguts nach LagertnnpM raturen sollen Isolierungen für einen Temperaturunterschied von 20° C erhalten. Das IsolieM material ist an den Wänden und Decken mit Zintblech zu bekleiden. Nähte und Kopse dM Befestigungsstifte sind sorgfältig zu verlöten.
@@ -3737,6 +3737,7 @@ Gegen Wärmequellen sind die Räume so zu isolieren, daß eine Raumtemperatur w 
 b Funkräume und Fernsprechzellen
 c U. L.-Räume und
 -Horchstelle
+
 Alle an Wohnkammern grenzenden Wände von Räumen mit Geräuschquellen sowie W Umschottungen aller Wohnkammern, für welche eine Schalldämpfung im dienstlichen IntenW erforderlich ist, sind gegen Schallübertragung zu isolieren.
 Die Krankenräume sowie die darin verlegten Lüftungskanäle sind gegen Schallübertr« gung und Temperaturunterschiede besonders gut zu isolieren.
 Der Boden in den Pflichtschutzbehandlungsräumen ist mit Terrazzo zu belegen.
@@ -3747,7 +3748,6 @@ Isolierung von Luftschächten oder -kanälen sowie von Lüfterkam mern gegen Sd^
 In den Zuluftkanälen der Funk- und Horchräume sind Schalldämpfer vorzusehen. ®i 81 54.
 
  
-
 46 . SI25
 ^„ ben Lasten, Vorratsräumen und Hellegats, mit Ausnahme solcher Lasten und ähtz c. Sonstige Wegerung n ^ ^^ deren Inhalt nicht gegen Schwitzwasserbildung oder gegen Temperaturunty schiede geschützt zu werden braucht, sind die an die Außenhaut und an Olbunkerwändc g^ zcnden Wände mit losnchmbarem verzinktem Eisenblech von 1 mm Dicke zu isolieren. Die Wa^ düngen der Lebensmittellasten sind gegen den Wärmeübergang durch Wegerungen zu schütz^ die für eine Lagertemperatur von 10° C zu berechnen sind.
 Bei Lage der Kartoffellast und der Brotlast auf dein freien Deck müffen die Außenwäntu mit 50 rum Alfol — 5 Lagen zu 0,007 mm — gewegert werden.
