@@ -31,31 +31,26 @@ Vorbemerkungen
 ==================================================================================================================================
 
 
-a) Anstrichvorschriften
+a. Anstrichvorschriften
 ------------------------------------------------------------------------------------
 
 1. Die angegebene Anzahl der Anstriche ist im allgemeinen die Mindestzahl; die Zahl der erforderlichen Anstriche hängt im Einzelfall wesentlich von der Zeitdauer de- Baue-, der Deckfähigkeit der Farbe und anderen Bedingungen ab. Die Grundanstriche sind in jedem Falle so oft zu ergänzen oder auSzubesiern, daß eine Rostbildung nicht eintritt. Damit die Deckanstriche in der vorgesehenen Zahl au-reichen, sind sie möglichst erst im letzten Bau¬stadium aufzutragen und im übrigen ebenfalls so weit zu erneuern, daß der Anstrich bei der Ablieferung des Schiffe- sauber ist und gut deckt. Bei Instandsetzung ist eine Erneuerung des Grundanstrichs nur nötig, soweit der alte Grundanstrich schadhaft ist. Im allgemeinen genügt für in Dienst gestellte Schiffe bei Reparaturen die Erneuerung de- vorgeschriebenen Deckanstriches.
 Auf den Anstrich schwer zugänglicher Stellen ist besondere Sorgfalt zu verwenden.
-
 2. Verzinkte Bleche erhalten einen Grundanstrich nur an den Stellen an denen der Zinkbelag, wie besonders im Bereiche von Nietungen und Schweißungen und an den Blech¬rändern, beschädigt ist. Erforderlichenfalls ist dafür der Deckanstrich um einen Anstrich zu erhöhen. Verzinkte Schottbeplattungen in den Bilgen außerhalb der Maschinen- und Kessel- räume erhalten Grund- und Deckanftriche.
 Zinkschutzplatten dürfen nicht angestrichen werden.
-
 3. Blanke Maschinenteile, Bekleidungsbleche au- verzinktem Blech wie z. B. Keffelbekleidungen, Zylinderbekleidungen für Haupt- und Äilfsmaschinen, Turbinenbekleidungen und Bekleidungen für Verdampfer erhalten keinen Anstrich.
 Blanke bewegliche Maschinenteile sind nicht mit Farbe, sondern mit Fett zu konser¬vieren. Wenn in besonderen Fällen der Farbenanstrich nicht entbehrt werden kann, so ist er vor Ablieferung des Schiffes sorgfältig zu entfernen, damit die Teile betriebsfertig gemacht werden können.
 Leiftungsschilder und Teile aus Gummi, z. B. Gummischlauchleitungen in den E-Anlagen dürfen nicht gestrichen werden, da das Aebermalen von Leistungsschildern die Kontrollen des Bedienungspersonals unmöglich macht und Farbanstriche auf Gummi diesen brüchig werden lassen und somit die Betriebssicherheit der Anlagen gefährden.
 Diejenigen Dampfrohre, die gegen Wasser isoliert sind, sind auf der Isolierung l mal mit Reichseinheitsleinölfirnis und 2 mal mit weißer Feuerschutzfarbe darüber 1 mal mit Wasserglas zu streichen. Bei Ausbesserungen ist nur Wasserglas zu streichen. Der erste Anstrich, der nicht bekleideten Teile der Kessel ist erst nach erledigter Druckprobe in der Werkstatt auszuführen.
-
 4. Heiz» und Betriebs'ölbunker sind, wenn sie mit Wasser geprüft werden, nach der Prüfung und nach sorgfältiger Reinigung mit einem Anstrich von Mineralöl (Lecköl) zu versehen. Werden dieselben jedoch mit Oel auf Dichtigkeit geprüft, so ist kein Anstrich erforderlich, da die haftenbleibende Oelschicht für die Konservierung genügt.
-
 5. Holzkelle werden mit einer der Holzart anzupassenden Grundfarbe und Deckfarbe gestrichen oder nur geölt, soweit nicht besondere Lolzlacke oder Politur anzuwenden sind.
-
 6. Zementanstrich.
-Beim Aufbringen des Zements müssen die Wandungen metallisch rein sein, weil sonst der Zement nicht haftet. Es ist deshalb Farbe, Schmutz und Rost durch Schrapen oder Waschen mit starker Sodalauge sorgfältig zu entfernen.
- Die Masse wird in kleinen Mengen von 5 bis 6 kg aus zwei Gewichtsteilen Zement und einem Gewichtsteil Wasser zu einem dünnflüssigem Brei gemischt und mit einem reinen Pinsel sofort nach dem Ansetzen verstrichen. Es ist ein dreimaliger Anstrich nötig, welcher eine 3 bis 4 mm dicke Zemensschicht bildet.
- Für 1 qm Fläche sind ungefähr 6 kg Zement erforderlich.
+  Beim Aufbringen des Zements müssen die Wandungen metallisch rein sein, weil sonst der Zement nicht haftet. Es ist deshalb Farbe, Schmutz und Rost durch Schrapen oder Waschen mit starker Sodalauge sorgfältig zu entfernen.
+  Die Masse wird in kleinen Mengen von 5 bis 6 kg aus zwei Gewichtsteilen Zement und einem Gewichtsteil Wasser zu einem dünnflüssigem Brei gemischt und mit einem reinen Pinsel sofort nach dem Ansetzen verstrichen. Es ist ein dreimaliger Anstrich nötig, welcher eine 3 bis 4 mm dicke Zemensschicht bildet.
+  Für 1 qm Fläche sind ungefähr 6 kg Zement erforderlich.
 
 
-b) Herstellung-Vorschriften
+b. Herstellung-Vorschriften
 ------------------------------------------------------------------------------------
 
 1. Bei der Herstellung von Zinktveißfarben auf Oelbasis kann da- Zinkweiß bis zur Hälfte durch „KronoS-Titanweiß, (Standard T)" ersetzt werden (Klh 5707 v. 28.4.36 — 21 608 —).
@@ -68,7 +63,7 @@ Für die Herstellung der Grundanstriche und der getönten Zinkweißanstriche ist
 4. Oelfarben, die für Außenanstriche an Bord gegeben werden, sind im allgemeinen als Taufeuchtfarben zu liefern, weil bei der Ausführung der Anstriche durch Bord« Personal ein einwandfteier trockener Untergrund nicht immer gewährleistet erscheint.
 (Taufeuchtzusatz kann von der Firma Hallack G.m.b.H., Lalle-Nietleben, bezogen werden).
 
-c) Sonstige Vorschriften 
+c. Sonstige Vorschriften 
 -------------------------------------------------------------------------------------
 .. _Sonstige Vorschriften:
 
@@ -79,13 +74,6 @@ Wafferlinienfarben,
 Fluganit M 616 grau, matt, Al. Bronzelack, Grafitum V C, Agm-Einheitskunstharzfarben, Teersirnis.
 Bei der Zulassung von neuen Farben werden den einschlägigen Firmen bereits ent¬
 sprechende Bezeichnungsvorschriften zugestellt. 
-
-
--4-
-
-B Header
-
-
 
 Zusammensetzung der Farbanstriche
 --------------------------------------------------------
@@ -108,7 +96,7 @@ Rostschutzgrundanstrichc
 --------------------------------------------------------
 10 Bleimennige, Oel- (Bl. >0) Mindestgehalt an Bleisuperoxyd (PbOä) 32,5°/o bei hochdisperser Form;
 3l,5o/o bei disperser Form. mit 20% Schwerspat oder 40% Silcar verschnitten
-  Gehalt an Bindemittel
+Gehalt an Bindemittel
 bis zu 230/0 bei hochdisperser Form;
 18°/o bei disperser Form;
 0—30/8 Verdünnungsmittel. 
@@ -119,7 +107,7 @@ bis zu 230/0 bei hochdisperser Form;
  
 Lfd. I
 Nr. | Sortenbezeichnung Zusammensetzung Vermerk
- Lleberwafferölfarben (außen und innen) |ölf.]
+Lleberwafferölfarben (außen und innen) |ölf.]
 30a Oelfarbe weiß, matt Für Grundanstriche und getönte Deckanstriche Zinkweiß mit 90% ZnQ, 15% Leinölfirnis, 22% Terpentin, 2 -3% Trockner. Anbordgabe nur für Auslandschtff«
 30b Oelfarbe weiß, matt Für Deckanstriche Zinkweiß mit 99% ZnO, 15% Leinölfirnis, 22% Terpentin, 2—3% Trockner. 
 31a Oelfarbe hellgrau Für Grundanstriche Zinkweiß mit 90% ZnO, 0,1% Kienruß, 35—40% Leinölfirnis, 5—10% Trockner und Verdünnungsmittel. 
@@ -140,7 +128,7 @@ Lfd. Nr. Sortenbezetchnung Zusammenstellung Vermerk
 51 Einhettskunstharzfarbe dunkelgrau  
 58 Tarnfarbe, petrolfest (Tp.) Spezialfabrikat siehe Lieferantenliste
 59 Trittfeste Außendecksfarbe (Tr. D.)  *
- Kunstharzfarben (innen) [KL]
+Kunstharzfarben (innen) [KL]
 60 Einheitskunstharzfarbe weiß Spezialfabrikat Kunstharzbasis siehe Lieferantenliste
 61 Einheitskunstharzfarbe hellgrau  *
 62 Einheitskunstharzfarbe dunkelgrau  *
@@ -151,22 +139,17 @@ Lfd. Nr. Sortenbezeichnung Zusammensetzung Vermerk
 67 Kunstharzfarbe grün Spezialfabrikat siehe Lieferantenliste
 68 Kunstharzfarbe schwarz  
 69 Kunstharzfarbe rot * 
-  Spezialanstrich
+Spezialanstrich
 Spezialfabrikat
 siehe Lieferantenliste
 70
 
 71
- 
 
- 
 Zellenfarbe, Leißwasser biÄ 120° (Z 72b)
 Zellenfarde, Trinkwasier (Z 73)
 74
 1!
- 
-
- 
 
 Feuerschuyfarbe elfenbein (F. S. 75b) 
 
@@ -174,39 +157,32 @@ Feuerschuyfarbe elfenbein (F. S. 75b)
 Lackfarbe, säurebeständig, Deckfarbe (Lack 78K) 
 Lfd. I Nr. Sortenbezeichnung Zusammenstellung Vermerk
 79 Lackfarbe kraststoffbeständtg lLack 79) Spezialfabrikat stehe Lieferantenliste ^^
- Leichtmetallanftriche [L. M.]
- 1. innen und außen   
+Leichtmetallanftriche [L. M.]
+
+1. innen und außen   
 80a Leichtmelallfarbe weiß, Grundfarbe Spezialfabrikat Kunstharzbasis  siehe Lieferantenliste
 80b Leichtmetallfarbe weiß, Deckfarbe   
 81a Leichtmetallfarbe hellgrau, Grundfarbe   
 81b Leichtmetallfarbe hellgrau, Deckfarbe   
 82a Leichtmetallfarbe dunkelgrau, Grundfarbe   
 82b Leichtmetallfarbe dunkelgrau, Deckfarbe   
- 1. Leichtmetallgeräteanstriche, Einbrennlack (auch für ^-Anstriche)   
+1. Leichtmetallgeräteanstriche, Einbrennlack (auch für Anstriche)   
+
 83a Leichtmetallfarbe für Grund   
-83b Leichtmetallfarbe für Deckanstrich   *
- 1. Unterwasser   
-84a Leichtmetallfarbe Grundfarbe   *
+83b Leichtmetallfarbe für Deckanstrich
+1. Unterwasser   
+
+84a Leichtmetallfarbe Grundfarbe
 84b Leichtmetallfarbe Zwischenfarbe   
 84c I Leichtmetallfarbe Deckfarbe   
  
 B
 kfd. Nr. Sortenbezeichnung Zusammensetzung Vermerk
- Sonstige Anstriche
+Sonstige Anstriche
 90 Bootslack (Naturharz)  
 91 Bootslack (Kunstharz) Spezialfabrikat siehe Lieferantenliste
 94 Kemickfarbe (Kem.) Spezialfabrikat siehe Lieferantenliste
 95 Wafferfarbe hellgrau (V) 47% Schlemmkreide, 0,5% Frankfurter Schwarz, 1% Ultramarinblau, 6,3% Leinölfirnis, 1,2% Trockner, 2,5% Talg, 41,5% Wasser. 
- 
-
-
-
-
-
-
-
-
-
  
 99
 TeerfirniS (Tf.)
@@ -248,6 +224,7 @@ II. Anforderungen an die einzelnen Spezialanftriche.
 1) Vorbemerkung,
 
 b) Spezial-Rostschutzgrundanstriche Unlerwasseranstriche (Schiffsbodenfarben) Wasserlinienanstriche
+
 | Spezialanstrich für Feuerschiffe Ueberwasseranstriche außenbords Tarnanstriche, petrolfest Trittfeste Außendecksanstriche Jnnenanstriche
 | Bilgen- und Referveölbunkeranstriche
 | Heißwasser- und Kondensatzellenanstriche
@@ -257,7 +234,8 @@ b) Spezial-Rostschutzgrundanstriche Unlerwasseranstriche (Schiffsbodenfarben) Wa
 | Baderaumanstriche
 | Säurebeständige Anstriche
 | Kraftstoffbeständige Anstriche
- Leichtmetall-Außen- und Jnnenanstriche
+
+Leichtmetall-Außen- und Jnnenanstriche
 Leichtmelallgeräteanstriche (auch L-Anstriche)
 Leichtmetall-Unterwasseranstriche
 Bootslacke.
@@ -1076,9 +1054,11 @@ LfV ?lr. ^ a r b 1 o n Farbenbezeichnung
 Lio  Braun, Absatzfarbe n. Rai 8011
 11  Grün, Chromgrün n. Rai 6005
 12  Ockergelb für Masten Ver Feuerschiffe
-n. Kal 1011
-13  Gelb, Chefbootfarbe n. Rai 1003
-  Rostschutzfarbe, weiß, für lnnen und außen Baderaume
+
+n.Kal 1011
+13 Gelb, Chefbootfarbe n. Rai 1003
+Rostschutzfarbe, weiß, für lnnen und außen Baderaume
+
 n. Kal 9002
 15  Elfenbeln, Feuerfchutzfarbe für Maschinen» und Moloren- räume auf U-Boolen n. Rai 9003
 16  Alumlnlumbronze n. Rai 90ü6
@@ -1458,24 +1438,34 @@ Köln
 
  
 A.
-Anforderungen rm den Unterwasseranstrich. .
+Anforderungen rm den Unterwasseranstrich
 --------------------------------------------------------
-  - - 5
+
+
 1. Dio ?Qr>vsn äilrL'sri 1(6lnan harten Bodensatz bilden. Der abgesetzte Farbkörper muß leicht wieder aufrührbar sein.
+
 2. Gute Streich-u. Deckfähigkeit, streichfähig bei Tempe¬raturen von -5° bis +30° C für die Zeit eines Arbeits¬tages von 8 Stunden bei einer relativen Luftfeuchtigkeit von bis zu 90 ^.
+
 3. Gute Haftbarkeit und Schutzwirkung auf nur mit der Stahl bürste entrostetem Eisen.
+
 4. Trockenzeit nicht über 12 Stunden
+
 5. Beständig gegen Seewasser für 1 Jahr.
+
 6. Anwuchshindernd.
+
 7. Möglichst geringer Prozentsatz an devisengebundenen Rohstoffen.
+
 8. Fertiganstrich muß aus 3 bis 4 Farbfilmen bestehen.
+
 9. Zur Untersuchung sind Je 2 kg kostenlos einzueenden.
 Erprobungen: Unterwassererprobung in natürlichem Seewasser mindestens für die Zeit von Mai bis Dezember. 
-G — ^L
+
 
 
 Anforderungen an den WaBserlinienanstrich.
 --------------------------------------------------------
+
 1. Die Farben dürfen keinen harten Bodensatz bilden. Der abgesetzte Farbfilm muß leioht wieder auf rührbar sein.
 2. Gute Streich-u. Deokfähigkeit. Streichfähigkeit bei Temperaturen von -5° bia +30° C für die Zeit eines Ar-beitstages von 8 Stunden bei einer relativen Luftfeuch-tigkeit von bis zu 90 %.
 3. Gute Haftbarkeit und Schutzwirkung auf nur mit der Stahlbürste entrostetem Eisen.
@@ -1485,21 +1475,22 @@ Anforderungen an den WaBserlinienanstrich.
 7. Möglichst geringer Prozentsatz an devisengebundenen Rohstoffen.
 8. Fertiganstrich muß aus 3 bis 4 Farbfilmen bestehen.
 9. Zur Untersuchung sind je 2 kg kostenlos einzusenden.
+
 Erprobung: Im Freiversuchsfeld für die Zeit von Mai bis Dezember. 
-c.
 
 Anforderungen an den überwassoranstrich außenbords.
 --------------------------------------------------------
+
 1. Ols Farben dürfen keinen harten Bodensatz bilden. Der ab- gesetzte Farbkörper muß leicht wieder aufrührbar sein.
 2. Gute Streich-u. Deckfähigkeit, streichfähig bei Tempera¬turen von -5° bis +3O°C für die Zeit eines Arbeitstages von 8 Stunden bei einer relativen Luftfeuchtigkeit von bis zu 90 A.
 3. Gute Haftfähigkeit und Schutzwirkung auf nur mit der Stahl bürste entrostetem Eisen.
 4. Trockenzeit nicht über 12 Stunden.
 5. Ausbesserung alter Ölfarbenanstriche muß möglich sein.
 6. Beständig für 1 Jahr gegen Sprüh-u. Seewasser und starke Sonnenbestrahlung.
-7 .Beständig gegen Abwaschen mit Seewasser, Seifen und schwa¬chen Sodalösungen.
-8.Möglichst geringes Gewicht.
-9«) Freisein von unangenehmen Geirüchen und gefährlichen sowie entzündlichen Dünsten.
-10.Die Verwendung von Benzol ist nicht zulässig. Toluol und Xylol können nur bis zu 20. berechnet auf Bindemittel u. Löser und Verdünner (ohne Pigment) zugesetzt werden.
+7. Beständig gegen Abwaschen mit Seewasser, Seifen und schwa¬chen Sodalösungen.
+8. Möglichst geringes Gewicht.
+9. Freisein von unangenehmen Geirüchen und gefährlichen sowie entzündlichen Dünsten.
+10. Die Verwendung von Benzol ist nicht zulässig. Toluol und Xylol können nur bis zu 20. berechnet auf Bindemittel u. Löser und Verdünner (ohne Pigment) zugesetzt werden.
 11. Keine weißen Flecken durch Seewasser, Regentropfen und andere Stoffe.
 12. Farbe darf nicht kreiden.
 15. Möglichst geringer Prozentsatz an devisengebundenen Roh-stoffen.
@@ -1509,6 +1500,7 @@ Anforderungen an den überwassoranstrich außenbords.
 17. Deokanstriohe müssen mit Grundanstrich aus Bleimennige verträglich sein.
 18. Die einzelnen Farbsohichten dürfen die darunter liegenden nicht anlösen.
 19. Zur Untersuchung sind je. kg kostenlos einzusenden.
+
 Anmerkung: Für Leichtmetalle wird lfd.JTr.3.Gute Haftfähigkeit auf vorher entfettetem nicht aufgerauhtem Leichtme¬tall aller Legierungsgattungen. Lfd.Nr.17. fällt fort.
 /
 7 Anforderungen an den Innenanstrioh.
@@ -1546,12 +1538,14 @@ Anmerkung: Für Leichtmetalle wird lfd.JTr.3.Gute Haftfähigkeit auf vorher entf
 
 16. Zwischen-u. Lackanstrich soll aus gleichen Farbfilmen bestehen.
 
-17 ») Deckanstriche müssen mit Grundanstrich aus Bleimennige verträglich sein.
+17. Deckanstriche müssen mit Grundanstrich aus Bleimennige verträglich sein.
 
 18. Die einzelnen Farbschichten dürfen die darunter liegenden nicht anlösen.
 
-19») Zur Untersuchung sind Je 1 kg kostenlos einzusenden.
+19. Zur Untersuchung sind Je 1 kg kostenlos einzusenden.
+
 Anmerkung: Für Leichtmetalle wird Ifd.Nr.3.Gute Haftfähigkeit auf vorher entfettetem nicht ausgerauhtem Leicht¬metall aller Legierungsgattungen.Lsd.Nr.17)fällt. fort.. 
+
 Anforderungen an Bilgen- und Ölzellenanstriche.
 
 1. Ole Farben dürfen keinen harten Bodensatz bilden. Der abgesetzte Farbkörper muß leicht wieder aufrührbar sein*
@@ -1596,12 +1590,10 @@ Anforderungen an Bilgen- und Ölzellenanstriche.
 8. Frei von unangenehmen Gerüchen, sowie gesundheitsschäd¬lichen und leicht entzündlichen Dünsten.
 
 9. Die Verwendung von Benzol ist nioht zulässig. Toluol u. Xylol dürfen nur bis zu 20 £, berechnet auf Bindemittel und Löser und Verdünner, zugesetzt werden.
-
 10. Für Bilgen möglichst heller Farbton.
-
 11. Fertiganstrich muß aus 2 bis 3 Farbfilmen bestehen«
-
 12. Zur Untersuchung sind je 1 kg der zu prüfenden Farben kostenlos einzusenden. 
+
 
 1. Die Farben dürfen auch nach längerer Lagerung keinen harten Bodensatz bilden. Der abgeeetzte Farbkörper muß leicht wieder aufrührbar sein.
 

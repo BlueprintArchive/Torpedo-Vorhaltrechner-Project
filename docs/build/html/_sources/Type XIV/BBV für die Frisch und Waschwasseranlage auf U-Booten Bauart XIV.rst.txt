@@ -1,6 +1,7 @@
 
+==================================================================
 BBV für die Frisch und Waschwasseranlage auf U-Booten Bauart XIV
-================================================================
+==================================================================
 
 Vorschrift
 Die Ausfertigung I verbleibt beim Schiff die Ausfertigung II bei der Stationswcrft die Ausfertigung III beim O. K. M. die Ausfertigung IV bei der S.M.J.
@@ -312,6 +313,7 @@ IV. Maßnahmen für längere Außerbetriebsetzung.
 
 a)	Handfrkschwasserpumpe.
 b)	Handwaschwasserpumpc.
+
 Pumpen entwässern.
 c)	Frischwasserzellen.
 d)	Waschwass erbehälter.
