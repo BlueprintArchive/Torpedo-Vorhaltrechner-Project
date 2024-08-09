@@ -34,20 +34,17 @@ Vorbemerkungen
 a. Anstrichvorschriften
 ------------------------------------------------------------------------------------
 
-1. Die angegebene Anzahl der Anstriche ist im allgemeinen die Mindestzahl; die Zahl der erforderlichen Anstriche hängt im Einzelfall wesentlich von der Zeitdauer de- Baue-, der Deckfähigkeit der Farbe und anderen Bedingungen ab. Die Grundanstriche sind in jedem Falle so oft zu ergänzen oder auSzubesiern, daß eine Rostbildung nicht eintritt. Damit die Deckanstriche in der vorgesehenen Zahl au-reichen, sind sie möglichst erst im letzten Bau¬stadium aufzutragen und im übrigen ebenfalls so weit zu erneuern, daß der Anstrich bei der Ablieferung des Schiffe- sauber ist und gut deckt. Bei Instandsetzung ist eine Erneuerung des Grundanstrichs nur nötig, soweit der alte Grundanstrich schadhaft ist. Im allgemeinen genügt für in Dienst gestellte Schiffe bei Reparaturen die Erneuerung de- vorgeschriebenen Deckanstriches.
-Auf den Anstrich schwer zugänglicher Stellen ist besondere Sorgfalt zu verwenden.
-2. Verzinkte Bleche erhalten einen Grundanstrich nur an den Stellen an denen der Zinkbelag, wie besonders im Bereiche von Nietungen und Schweißungen und an den Blech¬rändern, beschädigt ist. Erforderlichenfalls ist dafür der Deckanstrich um einen Anstrich zu erhöhen. Verzinkte Schottbeplattungen in den Bilgen außerhalb der Maschinen- und Kessel- räume erhalten Grund- und Deckanftriche.
-Zinkschutzplatten dürfen nicht angestrichen werden.
+1. Die angegebene Anzahl der Anstriche ist im allgemeinen die Mindestzahl; die Zahl der erforderlichen Anstriche hängt im Einzelfall wesentlich von der Zeitdauer de- Baue-, der Deckfähigkeit der Farbe und anderen Bedingungen ab. Die Grundanstriche sind in jedem Falle so oft zu ergänzen oder auSzubesiern, daß eine Rostbildung nicht eintritt. Damit die Deckanstriche in der vorgesehenen Zahl au-reichen, sind sie möglichst erst im letzten Bau¬stadium aufzutragen und im übrigen ebenfalls so weit zu erneuern, daß der Anstrich bei der Ablieferung des Schiffe- sauber ist und gut deckt. Bei Instandsetzung ist eine Erneuerung des Grundanstrichs nur nötig, soweit der alte Grundanstrich schadhaft ist. Im allgemeinen genügt für in Dienst gestellte Schiffe bei Reparaturen die Erneuerung de- vorgeschriebenen Deckanstriches. Auf den Anstrich schwer zugänglicher Stellen ist besondere Sorgfalt zu verwenden.
+2. Verzinkte Bleche erhalten einen Grundanstrich nur an den Stellen an denen der Zinkbelag, wie besonders im Bereiche von Nietungen und Schweißungen und an den Blech¬rändern, beschädigt ist. Erforderlichenfalls ist dafür der Deckanstrich um einen Anstrich zu erhöhen. Verzinkte Schottbeplattungen in den Bilgen außerhalb der Maschinen- und Kessel- räume erhalten Grund- und Deckanftriche. Zinkschutzplatten dürfen nicht angestrichen werden.
+
 3. Blanke Maschinenteile, Bekleidungsbleche au- verzinktem Blech wie z. B. Keffelbekleidungen, Zylinderbekleidungen für Haupt- und Äilfsmaschinen, Turbinenbekleidungen und Bekleidungen für Verdampfer erhalten keinen Anstrich.
 Blanke bewegliche Maschinenteile sind nicht mit Farbe, sondern mit Fett zu konser¬vieren. Wenn in besonderen Fällen der Farbenanstrich nicht entbehrt werden kann, so ist er vor Ablieferung des Schiffes sorgfältig zu entfernen, damit die Teile betriebsfertig gemacht werden können.
 Leiftungsschilder und Teile aus Gummi, z. B. Gummischlauchleitungen in den E-Anlagen dürfen nicht gestrichen werden, da das Aebermalen von Leistungsschildern die Kontrollen des Bedienungspersonals unmöglich macht und Farbanstriche auf Gummi diesen brüchig werden lassen und somit die Betriebssicherheit der Anlagen gefährden.
 Diejenigen Dampfrohre, die gegen Wasser isoliert sind, sind auf der Isolierung l mal mit Reichseinheitsleinölfirnis und 2 mal mit weißer Feuerschutzfarbe darüber 1 mal mit Wasserglas zu streichen. Bei Ausbesserungen ist nur Wasserglas zu streichen. Der erste Anstrich, der nicht bekleideten Teile der Kessel ist erst nach erledigter Druckprobe in der Werkstatt auszuführen.
+
 4. Heiz» und Betriebs'ölbunker sind, wenn sie mit Wasser geprüft werden, nach der Prüfung und nach sorgfältiger Reinigung mit einem Anstrich von Mineralöl (Lecköl) zu versehen. Werden dieselben jedoch mit Oel auf Dichtigkeit geprüft, so ist kein Anstrich erforderlich, da die haftenbleibende Oelschicht für die Konservierung genügt.
 5. Holzkelle werden mit einer der Holzart anzupassenden Grundfarbe und Deckfarbe gestrichen oder nur geölt, soweit nicht besondere Lolzlacke oder Politur anzuwenden sind.
-6. Zementanstrich.
-  Beim Aufbringen des Zements müssen die Wandungen metallisch rein sein, weil sonst der Zement nicht haftet. Es ist deshalb Farbe, Schmutz und Rost durch Schrapen oder Waschen mit starker Sodalauge sorgfältig zu entfernen.
-  Die Masse wird in kleinen Mengen von 5 bis 6 kg aus zwei Gewichtsteilen Zement und einem Gewichtsteil Wasser zu einem dünnflüssigem Brei gemischt und mit einem reinen Pinsel sofort nach dem Ansetzen verstrichen. Es ist ein dreimaliger Anstrich nötig, welcher eine 3 bis 4 mm dicke Zemensschicht bildet.
-  Für 1 qm Fläche sind ungefähr 6 kg Zement erforderlich.
+6. Zementanstrich.Beim Aufbringen des Zements müssen die Wandungen metallisch rein sein, weil sonst der Zement nicht haftet. Es ist deshalb Farbe, Schmutz und Rost durch Schrapen oder Waschen mit starker Sodalauge sorgfältig zu entfernen. Die Masse wird in kleinen Mengen von 5 bis 6 kg aus zwei Gewichtsteilen Zement und einem Gewichtsteil Wasser zu einem dünnflüssigem Brei gemischt und mit einem reinen Pinsel sofort nach dem Ansetzen verstrichen. Es ist ein dreimaliger Anstrich nötig, welcher eine 3 bis 4 mm dicke Zemensschicht bildet. Für 1 qm Fläche sind ungefähr 6 kg Zement erforderlich.
 
 
 b. Herstellung-Vorschriften
@@ -255,15 +252,15 @@ IV. Zulassung zu Marinelieferungen.
 
 V. Abnahme der Lieferungen. 
 --------------------------------------------------------------------
-a) Herstellung:
+a. Herstellung:
 Technische Lieferbedingungen für Spezialsarben haben für dell Abnahmebeamten nur einen begrenzten Wert. Von einer genauen Hcrstelluugsvorschrifl über die prozentuale Zusammensetzung von Bindemittel, Pigment, Löser und Verdünner wird daher abgesehen. Zweckmäßig werden immer Pergleichsversuche der angeborenen bzw. angelieferten Farbe« mit den bisher bewährten und zur Lieferung zugelassenen Anstrichfarbell durchgeführt. Der Wert der Farbe kann nicht nach dem niedrigsten Preis des v o r g e s ch r i e b e n e n An strichstosfes bemessen werden, sondern nur nach dem niedrigsten Preis - bezogen auf die beste Haltbarkeit. Es wird hierdurch sicher » gestellt, daß nur Qualitätserzeugnisse angeboten werden und nicht Farben, die lediglich äußerlich in ihrer allgemeinen Zusammensetzung den gestellten Lieferbedingungen entsprechen. Durch dieses praktische Persuchsverfahren wird die Forschungsarbeit angeregt, die 311t Bereitstellung hochwertiger Erzeugnisse bei der notwendigen Um stellung auf einheimische Rohstoffe erforderlich ist.
 
-b) Zulassung zur Lieferung:
+b. Zulassung zur Lieferung:
 Um die Gewähr für gleichbleibende Beschaffenheit der zur Per Wendung bei der Kriegsmarine zuzulassenden Anstrichfarben 311 haben, wird eine Besichtig llng des Betriebes und insbe¬sondere des Laboratoriums der antragstellenden Firma dllrch die Versuchsabteilung des Schiffbauressorts der .ztriegsmarinewerst Wil helmshaven vorgenommen. Der Bericht über den Besichtigungs- befund wird dem O.K.M. zusammen mit dem Untersuchnngsergebnis der. zulassungswürdigen Farben vorgelegt. 
 
 I. Allgemeines.
 
-c) Bedingungen für die Aufnahme in die Versuchsreihe:
+c. Bedingungen für die Aufnahme in die Versuchsreihe:
 Für die zur Erprobung vorgesehenen Farben sind Fragebogen - Anlage 1 — gewissenhaft und erschöpfend unter Angabe der A r 1 der ev. verwendeten Kunstharze auszufüllen und mit genauer Streich- vorschrift, aus der auch der vorgesehene Verwendungszweck (Innen-, Ueberwasser-, Wasserlinien- oder Unlerwasseranstriche usw.) ersichtlich ist, der Kriegsmarinewerfl Wilhelmshaven zur Vorprüfung einzu¬senden.
 Der Antrag auf Einreihung in die laufende Jahresversuchsreihe ist bis zum 15. Januar eines jeden Jahres bei der Kriegsmarinewerft Wilhelmshaven, Schiffbauressort, zu stellen.
 Gleichzeitig mit der Einreichung des Antrages bei der Kriegs- marinewerft ist Mitteilung an das Oberkommando der Kriegsmarine - Hauptamt Kriegsschiffbau — Berlin W 35, Tirpitzufer Nr. 72/76, zu machen, daß der Antrag bei der Werft gestellt ist.
@@ -274,10 +271,10 @@ Als Fertiganstrich gilt jede Zusammenstellung von Grund- und Deckfarben, also au
 'rlp^tluoiorlsüs
 U3U|MU|9 3JQ UV usSunaagzo/uü II
 
-b) Spezial-R ostschutzgrundanstriche.
+b. Spezial-R ostschutzgrundanstriche.
 -------------------------------------
 
-(Lfd. Nr. 11—13 der Anstrichübersicht).
+(Lfd. Nr. 11—13 der Anstrichübersicht..
 1. Die Farben dürfen auch nach längerer Lagerung keinen harten Bodensatz bilden. Der abgesetzte Farbkörper muß leicht wieder aufzurühren sein.
 
 2. Gute Streich- und Deckfähigkeit; streichfähig bei Temperaturen von —5° bis 4-30° C für die Zeit eines Arbeitstages von 8 Stun den bei einer relativen Luftfeuchtigkeit bis zu 90 %.
@@ -297,7 +294,7 @@ mit allen Ueber- und Unterwasserfarben verträglich sein. Blasen bildung darf un
 
 9. Frei von unangenehmen Gerüchen und gesundheitsschädlichen sowie entzündlichen Dünsten; auch nach Austrocknung.
 
-10. Die Verwendung von Benzol ist nicht zulässig. Toluol und Xvlol dürfen nur bis zu 20 %, berechnet auf Bindemittel und E Löser und Verdünner (ohne Pigment), zugesetzt werden.
+10. Die Verwendung von Benzol ist nicht zulässig. Toluol und Xvlol dürfen nur bis zu 20 %, berechnet auf Bindemittel und E Löser und Verdünner (ohne Pigment., zugesetzt werden.
 
 11. Möglichst geringer Prozentsatz an devisengebundenen Rohstoffen. W12. Möglichste Brandbeständigkeit. Geringste Entwicklung von Rauch- und Brandgasen auch bei hohen, auf längere Zeit einwir kenden Temperaturen. Kein Aufflammen und Weiterbrennen des Farbfilms.
 
@@ -305,7 +302,7 @@ mit allen Ueber- und Unterwasserfarben verträglich sein. Blasen bildung darf un
 
 14. Zur Untersuchung sind je 2 kg der zu prüfenden Farben kosten los einzusenden.
 
-b) Unterwasseranstriche. (Schiffsbodenfarben)
+d. Unterwasseranstriche. (Schiffsbodenfarben)
 -----------------------------------------------
 
 (Lfd. Nr. 20 a bis c und 22 a> bis c der Anstrichübersicht)
@@ -331,8 +328,9 @@ b) Unterwasseranstriche. (Schiffsbodenfarben)
 10. Zur Untersuchung sind je 2 kg der zu prüfenden Farben kostenlos einzusenden.
 Erprobung: Unterwassererprobung, Danertanchnng in natürlichem Seewasser, minbeftens für die Zeit von Mai bis Dezember (34 Wochen) 
 
-b) Wasserlinienanstriche.
+e. Wasserlinienanstriche.
 -------------------------
+
 (Lfd. Nr. 21 3—b und 23 3—b der Anstrichübersicht)
 
 1. Die Farben dürfen auch nach längerer Lagerung keinen harten Bodensatz bilden. Der abgesetzte Farbfilm muß leicht wieder aufrührbar sein.
@@ -356,7 +354,7 @@ b) Wasserlinienanstriche.
 10. Zur Untersuchung sind je 2 Kg der zu prüfenden Farben kostenlos einzusenden.
 Erprobung: Dauertauchung in natürlichem Seewasser, sowie Wechsel tauchung zwischen Flut und Ebbe, mindestens für die Zeit von Mai bis Dezember (34 Wochen). 
 
-b) Spezialanstrich für Feuerschiffe.
+f. Spezialanstrich für Feuerschiffe.
 -----------------------------------------
 
 (Lfd. Nr. 36 der Anstrichübersicht)
@@ -920,8 +918,9 @@ nicht aufgerauhtem Leichtmetall aller Legierungsgattungen.
 Erprobung: Unterwassererprobnng.Dan^ in natürlichem Seewasser,
 mindestens für die Zeit von Mai bis Dezember (34 Wochen). 
 
-b) Bootslacke.
+b. Bootslacke.
 --------------------------------------------------------
+
 (Lfd. Nr. 90 und 91 der Anstrichübersicht)
 
 1. Bootslacke dürfen auch nach längerer Lagerung nicht eindicken.
@@ -960,7 +959,7 @@ Die Prüfung wird nur (abgesehen von besonderen Untersuchun ' gen der Werft) an 
 
 b) Untersuchungsmethoden.
 
-1) Korrosionsproben.
+1. Korrosionsproben.
 Für diesen Versuch sind jeweils 2 Platten aus 5t 34 vorge sehen, die der Praxis entsprechend, mit der Stahlbürste entrostet werden. Leichtmelallfarben, die für alle Aluminium-Legierungs- gattungen brauchbar sein müssen, werden auf vorher entfettete Leichtmelallbleche der verschiedenen Legierungen (Al 99,5 Duralumin 681 B und Hydronalium 3 weich) gestrichen.
 Je nach Verwendungszweck werden die Korrosionsproben entweder
 der Seeluft und Seewasserspritzern, oder
@@ -1131,11 +1130,12 @@ Erprobung: Im Freiversuchsfeld für die Zeit von Mai bis Dezember.
  
 C. I
 Anforderungen an den Uberwasseranstrich außenbords. i
+
 1. Ülv ?Lrvsri Lilr^sn I<s1riON kQi»1:eri 2028:1821:2 d1.I2sn. 2sr sd- I Lvss 1:2^8 ?srdkcjrxvi' mu2 Islalil: wieder aufrührbar sein. I
 2. Gute Streich-u. Deckfähigkeit, streichfähig bei Tempera- I turen von -5° bis +30°C für die Zeit eines Arbeitstages I von 0 Stunden bei einer relativen Luftfeuchtigkeit von bis!
-zu 90 #. I
+  zu 90 #. I
 3. Gute Haftfähigkeit und Schutzwirkung auf nur mit der Stahl4
-bürste entrostetem Eisen. :
+  bürste entrostetem Eisen. :
 4. Trockenzeit nicht über 12 Stunden. !
 5. Ausbesserung alter Ölfarbenanstriche muß möglich sein.
 6. Beständig für 1 Jahr gegen Sprüh-u. Seewasser und starke Sonnenbest rahlung.
@@ -1151,7 +1151,8 @@ bürste entrostetem Eisen. :
 16. Zwisohen-u. Deckanstrich soll aus gleichen Farbfilmen be-stehen.
 17. Deokanstriche müssen mit Grundanstrich aus Bleimennige verträglich sein.
 18. Die einzelnen Farbschlchten dürfen die darunter liegenden nicht anlösen.
-19«) Zur Untersuchung sind je 1 kg kostenlos einzusenden.
+19. Zur Untersuchung sind je 1 kg kostenlos einzusenden.
+
 Anmerkung: Für Leichtmetalle wird lfd.JTr.3.Gute Haftfähigkeit auf vorher entfettetem nicht aufgerauhtem Leichtme¬tall aller Legierungsgattungen. Lfd.Nr.17. fällt fort. 
 D.
 Anforderungen an don Innenanstrioh
@@ -1165,6 +1166,8 @@ Anforderungen an don Innenanstrioh
 8.
 9.
 10.
+
+
 Die Farben dürfen keinen harten Bodensatz bilden. Der ab- gesetzte Farbkörper muß leicht wieder aufzurühren sein« Jute Streich-u. Deckfähigkeit, streichfähig bei Tempera-turen von -5° bis +JO°C für die Zeit eines Arbeitstages von 8 Stunden bei einer relativen Luftfeuchtigkeit von bis zu 90 %.
 Gute Haftfähigkeit und Sohutzwirkung auf nur mit der Stahlbürste entrostetem Eisen.
 Trockenzeit nicht über 12 Stunden.
@@ -1206,7 +1209,9 @@ und Loser und Verdünner zugesetzt werden.
 10. Für Bilgen möglichst heller Farbton.
 11. Pertiganstrich muß aus 2 bis 3 Farbfilmen bestehen.
 12. Zur Untersuchung sind le 1 kg kostenlos einzusenden. 
+
 E.
+
 1. Die Farben dürfen auch nach längerer Lagerung keinen harten Bodensatz bilden. Der abgesetzte Farbkörper muß leicht wieder aufrührbar sein.
 2. Gute Streioh-u. Denkfähigkeitj streichfähig bei Tempe¬raturen von -5° bis +30°C für die Zeit eines Arbeits¬tages von 8 Stunden bei einer relativen Luftfeuchtigkeit von bis zu 90 %.
 3. Gute Haftbarkeit und Schntzwirkung auf nur mit der Stahl bürste entrostetem Eisen.
@@ -1222,6 +1227,7 @@ E.
 
 Die Farben dürfen auch nach längerer Lagerung keinen harten Bodensatz bilden. Der abgesetzte Farbkörper muß leicht wieder aufrührbar sein.
 Gute Streioh-u. Deckfähigkeit; streichfähig bei Tempe¬raturen von -5° bis +30°C für die Zeit eines Arbeits¬tages von 8 Stunden bei einer relativen Luftfeuchtig¬keit von bis zu 90 %.
+
 Z. Gute Haftbarkeit und Sohutzwirkung auf nur mit der 
 1. 01s Farten dürfen keinen h.irten Bodensatz bilden. 3er abgesetzte Farbkörper muß leicht wieder aufrührbar sein.
 2. Gute Streich-u. Deckfähigkeit, streichfähig bei Tempe¬raturen von -5° bis +30° C für die Zeit eines Arbeits¬tages von 3 Stunden bei einer relativen Luftfeuchtig-keit von bis zu 90 ^.
@@ -1234,8 +1240,10 @@ Z. Gute Haftbarkeit und Sohutzwirkung auf nur mit der
 9. Oie Verwendung von Benzol ist nicht zulässig. Toluol und Xylol können nur bis zu 20 A, berechnet auf Binde¬mittel und Löser und Verdünner zugesetzt werden.
 10. Fertiganstrich muß aus 2 bis 3 Farbfilmen bestehen.
 11. Zur Untersuchung sind je 1 kg kostenlos einzusenden.
+
 Anmerkung zu S.) Ausnahmen bedürfen der besonderen Genehmi¬
 gung. 
+
 1. vis Farben dürfen keinen harten Bodensatz bilden. Der ab-gesetzte Farbkörper muß leioht wieder aufrührbar sein.
 2. Gute Streich-u. Deckfähigkeit, streiohfähig bei Tempera-turen von -5° bia +30° C für die Zeit eines Arbeitstages von 6 Stunden bei einer relativen Luftfeuchtigkeit von bis 90 %.
 3. Gute Haftbarkeit und Schutzwirkung auf nur mit der Stahl-bürste entrostetem Eisen.
@@ -1253,6 +1261,7 @@ gung.
 15. Deckanstriche müssen mit Grundanstrich aus Bleimennige verträglich sein.
 16. Die einzelnen Farbschichten dürfen die darunterliegenden nicht anlösen.
 17. Zur Untersuchung sind je 1 kg kostenlos einzusenden. 
+
 Lsd • ::r .<£?£...
 Feuentwurs der A.P.B. Nr. ZI
 Teil A - 1
