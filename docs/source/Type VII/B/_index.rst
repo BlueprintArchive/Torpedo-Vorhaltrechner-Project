@@ -5,4 +5,4 @@ Type VII B
    :maxdepth: 1
    :caption: Contents:
 
-   BBV-1
+   VII B
