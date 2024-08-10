@@ -212,7 +212,7 @@ Allgemeines zu den Gruppen 8130 bis 35 (vertikal-
 Panzerungen)    56
 Gruppe 30 Seitenpanzer   57 
 Gruppe 31 Zitadellpanzer    57 Gruppe 4
-  Waffen,
+Waffen,
 Gruppe 32 Kafemattpanzer   57 A T
 (Wnibhr M3 flbFAnMnitt  ............... 57 
   
@@ -4608,7 +4608,7 @@ Dies gilt für die Leistung der Raumluftkühler in Räumen mit Raumluftkühlung.
 Für die Berechnung der Wärmemengen kommen in Frage: Wärmeabgabe von Maschine Aggregaten, Dampfrohren, Wärmeeinstrahlung von Nachbarräumen, Wärmeabgabe vU Menschen (für eine Person 100 kcal/h, Beleuchtung.
 Maschinen und Aggregate sollen nach Möglichkeit Kühler erhalten, deren Leistung für dit Abführung aller oben genannten Wärmemengen ausreichen soll (siehe MII »Allgemeine Do^ schriften und MII29). Nur in Ausnahmefällen sollen zusätzliche Raumluftkühler vorgesehen werden.
 Räume Stündlicher Luftbedarf Bemerkungen
- Leerer
+Leerer
 Rauminhalt in m* mal Anzahl
 der Personen mal m8 
 A. Räume mit Wäri
@@ -4654,7 +4654,7 @@ u) Außerdem Raumluftkühler.
  
 
 Räume Stündlicher Luftdedarf >
- Leerer
+ 
 Rauminhalt in m8 mal Anzahl 1
 der Personen 1 mal m8
  
@@ -4764,7 +4764,7 @@ Die größte Luftmenge ist zu nehmen.
  
 
 Räume Stündlicher Luftbedarf
- Leerer
+ 
 Rauminhalt in m» mal Anzahl
 der Personen mal m»
 11. Räume für Handwerker   50")
@@ -4841,7 +4841,7 @@ Zu« und Abluft. Unterdrück-
  
 
 Räume Stündlicher Lustdedarf Bemerkungen
- Leerer
+ 
 Nauminhalt in m* mal Anzahl der Personen mal m* 
 15. Taulastm   6 —- Abluft. Zuluft im allgemeinen ^M di« Zugänge.
 16 ÄnnfHiip Pslfttn . .. .. 6—12 w M z Zu- und Abluft.
@@ -4894,7 +4894,7 @@ U) Größter Mannschaftswaschraum.
 Lüftung-arten
 Lüftung-gruppen
 Räume Stündlicher Luftbedarf
- Leerer
+ 
 Rauminhalt in m * mal Anzahl der Personen mal mB
 12. Olübernahmesteüen  20 A Z durch —
 13. Räume für Benzinlagerung ^ Umschaltung 30'") —

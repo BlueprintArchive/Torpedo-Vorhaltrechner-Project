@@ -1,8 +1,10 @@
 
+==================================================================
 BBV für die Frisch und Waschwasseranlage auf U-Booten Bauart XIV
-================================================================
+==================================================================
 
 Vorschrift
+
 Die Ausfertigung I verbleibt beim Schiff die Ausfertigung II bei der Stationswcrft die Ausfertigung III beim O. K. M. die Ausfertigung IV bei der S.M.J.
 Während der Jndicnsthaltung nach der Entlassung des Schiffes aus dem Erprobungs- Verhältnis notwendig werdende Änderungen oder Ergänzungen der Beschreibungen und Betriebsvorschriften sind vom Schiffskommando bei der S.M.J. zu beantragen. Diese Anträge sind zur fachlichen Stellungnahme über die zuständige Kriegs¬marinewerft zu leiten. Die S.M.J. veranlaßt die Berichtigung durch die zuständige Kriegsmarinewerft.
 Bach jeder Hauptinstandsetzung in der Heimat sind von den Kriegsmarinewerften die Ausfertigungen UV. bei Zerstörern uff. die Ausfertigungen I aller Boote der Klasse zu berichtigen. Die bei anderen Dienststellen befindlichen Nebenausfertigungen werden von diesen Kommandos nach der von den Kriegsmarinewerften terminmäßig anzufordernden Ausfertigung II berichtigt. Dabei sind alle zu berichtigenden Stellen durch Ausführung der Seitenzahlen in dem Vordruck »Änderungen und Ergän¬zungen" genau zu bezeichnen.
@@ -312,6 +314,7 @@ IV. Maßnahmen für längere Außerbetriebsetzung.
 
 a)	Handfrkschwasserpumpe.
 b)	Handwaschwasserpumpc.
+
 Pumpen entwässern.
 c)	Frischwasserzellen.
 d)	Waschwass erbehälter.

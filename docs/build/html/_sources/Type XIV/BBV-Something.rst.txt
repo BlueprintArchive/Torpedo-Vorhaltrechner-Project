@@ -210,7 +210,7 @@ Flutanlage	15	atü
 Schmutzwasseranlage	0,5	atü
 Kalkmilchspülanlage	0,5	atü
 2)	Lichte Nennweiten:
-	Bodenventil in der Zentrale:	625 mm 0
+Bodenventil in der Zentrale:	625 mm 0
 	Flutventil Untertriebzelle:	-	40 mm 0
 Fluten Torpedozelle 1 u. 2 im Hecktorpedoraum: 70mm 0
 Fluten Torpedozelle 3 u. 4 im Bugtorpedoraum: 100 mm 0
